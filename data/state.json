@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792171570
+   "ok": 1792173623
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792171579
+   "ok": 1792173628
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792171579
+   "ok": 1792173629
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792171564
+   "ok": 1792173614
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792171566
+   "ok": 1792173616
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792171568
+   "ok": 1792173622
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792171570
+   "err_ts": 1792173623
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792171570
+   "ok": 1792173623
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792171560
+   "ok": 1792173607
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792171560
+   "ok": 1792173607
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792171572
+   "ok": 1792173624
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792171578
+   "ok": 1792173628
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792171578
+   "ok": 1792173628
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792171575
+   "ok": 1792173628
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792171558
+   "ok": 1792173600
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792171568
+   "ok": 1792173621
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792171570
+   "ok": 1792173623
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792171567,
-   "ok": 1792169717
+   "err": "",
+   "ok": 1792173621
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792171575
+   "ok": 1792173628
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792171581
+   "ok": 1792173630
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792171580
+   "ok": 1792173630
   },
   "Родной звук (TG)": {
-   "count": 9,
+   "count": 10,
    "err": "",
-   "ok": 1792171582
+   "ok": 1792173631
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792171582
+   "ok": 1792173631
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792171583
+   "ok": 1792173635
   }
  },
  "heartbeat": "2026-10-16",
@@ -194,6 +193,46 @@
    "title": "SNAYX have announced debut album ‘Greed’ with new single ‘Gold Star’",
    "ts": 1792151157.2465985,
    "why": "новый дебютный альбом и сингл, инди-звучание"
+  },
+  "284d60fb998b": {
+   "also": [],
+   "artist": "Exploding Flowers",
+   "fit": 4,
+   "id": "284d60fb998b",
+   "kind": "album",
+   "link": "https://stereogum.com/2514781/stream-la-power-pop-exploding-flowers-new-album-alphabet-window/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 23,
+   "release": "Alphabet Window",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Stream LA Power-Pop Band Exploding Flowers’ New Album <em>Alphabet Window</em> appeared first on Stereogum .",
+   "summary_ru": "Лос-анджелесская power-pop группа Exploding Flowers выпустила новый альбом Alphabet Window, который доступен для стриминга. Подробностей о лейбле и составе в записи нет.",
+   "title": "Stream LA Power-Pop Band Exploding Flowers’ New Album Alphabet Window",
+   "ts": 1792173606.7383308,
+   "why": "Новый инди-поп альбом, соседний жанр к дрим-попу"
+  },
+  "340518293301": {
+   "also": [],
+   "artist": "Tierra Whack",
+   "fit": 2,
+   "id": "340518293301",
+   "kind": "album",
+   "link": "https://stereogum.com/2514820/tierra-whack-shares-seven-new-songs-on-deluxe-whacks-museum/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 22,
+   "release": "Whack's Museum (Deluxe)",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Tierra Whack Shares Seven New Songs On Deluxe <em>Whack’s Museum</em> appeared first on Stereogum .",
+   "summary_ru": "Tierra Whack выпустила делюкс-версию альбома Whack's Museum с семью новыми песнями. Текст записи не содержит подробностей о звучании и лейбле.",
+   "title": "Tierra Whack Shares Seven New Songs On Deluxe Whack’s Museum",
+   "ts": 1792173605.0382996,
+   "why": "хип-хоп/R&B-артистка, не в жанрах 3L"
   },
   "3f44a8b2e63c": {
    "also": [],
@@ -417,6 +456,7 @@
   "0598a5437ecb": 1792140455.0717537,
   "059e088393a3": 1792140448.2248957,
   "05c74dc89c99": 1792140449.844748,
+  "05ecdda2dedc": 1792173631.7756095,
   "0695d8fe5478": 1792140448.2248847,
   "06b35e5c1641": 1792140449.7097294,
   "0772f91cbec9": 1792140455.9615893,
@@ -491,6 +531,7 @@
   "26a49991fc34": 1792140455.0717552,
   "2738cc8df0ad": 1792140455.9615848,
   "279cd8a265c5": 1792140455.0717537,
+  "284d60fb998b": 1792173605.5963154,
   "29aa4ef1cd6f": 1792140455.9615905,
   "2a223c0091ca": 1792140455.0717492,
   "2afa8e117716": 1792140448.224893,
@@ -514,6 +555,7 @@
   "322784ec836b": 1792140456.3847504,
   "33cd4ff17de2": 1792140446.1809144,
   "33de0a385afa": 1792140455.0289197,
+  "340518293301": 1792173603.7228317,
   "341df12a5566": 1792140455.9615912,
   "34369501961e": 1792140446.1809082,
   "34bc062af6d5": 1792140455.0289285,
@@ -613,6 +655,7 @@
   "56f2b400c544": 1792140446.1809154,
   "575aad530b3a": 1792140449.8447511,
   "579d6616ea5d": 1792140446.3270504,
+  "582655e58227": 1792173600.5714204,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
   "59022366ba53": 1792140446.1809075,
