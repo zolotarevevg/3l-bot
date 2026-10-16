@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792169721
+   "ok": 1792171570
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792169728
+   "ok": 1792171579
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792169728
+   "ok": 1792171579
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792169705
+   "ok": 1792171564
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792169709
+   "ok": 1792171566
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792169720
+   "ok": 1792171568
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792169721
+   "err_ts": 1792171570
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792169721
+   "ok": 1792171570
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792169699
+   "ok": 1792171560
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792169699
+   "ok": 1792171560
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792169723
+   "ok": 1792171572
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792169727
+   "ok": 1792171578
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792169727
+   "ok": 1792171578
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792169727
+   "ok": 1792171575
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792169690
+   "ok": 1792171558
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792169718
+   "ok": 1792171568
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792169721
+   "ok": 1792171570
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792171567,
    "ok": 1792169717
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792169727
+   "ok": 1792171575
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792169730
+   "ok": 1792171581
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792169729
+   "ok": 1792171580
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792169731
+   "ok": 1792171582
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792169730
+   "ok": 1792171582
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792169735
+   "ok": 1792171583
   }
  },
  "heartbeat": "2026-10-16",
@@ -377,6 +378,26 @@
    "title": "Florrie has released her second album, ‘Magic For a While’",
    "ts": 1792156058.5868042,
    "why": "новый альбом, синти-поп и дрим-поп в духе 3L"
+  },
+  "febd0470b7af": {
+   "also": [],
+   "artist": "SOB x RBE",
+   "fit": 2,
+   "id": "febd0470b7af",
+   "kind": "single",
+   "link": "https://stereogum.com/2514813/sob-x-rbe-announce-new-album-from-the-land-hear-someone/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 21,
+   "release": "From The Land",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post SOB x RBE Announce New Album <em>From The Land</em>: Hear “Someone” appeared first on Stereogum .",
+   "summary_ru": "Группа SOB x RBE анонсировала новый альбом From The Land и выпустила трек «Someone». Текст записи короткий, подробностей о лейбле и составе нет.",
+   "title": "SOB x RBE Announce New Album From The Land: Hear “Someone”",
+   "ts": 1792171559.7200608,
+   "why": "хип-хоп, не в жанрах 3L"
   }
  },
  "playlists": {},
@@ -881,6 +902,7 @@
   "d0ea8c12ae83": 1792140447.2519577,
   "d11eefaf32fc": 1792140449.709729,
   "d1707b58d43e": 1792140448.2248914,
+  "d2536a491210": 1792171575.8956566,
   "d25a928aa0df": 1792140447.2519505,
   "d301e05295c7": 1792140455.9615839,
   "d3765b0001fb": 1792140455.0289202,
@@ -986,6 +1008,7 @@
   "fbfbbe61515f": 1792140451.9265761,
   "fd65f9e97e46": 1792140455.9615855,
   "fe1d3fc30a4f": 1792140448.2248933,
+  "febd0470b7af": 1792171558.4127772,
   "ff2bf818309b": 1792140455.961585,
   "ffa272aa2536": 1792140455.028928,
   "ffae539f8a50": 1792140419.6649108
