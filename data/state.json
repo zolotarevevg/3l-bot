@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792185926
+   "ok": 1792187909
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792185933
+   "ok": 1792187914
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792185933
+   "ok": 1792187915
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792185921
+   "ok": 1792187899
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792185923
+   "ok": 1792187900
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792185925
+   "ok": 1792187904
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792185927
+   "err_ts": 1792187909
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792185927
+   "ok": 1792187909
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792185915
+   "ok": 1792187891
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792185916
+   "ok": 1792187891
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792185929
+   "ok": 1792187911
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792185933
+   "ok": 1792187914
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792185932
+   "ok": 1792187914
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792185932
+   "ok": 1792187914
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792185914
+   "ok": 1792187891
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792185924
+   "ok": 1792187904
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792185926
+   "ok": 1792187905
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792185924
+   "ok": 1792187904
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792185932
+   "ok": 1792187914
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792185935
+   "ok": 1792187916
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792185934
+   "ok": 1792187915
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792185937
+   "ok": 1792187917
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792185936
+   "ok": 1792187917
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792185938
+   "ok": 1792187918
   }
  },
  "heartbeat": "2026-10-16",
@@ -213,6 +213,26 @@
    "title": "SNAYX have announced debut album ‘Greed’ with new single ‘Gold Star’",
    "ts": 1792151157.2465985,
    "why": "новый дебютный альбом и сингл, инди-звучание"
+  },
+  "25806c492e25": {
+   "also": [],
+   "artist": "Kate Nash",
+   "fit": 4,
+   "id": "25806c492e25",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/kate_nash_tackles_freedom_of_speech_in_new_song_freedom_of_me",
+   "listen": {},
+   "major": false,
+   "msg_id": 25,
+   "release": "Freedom of Me",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "British singer/songwriter/actress Kate Nash is releasing a new album, Cailín, on January 22, 2027 via Kill Rock Stars. Now she has shared another single from it, “Freedom of Me,” via a music video. The song tackles freedom of speech.",
+   "summary_ru": "Кейт Нэш выпустит альбом Cailín 22 января 2027 года на лейбле Kill Rock Stars. Из него вышел новый сингл «Freedom of Me» с клипом, песня посвящена свободе слова.",
+   "title": "Kate Nash Tackles Freedom of Speech in New Song “Freedom of Me”",
+   "ts": 1792187908.6268144,
+   "why": "новый сингл и анонс альбома, инди-поп близкий к нулевым"
   },
   "284d60fb998b": {
    "also": [],
@@ -547,6 +567,7 @@
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
   "253410846421": 1792151154.5883605,
+  "25806c492e25": 1792187905.6770828,
   "26024080e4af": 1792140455.961591,
   "262a03135c9f": 1792140448.2248929,
   "26a49991fc34": 1792140455.0717552,
