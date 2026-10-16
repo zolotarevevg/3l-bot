@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792152853
+   "ok": 1792156063
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792152859
+   "ok": 1792156070
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792152859
+   "ok": 1792156076
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792152836
+   "ok": 1792156046
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792152844
+   "ok": 1792156051
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792152846
+   "ok": 1792156053
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792152854
+   "err_ts": 1792156063
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792152854
+   "ok": 1792156063
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,106 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792152825
+   "ok": 1792156035
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792152829
+   "ok": 1792156038
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792152855
+   "ok": 1792156065
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792152859
+   "ok": 1792156070
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792152858
+   "ok": 1792156070
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792152858
+   "ok": 1792156068
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792152824
+   "ok": 1792156032
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792152845
+   "ok": 1792156051
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792152850
+   "ok": 1792156062
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792152845
+   "ok": 1792156051
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792152858
+   "ok": 1792156068
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792152864
+   "ok": 1792156078
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792152860
+   "ok": 1792156077
   },
   "Родной звук (TG)": {
-   "count": 7,
+   "count": 8,
    "err": "",
-   "ok": 1792152866
+   "ok": 1792156082
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792152865
+   "ok": 1792156079
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792152867
+   "ok": 1792156086
   }
  },
  "heartbeat": "2026-10-16",
  "items": {
+  "2132cb7b53af": {
+   "also": [],
+   "artist": "Olivia Rodrigo",
+   "fit": 2,
+   "id": "2132cb7b53af",
+   "kind": "single",
+   "link": "https://stereogum.com/2514731/chappell-roan-joins-olivia-rodrigo-on-expectations-remix-watch-their-kitschy-video-feat-david-byrne/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 12,
+   "release": "Expectations (Remix)",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Chappell Roan Joins Olivia Rodrigo On “Expectations” Remix: Watch Their Kitschy Video Feat. David Byrne appeared first on Stereogum .",
+   "summary_ru": "Вышел ремикс трека «Expectations» Оливии Родриго с участием Чаппелл Роан и Дэвида Бирна, вместе с видео. Редакция описывает клип как кичевый.",
+   "title": "Chappell Roan Joins Olivia Rodrigo On “Expectations” Remix: Watch Their Kitschy Video Feat. David Byrne",
+   "ts": 1792156034.8465784,
+   "why": "мейнстрим-поп, не любимый артист 3L"
+  },
   "253410846421": {
    "also": [],
    "artist": "SNAYX",
@@ -193,6 +213,46 @@
    "title": "jo from school Shares New Single “Living Room”",
    "ts": 1792146710.4511611,
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
+  },
+  "99c9b82bf452": {
+   "also": [],
+   "artist": "Good Health Good Wealth",
+   "fit": 4,
+   "id": "99c9b82bf452",
+   "kind": "album",
+   "link": "https://readdork.com/news/good-health-good-wealth-the-disco-never-ends-album-d987786807",
+   "listen": {},
+   "major": false,
+   "msg_id": 13,
+   "release": "The Disco Never Ends",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Good Health Good Wealth’s debut studio album ‘The Disco Never Ends’ is out now, alongside closing track ‘Call My Mates Up’.",
+   "summary_ru": "Good Health Good Wealth выпустили дебютный студийный альбом The Disco Never Ends. Вместе с ним вышел закрывающий трек Call My Mates Up.",
+   "title": "Good Health Good Wealth have released debut album ‘The Disco Never Ends’",
+   "ts": 1792156055.4170372,
+   "why": "новый дебютный альбом инди-группы, жанр близок 3L"
+  },
+  "c996c546aeee": {
+   "also": [],
+   "artist": "Florrie",
+   "fit": 4,
+   "id": "c996c546aeee",
+   "kind": "album",
+   "link": "https://readdork.com/news/florrie-magic-for-a-while-album-release-f9dfd4c571",
+   "listen": {},
+   "major": false,
+   "msg_id": 14,
+   "release": "Magic For a While",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Florrie’s second album, ‘Magic For a While’, is out now via BMG and Xenomania Records.",
+   "summary_ru": "Флорри выпустила второй альбом «Magic For a While». Пластинка вышла на лейблах BMG и Xenomania Records.",
+   "title": "Florrie has released her second album, ‘Magic For a While’",
+   "ts": 1792156058.5868042,
+   "why": "новый альбом, синти-поп и дрим-поп в духе 3L"
   }
  },
  "playlists": {},
@@ -265,6 +325,7 @@
   "1f70bf6007bd": 1792140455.9615905,
   "2008852bbe08": 1792140455.9615865,
   "204f128ed171": 1792140448.2248952,
+  "2132cb7b53af": 1792156032.01266,
   "2193169657c9": 1792140446.1809134,
   "221aa08a47ca": 1792140419.3187878,
   "2285d94f63ca": 1792140455.0289195,
@@ -311,6 +372,7 @@
   "35793f0f0508": 1792140454.9418368,
   "35ac8a3e9935": 1792140462.2817574,
   "360164955324": 1792140455.9615898,
+  "36b5988e8268": 1792156035.7558544,
   "36be753b5035": 1792140448.2248933,
   "36cf2f066160": 1792140455.6358771,
   "36d8a60cb0f6": 1792140447.2519493,
@@ -319,6 +381,7 @@
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
+  "3b26fc1c0f43": 1792156082.832758,
   "3b93e395b3d2": 1792140419.3187933,
   "3b9e7ac64695": 1792140447.2519503,
   "3be9a98fcc0a": 1792140449.8447514,
@@ -335,6 +398,7 @@
   "40c54c028cfd": 1792140455.961589,
   "41516f00313d": 1792140419.3187914,
   "41908efc3ba9": 1792148989.020137,
+  "41c1843aa8f7": 1792156070.780966,
   "4229112470c9": 1792140454.9418397,
   "42ac00b68f5e": 1792140419.3187935,
   "431c95f9c1cd": 1792140455.6358795,
@@ -368,6 +432,7 @@
   "4ccbc066761f": 1792140460.928743,
   "4cd077b3e878": 1792140447.2519565,
   "4d0bee7526a1": 1792140455.6358764,
+  "4d38e9b02fa6": 1792156079.437658,
   "4d3ee6bdddfa": 1792146709.2625952,
   "4d890bfba330": 1792140419.4762356,
   "4da1d2c9310f": 1792140455.071755,
@@ -496,6 +561,7 @@
   "856f1c1110f6": 1792140419.476228,
   "85e43a6506c9": 1792140446.3270457,
   "86093838e5d3": 1792140446.180914,
+  "86fb27fc97d5": 1792156059.021979,
   "87322b1f8cc9": 1792140460.9287438,
   "87e91b7b92ec": 1792140455.028919,
   "8808f8e9a0bc": 1792140446.1809156,
@@ -534,6 +600,7 @@
   "993bd7ed41d1": 1792140449.5165493,
   "99535c47c6bd": 1792140446.1809103,
   "99585ee436d1": 1792140419.4762278,
+  "99c9b82bf452": 1792156053.0010424,
   "99ca80f6c202": 1792140448.2248926,
   "99fe4d7175b9": 1792140419.318793,
   "9a14df025139": 1792140446.1809149,
@@ -640,6 +707,7 @@
   "c89b7e996f04": 1792140449.516548,
   "c89d98f8b618": 1792140455.071753,
   "c97e6b127a20": 1792140449.5165489,
+  "c996c546aeee": 1792156055.8648312,
   "cab2f2efdf89": 1792140455.6358762,
   "cb991e68c9e1": 1792140455.0289192,
   "cbe4da5d4916": 1792140446.1809065,
@@ -714,6 +782,7 @@
   "ea0f232a3cda": 1792140446.180907,
   "ea5529352777": 1792140455.0717494,
   "ea6f8ddee7c2": 1792140449.7097304,
+  "eab83437a92c": 1792156046.6465232,
   "eadf2bef881f": 1792140455.0289192,
   "eba784da422c": 1792140446.1809137,
   "ecca7d0cf56c": 1792140448.224895,
@@ -741,6 +810,7 @@
   "f6b35d0cea11": 1792140448.2248924,
   "f76a4a368e82": 1792140446.1809144,
   "f80c23e5c4f2": 1792140446.1809046,
+  "f8324baa0ff4": 1792156073.8070056,
   "f882f73e3919": 1792140446.3270507,
   "f8f3dca1ddb3": 1792140449.5165517,
   "f8fa769ac659": 1792140448.224884,
