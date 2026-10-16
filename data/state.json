@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792144574
+   "ok": 1792146711
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792144580
+   "ok": 1792146716
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792144580
+   "ok": 1792146716
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792144566
+   "ok": 1792146689
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792144571
+   "ok": 1792146698
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792144572
+   "ok": 1792146701
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792144574
+   "err_ts": 1792146711
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792144574
+   "ok": 1792146711
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,127 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792144554
+   "ok": 1792146681
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792144561
+   "ok": 1792146682
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792144576
+   "ok": 1792146712
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792144580
+   "ok": 1792146716
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792144580
+   "ok": 1792146716
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792144579
+   "ok": 1792146716
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792144554
+   "ok": 1792146681
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792144572
+   "ok": 1792146701
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792144573
+   "ok": 1792146706
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792144571
+   "ok": 1792146701
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792144579
+   "ok": 1792146716
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792144582
+   "ok": 1792146718
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792144581
+   "ok": 1792146717
   },
   "Родной звук (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1792144583
+   "ok": 1792146719
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792144583
+   "ok": 1792146718
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792144587
+   "ok": 1792146720
   }
  },
  "heartbeat": "2026-10-16",
- "items": {},
+ "items": {
+  "3f44a8b2e63c": {
+   "also": [],
+   "artist": "Mathilda Homer",
+   "fit": 4,
+   "id": "3f44a8b2e63c",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/mathilda_homer_shares_new_single_weapons",
+   "listen": {},
+   "major": false,
+   "msg_id": 9,
+   "release": "Weapons",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Mathilda Homer shares “Weapons”, a song written for her younger sister, as debut album Love Gets Bigger arrives.",
+   "summary_ru": "Мэтильда Хомер выпустила новый сингл «Weapons», написанный для её младшей сестры, к выходу дебютного альбома Love Gets Bigger.",
+   "title": "Mathilda Homer Shares New Single “Weapons”",
+   "ts": 1792146708.789486,
+   "why": "Новый сингл инди-поп артистки, анонс дебютного альбома"
+  },
+  "4d3ee6bdddfa": {
+   "also": [],
+   "artist": "jo from school",
+   "fit": 4,
+   "id": "4d3ee6bdddfa",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/jo_from_school_shares_new_single_living_room",
+   "listen": {},
+   "major": false,
+   "msg_id": 10,
+   "release": "Living Room",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Following her debut EP on Chess Club Records, jo from school shares new single “Living Room”.",
+   "summary_ru": "Джо из школы выпустила новый сингл «Living Room» после дебютного EP на лейбле Chess Club Records.",
+   "title": "jo from school Shares New Single “Living Room”",
+   "ts": 1792146710.4511611,
+   "why": "новый сингл инди-артистки, жанр близкий к 3L"
+  }
+ },
  "playlists": {},
  "seen": {
   "001ccef7d993": 1792140446.327047,
@@ -268,6 +309,7 @@
   "3e847677fa3d": 1792140446.1809094,
   "3ec8c8bd85ed": 1792140462.281758,
   "3f136aefa705": 1792140456.384752,
+  "3f44a8b2e63c": 1792146706.4860857,
   "3f8439c7b1b7": 1792140446.3270478,
   "40c54c028cfd": 1792140455.961589,
   "41516f00313d": 1792140419.3187914,
@@ -303,6 +345,7 @@
   "4ccbc066761f": 1792140460.928743,
   "4cd077b3e878": 1792140447.2519565,
   "4d0bee7526a1": 1792140455.6358764,
+  "4d3ee6bdddfa": 1792146709.2625952,
   "4d890bfba330": 1792140419.4762356,
   "4da1d2c9310f": 1792140455.071755,
   "4ddc7c7d921a": 1792140449.8447464,
@@ -350,6 +393,7 @@
   "616baa1a8dfb": 1792140446.1809132,
   "61b3ee7fe73e": 1792140446.1809077,
   "63749dc8dd87": 1792140446.1809075,
+  "64672d2d90b5": 1792146689.3993351,
   "647e6ed5ab0f": 1792140455.961584,
   "64bbe29b3058": 1792140455.0717542,
   "65bcf6c4486c": 1792140447.2519526,
@@ -477,6 +521,7 @@
   "a00bff41256b": 1792140455.0717523,
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
+  "a1b9ce14ff30": 1792146692.554182,
   "a21305e9132c": 1792140455.0717502,
   "a2250ca0ad50": 1792140446.180915,
   "a236f66efb81": 1792140446.1809092,
@@ -628,6 +673,7 @@
   "e7c7ad285c7e": 1792140455.6358824,
   "e7e30fd766f3": 1792140449.8447475,
   "e81739940b07": 1792140449.5165465,
+  "e82f0b8a57c0": 1792146701.923784,
   "e89ab1c5dd31": 1792140455.0289218,
   "e9fe32bd4a9b": 1792140462.281756,
   "ea0f232a3cda": 1792140446.180907,
@@ -668,6 +714,7 @@
   "fae188466bd8": 1792140455.9615874,
   "fb56c47112c2": 1792140455.9615815,
   "fb9c461c0e21": 1792140449.844751,
+  "fbb73e408c35": 1792146698.0368562,
   "fbc9efe9f470": 1792140461.4665866,
   "fbfbbe61515f": 1792140451.9265761,
   "fd65f9e97e46": 1792140455.9615855,
