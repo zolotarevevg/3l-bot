@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792167251
+   "ok": 1792169721
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792167258
+   "ok": 1792169728
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792167261
+   "ok": 1792169728
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792167228
+   "ok": 1792169705
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792167246
+   "ok": 1792169709
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792167247
+   "ok": 1792169720
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792167252
+   "err_ts": 1792169721
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792167252
+   "ok": 1792169721
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792167217
+   "ok": 1792169699
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792167221
+   "ok": 1792169699
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792167253
+   "ok": 1792169723
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792167258
+   "ok": 1792169727
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792167258
+   "ok": 1792169727
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792167257
+   "ok": 1792169727
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792167214
+   "ok": 1792169690
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792167247
+   "ok": 1792169718
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792167249
+   "ok": 1792169721
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792167246,
-   "ok": 1792165220
+   "err": "",
+   "ok": 1792169717
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792167257
+   "ok": 1792169727
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792167264
+   "ok": 1792169730
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792167263
+   "ok": 1792169729
   },
   "Родной звук (TG)": {
-   "count": 10,
+   "count": 9,
    "err": "",
-   "ok": 1792167265
+   "ok": 1792169731
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792167264
+   "ok": 1792169730
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792167266
+   "ok": 1792169735
   }
  },
  "heartbeat": "2026-10-16",
@@ -215,6 +214,26 @@
    "ts": 1792146708.789486,
    "why": "Новый сингл инди-поп артистки, анонс дебютного альбома"
   },
+  "4341c65dffd8": {
+   "also": [],
+   "artist": "Chase & Status",
+   "fit": 2,
+   "id": "4341c65dffd8",
+   "kind": "video",
+   "link": "https://stereogum.com/2514804/chase-status-cover-turnstile-in-bbc-live-lounge/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 18,
+   "release": "",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Chase & Status Cover Turnstile In BBC Live Lounge appeared first on Stereogum .",
+   "summary_ru": "Chase & Status исполнили кавер на песню группы Turnstile в программе BBC Live Lounge. Название трека в записи не указано.",
+   "title": "Chase & Status Cover Turnstile In BBC Live Lounge",
+   "ts": 1792169698.4587932,
+   "why": "кавер хардкор-группы от драм-н-бейс дуэта, вне жанров 3L"
+  },
   "4d3ee6bdddfa": {
    "also": [],
    "artist": "jo from school",
@@ -279,6 +298,26 @@
    "ts": 1792165240.1688073,
    "why": "новый альбом, инди-рок и нью-вейв, малоизвестная группа"
   },
+  "926e91f55c9c": {
+   "also": [],
+   "artist": "Fontaines D.C.",
+   "fit": 4,
+   "id": "926e91f55c9c",
+   "kind": "review",
+   "link": "https://diymag.com/review/album/fontaines-d-c-dopamine-chamber",
+   "listen": {},
+   "major": false,
+   "msg_id": 20,
+   "release": "Dopamine Chamber",
+   "russian": false,
+   "source": "DIY",
+   "status": "new",
+   "summary_en": "A mirror to our times casting back a stark, frightening image.",
+   "summary_ru": "Рецензия DIY на альбом Dopamine Chamber группы Fontaines D.C. Автор описывает пластинку как зеркало эпохи, которое отражает мрачный и пугающий образ.",
+   "title": "Fontaines D.C. — Dopamine Chamber",
+   "ts": 1792169715.7223,
+   "why": "пост-панк группы, новый альбом, рецензия"
+  },
   "99c9b82bf452": {
    "also": [],
    "artist": "Good Health Good Wealth",
@@ -298,6 +337,26 @@
    "title": "Good Health Good Wealth have released debut album ‘The Disco Never Ends’",
    "ts": 1792156055.4170372,
    "why": "новый дебютный альбом инди-группы, жанр близок 3L"
+  },
+  "b5bc8c4d9a0e": {
+   "also": [],
+   "artist": "FUET!",
+   "fit": 2,
+   "id": "b5bc8c4d9a0e",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/fuet-bounce-back-with-new-single-its-all-a-show/",
+   "listen": {},
+   "major": false,
+   "msg_id": 19,
+   "release": "It's All A Show",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "FUET! are ramping up the energy with their latest single, ‘It’s All A Show.’ Released as a two-part story alongside the previously released ‘Roll With It’, the Madrid-based hardcore band deliver a gritty, adrenaline-fuelled escapade into the past. Built around themes of identity, self-empowerment and exploration, the track offers a… The post FUET! Bounce Back With New Single ‘It’s All A Show’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Мадридская хардкор-группа FUET! выпустила новый сингл «It's All A Show», который вышел в паре с ранее представленным треком «Roll With It» как двухчастная история. По описанию, трек сочетает напористый хардкор с темами идентичности и самоопределения.",
+   "title": "FUET! Bounce Back With New Single ‘It’s All A Show’",
+   "ts": 1792169707.2205467,
+   "why": "хардкор, не жанр 3L, новый сингл"
   },
   "c996c546aeee": {
    "also": [],
@@ -473,6 +532,7 @@
   "4229112470c9": 1792140454.9418397,
   "42ac00b68f5e": 1792140419.3187935,
   "431c95f9c1cd": 1792140455.6358795,
+  "4341c65dffd8": 1792169696.0349832,
   "4342357ce348": 1792140455.9615915,
   "4379b2795422": 1792140449.5165546,
   "437e9e762bdf": 1792140419.3187883,
@@ -588,6 +648,7 @@
   "72f35520ae42": 1792140419.4762347,
   "73070c5070ae": 1792140449.5165544,
   "7314856bf775": 1792142252.217261,
+  "731703f74350": 1792169709.3684802,
   "731d13d9ee50": 1792140449.5165515,
   "73cd5cde67e2": 1792140456.3847492,
   "73deacb6c18c": 1792140449.8447487,
@@ -665,6 +726,7 @@
   "90622a89f112": 1792140455.0717528,
   "911e2eab8ed1": 1792140449.5165522,
   "91d6ebfd34d5": 1792140455.0289183,
+  "926e91f55c9c": 1792169713.1484814,
   "929b08848d21": 1792140460.0458226,
   "9377ddc69d53": 1792140449.516553,
   "93d6c526dcef": 1792148972.9182477,
@@ -732,6 +794,7 @@
   "b0b4dd2f31e0": 1792140447.2519543,
   "b0d1bd55b61b": 1792140419.3187873,
   "b15d34616c10": 1792140460.9287446,
+  "b18fa19f8b24": 1792169692.9804842,
   "b1aed9b305dd": 1792140419.6649106,
   "b1c1030d0039": 1792140446.1809149,
   "b1e8b156271f": 1792140455.028929,
@@ -742,6 +805,7 @@
   "b32c57b05f19": 1792167234.8527672,
   "b451a09c2638": 1792140446.1809099,
   "b5b16ec68cfd": 1792140455.0289187,
+  "b5bc8c4d9a0e": 1792169705.1837678,
   "b6bae459f1a8": 1792140455.6358774,
   "b754f3b9945d": 1792140451.9265769,
   "b755ffca5d88": 1792140448.224886,
@@ -835,6 +899,7 @@
   "d9a6be2ac275": 1792140455.0717518,
   "d9a7bdd59168": 1792140455.6358798,
   "da9d1c58b355": 1792140455.0717518,
+  "dac56a35f737": 1792169731.4102747,
   "db11a3f46399": 1792140449.8447473,
   "db4087247b1d": 1792140448.2248945,
   "dbd802634c72": 1792140460.045826,
@@ -850,6 +915,7 @@
   "e0b0fca5c6cc": 1792140449.7097292,
   "e0f75141e683": 1792140419.3187861,
   "e11c9ced58f9": 1792140455.9615917,
+  "e16c4c346902": 1792169690.0172782,
   "e17d154dc10d": 1792140448.2248929,
   "e1869ead1454": 1792140449.8447478,
   "e1928e55e12b": 1792140460.045822,
