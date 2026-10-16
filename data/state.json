@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792173623
+   "ok": 1792175875
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792173628
+   "ok": 1792175884
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792173629
+   "ok": 1792175884
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792173614
+   "ok": 1792175870
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792173616
+   "ok": 1792175872
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792173622
+   "ok": 1792175874
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792173623
+   "err_ts": 1792175876
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792173623
+   "ok": 1792175875
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,107 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792173607
+   "ok": 1792175859
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792173607
+   "ok": 1792175860
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792173624
+   "ok": 1792175877
   },
   "Pitchfork Best Albums": {
    "count": 30,
-   "err": "",
+   "err": "HTTPError: 429 Client Error: Too Many Requests for url: https://pitchfork.com/feed/reviews/best/albums/rss",
+   "err_ts": 1792175884,
    "ok": 1792173628
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792173628
+   "ok": 1792175881
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792173628
+   "ok": 1792175881
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792173600
+   "ok": 1792175857
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792173621
+   "ok": 1792175873
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792173623
+   "ok": 1792175875
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792173621
+   "ok": 1792175872
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792173628
+   "ok": 1792175880
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792173630
+   "ok": 1792175889
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792173630
+   "ok": 1792175885
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792173631
+   "ok": 1792175890
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792173631
+   "ok": 1792175889
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792173635
+   "ok": 1792175891
   }
  },
  "heartbeat": "2026-10-16",
  "items": {
+  "138479fbcfdb": {
+   "also": [],
+   "artist": "HEALTH",
+   "fit": 4,
+   "id": "138479fbcfdb",
+   "kind": "single",
+   "link": "https://stereogum.com/2514828/health-share-two-new-songs-from-the-street-fighter-soundtrack/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 24,
+   "release": "",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post HEALTH Share Two New Songs From The <em>Street Fighter</em> Soundtrack appeared first on Stereogum .",
+   "summary_ru": "HEALTH выпустили две новые песни из саундтрека к Street Fighter, написанного Лео Биренбергом. Больше подробностей в записи нет.",
+   "title": "HEALTH Share Two New Songs From The Street Fighter Soundtrack",
+   "ts": 1792175858.5508966,
+   "why": "Инди-электроника, новые треки, но мало деталей"
+  },
   "1a9ca8a43973": {
    "also": [],
    "artist": "Zach Bryan",
@@ -489,6 +510,7 @@
   "127c5593c948": 1792140447.2519565,
   "12b3ba08a6f9": 1792140455.028919,
   "13803bb369e8": 1792140448.2248926,
+  "138479fbcfdb": 1792175857.1966312,
   "14715da0d8f5": 1792142306.6505816,
   "1498394b19db": 1792142237.7308586,
   "14ac3666dd7a": 1792140449.8447518,
