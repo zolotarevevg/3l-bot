@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792148979
+   "ok": 1792151158
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792148984
+   "ok": 1792151164
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792148984
+   "ok": 1792151165
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792148969
+   "ok": 1792151149
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792148977
+   "ok": 1792151153
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792148978
+   "ok": 1792151154
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792148979
+   "err_ts": 1792151159
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792148979
+   "ok": 1792151159
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,106 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792148941
+   "ok": 1792151138
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792148959
+   "ok": 1792151143
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792148981
+   "ok": 1792151160
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792148984
+   "ok": 1792151164
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792148984
+   "ok": 1792151164
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792148984
+   "ok": 1792151164
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792148941
+   "ok": 1792151138
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792148977
+   "ok": 1792151154
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792148979
+   "ok": 1792151158
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792148977
+   "ok": 1792151153
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792148984
+   "ok": 1792151164
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792148988
+   "ok": 1792151169
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792148985
+   "ok": 1792151166
   },
   "Родной звук (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1792148989
+   "ok": 1792151170
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792148988
+   "ok": 1792151170
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792148992
+   "ok": 1792151170
   }
  },
  "heartbeat": "2026-10-16",
  "items": {
+  "253410846421": {
+   "also": [],
+   "artist": "SNAYX",
+   "fit": 4,
+   "id": "253410846421",
+   "kind": "album",
+   "link": "https://readdork.com/news/snayx-greed-gold-star-debut-album-02bf9db0d1",
+   "listen": {},
+   "major": false,
+   "msg_id": 11,
+   "release": "Greed",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Brighton trio SNAYX will release their debut album ‘Greed’ in February, led by the Jordan Fish co-write ‘Gold Star’.",
+   "summary_ru": "Брайтонское трио SNAYX объявило дебютный альбом Greed, который выйдет в феврале. Ведущий сингл Gold Star написан в соавторстве с Jordan Fish.",
+   "title": "SNAYX have announced debut album ‘Greed’ with new single ‘Gold Star’",
+   "ts": 1792151157.2465985,
+   "why": "новый дебютный альбом и сингл, инди-звучание"
+  },
   "3f44a8b2e63c": {
    "also": [],
    "artist": "Mathilda Homer",
@@ -256,6 +276,7 @@
   "241748841404": 1792140455.0717545,
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
+  "253410846421": 1792151154.5883605,
   "26024080e4af": 1792140455.961591,
   "262a03135c9f": 1792140448.2248929,
   "26a49991fc34": 1792140455.0717552,
@@ -326,6 +347,7 @@
   "46310d15a682": 1792140460.0458255,
   "46eaf615b470": 1792140448.224891,
   "4717282a2862": 1792140455.9615858,
+  "4726ac85138a": 1792151138.4797187,
   "475045be92c2": 1792140449.5165505,
   "478169686255": 1792140419.318792,
   "47ba9ffaee92": 1792140447.2519526,
@@ -385,6 +407,7 @@
   "5dc27bf1ca21": 1792140448.224894,
   "5de0201ee840": 1792140449.8447459,
   "5de1aaaf29fd": 1792140456.3847513,
+  "5dfd9b70dcf8": 1792151141.6036267,
   "5e3bc3d6bacf": 1792140455.635882,
   "5f8252676042": 1792140419.66491,
   "5faea83a099d": 1792140447.2519577,
@@ -394,6 +417,7 @@
   "616baa1a8dfb": 1792140446.1809132,
   "61b3ee7fe73e": 1792140446.1809077,
   "63749dc8dd87": 1792140446.1809075,
+  "63e736abbad6": 1792151149.0594196,
   "64672d2d90b5": 1792146689.3993351,
   "647e6ed5ab0f": 1792140455.961584,
   "64bbe29b3058": 1792140455.0717542,
@@ -515,6 +539,7 @@
   "9a3dab0d30d6": 1792140462.2817557,
   "9a6d97d59356": 1792140446.1809149,
   "9bd8661db7d8": 1792140446.1809137,
+  "9bde636af911": 1792151166.0153506,
   "9d77ae8d7812": 1792140456.3847497,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
