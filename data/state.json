@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792156063
+   "ok": 1792158590
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792156070
+   "ok": 1792158599
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792156076
+   "ok": 1792158599
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792156046
+   "ok": 1792158578
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792156051
+   "ok": 1792158587
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792156053
+   "ok": 1792158588
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792156063
+   "err_ts": 1792158590
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792156063
+   "ok": 1792158590
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,107 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792156035
+   "ok": 1792158569
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792156038
+   "ok": 1792158573
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792156065
+   "ok": 1792158592
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792156070
+   "ok": 1792158599
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792156070
+   "ok": 1792158595
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792156068
+   "ok": 1792158595
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792156032
+   "ok": 1792158567
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792156051
+   "ok": 1792158588
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792156062
+   "ok": 1792158590
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792158587,
    "ok": 1792156051
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792156068
+   "ok": 1792158595
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792156078
+   "ok": 1792158601
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792156077
+   "ok": 1792158600
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1792156082
+   "ok": 1792158603
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792156079
+   "ok": 1792158602
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792156086
+   "ok": 1792158604
   }
  },
  "heartbeat": "2026-10-16",
  "items": {
+  "1a9ca8a43973": {
+   "also": [],
+   "artist": "Zach Bryan",
+   "fit": 2,
+   "id": "1a9ca8a43973",
+   "kind": "ep",
+   "link": "https://stereogum.com/2514739/zach-bryan-shares-new-ep-young-manhood-other-donatable-organs-feat-lana-del-rey-turnpike-troubadours/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 15,
+   "release": "Young Manhood & Other Donatable Organs",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Zach Bryan Shares New EP <em>Young Manhood & Other Donatable Organs</em> Feat. Lana Del Rey & Turnpike Troubadours appeared first on Stereogum .",
+   "summary_ru": "Зак Брайан выпустил новый EP Young Manhood & Other Donatable Organs. В записи участвуют Lana Del Rey и Turnpike Troubadours. Текст записи почти полностью состоит из служебного хвоста, подробностей о треках нет.",
+   "title": "Zach Bryan Shares New EP Young Manhood & Other Donatable Organs Feat. Lana Del Rey & Turnpike Troubadours",
+   "ts": 1792158568.7757282,
+   "why": "кантри-фолк, мейнстрим; не в жанрах 3L"
+  },
   "2132cb7b53af": {
    "also": [],
    "artist": "Olivia Rodrigo",
@@ -213,6 +234,26 @@
    "title": "jo from school Shares New Single “Living Room”",
    "ts": 1792146710.4511611,
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
+  },
+  "58977be833e1": {
+   "also": [],
+   "artist": "Gotts Street Park",
+   "fit": 2,
+   "id": "58977be833e1",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/gotts-street-parks-somewhere-between-offers-timeless-soul/",
+   "listen": {},
+   "major": false,
+   "msg_id": 16,
+   "release": "Somewhere Between",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Gotts Street Park have shared their gorgeous new album ‘Somewhere Between’ in full. The Leeds group are renowned within the UK soul and R&B scene, with their instrumental and production prowess making them sought-after collaborators. The band’s own material – frosted soul music with a timeless feel – has built… The post Gotts Street Park’s ‘Somewhere Between’ Offers Timeless Soul appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Лидская группа Gotts Street Park выпустила новый альбом Somewhere Between целиком. Коллектив известен в британской соул- и R&B-сцене как востребованные продюсеры и инструменталисты.",
+   "title": "Gotts Street Park’s ‘Somewhere Between’ Offers Timeless Soul",
+   "ts": 1792158580.8653674,
+   "why": "соул и R&B, далеко от жанров 3L"
   },
   "99c9b82bf452": {
    "also": [],
@@ -296,6 +337,7 @@
   "0e24bf5a5820": 1792140449.8447468,
   "0ea0b338ed9e": 1792140455.9615836,
   "0fec224297bb": 1792140419.31879,
+  "108dca2850ed": 1792158595.9177806,
   "118099b3c52c": 1792140419.31879,
   "11b546453935": 1792140460.045827,
   "126a0a5d79e3": 1792140460.0458257,
@@ -313,6 +355,7 @@
   "1938e5f6d74d": 1792140460.0458217,
   "199cf08d08b7": 1792140446.1809065,
   "1a2837f9350c": 1792140460.9287448,
+  "1a9ca8a43973": 1792158567.0555933,
   "1ac86fefef28": 1792140462.2817588,
   "1adeb91bc752": 1792140446.1809092,
   "1ae1e58eac1b": 1792140455.9615843,
@@ -460,6 +503,7 @@
   "575aad530b3a": 1792140449.8447511,
   "579d6616ea5d": 1792140446.3270504,
   "588bbc82e4ec": 1792140447.2519581,
+  "58977be833e1": 1792158578.8012426,
   "59022366ba53": 1792140446.1809075,
   "5975e2515efb": 1792140460.0458274,
   "59adc6a30861": 1792140455.961589,
@@ -488,6 +532,7 @@
   "64bbe29b3058": 1792140455.0717542,
   "65bcf6c4486c": 1792140447.2519526,
   "6628b66f702f": 1792152825.1655142,
+  "693056b7f5c2": 1792158569.604045,
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
   "69b9f521aa2d": 1792140454.9418392,
@@ -763,6 +808,7 @@
   "e1928e55e12b": 1792140460.045822,
   "e26be94ff5dc": 1792140455.9615912,
   "e2bcfdb5990b": 1792140419.3187933,
+  "e36b2397b7e7": 1792158581.4648004,
   "e41058613fdd": 1792140449.5165455,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
