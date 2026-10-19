@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792397239
+   "ok": 1792399831
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792397246
+   "ok": 1792399837
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792397247
+   "ok": 1792399837
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792397230
+   "ok": 1792399814
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792397232
+   "ok": 1792399829
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792397238
+   "ok": 1792399830
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792397240
+   "err_ts": 1792399831
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792397240
+   "ok": 1792399831
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792397222
+   "ok": 1792399806
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792397222
+   "ok": 1792399810
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792397242
+   "ok": 1792399833
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792397246
+   "ok": 1792399836
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792397245
+   "ok": 1792399836
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792397245
+   "ok": 1792399836
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792397222
+   "ok": 1792399805
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792397233
+   "ok": 1792399829
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792397239
+   "ok": 1792399831
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792397232
+   "ok": 1792399829
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792397245
+   "ok": 1792399836
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792397250
+   "ok": 1792399839
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792397248
+   "ok": 1792399838
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792397251
+   "ok": 1792399841
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792397250
+   "ok": 1792399840
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792397252
+   "ok": 1792399842
   }
  },
  "heartbeat": "2026-10-19",
@@ -153,6 +153,26 @@
    "title": "HEALTH Share Two New Songs From The Street Fighter Soundtrack",
    "ts": 1792175858.5508966,
    "why": "Инди-электроника, новые треки, но мало деталей"
+  },
+  "13be515e46a6": {
+   "also": [],
+   "artist": "Radio Free Alice",
+   "fit": 4,
+   "id": "13be515e46a6",
+   "kind": "album",
+   "link": "https://www.nme.com/news/music/radio-free-alice-the-cover-playlist-3973471?utm_source=rss&utm_medium=rss&utm_campaign=radio-free-alice-the-cover-playlist",
+   "listen": {},
+   "major": false,
+   "msg_id": 26,
+   "release": "What's In Between",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "NME ’s latest stars of The Cover , Radio Free Alice , have created an exclusive playlist to accompany the story’s launch – check it out below. READ MORE: Radio Free Alice are ready to take on the world The Australian indie band are on this week’s (October 19) edition of The Cover , a manifestation of NME ’s commitment to supporting emerging talent across the globe on a weekly basis. Every week, a rising artist will feature on The Cover – you can read Radio Free Alice’s profile here , written by Jordan Bassett and featuring photography by Tom Oxley. The four-piece have curated an exclusive playlist to accompany their appearance on The Cover , titled ‘Melbourne Friends’. The collection features artists from their local scene, including Dumbhead, Rain Dogs, HighSchool , former The Cover stars The Belair Lip Bombs , and more. Listen to the full playlist on Spotify below and on Apple Music . Radio Free Alice are set to release their debut album ‘What’s In Between’ on October 30, and in The Cover , they discuss their path to their first album – a journey that started when frontman Noah Learmonth and guitarist Jules Paradiso met as teenagers. “When you’re 14, 15, having someone that you can freely play music with or fuck around with is so important and exciting, as opposed to just doing it yourself,” Paradiso recalls of when the pair first started collaborating. “After a few years of doing it together, you start to realise: ‘Oh, shit, OK – maybe there’s a little nugget of something that we can actually move forward with.’” The band have evolved into an ambitious prospect – one that isn’t afraid to really go for their goals. “There’s a lot of people who don’t want to say they wanna be a really big band and then not be a big band and feel awkward about it,” explains Learmonth. “But then, as a result, no one manifests it, and everyone’s just making cassette tapes played in share houses to hipsters, so they’re not getting big. It’s this self-fulfilling prophecy. We never felt that we had to pretend not to be ambitious because there’s too many people in our genre pretending not to be.” Read Radio Free Alice’s full Cover story here and find out who else has been on The Cover here . Every year, NME produces 50 Cover stories, showcasing the future of music via in-depth profiles and exclusive photoshoots. Check out our coffee table book NME The Cover 2024-2025 , which features the likes of Kneecap , Lola Young , Amaarae , LE SSERAFIM , Oklou and many more. The post Radio Free Alice shout out their ‘Melbourne Friends’ in exclusive playlist to accompany The Cover appeared first on NME .",
+   "summary_ru": "Австралийская инди-группа Radio Free Alice выпускает дебютный альбом What's In Between 30 октября и составила плейлист Melbourne Friends с артистами мельбурнской сцены (Dumbhead, Rain Dogs, HighSchool, The Belair Lip Bombs). Плейлист приурочен к их выпуску в рубрике The Cover от NME.",
+   "title": "Radio Free Alice shout out their ‘Melbourne Friends’ in exclusive playlist to accompany The Cover",
+   "ts": 1792399808.6997886,
+   "why": "инди-группа, новый дебютный альбом, близкие жанры"
   },
   "1a9ca8a43973": {
    "also": [],
@@ -530,6 +550,7 @@
   "12b3ba08a6f9": 1792140455.028919,
   "13803bb369e8": 1792140448.2248926,
   "138479fbcfdb": 1792175857.1966312,
+  "13be515e46a6": 1792399806.0338573,
   "14715da0d8f5": 1792142306.6505816,
   "1498394b19db": 1792142237.7308586,
   "14ac3666dd7a": 1792140449.8447518,
@@ -695,6 +716,7 @@
   "4f60061fa94c": 1792140446.1809068,
   "4fb516e2a4f2": 1792140446.3270483,
   "503f6fa21f9f": 1792140447.2519507,
+  "5080e114c5a9": 1792399824.7527132,
   "508edc71da07": 1792140462.2817566,
   "52377e145082": 1792160469.6877298,
   "52b12e62549e": 1792160481.6299381,
@@ -987,6 +1009,7 @@
   "c21a2020aa01": 1792321839.846243,
   "c299cadda15b": 1792140419.318787,
   "c2a380fb0467": 1792140454.941841,
+  "c2dff1919ab9": 1792399814.7457006,
   "c2eb773ca39b": 1792140446.3270478,
   "c379b324eefd": 1792140460.0458236,
   "c38b868b3723": 1792140455.0289168,
@@ -1057,6 +1080,7 @@
   "d9a7bdd59168": 1792140455.6358798,
   "da9d1c58b355": 1792140455.0717518,
   "dac56a35f737": 1792169731.4102747,
+  "dafbadd8b0f8": 1792399821.4335585,
   "db043522e1d2": 1792327581.376946,
   "db11a3f46399": 1792140449.8447473,
   "db4087247b1d": 1792140448.2248945,
