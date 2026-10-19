@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792425030
+   "ok": 1792426665
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792425036
+   "ok": 1792426678
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792425036
+   "ok": 1792426679
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792425012
+   "ok": 1792426651
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792425017
+   "ok": 1792426652
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792425021
+   "ok": 1792426654
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792425031
+   "err_ts": 1792426666
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792425030
+   "ok": 1792426666
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792424997
+   "ok": 1792426645
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792425000
+   "ok": 1792426646
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792425032
+   "ok": 1792426667
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792425035
+   "ok": 1792426678
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792425035
+   "ok": 1792426678
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792425035
+   "ok": 1792426678
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792424989
+   "ok": 1792426641
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792425020
+   "ok": 1792426653
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792425027
+   "ok": 1792426665
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792426652,
    "ok": 1792425020
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792425035
+   "ok": 1792426675
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792425038
+   "ok": 1792426683
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792425037
+   "ok": 1792426680
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792425039
+   "ok": 1792426684
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792425039
+   "ok": 1792426683
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792425044
+   "ok": 1792426687
   }
  },
  "heartbeat": "2026-10-19",
@@ -393,6 +394,26 @@
    "title": "Tate McRae has released ‘Housewife’ with a South of France-shot video",
    "ts": 1792411079.1130133,
    "why": "мейнстрим-поп, не любимый артист"
+  },
+  "3ec61087525b": {
+   "also": [],
+   "artist": "Sleaford Mods",
+   "fit": 3,
+   "id": "3ec61087525b",
+   "kind": "album",
+   "link": "https://readdork.com/news/sleaford-mods-the-demise-of-planet-x-expanded-edition-75e4761fb2",
+   "listen": {},
+   "major": false,
+   "msg_id": 40,
+   "release": "The Demise Of Planet X",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Sleaford Mods have released an expanded edition of ‘The Demise Of Planet X’, adding nine demos recorded during the album’s original sessions.",
+   "summary_ru": "Sleaford Mods выпустили расширенное издание альбома The Demise Of Planet X - в него добавлены девять демо, записанных во время оригинальных сессий. Ранее не издавались.",
+   "title": "Sleaford Mods have expanded ‘The Demise Of Planet X’ with nine unreleased songs",
+   "ts": 1792426662.3543146,
+   "why": "пост-панк-адъяцентный дуэт, не в любимых, расширение старого альбома"
   },
   "3f44a8b2e63c": {
    "also": [],
@@ -809,6 +830,7 @@
   "0ea0b338ed9e": 1792140455.9615836,
   "0ea5610d1c38": 1792406855.018402,
   "0ed6b841b05d": 1792413711.9912553,
+  "0edde9d1bc4a": 1792426684.5101395,
   "0fec224297bb": 1792140419.31879,
   "108dca2850ed": 1792158595.9177806,
   "118099b3c52c": 1792140419.31879,
@@ -938,6 +960,7 @@
   "3d6f443e82b6": 1792140455.6358812,
   "3e5d41f753e4": 1792162985.8961833,
   "3e847677fa3d": 1792140446.1809094,
+  "3ec61087525b": 1792426658.1369722,
   "3ec8c8bd85ed": 1792140462.281758,
   "3f136aefa705": 1792140456.384752,
   "3f3f0aff7cac": 1792422117.1566305,
@@ -1142,6 +1165,7 @@
   "7fde0bc85218": 1792140460.0458272,
   "7fe99601ab13": 1792140419.6649106,
   "800de1077536": 1792142237.73086,
+  "8067e1d3064f": 1792426680.3227131,
   "809571dd721e": 1792140449.8447495,
   "80a05c7f2167": 1792140455.63588,
   "80b15b35029e": 1792165237.715872,
@@ -1246,6 +1270,7 @@
   "a308499f2b6e": 1792180119.1027365,
   "a313d4bfcad0": 1792140451.9265773,
   "a3d4fb841682": 1792167214.670259,
+  "a3efa12afac7": 1792426675.610756,
   "a3f4ae4cd417": 1792140455.0289216,
   "a431ae935142": 1792140449.5165486,
   "a45e92626498": 1792140455.6358793,
@@ -1323,6 +1348,7 @@
   "bf3e427f3bc3": 1792397248.1169508,
   "bf65c918fec2": 1792140448.2248826,
   "bf66b1f62f0a": 1792419541.6738656,
+  "bfe1d8d55b5d": 1792426662.8748226,
   "c0462cfc0a95": 1792167249.1019454,
   "c0c1e23ac6ac": 1792140447.2519538,
   "c0e4891717c6": 1792140446.180915,
@@ -1394,6 +1420,7 @@
   "d25a928aa0df": 1792140447.2519505,
   "d301e05295c7": 1792140455.9615839,
   "d3765b0001fb": 1792140455.0289202,
+  "d383ba083cc4": 1792426681.2487686,
   "d3ca17f4a685": 1792140446.18091,
   "d491512e60f4": 1792140419.3187916,
   "d5139dfdf51b": 1792140449.7097282,
@@ -1457,6 +1484,7 @@
   "e57eb5a4b28b": 1792425024.900194,
   "e64bfe4c2c75": 1792140449.8447442,
   "e6edcec16fd8": 1792140461.4665887,
+  "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
   "e7c7ad285c7e": 1792140455.6358824,
   "e7e30fd766f3": 1792140449.8447475,
@@ -1478,6 +1506,7 @@
   "ef4ad44e8683": 1792140455.0289283,
   "ef6938d92007": 1792390459.402517,
   "ef8ac49ef671": 1792140449.8447492,
+  "f05dc6d2a0b3": 1792426641.387894,
   "f079f6a977f9": 1792140455.9615886,
   "f0ca5bb9c05f": 1792140419.318792,
   "f0f750fbac1e": 1792140455.635877,
