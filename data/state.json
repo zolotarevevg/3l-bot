@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792404632
+   "ok": 1792406879
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792404637
+   "ok": 1792406884
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792404637
+   "ok": 1792406884
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792404592
+   "ok": 1792406870
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792404602
+   "ok": 1792406876
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792404630
+   "ok": 1792406878
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792404632
+   "err_ts": 1792406879
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792404632
+   "ok": 1792406879
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792404581
+   "ok": 1792406855
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792404585
+   "ok": 1792406859
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792404633
+   "ok": 1792406880
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792404637
+   "ok": 1792406883
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792404637
+   "ok": 1792406883
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792404637
+   "ok": 1792406883
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792404580
+   "ok": 1792406854
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792404627
+   "ok": 1792406877
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792404631
+   "ok": 1792406878
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792406877,
    "ok": 1792404626
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792404637
+   "ok": 1792406883
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792404639
+   "ok": 1792406885
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792404638
+   "ok": 1792406885
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792404640
+   "ok": 1792406886
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792404639
+   "ok": 1792406886
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792404640
+   "ok": 1792406887
   }
  },
  "heartbeat": "2026-10-19",
@@ -438,6 +439,26 @@
    "ts": 1792156055.4170372,
    "why": "новый дебютный альбом инди-группы, жанр близок 3L"
   },
+  "b081adddb626": {
+   "also": [],
+   "artist": "DJ Target",
+   "fit": 2,
+   "id": "b081adddb626",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/dj-target-links-with-chip-tiwa-savage-on-bring-you-flowers/",
+   "listen": {},
+   "major": false,
+   "msg_id": 27,
+   "release": "Bring You Flowers",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "DJ Target has shared new single ‘Bring You Flowers’. The London figure is one of the most influential figures in UK music, holding down a crucial role as broadcaster, DJ, and producer. DJ Target literally wrote the book on grime, but his new project finds him taking on a fresh… The post DJ Target Links With Chip, Tiwa Savage On ‘Bring You Flowers’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Диджей Таргет выпустил новый сингл «Bring You Flowers» при участии Chip и Tiwa Savage. Это новый проект артиста, который известен как радиоведущий, диджей и продюсер из Лондона.",
+   "title": "DJ Target Links With Chip, Tiwa Savage On ‘Bring You Flowers’",
+   "ts": 1792406873.213988,
+   "why": "грайм и афробит, не жанры 3L"
+  },
   "b5bc8c4d9a0e": {
    "also": [],
    "artist": "FUET!",
@@ -542,6 +563,7 @@
   "0df095a8d387": 1792142237.7308536,
   "0e24bf5a5820": 1792140449.8447468,
   "0ea0b338ed9e": 1792140455.9615836,
+  "0ea5610d1c38": 1792406855.018402,
   "0fec224297bb": 1792140419.31879,
   "108dca2850ed": 1792158595.9177806,
   "118099b3c52c": 1792140419.31879,
@@ -929,6 +951,7 @@
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
   "9f04ca99ea73": 1792142259.7923665,
+  "9f0aff8eb457": 1792406873.6734486,
   "9f307390a3bd": 1792140449.70973,
   "9fb7bf4b6ef1": 1792140448.2248917,
   "a00bff41256b": 1792140455.0717523,
@@ -964,6 +987,7 @@
   "ae8bd1ea10bb": 1792163006.5854099,
   "af38d247ea14": 1792243087.9580936,
   "afce16bf96e1": 1792140449.5165496,
+  "b081adddb626": 1792406870.2139947,
   "b09779f9d707": 1792142237.730857,
   "b09c4f532962": 1792140451.9265754,
   "b0b4dd2f31e0": 1792140447.2519543,
