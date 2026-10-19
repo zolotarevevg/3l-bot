@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792416625
+   "ok": 1792419533
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792416640
+   "ok": 1792419541
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792416640
+   "ok": 1792419548
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792416617
+   "ok": 1792419522
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792416621
+   "ok": 1792419530
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792416624
+   "ok": 1792419532
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792416626
+   "err_ts": 1792419533
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792416625
+   "ok": 1792419533
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792416605
+   "ok": 1792419511
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792416605
+   "ok": 1792419511
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792416627
+   "ok": 1792419535
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792416639
+   "ok": 1792419541
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792416639
+   "ok": 1792419541
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792416639
+   "ok": 1792419538
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792416602
+   "ok": 1792419508
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792416623
+   "ok": 1792419531
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792416625
+   "ok": 1792419533
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792416621,
-   "ok": 1792413716
+   "err": "",
+   "ok": 1792419530
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792416639
+   "ok": 1792419538
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792416650
+   "ok": 1792419555
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792416641
+   "ok": 1792419549
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792416651
+   "ok": 1792419556
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792416650
+   "ok": 1792419555
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792416655
+   "ok": 1792419557
   }
  },
  "heartbeat": "2026-10-19",
@@ -434,6 +433,26 @@
    "title": "Chase & Status Cover Turnstile In BBC Live Lounge",
    "ts": 1792169698.4587932,
    "why": "кавер хардкор-группы от драм-н-бейс дуэта, вне жанров 3L"
+  },
+  "44b2528409f8": {
+   "also": [],
+   "artist": "Tyla",
+   "fit": 2,
+   "id": "44b2528409f8",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/live/tyla-brings-neon-spectacle-and-popiano-sounds-to-londons-o2-academy-brixton/",
+   "listen": {},
+   "major": false,
+   "msg_id": 37,
+   "release": "A*POP",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Tyla is stepping into a new era and is not afraid to venture herself. The South African star returns to London with the neon explosion of her A*POP WORLD TOUR, in support of her new album, A*POP. The O2 Academy Brixton was invaded by the nostalgic visuals of the 2000s from the… The post Tyla Brings Neon Spectacle And Popiano Sounds To London’s O2 Academy Brixton appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Обзор концерта Tyla в лондонском O2 Academy Brixton в рамках A*POP World Tour в поддержку нового альбома A*POP. Шоу с неоновыми визуалами в духе нулевых и звучанием, которое издание называет popiano.",
+   "title": "Tyla Brings Neon Spectacle And Popiano Sounds To London’s O2 Academy Brixton",
+   "ts": 1792419527.5654926,
+   "why": "мейнстрим-поп, концертный обзор без нового релиза"
   },
   "4d3ee6bdddfa": {
    "also": [],
@@ -885,6 +904,7 @@
   "4229112470c9": 1792140454.9418397,
   "42ac00b68f5e": 1792140419.3187935,
   "42b19b2c4292": 1792394162.9122472,
+  "42db33201c97": 1792419522.009265,
   "431c95f9c1cd": 1792140455.6358795,
   "4341c65dffd8": 1792169696.0349832,
   "4342357ce348": 1792140455.9615915,
@@ -892,6 +912,7 @@
   "437e9e762bdf": 1792140419.3187883,
   "43d3de236d1c": 1792140447.2519557,
   "446fdd174120": 1792140455.0289283,
+  "44b2528409f8": 1792419524.7455919,
   "451e0f45f3cf": 1792404592.9865537,
   "4617fbe156e4": 1792140449.5165532,
   "46310d15a682": 1792140460.0458255,
@@ -929,6 +950,7 @@
   "4d890bfba330": 1792140419.4762356,
   "4da1d2c9310f": 1792140455.071755,
   "4ddc7c7d921a": 1792140449.8447464,
+  "4e3bd443ca29": 1792419545.0536368,
   "4e6b645be47f": 1792140448.2248857,
   "4eb9f6f64de6": 1792140449.8447444,
   "4ebd993f171f": 1792140419.3187885,
@@ -1064,6 +1086,7 @@
   "7e96c7fc5eed": 1792140448.2248921,
   "7eea023c73b7": 1792397222.6336875,
   "7f0c1c7c664a": 1792140461.4665883,
+  "7f76c3b02e7b": 1792419508.0815978,
   "7f85e4b2c5ba": 1792140447.2519534,
   "7fde0bc85218": 1792140460.0458272,
   "7fe99601ab13": 1792140419.6649106,
@@ -1242,6 +1265,7 @@
   "be3ac7c5b64c": 1792140455.635881,
   "bf3e427f3bc3": 1792397248.1169508,
   "bf65c918fec2": 1792140448.2248826,
+  "bf66b1f62f0a": 1792419541.6738656,
   "c0462cfc0a95": 1792167249.1019454,
   "c0c1e23ac6ac": 1792140447.2519538,
   "c0e4891717c6": 1792140446.180915,
@@ -1261,6 +1285,7 @@
   "c39369d20518": 1792140460.9287462,
   "c413891dd1ad": 1792140455.0289178,
   "c4409e4c29f6": 1792140446.1809063,
+  "c45fad1d4ede": 1792419538.2528684,
   "c4e6bd3c0c70": 1792140448.224896,
   "c53eaa794e97": 1792343397.1827364,
   "c55cb98dadea": 1792140460.928746,
@@ -1274,6 +1299,7 @@
   "c64e0e9bd89e": 1792140449.5165548,
   "c67c09ea980b": 1792140460.0458233,
   "c69ee1d6089b": 1792140455.9615862,
+  "c6a384e5b608": 1792419549.265609,
   "c73988041d57": 1792416645.6077752,
   "c79cc4d548ad": 1792162974.6287427,
   "c83788df11cc": 1792160452.6291058,
