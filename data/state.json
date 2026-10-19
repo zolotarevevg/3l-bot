@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792426665
+   "ok": 1792429154
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792426678
+   "ok": 1792429174
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792426679
+   "ok": 1792429174
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792426651
+   "ok": 1792429143
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792426652
+   "ok": 1792429145
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792426654
+   "ok": 1792429153
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792426666
+   "err_ts": 1792429155
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792426666
+   "ok": 1792429155
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792426645
+   "ok": 1792429136
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792426646
+   "ok": 1792429137
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792426667
+   "ok": 1792429157
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792426678
+   "ok": 1792429174
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792426678
+   "ok": 1792429174
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792426678
+   "ok": 1792429173
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792426641
+   "ok": 1792429128
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792426653
+   "ok": 1792429152
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792426665
+   "ok": 1792429154
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792426652,
-   "ok": 1792425020
+   "err": "",
+   "ok": 1792429152
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792426675
+   "ok": 1792429160
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792426683
+   "ok": 1792429177
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792426680
+   "ok": 1792429176
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792426684
+   "ok": 1792429178
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792426683
+   "ok": 1792429178
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792426687
+   "ok": 1792429179
   }
  },
  "heartbeat": "2026-10-19",
@@ -579,6 +578,26 @@
    "ts": 1792422142.937632,
    "why": "инди-поп группа, новое видео и аранжировки"
   },
+  "8b9537ee25c2": {
+   "also": [],
+   "artist": "Spirit Ghost",
+   "fit": 3,
+   "id": "8b9537ee25c2",
+   "kind": "single",
+   "link": "https://stereogum.com/2514989/spirit-ghost-dungeon-crawler/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 41,
+   "release": "Dungeon Crawler",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Spirit Ghost – “Dungeon Crawler” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый трек Spirit Ghost «Dungeon Crawler» в рубрике New Music. В записи нет подробностей о лейбле, составе и звучании.",
+   "title": "Spirit Ghost – “Dungeon Crawler”",
+   "ts": 1792429131.4472966,
+   "why": "новый сингл малоизвестного артиста, звучание неясно"
+  },
   "926e91f55c9c": {
    "also": [],
    "artist": "Fontaines D.C.",
@@ -638,6 +657,26 @@
    "title": "Ghost Jr Ups The Tempo On Latest Single ‘2 Phones’",
    "ts": 1792413711.600326,
    "why": "клаб-техно и транс, далеко от жанров 3L"
+  },
+  "a1c683db1f91": {
+   "also": [],
+   "artist": "Dazy",
+   "fit": 3,
+   "id": "a1c683db1f91",
+   "kind": "single",
+   "link": "https://stereogum.com/2515040/dazy-unreasonable-person/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 42,
+   "release": "Unreasonable Person",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Dazy – “Unreasonable Person” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый трек Dazy «Unreasonable Person» в рубрике New Music. Больше деталей в записи нет.",
+   "title": "Dazy – “Unreasonable Person”",
+   "ts": 1792429134.6989515,
+   "why": "новый трек, жанр по записи неясен"
   },
   "b081adddb626": {
    "also": [],
@@ -787,6 +826,7 @@
   "010e4a30c982": 1792140449.516552,
   "011b9f9ecda3": 1792140449.7097273,
   "017689e5990b": 1792140461.4665873,
+  "01caf8286699": 1792429166.2953134,
   "01dff0a9f417": 1792140448.224893,
   "021207a43263": 1792140460.045821,
   "0253f5b89e8e": 1792422148.3329163,
@@ -932,6 +972,7 @@
   "34d77bef4587": 1792165187.4361115,
   "35793f0f0508": 1792140454.9418368,
   "35ac8a3e9935": 1792140462.2817574,
+  "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
   "36b5988e8268": 1792156035.7558544,
   "36be753b5035": 1792140448.2248933,
@@ -989,6 +1030,7 @@
   "451e0f45f3cf": 1792404592.9865537,
   "4617fbe156e4": 1792140449.5165532,
   "46310d15a682": 1792140460.0458255,
+  "464b7309cbc2": 1792429148.3064673,
   "466de0caf3ca": 1792388341.7862463,
   "46eaf615b470": 1792140448.224891,
   "4717282a2862": 1792140455.9615858,
@@ -1101,6 +1143,7 @@
   "6adf74921ba7": 1792140448.2248957,
   "6b360b0bf3ea": 1792140455.6358812,
   "6b7aeeb8116d": 1792140419.4762344,
+  "6c94b9488f69": 1792429163.1891952,
   "6d39a5881c80": 1792339702.5628843,
   "6e6dbb97461c": 1792140456.3847506,
   "6ea463529840": 1792404602.2193522,
@@ -1185,6 +1228,7 @@
   "845a9903ce34": 1792140419.476235,
   "846fb894c5dd": 1792140446.3270485,
   "849d354c5446": 1792144583.6977081,
+  "84fe036a2bd2": 1792429145.3496408,
   "856f1c1110f6": 1792140419.476228,
   "85cda2b46109": 1792404608.7922325,
   "85e43a6506c9": 1792140446.3270457,
@@ -1203,6 +1247,7 @@
   "89f40bc53adc": 1792140456.384752,
   "8a1541a9d297": 1792422140.4139302,
   "8b11ccb6e91a": 1792341719.9827135,
+  "8b9537ee25c2": 1792429128.772528,
   "8bec05ca39c8": 1792140446.1809072,
   "8c01738ecbe5": 1792140448.224891,
   "8c363754de28": 1792162968.1204598,
@@ -1260,9 +1305,11 @@
   "9f307390a3bd": 1792140449.70973,
   "9fb7bf4b6ef1": 1792140448.2248917,
   "a00bff41256b": 1792140455.0717523,
+  "a01e0e069091": 1792429160.2793858,
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
   "a1b9ce14ff30": 1792146692.554182,
+  "a1c683db1f91": 1792429132.0168471,
   "a21305e9132c": 1792140455.0717502,
   "a2250ca0ad50": 1792140446.180915,
   "a236f66efb81": 1792140446.1809092,
@@ -1416,6 +1463,7 @@
   "d11eefaf32fc": 1792140449.709729,
   "d1707b58d43e": 1792140448.2248914,
   "d18874d09bef": 1792386095.0878522,
+  "d1a356510f84": 1792429173.0814223,
   "d2536a491210": 1792171575.8956566,
   "d25a928aa0df": 1792140447.2519505,
   "d301e05295c7": 1792140455.9615839,
