@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792408654
+   "ok": 1792411090
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792408659
+   "ok": 1792411095
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792408659
+   "ok": 1792411095
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792408646
+   "ok": 1792411062
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792408651
+   "ok": 1792411070
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792408653
+   "ok": 1792411071
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792408654
+   "err_ts": 1792411090
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792408654
+   "ok": 1792411090
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,106 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792408639
+   "ok": 1792411051
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792408641
+   "ok": 1792411051
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792408655
+   "ok": 1792411091
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792408658
+   "ok": 1792411094
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792408658
+   "ok": 1792411094
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792408658
+   "ok": 1792411094
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792408638
+   "ok": 1792411051
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792408652
+   "ok": 1792411071
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792408653
+   "ok": 1792411090
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792408651
+   "ok": 1792411070
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792408658
+   "ok": 1792411094
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792408661
+   "ok": 1792411096
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792408660
+   "ok": 1792411096
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792408666
+   "ok": 1792411100
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792408662
+   "ok": 1792411097
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792408667
+   "ok": 1792411102
   }
  },
  "heartbeat": "2026-10-19",
  "items": {
+  "0e1856637269": {
+   "also": [],
+   "artist": "Giant Rooks",
+   "fit": 4,
+   "id": "0e1856637269",
+   "kind": "album",
+   "link": "https://readdork.com/news/giant-rooks-if-heaven-exists-this-might-be-it-album-e8b1a601f4",
+   "listen": {},
+   "major": false,
+   "msg_id": 33,
+   "release": "If Heaven Exists, This Might Be It",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Giant Rooks’ third album is out now, with a US headline tour following in November.",
+   "summary_ru": "Giant Rooks выпустили третий альбом «If Heaven Exists, This Might Be It». Пластинка уже доступна, в ноябре группа отправится в американский хедлайнерский тур.",
+   "title": "Giant Rooks have released new album ‘If Heaven Exists, This Might Be It’",
+   "ts": 1792411088.6443648,
+   "why": "новый инди-рок альбом, явно в жанрах 3L"
+  },
   "138479fbcfdb": {
    "also": [],
    "artist": "HEALTH",
@@ -214,6 +234,26 @@
    "ts": 1792156034.8465784,
    "why": "мейнстрим-поп, не любимый артист 3L"
   },
+  "23617083d539": {
+   "also": [],
+   "artist": "Flora Hibberd",
+   "fit": 4,
+   "id": "23617083d539",
+   "kind": "album",
+   "link": "https://readdork.com/news/rc3-sync-f9325adf62ae8612ef5b09c6",
+   "listen": {},
+   "major": false,
+   "msg_id": 32,
+   "release": "Mammoth",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The London-born, Paris-based artist’s 10-track follow-up to 2025 debut ‘Swirl’ is out now via 22TWENTY, with a London headline date set for November.",
+   "summary_ru": "Флора Хиббард выпустила второй альбом Mammoth из 10 треков, продолжение дебюта Swirl 2025 года. Релиз вышел на лейбле 22TWENTY, в ноябре запланирован концерт в Лондоне.",
+   "title": "Flora Hibberd has released her second album ‘Mammoth’",
+   "ts": 1792411085.9913924,
+   "why": "новый альбом, жанр в записи не указан"
+  },
   "253410846421": {
    "also": [],
    "artist": "SNAYX",
@@ -274,6 +314,26 @@
    "ts": 1792173606.7383308,
    "why": "Новый инди-поп альбом, соседний жанр к дрим-попу"
   },
+  "289305b4f40a": {
+   "also": [],
+   "artist": "The Avalanches",
+   "fit": 4,
+   "id": "289305b4f40a",
+   "kind": "album",
+   "link": "https://readdork.com/news/the-avalanches-no-bad-memories-album-release-a1a7f72f55",
+   "listen": {},
+   "major": true,
+   "msg_id": 29,
+   "release": "No Bad Memories",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Avalanches’ 31-track fourth album ‘No Bad Memories’ is out now, alongside a video for ‘I Give Everything I Have 2 U’ featuring Loaded Honey.",
+   "summary_ru": "Вышел четвертый альбом The Avalanches No Bad Memories из 31 трека. Вместе с ним вышло видео на трек I Give Everything I Have 2 U с участием Loaded Honey.",
+   "title": "The Avalanches have released their new album ‘No Bad Memories’",
+   "ts": 1792411076.9787843,
+   "why": "новый альбом инди-электроники, громкий релиз"
+  },
   "340518293301": {
    "also": [],
    "artist": "Tierra Whack",
@@ -293,6 +353,26 @@
    "title": "Tierra Whack Shares Seven New Songs On Deluxe Whack’s Museum",
    "ts": 1792173605.0382996,
    "why": "хип-хоп/R&B-артистка, не в жанрах 3L"
+  },
+  "3b56f4bbfe7d": {
+   "also": [],
+   "artist": "Tate McRae",
+   "fit": 2,
+   "id": "3b56f4bbfe7d",
+   "kind": "single",
+   "link": "https://readdork.com/news/tate-mcrae-housewife-single-video-74821fb85e",
+   "listen": {},
+   "major": false,
+   "msg_id": 30,
+   "release": "Housewife",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Tate McRae’s new single ‘Housewife’ is out now, accompanied by a music video filmed in the South of France.",
+   "summary_ru": "Тейт Макрэй выпустила новый сингл «Housewife», к которому снят клип во Франции на Лазурном берегу. Трек уже доступен на всех площадках.",
+   "title": "Tate McRae has released ‘Housewife’ with a South of France-shot video",
+   "ts": 1792411079.1130133,
+   "why": "мейнстрим-поп, не любимый артист"
   },
   "3f44a8b2e63c": {
    "also": [],
@@ -498,6 +578,46 @@
    "ts": 1792156058.5868042,
    "why": "новый альбом, синти-поп и дрим-поп в духе 3L"
   },
+  "e3f7a31a1d4c": {
+   "also": [],
+   "artist": "Max Richter",
+   "fit": 2,
+   "id": "e3f7a31a1d4c",
+   "kind": "album",
+   "link": "https://readdork.com/news/max-richter-while-the-flood-rages-release-fbf238ec78",
+   "listen": {},
+   "major": false,
+   "msg_id": 28,
+   "release": "While The Flood Rages",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Max Richter’s new 19-track album ‘While The Flood Rages’ is out now via Decca, with listening events planned across six cities.",
+   "summary_ru": "Макс Рихтер выпустил новый 19-трековый альбом «While The Flood Rages» на лейбле Decca. Также запланированы слушательские мероприятия в шести городах.",
+   "title": "Max Richter has released ‘While The Flood Rages’",
+   "ts": 1792411074.7446046,
+   "why": "неоклассика и ambient, далеко от жанров 3L"
+  },
+  "e522bf3e1268": {
+   "also": [],
+   "artist": "Ruby Gill",
+   "fit": 4,
+   "id": "e522bf3e1268",
+   "kind": "album",
+   "link": "https://readdork.com/news/ruby-gill-fishing-is-not-about-fishing-album-release-3938c33101",
+   "listen": {},
+   "major": false,
+   "msg_id": 31,
+   "release": "Fishing is not about fishing",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Ruby Gill’s third album ‘Fishing is not about fishing’ is out now, alongside a video for lead single ‘Jacaranda’.",
+   "summary_ru": "Вышел третий альбом Руби Гилл «Fishing is not about fishing», вместе с ним вышел клип на главный сингл «Jacaranda».",
+   "title": "Ruby Gill has released new album ‘Fishing is not about fishing’",
+   "ts": 1792411082.9069874,
+   "why": "новый альбом с видео, инди-поп без явной привязки к жанрам 3L"
+  },
   "febd0470b7af": {
    "also": [],
    "artist": "SOB x RBE",
@@ -536,6 +656,7 @@
   "048b9c3740eb": 1792140455.635878,
   "0598a5437ecb": 1792140455.0717537,
   "059e088393a3": 1792140448.2248957,
+  "05b820b582e5": 1792411097.326417,
   "05c74dc89c99": 1792140449.844748,
   "05ecdda2dedc": 1792173631.7756095,
   "0695d8fe5478": 1792140448.2248847,
@@ -560,6 +681,7 @@
   "0d858d64b8c6": 1792140455.0717509,
   "0dcfb6b96df3": 1792140446.180909,
   "0df095a8d387": 1792142237.7308536,
+  "0e1856637269": 1792411086.3589056,
   "0e24bf5a5820": 1792140449.8447468,
   "0ea0b338ed9e": 1792140455.9615836,
   "0ea5610d1c38": 1792406855.018402,
@@ -608,6 +730,7 @@
   "22b798924489": 1792140454.9418402,
   "23252622723e": 1792144566.4577415,
   "2332685efb39": 1792140449.7097278,
+  "23617083d539": 1792411083.2442558,
   "23b491ed0b82": 1792140455.0717523,
   "23b6f2f12dba": 1792140447.2519567,
   "241748841404": 1792140455.0717545,
@@ -623,6 +746,7 @@
   "279cd8a265c5": 1792140455.0717537,
   "27dde81aa9a8": 1792404611.80304,
   "284d60fb998b": 1792173605.5963154,
+  "289305b4f40a": 1792411075.6856875,
   "29aa4ef1cd6f": 1792140455.9615905,
   "2a223c0091ca": 1792140455.0717492,
   "2afa8e117716": 1792140448.224893,
@@ -646,6 +770,7 @@
   "31cb3ce91273": 1792140449.709728,
   "31d32a4b9fa5": 1792140448.2248914,
   "322784ec836b": 1792140456.3847504,
+  "325c0a023b27": 1792411065.409499,
   "33cd4ff17de2": 1792140446.1809144,
   "33de0a385afa": 1792140455.0289197,
   "340518293301": 1792173603.7228317,
@@ -666,7 +791,9 @@
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
+  "3a9d16105d88": 1792411062.3888013,
   "3b26fc1c0f43": 1792156082.832758,
+  "3b56f4bbfe7d": 1792411077.339697,
   "3b93e395b3d2": 1792140419.3187933,
   "3b9e7ac64695": 1792140447.2519503,
   "3be9a98fcc0a": 1792140449.8447514,
@@ -728,6 +855,7 @@
   "4cb400292c54": 1792140449.8447435,
   "4ccbc066761f": 1792140460.928743,
   "4cd077b3e878": 1792140447.2519565,
+  "4cfcc5c8310f": 1792411100.7336833,
   "4d0bee7526a1": 1792140455.6358764,
   "4d35609a534f": 1792343402.9478714,
   "4d38e9b02fa6": 1792156079.437658,
@@ -1149,12 +1277,14 @@
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
   "e36b2397b7e7": 1792158581.4648004,
+  "e3f7a31a1d4c": 1792411071.9854484,
   "e41058613fdd": 1792140449.5165455,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
   "e4c8176b9eb6": 1792334830.8639565,
   "e4cde00cb514": 1792140419.6649094,
   "e5164d5b19ec": 1792140419.664909,
+  "e522bf3e1268": 1792411079.5777755,
   "e535a99e4619": 1792140462.281759,
   "e54150c45bbc": 1792140419.3187938,
   "e64bfe4c2c75": 1792140449.8447442,
