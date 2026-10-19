@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792429154
+   "ok": 1792431192
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792429174
+   "ok": 1792431212
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792429174
+   "ok": 1792431212
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792429143
+   "ok": 1792431186
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792429145
+   "ok": 1792431188
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792429153
+   "ok": 1792431190
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792429155
+   "err_ts": 1792431192
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792429155
+   "ok": 1792431192
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792429136
+   "ok": 1792431176
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792429137
+   "ok": 1792431176
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792429157
+   "ok": 1792431194
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792429174
+   "ok": 1792431211
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792429174
+   "ok": 1792431211
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792429173
+   "ok": 1792431203
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792429128
+   "ok": 1792431174
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792429152
+   "ok": 1792431189
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792429154
+   "ok": 1792431191
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792429152
+   "ok": 1792431188
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792429160
+   "ok": 1792431197
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792429177
+   "ok": 1792431215
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792429176
+   "ok": 1792431214
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792429178
+   "ok": 1792431216
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792429178
+   "ok": 1792431215
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792429179
+   "ok": 1792431220
   }
  },
  "heartbeat": "2026-10-19",
@@ -718,6 +718,26 @@
    "ts": 1792169707.2205467,
    "why": "хардкор, не жанр 3L, новый сингл"
   },
+  "c49c93d616eb": {
+   "also": [],
+   "artist": "Cardi B",
+   "fit": 2,
+   "id": "c49c93d616eb",
+   "kind": "video",
+   "link": "https://pitchfork.com/story/watch-cardi-b-blaze-through-her-no-brakes-tiny-desk-performance/",
+   "listen": {},
+   "major": false,
+   "msg_id": 43,
+   "release": "",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "The rapper’s backing band gave fresh, rock-inflected updates to singles like “ErrTime,” “Up,” and “Bodak Yellow”",
+   "summary_ru": "Кардай Би выступила с концертом в формате Tiny Desk, где её бэк-группа в рок-аранжировках исполнила хиты «ErrTime», «Up» и «Bodak Yellow». Видео вышло в рубрике News.",
+   "title": "Watch Cardi B Blaze Through Her No-Brakes Tiny Desk Performance",
+   "ts": 1792431211.1844468,
+   "why": "хип-хоп, мейнстрим-рэп, не любимый артист"
+  },
   "c996c546aeee": {
    "also": [],
    "artist": "Florrie",
@@ -872,6 +892,7 @@
   "0ed6b841b05d": 1792413711.9912553,
   "0edde9d1bc4a": 1792426684.5101395,
   "0fec224297bb": 1792140419.31879,
+  "0fff843c3f27": 1792431206.560036,
   "108dca2850ed": 1792158595.9177806,
   "118099b3c52c": 1792140419.31879,
   "11b546453935": 1792140460.045827,
@@ -1042,6 +1063,7 @@
   "47f3c6e48cfd": 1792140459.2475774,
   "48764be2d5a4": 1792140455.9615915,
   "488fbcadb1ce": 1792140448.2248912,
+  "48d8b622a58b": 1792431203.437895,
   "497827820914": 1792140419.6649098,
   "49849074169a": 1792246358.0255156,
   "49ff6130e324": 1792140460.0458262,
@@ -1138,6 +1160,7 @@
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
   "69b9f521aa2d": 1792140454.9418392,
+  "69cd93a1f20f": 1792431197.1887515,
   "6a9fc3f24711": 1792140446.3270493,
   "6addf40e5c43": 1792140449.5165477,
   "6adf74921ba7": 1792140448.2248957,
@@ -1282,6 +1305,7 @@
   "98289903348d": 1792140419.3187919,
   "986d9123933f": 1792140455.0289211,
   "9894453d73fc": 1792140419.3187885,
+  "991df6bff6ca": 1792431216.5739083,
   "993bd7ed41d1": 1792140449.5165493,
   "99535c47c6bd": 1792140446.1809103,
   "99585ee436d1": 1792140419.4762278,
@@ -1413,9 +1437,12 @@
   "c38b868b3723": 1792140455.0289168,
   "c38f9e98d3cd": 1792416617.1440046,
   "c39369d20518": 1792140460.9287462,
+  "c3d1e2b291ad": 1792431174.319097,
   "c413891dd1ad": 1792140455.0289178,
   "c4409e4c29f6": 1792140446.1809063,
   "c45fad1d4ede": 1792419538.2528684,
+  "c46ae93a17a2": 1792431200.2513068,
+  "c49c93d616eb": 1792431209.9066129,
   "c4e6bd3c0c70": 1792140448.224896,
   "c53eaa794e97": 1792343397.1827364,
   "c55cb98dadea": 1792140460.928746,
