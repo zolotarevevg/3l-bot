@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792494648
+   "ok": 1792497229
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792494675
+   "ok": 1792497240
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792494675
+   "ok": 1792497240
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792494639
+   "ok": 1792497218
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792494645
+   "ok": 1792497223
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792494647
+   "ok": 1792497224
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792494649
+   "err_ts": 1792497229
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792494649
+   "ok": 1792497229
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792494624
+   "ok": 1792497209
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792494629
+   "ok": 1792497213
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792494651
+   "ok": 1792497231
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792494675
+   "ok": 1792497239
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792494675
+   "ok": 1792497239
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792494674
+   "ok": 1792497239
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792494624
+   "ok": 1792497209
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792494646
+   "ok": 1792497224
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792494648
+   "ok": 1792497228
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792494646,
-   "ok": 1792492308
+   "err": "",
+   "ok": 1792497223
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792494654
+   "ok": 1792497233
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792494679
+   "ok": 1792497243
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792494677
+   "ok": 1792497242
   },
   "Родной звук (TG)": {
    "count": 13,
    "err": "",
-   "ok": 1792494680
+   "ok": 1792497244
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792494679
+   "ok": 1792497243
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792494681
+   "ok": 1792497245
   }
  },
  "heartbeat": "2026-10-20",
@@ -839,6 +838,26 @@
    "ts": 1792424994.3344622,
    "why": "любимый артист Hot Chip, анонс нового альбома"
   },
+  "e28c1b62372d": {
+   "also": [],
+   "artist": "Toria Wooff",
+   "fit": 4,
+   "id": "e28c1b62372d",
+   "kind": "single",
+   "link": "https://readdork.com/news/toria-wooff-noiselessly-single-video-797fe4058a",
+   "listen": {},
+   "major": false,
+   "msg_id": 48,
+   "release": "Noiselessly",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Toria Wooff has released ‘Noiselessly’, the second single from her forthcoming album ‘Aleister’, alongside a new video.",
+   "summary_ru": "Тория Вуфф выпустила сингл «Noiselessly», второй трек с предстоящего альбома «Aleister», вместе с новым клипом.",
+   "title": "Toria Wooff has shared her grief-stricken new single ‘Noiselessly’",
+   "ts": 1792497227.0083885,
+   "why": "новый сингл и анонс альбома, инди-звучание не подтверждено"
+  },
   "e3f7a31a1d4c": {
    "also": [],
    "artist": "Max Richter",
@@ -1041,6 +1060,7 @@
   "241748841404": 1792140455.0717545,
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
+  "24c027f6363f": 1792497218.886947,
   "253410846421": 1792151154.5883605,
   "25806c492e25": 1792187905.6770828,
   "26024080e4af": 1792140455.961591,
@@ -1109,6 +1129,7 @@
   "3b56f4bbfe7d": 1792411077.339697,
   "3b93e395b3d2": 1792140419.3187933,
   "3b9e7ac64695": 1792140447.2519503,
+  "3bdc40419b84": 1792497233.6616488,
   "3be9a98fcc0a": 1792140449.8447514,
   "3c295e6aed26": 1792140446.3270476,
   "3cc255ba7d28": 1792140449.5165544,
@@ -1211,6 +1232,7 @@
   "54aef5424943": 1792140455.961583,
   "54afe85db117": 1792492316.3400936,
   "54c3d4c56840": 1792140449.84475,
+  "54f33345c231": 1792497236.6745937,
   "5513d3e4b246": 1792422151.1009116,
   "5571ceb1add5": 1792140455.6358814,
   "55b51cc1bf5c": 1792140449.8447442,
@@ -1670,6 +1692,7 @@
   "e1869ead1454": 1792140449.8447478,
   "e1928e55e12b": 1792140460.045822,
   "e26be94ff5dc": 1792140455.9615912,
+  "e28c1b62372d": 1792497224.4252322,
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
   "e36b2397b7e7": 1792158581.4648004,
@@ -1698,6 +1721,7 @@
   "e9fe32bd4a9b": 1792140462.281756,
   "ea0f232a3cda": 1792140446.180907,
   "ea5529352777": 1792140455.0717494,
+  "ea6e10489857": 1792497209.2803423,
   "ea6f8ddee7c2": 1792140449.7097304,
   "eab83437a92c": 1792156046.6465232,
   "eadf2bef881f": 1792140455.0289192,
