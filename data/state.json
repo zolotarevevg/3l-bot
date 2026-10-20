@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792502546
+   "ok": 1792505510
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792502553
+   "ok": 1792505516
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792502553
+   "ok": 1792505522
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792502539
+   "ok": 1792505488
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792502543
+   "ok": 1792505503
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792502545
+   "ok": 1792505509
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792502546
+   "err_ts": 1792505510
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792502546
+   "ok": 1792505510
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,87 +54,106 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792502533
+   "ok": 1792505481
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792502534
+   "ok": 1792505481
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792502547
+   "ok": 1792505512
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792502553
+   "ok": 1792505515
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792502553
+   "ok": 1792505515
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792502550
+   "ok": 1792505515
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792502530
+   "ok": 1792505471
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792502544
+   "ok": 1792505508
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792502545
+   "ok": 1792505510
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792502543,
-   "ok": 1792499755
+   "err": "",
+   "ok": 1792505504
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792502550
+   "ok": 1792505515
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792502557
+   "ok": 1792505524
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792502554
+   "ok": 1792505523
   },
   "Родной звук (TG)": {
    "count": 13,
    "err": "",
-   "ok": 1792502558
+   "ok": 1792505526
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792502557
+   "ok": 1792505525
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792502558
+   "ok": 1792505527
   }
  },
  "heartbeat": "2026-10-20",
  "items": {
+  "023092091bb9": {
+   "also": [],
+   "artist": "Ella Thompson",
+   "fit": 2,
+   "id": "023092091bb9",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/ella-thompson-triumph-and-sadness",
+   "listen": {},
+   "major": false,
+   "msg_id": 52,
+   "release": "Triumph And Sadness",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "Australian vocalist returns with smoky, late-night ballads and vintage pop-soul that is both deeply intimate and expansive in scope The post Ella Thompson – Triumph And Sadness appeared first on musicOMH .",
+   "summary_ru": "Австралийская вокалистка Элла Томпсон возвращается с альбомом Triumph And Sadness, рецензию на который опубликовал musicOMH. По описанию, это дымные баллады для поздних вечеров и винтажный поп-соул, одновременно очень личные и масштабные по звучанию.",
+   "title": "Ella Thompson – Triumph And Sadness",
+   "ts": 1792505506.9408772,
+   "why": "поп-соул и баллады, далеко от жанров 3L"
+  },
   "0e1856637269": {
    "also": [],
    "artist": "Giant Rooks",
@@ -455,6 +474,26 @@
    "ts": 1792146708.789486,
    "why": "Новый сингл инди-поп артистки, анонс дебютного альбома"
   },
+  "408c7cfc13a8": {
+   "also": [],
+   "artist": "Shabazz Palaces",
+   "fit": 2,
+   "id": "408c7cfc13a8",
+   "kind": "review",
+   "link": "https://daily.bandcamp.com/album-of-the-day/shabazz-palaces-its-a-style-sport-review",
+   "listen": {},
+   "major": false,
+   "msg_id": 53,
+   "release": "It's A Style Sport",
+   "russian": false,
+   "source": "Bandcamp Daily",
+   "status": "new",
+   "summary_en": "A futuristic innovator turns his gaze inward. Read full story on the Bandcamp Daily .",
+   "summary_ru": "Альбом Shabazz Palaces «It's A Style Sport» выбран «Album of the Day» на Bandcamp Daily. Автор материала описывает музыканта как футуристичного новатора, который обращает взгляд внутрь себя.",
+   "title": "Shabazz Palaces, “It’s A Style Sport”",
+   "ts": 1792505519.007252,
+   "why": "экспериментальный хип-хоп, не любимый артист 3L"
+  },
   "4341c65dffd8": {
    "also": [],
    "artist": "Chase & Status",
@@ -535,6 +574,26 @@
    "ts": 1792492319.1764472,
    "why": "новый сингл инди-поп артистки, близкий к дрим-попу"
   },
+  "5508a72ffbed": {
+   "also": [],
+   "artist": "sadie",
+   "fit": 4,
+   "id": "5508a72ffbed",
+   "kind": "single",
+   "link": "https://stereogum.com/2515049/sadie-little-things/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 49,
+   "release": "Little Things",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post sadie – “Little Things” appeared first on Stereogum .",
+   "summary_ru": "Sadie выпустила новый трек «Little Things», о котором написал Stereogum в рубрике New Music. Больше подробностей в самой записи нет.",
+   "title": "sadie – “Little Things”",
+   "ts": 1792505480.131889,
+   "why": "новый сингл, инди-рок, но артист не в любимых"
+  },
   "58977be833e1": {
    "also": [],
    "artist": "Gotts Street Park",
@@ -574,6 +633,26 @@
    "title": "Mae Muller and Jodie Harsh have teamed up on new single ‘Hallucination’",
    "ts": 1792413723.1097443,
    "why": "мейнстрим-поп, не любимый артист, жанр ближе к поп-танцу"
+  },
+  "659a24ab17a9": {
+   "also": [],
+   "artist": "Lambrini Girls",
+   "fit": 2,
+   "id": "659a24ab17a9",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/lambrini-girls-share-double-single-the-basement-split/",
+   "listen": {},
+   "major": false,
+   "msg_id": 50,
+   "release": "The Basement / Split",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Lambrini Girls have shared new double single ‘The Basement’ and ‘Split’. The band’s 2025 debut ‘Who Let The Dogs Out’ was a rabble-rousing triumph, a feminist punk statement that felt open, funny, and distinctly colourful. New album ‘No Refunds’ hits home on January 15th, with the band sharing a double… The post Lambrini Girls Share Double Single ‘The Basement’ + ‘Split’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Lambrini Girls выпустили двойной сингл «The Basement» и «Split». Он предваряет альбом «No Refunds», который выйдет 15 января.",
+   "title": "Lambrini Girls Share Double Single ‘The Basement’ + ‘Split’",
+   "ts": 1792505491.3051677,
+   "why": "панк, далёкий от жанров 3L"
   },
   "80b15b35029e": {
    "also": [],
@@ -698,6 +777,26 @@
    "title": "Ghost Jr Ups The Tempo On Latest Single ‘2 Phones’",
    "ts": 1792413711.600326,
    "why": "клаб-техно и транс, далеко от жанров 3L"
+  },
+  "a045afcf837d": {
+   "also": [],
+   "artist": "Matt Carmichael",
+   "fit": 2,
+   "id": "a045afcf837d",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/matt-carmichaels-held-in-the-dark-is-a-powerful-jazz-statement/",
+   "listen": {},
+   "major": false,
+   "msg_id": 51,
+   "release": "Held In The Dark",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Scottish saxophonist Matt Carmichael has shared his moving new album ‘Held In The Dark’ in full. Out now, it follows a spell away from the spotlight, with Matt Carmichael spending time caring for a loved on. Those experiences – and more – fuel his new album, with ‘Held In The… The post Matt Carmichael’s ‘Held In The Dark’ Is A Powerful Jazz Statement appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Шотландский саксофонист Мэтт Кармайкл выпустил новый альбом «Held In The Dark» целиком. Записи предшествовал период ухода от внимания публики: музыкант занимался уходом за близким человеком, и эти переживания легли в основу пластинки.",
+   "title": "Matt Carmichael’s ‘Held In The Dark’ Is A Powerful Jazz Statement",
+   "ts": 1792505497.7769437,
+   "why": "джаз, не в жанрах 3L"
   },
   "a1c683db1f91": {
    "also": [],
@@ -950,6 +1049,7 @@
   "01caf8286699": 1792429166.2953134,
   "01dff0a9f417": 1792140448.224893,
   "021207a43263": 1792140460.045821,
+  "023092091bb9": 1792505504.4008245,
   "0253f5b89e8e": 1792422148.3329163,
   "027201d988eb": 1792144554.365646,
   "027e3883aa60": 1792404617.7486067,
@@ -1146,6 +1246,7 @@
   "3f3f0aff7cac": 1792422117.1566305,
   "3f44a8b2e63c": 1792146706.4860857,
   "3f8439c7b1b7": 1792140446.3270478,
+  "408c7cfc13a8": 1792505516.23249,
   "40c54c028cfd": 1792140455.961589,
   "41168a9c98db": 1792447316.253138,
   "41516f00313d": 1792140419.3187914,
@@ -1153,6 +1254,7 @@
   "418f3cc4e7d3": 1792249728.8038208,
   "41908efc3ba9": 1792148989.020137,
   "41c1843aa8f7": 1792156070.780966,
+  "420cd0380016": 1792505471.2903924,
   "42143c76789b": 1792224778.2659497,
   "4229112470c9": 1792140454.9418397,
   "42ac00b68f5e": 1792140419.3187935,
@@ -1168,6 +1270,7 @@
   "446fdd174120": 1792140455.0289283,
   "448b9413020e": 1792486036.1012127,
   "44b2528409f8": 1792419524.7455919,
+  "44e32704f7ec": 1792505491.9044785,
   "451e0f45f3cf": 1792404592.9865537,
   "4617fbe156e4": 1792140449.5165532,
   "46310d15a682": 1792140460.0458255,
@@ -1178,6 +1281,7 @@
   "4726ac85138a": 1792151138.4797187,
   "475045be92c2": 1792140449.5165505,
   "478169686255": 1792140419.318792,
+  "47b71a328d55": 1792505474.8297544,
   "47ba9ffaee92": 1792140447.2519526,
   "47d8cc881efd": 1792140448.2248948,
   "47f3c6e48cfd": 1792140459.2475774,
@@ -1235,6 +1339,7 @@
   "54afe85db117": 1792492316.3400936,
   "54c3d4c56840": 1792140449.84475,
   "54f33345c231": 1792497236.6745937,
+  "5508a72ffbed": 1792505477.734797,
   "5513d3e4b246": 1792422151.1009116,
   "5571ceb1add5": 1792140455.6358814,
   "55b51cc1bf5c": 1792140449.8447442,
@@ -1280,6 +1385,7 @@
   "647e6ed5ab0f": 1792140455.961584,
   "64bbe29b3058": 1792140455.0717542,
   "64f2e390d8a6": 1792494624.348612,
+  "659a24ab17a9": 1792505488.5260932,
   "65bcf6c4486c": 1792140447.2519526,
   "6628b66f702f": 1792152825.1655142,
   "6834be2b7d46": 1792331407.3571088,
@@ -1365,6 +1471,7 @@
   "80a05c7f2167": 1792140455.63588,
   "80b15b35029e": 1792165237.715872,
   "80b45d0fb75e": 1792422109.462642,
+  "80c82416b54f": 1792505519.5982354,
   "81524a5f9308": 1792140455.0717483,
   "815f6d00a069": 1792332791.0701985,
   "8192277a3483": 1792424997.4105656,
@@ -1467,6 +1574,7 @@
   "a00bff41256b": 1792140455.0717523,
   "a01e0e069091": 1792429160.2793858,
   "a02a4d5bab56": 1792502530.2674408,
+  "a045afcf837d": 1792505495.1621578,
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
   "a1b9ce14ff30": 1792146692.554182,
@@ -1792,7 +1900,8 @@
   "ff2bf818309b": 1792140455.961585,
   "ff47b1f2c293": 1792394172.7264376,
   "ffa272aa2536": 1792140455.028928,
-  "ffae539f8a50": 1792140419.6649108
+  "ffae539f8a50": 1792140419.6649108,
+  "fffe77950f93": 1792505498.479631
  },
  "sources_init": [
   "Stereogum",
