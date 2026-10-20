@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792508261
+   "ok": 1792510448
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792508268
+   "ok": 1792510457
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792508268
+   "ok": 1792510457
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792508233
+   "ok": 1792510440
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792508236
+   "ok": 1792510445
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792508239
+   "ok": 1792510447
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792508262
+   "err_ts": 1792510449
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792508262
+   "ok": 1792510449
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792508219
+   "ok": 1792510423
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792508223
+   "ok": 1792510429
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792508263
+   "ok": 1792510450
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792508267
+   "ok": 1792510456
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792508267
+   "ok": 1792510456
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792508267
+   "ok": 1792510453
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792508207
+   "ok": 1792510420
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792508238
+   "ok": 1792510446
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792508249
+   "ok": 1792510448
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792508237
+   "ok": 1792510445
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792508267
+   "ok": 1792510453
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792508273
+   "ok": 1792510460
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792508269
+   "ok": 1792510459
   },
   "Родной звук (TG)": {
    "count": 13,
    "err": "",
-   "ok": 1792508274
+   "ok": 1792510461
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792508274
+   "ok": 1792510460
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792508275
+   "ok": 1792510462
   }
  },
  "heartbeat": "2026-10-20",
@@ -828,6 +828,26 @@
    "ts": 1792156055.4170372,
    "why": "новый дебютный альбом инди-группы, жанр близок 3L"
   },
+  "9a72aece7356": {
+   "also": [],
+   "artist": "Jez Williams",
+   "fit": 4,
+   "id": "9a72aece7356",
+   "kind": "album",
+   "link": "https://www.nme.com/news/music/doves-jez-williams-interview-solo-album-life-of-me-and-you-hollow-man-tour-elbow-3973562?utm_source=rss&utm_medium=rss&utm_campaign=doves-jez-williams-interview-solo-album-life-of-me-and-you-hollow-man-tour-elbow",
+   "listen": {},
+   "major": false,
+   "msg_id": 58,
+   "release": "Life Of Me And You",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Doves ‘ Jez Williams has spoken to NME about this “real labour of love” debut solo album ‘Life Of Me And You’ and plans for the future. Check out details along with the groove-driven single ‘Hollow Man’ below. Due for release on Friday February 26, 2027, ‘Life Of Me And You’ is the guitarist’s first record released under his own name away from Manchester indie royalty Doves, Sub Sub, and Black Rivers, the band he formed in 2012 with his twin brother and bandmate Andy Williams. It also follows the Williams brothers stepping into the roles of frontmen for all tour dates after 2024’s acclaimed ‘ Constellations For The Lonely ‘ after Jimi Goodwin stepped back from the road to focus on his mental health. Described as “a deeply introspective and musically adventurous album influenced by Lou Reed, UFOs, sassy ’60s pop stars, Balearic chill and ‘slow disco'”, the record comes teased by the AC/DC meets glam psych stomp of ‘Hollow Man’ – a song inspired by the “tsunamis of information” in this digital age of “too much information, too many opinions, too much, change coming from all angles”. “I’ve been chipping away at this album in between Doves albums and tours, so it’s been a real labour of love,” Williams told NME . “I really like expressing myself in a different way. I mean, I can do the psych-melancholy listeners might expect of me and Doves all day long, but I just wanted to go into a different space. “I wanted to make something that was very personal to me that other people would enjoy and identify with, so I needed to do this solo album for me. It’s kind of like I didn’t have a choice. I just had to do it. I had to get it out of my system, and I’m very proud of it.” Check out the rest of our interview with Williams below, where he also opened up about album inspiration, his debut solo performances supporting Elbow in Manchester to celebrate ‘Asleep In The Back ‘, and what the future holds for Doves. NME : Hello Jez. How does it feel to have made something under your own name without Jimi or Andy? Jez Williams : “Yeah, it feels great. Doves’ process can be quite a sprawling one. I’ve written a lot of tunes for Doves that then go through the filter of Andy and Jimi, so there’s also been a lot of ideas that I wanted to explore on my own. “In a way, there’s a similar process involved in anything I write and record. But I was in a different headspace with my own stuff, and I wanted to go into that headspace consciously. I didn’t want it to end up sounding remotely Doves-like, whilst it still being me and probably appealing to our listeners, but I worked really intensely on creating my own sound.” Did the act of stepping up as frontman on recent Doves tours give you a certain confidence that fed into this project? “Definitely. Obviously, with Jimi not being well, we were faced with a stark decision about whether or not to go out on the road. But Doves’ songs are, were and will always be bigger than our individual personalities. With all three of us in ag",
+   "summary_ru": "Гитарист Doves Jez Williams выпускает дебютный сольный альбом «Life Of Me And You», релиз назначен на 26 февраля 2027 года. Первым синглом вышел трек «Hollow Man» - группа AC/DC и глэм-психоделии с гроувом. Альбом вдохновлен Lou Reed, UFO, поп-звездами 60-х, балеарикой и slow disco.",
+   "title": "Doves’ Jez Williams talks debut solo album ‘Life Of Me And You’: “It feels like destiny is coming to its starting point”",
+   "ts": 1792510428.9668512,
+   "why": "Инди-гитарист Doves, новый альбом и сингл"
+  },
   "9d42010b171c": {
    "also": [],
    "artist": "Ghost Jr",
@@ -1007,6 +1027,26 @@
    "title": "Hot Chip Announce New Album A Long Way From Kansas: Hear “Random Violence”",
    "ts": 1792424994.3344622,
    "why": "любимый артист Hot Chip, анонс нового альбома"
+  },
+  "dd3f21753fb0": {
+   "also": [],
+   "artist": "Disfear",
+   "fit": 2,
+   "id": "dd3f21753fb0",
+   "kind": "single",
+   "link": "https://stereogum.com/2515118/disfear-shackled-to-our-vice/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 57,
+   "release": "Shackled To Our Vice",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Disfear – “Shackled To Our Vice” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал в рубрике New Music новый трек шведской группы Disfear «Shackled To Our Vice». Других деталей в записи нет.",
+   "title": "Disfear – “Shackled To Our Vice”",
+   "ts": 1792510423.1326835,
+   "why": "хардкор-панк, далёкий от жанров 3L"
   },
   "e28c1b62372d": {
    "also": [],
@@ -1255,6 +1295,7 @@
   "2ac6cfe269f3": 1792422106.1589015,
   "2afa8e117716": 1792140448.224893,
   "2bc125031393": 1792140455.0717525,
+  "2bd8983123f9": 1792510453.881489,
   "2caf0e6c6233": 1792142237.7308605,
   "2d0d74d93414": 1792140449.844743,
   "2d5fe814e4d0": 1792140459.2475772,
@@ -1432,6 +1473,7 @@
   "5975e2515efb": 1792140460.0458274,
   "59adc6a30861": 1792140455.961589,
   "59af292e153d": 1792140455.961587,
+  "5a83bcb0474f": 1792510423.952773,
   "5aba388e115a": 1792140419.4762347,
   "5b06e1c989d2": 1792210358.1284826,
   "5b15cad29d11": 1792483699.979192,
@@ -1639,6 +1681,7 @@
   "9a3dab0d30d6": 1792140462.2817557,
   "9a68ffcca1ad": 1792296821.406791,
   "9a6d97d59356": 1792140446.1809149,
+  "9a72aece7356": 1792510427.3424282,
   "9bd8661db7d8": 1792140446.1809137,
   "9bde636af911": 1792151166.0153506,
   "9d42010b171c": 1792413708.665486,
@@ -1867,6 +1910,7 @@
   "dbd81aee1d50": 1792320475.1409245,
   "dcacabdd1522": 1792483691.139654,
   "dce98e7031cf": 1792140448.2248862,
+  "dd3f21753fb0": 1792510420.1930728,
   "dd99eb344c18": 1792140446.3270469,
   "de36877aa974": 1792140419.3187916,
   "de6914895c6d": 1792140460.0458202,
@@ -1942,6 +1986,7 @@
   "f23ed9366163": 1792140455.071755,
   "f26419ddedbd": 1792140449.7097266,
   "f27cf0b489e1": 1792140446.3270473,
+  "f28791f6cd57": 1792510440.7326968,
   "f28a6874497d": 1792140460.9287448,
   "f296bfcb7867": 1792140447.2519548,
   "f32df657b4ba": 1792140419.3187914,
