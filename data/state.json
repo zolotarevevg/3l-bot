@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792526808
+   "ok": 1792529030
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792526814
+   "ok": 1792529039
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,28 +16,27 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.brooklynvegan.com/feed/",
-   "err_ts": 1792526814,
-   "ok": 1792524772
+   "err": "",
+   "ok": 1792529039
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792526804
+   "ok": 1792529023
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792526806
+   "ok": 1792529025
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792526807
+   "ok": 1792529027
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792526808
+   "err_ts": 1792529030
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792526808
+   "ok": 1792529030
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792526798
+   "ok": 1792529014
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792526799
+   "ok": 1792529014
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792526810
+   "ok": 1792529032
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792526813
+   "ok": 1792529038
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792526813
+   "ok": 1792529038
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792526813
+   "ok": 1792529035
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792526797
+   "ok": 1792529014
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792526806
+   "ok": 1792529026
   },
   "Under the Radar": {
    "count": 40,
-   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.undertheradarmag.com/site/rss",
-   "err_ts": 1792526808,
-   "ok": 1792524766
+   "err": "",
+   "ok": 1792529028
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792526806
+   "ok": 1792529025
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792526813
+   "ok": 1792529035
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792526816
+   "ok": 1792529040
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792526815
+   "ok": 1792529040
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792526818
+   "ok": 1792529041
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792526817
+   "ok": 1792529041
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792526819
+   "ok": 1792529042
   }
  },
  "heartbeat": "2026-10-20",
@@ -460,6 +458,26 @@
    "title": "The Avalanches have released their new album ‘No Bad Memories’",
    "ts": 1792411076.9787843,
    "why": "новый альбом инди-электроники, громкий релиз"
+  },
+  "3128c6ed83d6": {
+   "also": [],
+   "artist": "Lil Baby",
+   "fit": 2,
+   "id": "3128c6ed83d6",
+   "kind": "album",
+   "link": "https://pitchfork.com/story/lil-baby-recruits-future-young-thug-for-new-album-fresh/",
+   "listen": {},
+   "major": false,
+   "msg_id": 62,
+   "release": "Fresh",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "It’s out November 6",
+   "summary_ru": "Lil Baby выпустит новый альбом Fresh 6 ноября. В записи участвуют Future и Young Thug.",
+   "title": "Lil Baby Recruits Future, Young Thug for New Album Fresh",
+   "ts": 1792529037.2676094,
+   "why": "хип-хоп, не любимый артист 3L"
   },
   "340518293301": {
    "also": [],
@@ -1075,6 +1093,26 @@
    "ts": 1792424994.3344622,
    "why": "любимый артист Hot Chip, анонс нового альбома"
   },
+  "cc6d35c6c3dd": {
+   "also": [],
+   "artist": "Jez Williams",
+   "fit": 4,
+   "id": "cc6d35c6c3dd",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/jez_williams_of_doves_announces_debut_solo_album_shares_new_song_hollow_man",
+   "listen": {},
+   "major": true,
+   "msg_id": 61,
+   "release": "Hollow Man",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Jez Williams of Manchester-based trio Doves has announced his debut solo album, Life of Me and You, and shared its first single, “Hollow Man.”",
+   "summary_ru": "Джез Уильямс из Doves анонсировал дебютный сольный альбом Life of Me and You и выпустил первый сингл «Hollow Man». Doves - манчестерское трио, Уильямс входит в его состав.",
+   "title": "Jez Williams of Doves Announces Debut Solo Album, Shares New Song “Hollow Man”",
+   "ts": 1792529029.6961572,
+   "why": "анонс сольного дебюта участника Doves"
+  },
   "dd3f21753fb0": {
    "also": [],
    "artist": "Disfear",
@@ -1364,6 +1402,7 @@
   "2fee18337610": 1792140456.384751,
   "3018ad36e166": 1792140462.281757,
   "30c767b31b93": 1792140449.5165484,
+  "3128c6ed83d6": 1792529035.3777864,
   "318b397810a2": 1792343409.0080278,
   "319b38ef4dd6": 1792425021.739633,
   "31a7393a5421": 1792512972.4273078,
@@ -1923,6 +1962,7 @@
   "cb991e68c9e1": 1792140455.0289192,
   "cbe4da5d4916": 1792140446.1809065,
   "cc00ee94d99e": 1792140446.1809146,
+  "cc6d35c6c3dd": 1792529028.0492203,
   "ccab8da42246": 1792140449.5165503,
   "ccf89f728ff9": 1792140419.66491,
   "ccfb8c581fea": 1792140446.18091,
