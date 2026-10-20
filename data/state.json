@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792475622
+   "ok": 1792478059
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792475629
+   "ok": 1792478072
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792475629
+   "ok": 1792478072
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792475616
+   "ok": 1792478054
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792475618
+   "ok": 1792478056
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792475621
+   "ok": 1792478057
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792475623
+   "err_ts": 1792478059
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792475622
+   "ok": 1792478059
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792475610
+   "ok": 1792478048
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792475611
+   "ok": 1792478048
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792475624
+   "ok": 1792478062
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792475628
+   "ok": 1792478072
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792475628
+   "ok": 1792478072
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792475628
+   "ok": 1792478071
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792475610
+   "ok": 1792478048
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792475620
+   "ok": 1792478057
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792475622
+   "ok": 1792478058
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792478056,
    "ok": 1792475619
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792475628
+   "ok": 1792478065
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792475631
+   "ok": 1792478075
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792475630
+   "ok": 1792478074
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1792475633
+   "ok": 1792478076
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792475632
+   "ok": 1792478076
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792475633
+   "ok": 1792478077
   }
  },
  "heartbeat": "2026-10-20",
@@ -817,6 +818,26 @@
    "title": "Ruby Gill has released new album ‘Fishing is not about fishing’",
    "ts": 1792411082.9069874,
    "why": "новый альбом с видео, инди-поп без явной привязки к жанрам 3L"
+  },
+  "eef3628279ba": {
+   "also": [],
+   "artist": "Chaosbay",
+   "fit": 2,
+   "id": "eef3628279ba",
+   "kind": "single",
+   "link": "https://wrszw.net/chaosbay-egosystem/",
+   "listen": {},
+   "major": false,
+   "msg_id": 44,
+   "release": "Egosystem",
+   "russian": false,
+   "source": "out out - music done",
+   "status": "new",
+   "summary_en": "ドイツを拠点に活動するプログレッシブ・メタル／オルタナティヴ・メタル・バンドChaosbayが、新曲「Egosystem」をリリースしました。緻密でテクニカルなリフワークとダイナミックな重低音、そしてエレクトロニックな質感を巧みに融合させた重厚なメタルコア・サウンドを展開しており、現代社会の歪みやエゴイズムをテーマにした刺激的でメッセージ性の高い楽曲に仕上がっています。 併せて公開された公式ミュージックビデオは、楽曲が持つダークで洗練された世界観とダイナミズムを視覚的に表現した映像作品となっています。バンドの持つ鋭いアグレッションと叙情的なメロディのコントラストを強調するシネマティックな演出が施されており、Chaosbayの圧倒的な演奏力とモダン・メタルシーンにおける存在感を強く印象づける一作です。",
+   "summary_ru": "Немецкая прог-метал группа Chaosbay выпустила новый сингл «Egosystem» на лейбле Metal Blade Records, вместе с официальным клипом. Песня сочетает техничные риффы, тяжёлый бас и электронные текстуры в металкор-звучании.",
+   "title": "Chaosbay – “Egosystem”",
+   "ts": 1792478068.4334996,
+   "why": "метalcore и прог-метал, вне жанров 3L"
   },
   "febd0470b7af": {
    "also": [],
@@ -1549,6 +1570,7 @@
   "e0b0fca5c6cc": 1792140449.7097292,
   "e0f75141e683": 1792140419.3187861,
   "e11c9ced58f9": 1792140455.9615917,
+  "e1355601b294": 1792478069.0786424,
   "e16c4c346902": 1792169690.0172782,
   "e17d154dc10d": 1792140448.2248929,
   "e1869ead1454": 1792140449.8447478,
@@ -1589,6 +1611,7 @@
   "ed3baed6d6aa": 1792140455.0717516,
   "edb1719f6081": 1792140446.1809142,
   "edbf257e9d8f": 1792140449.8447516,
+  "eef3628279ba": 1792478065.7128956,
   "ef4ad44e8683": 1792140455.0289283,
   "ef6938d92007": 1792390459.402517,
   "ef8ac49ef671": 1792140449.8447492,
