@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792529030
+   "ok": 1792530992
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792529039
+   "ok": 1792530998
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792529039
+   "ok": 1792530999
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792529023
+   "ok": 1792530985
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792529025
+   "ok": 1792530987
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792529027
+   "ok": 1792530988
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792529030
+   "err_ts": 1792530993
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792529030
+   "ok": 1792530993
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792529014
+   "ok": 1792530980
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792529014
+   "ok": 1792530980
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792529032
+   "ok": 1792530995
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792529038
+   "ok": 1792530998
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792529038
+   "ok": 1792530998
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792529035
+   "ok": 1792530998
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792529014
+   "ok": 1792530976
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792529026
+   "ok": 1792530987
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792529028
+   "ok": 1792530992
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792530987,
    "ok": 1792529025
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792529035
+   "ok": 1792530998
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792529040
+   "ok": 1792531001
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792529040
+   "ok": 1792531000
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792529041
+   "ok": 1792531002
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792529041
+   "ok": 1792531002
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792529042
+   "ok": 1792531003
   }
  },
  "heartbeat": "2026-10-20",
@@ -338,6 +339,26 @@
    "title": "Zach Bryan Shares New EP Young Manhood & Other Donatable Organs Feat. Lana Del Rey & Turnpike Troubadours",
    "ts": 1792158568.7757282,
    "why": "кантри-фолк, мейнстрим; не в жанрах 3L"
+  },
+  "2043ca86c43d": {
+   "also": [],
+   "artist": "Ibex Clone",
+   "fit": 4,
+   "id": "2043ca86c43d",
+   "kind": "album",
+   "link": "https://stereogum.com/2515176/ibex-clone-announce-new-album-gravity-hear-the-title-track/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 63,
+   "release": "Gravity",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Ibex Clone Announce New Album <em>Gravity</em>: Hear The Title Track appeared first on Stereogum .",
+   "summary_ru": "Ibex Clone анонсировали новый альбом Gravity и выпустили заглавный трек. В записи нет дат выхода и подробностей о звучании.",
+   "title": "Ibex Clone Announce New Album Gravity: Hear The Title Track",
+   "ts": 1792530979.2876894,
+   "why": "новый альбом и трек, жанр точно не известен"
   },
   "2132cb7b53af": {
    "also": [],
@@ -1347,6 +1368,7 @@
   "1f70bf6007bd": 1792140455.9615905,
   "1f7aca6c3335": 1792517947.7068393,
   "2008852bbe08": 1792140455.9615865,
+  "2043ca86c43d": 1792530976.3543844,
   "204f128ed171": 1792140448.2248952,
   "2132cb7b53af": 1792156032.01266,
   "213b94bb11f0": 1792443258.3728712,
@@ -1867,6 +1889,7 @@
   "b394ccb5c82c": 1792313389.6735408,
   "b3f940355541": 1792494657.5484557,
   "b451a09c2638": 1792140446.1809099,
+  "b49f637bfb75": 1792530988.4977975,
   "b54dc7cce185": 1792408639.112622,
   "b5b16ec68cfd": 1792140455.0289187,
   "b5bc8c4d9a0e": 1792169705.1837678,
