@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792515335
+   "ok": 1792517978
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792515341
+   "ok": 1792517983
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792515341
+   "ok": 1792517984
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792515312
+   "ok": 1792517956
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792515323
+   "ok": 1792517961
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792515333
+   "ok": 1792517968
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792515335
+   "err_ts": 1792517978
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792515335
+   "ok": 1792517978
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792515297
+   "ok": 1792517951
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792515301
+   "ok": 1792517951
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792515337
+   "ok": 1792517980
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792515341
+   "ok": 1792517983
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792515340
+   "ok": 1792517983
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792515340
+   "ok": 1792517983
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792515294
+   "ok": 1792517943
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792515333
+   "ok": 1792517968
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792515335
+   "ok": 1792517978
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792515332
+   "ok": 1792517967
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792515340
+   "ok": 1792517983
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792515343
+   "ok": 1792517986
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792515343
+   "ok": 1792517985
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792515345
+   "ok": 1792517987
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792515344
+   "ok": 1792517987
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792515346
+   "ok": 1792517992
   }
  },
  "heartbeat": "2026-10-20",
@@ -298,6 +298,26 @@
    "title": "PINS Release New Single “All Over”",
    "ts": 1792508261.1746309,
    "why": "Новый сингл и анонс альбома, инди-рок в духе пост-панка"
+  },
+  "1a8dd88cb908": {
+   "also": [],
+   "artist": "Whait",
+   "fit": 3,
+   "id": "1a8dd88cb908",
+   "kind": "album",
+   "link": "https://stereogum.com/2515137/wendy-eisenberg-more-eaze-announce-debut-whait-album-sympathy-at-home-hear-falling-down/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 59,
+   "release": "sympathy at home",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Wendy Eisenberg & more eaze Announce Debut Whait Album <em>sympathy at home</em>: Hear “Falling Down” appeared first on Stereogum .",
+   "summary_ru": "Wendy Eisenberg и more eaze анонсировали дебютный альбом своего проекта Whait под названием sympathy at home. Вместе с анонсом вышел трек «Falling Down».",
+   "title": "Wendy Eisenberg & more eaze Announce Debut Whait Album sympathy at home: Hear “Falling Down”",
+   "ts": 1792517947.0370996,
+   "why": "малоизвестный проект, звучание не ясно из записи"
   },
   "1a9ca8a43973": {
    "also": [],
@@ -685,7 +705,12 @@
    "why": "мейнстрим-поп, не любимый артист, жанр ближе к поп-танцу"
   },
   "659a24ab17a9": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/lambrini-girls-the-basement-spilt-double-single-b14d5200d4",
+     "source": "Dork"
+    }
+   ],
    "artist": "Lambrini Girls",
    "fit": 2,
    "id": "659a24ab17a9",
@@ -1152,6 +1177,7 @@
  "playlists": {},
  "seen": {
   "001ccef7d993": 1792140446.327047,
+  "00cf68ed866d": 1792517972.206484,
   "010d74688fcd": 1792140449.7097287,
   "010e4a30c982": 1792140449.516552,
   "011b9f9ecda3": 1792140449.7097273,
@@ -1241,6 +1267,7 @@
   "19e0330a1098": 1792508253.0522387,
   "19f06b4eeb8c": 1792251658.0496576,
   "1a2837f9350c": 1792140460.9287448,
+  "1a8dd88cb908": 1792517943.933015,
   "1a9ca8a43973": 1792158567.0555933,
   "1ac86fefef28": 1792140462.2817588,
   "1adeb91bc752": 1792140446.1809092,
@@ -1256,6 +1283,7 @@
   "1eee9f06cc55": 1792508233.9891453,
   "1f3145e50fac": 1792140449.516549,
   "1f70bf6007bd": 1792140455.9615905,
+  "1f7aca6c3335": 1792517947.7068393,
   "2008852bbe08": 1792140455.9615865,
   "204f128ed171": 1792140448.2248952,
   "2132cb7b53af": 1792156032.01266,
@@ -1406,6 +1434,7 @@
   "47ba9ffaee92": 1792140447.2519526,
   "47d8cc881efd": 1792140448.2248948,
   "47f3c6e48cfd": 1792140459.2475774,
+  "48096a74fc03": 1792517956.4290605,
   "48764be2d5a4": 1792140455.9615915,
   "488fbcadb1ce": 1792140448.2248912,
   "48ba04323394": 1792492319.6077063,
@@ -1424,6 +1453,7 @@
   "4c0d756a398a": 1792140419.3187897,
   "4c213bbd29b9": 1792502539.441338,
   "4c671b4757f4": 1792237202.7927878,
+  "4c70f39495c5": 1792517961.1542182,
   "4cb400292c54": 1792140449.8447435,
   "4ccbc066761f": 1792140460.928743,
   "4cd077b3e878": 1792140447.2519565,
@@ -1610,6 +1640,7 @@
   "829765279e3c": 1792140456.3847523,
   "831514a0216c": 1792140419.318791,
   "8396c64e6662": 1792140455.961587,
+  "840f36fc9aa4": 1792517975.2035751,
   "842bed8c6aea": 1792223386.951102,
   "8444dfbb9385": 1792140419.318789,
   "845a9903ce34": 1792140419.476235,
@@ -1670,6 +1701,7 @@
   "961a8b84f529": 1792140419.318788,
   "962fdfe11801": 1792140448.2248914,
   "963062bba48c": 1792140451.9265785,
+  "96330c08539f": 1792517964.4208171,
   "96a8a3d3f1d2": 1792499751.6825202,
   "96ab6eac469e": 1792148985.7453387,
   "972e97802e92": 1792307774.648558,
@@ -1758,6 +1790,7 @@
   "b1c1030d0039": 1792140446.1809149,
   "b1e8b156271f": 1792140455.028929,
   "b20415692253": 1792152846.5121946,
+  "b21e264fe5d0": 1792517987.853784,
   "b23ada202e29": 1792140455.0717514,
   "b2627c63c8f9": 1792494639.6479814,
   "b26a0c305fe1": 1792140448.2248852,
@@ -1777,6 +1810,7 @@
   "b754f3b9945d": 1792140451.9265769,
   "b755ffca5d88": 1792140448.224886,
   "b79df9f648bb": 1792508219.5516636,
+  "b7a1b51599e4": 1792517968.8680768,
   "b7c7bb587490": 1792140449.5165505,
   "b804d527fa31": 1792140454.9418395,
   "b921c157f828": 1792152839.4524844,
