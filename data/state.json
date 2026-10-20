@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792519737
+   "ok": 1792522293
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792519748
+   "ok": 1792522298
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,27 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792519749
+   "ok": 1792522299
   },
   "Clash": {
    "count": 10,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.clashmusic.com', port=443): Read timed out. (read timeout=25)",
-   "err_ts": 1792519732,
-   "ok": 1792517956
+   "err": "",
+   "ok": 1792522288
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792519733
+   "ok": 1792522290
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792519735
+   "ok": 1792522292
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792519737
+   "err_ts": 1792522293
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792519737
+   "ok": 1792522293
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792519703
+   "ok": 1792522283
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792519707
+   "ok": 1792522284
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792519739
+   "ok": 1792522295
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792519748
+   "ok": 1792522298
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792519748
+   "ok": 1792522298
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792519742
+   "ok": 1792522298
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792519700
+   "ok": 1792522280
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792519735
+   "ok": 1792522291
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792519737
+   "ok": 1792522293
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792519734
+   "ok": 1792522290
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792519742
+   "ok": 1792522298
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792519751
+   "ok": 1792522301
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792519750
+   "ok": 1792522300
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792519753
+   "ok": 1792522303
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792519752
+   "ok": 1792522302
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792519754
+   "ok": 1792522306
   }
  },
  "heartbeat": "2026-10-20",
@@ -729,6 +728,26 @@
    "title": "Lambrini Girls Share Double Single ‘The Basement’ + ‘Split’",
    "ts": 1792505491.3051677,
    "why": "панк, далёкий от жанров 3L"
+  },
+  "7016723a5dea": {
+   "also": [],
+   "artist": "Bicep",
+   "fit": 3,
+   "id": "7016723a5dea",
+   "kind": "album",
+   "link": "https://stereogum.com/2515149/bicep-announce-new-album-slug-hear-three-tracks/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 60,
+   "release": "SLUG",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Bicep Announce New Album <em>SLUG</em>: Hear Three Tracks appeared first on Stereogum .",
+   "summary_ru": "Дуэт Bicep анонсировал новый альбом SLUG. В записи упоминаются три опубликованных трека, но их названия и дата выхода в тексте не указаны.",
+   "title": "Bicep Announce New Album SLUG: Hear Three Tracks",
+   "ts": 1792522283.1874523,
+   "why": "анонс альбома, но электроника клубного толка, соседний жанр"
   },
   "80b15b35029e": {
    "also": [],
@@ -1570,6 +1589,7 @@
   "6f543076563c": 1792140448.2248945,
   "6fe276ca97a7": 1792165188.7052171,
   "6ffaeb2538df": 1792262237.9721475,
+  "7016723a5dea": 1792522280.288218,
   "7048051c6fff": 1792408662.4360516,
   "709b95069b59": 1792142237.730859,
   "70cc05c79f2a": 1792140449.8447452,
@@ -2033,6 +2053,7 @@
   "f079f6a977f9": 1792140455.9615886,
   "f0ca5bb9c05f": 1792140419.318792,
   "f0f750fbac1e": 1792140455.635877,
+  "f19de1a9a3f3": 1792522303.0382776,
   "f1e7a941e7f9": 1792140455.96159,
   "f1fa40e98212": 1792140446.180908,
   "f23ed9366163": 1792140455.071755,
