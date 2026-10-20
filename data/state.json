@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792492329
+   "ok": 1792494648
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792492340
+   "ok": 1792494675
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792492340
+   "ok": 1792494675
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792492302
+   "ok": 1792494639
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792492307
+   "ok": 1792494645
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792492309
+   "ok": 1792494647
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792492329
+   "err_ts": 1792494649
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792492329
+   "ok": 1792494649
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792492292
+   "ok": 1792494624
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792492297
+   "ok": 1792494629
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792492330
+   "ok": 1792494651
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792492340
+   "ok": 1792494675
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792492340
+   "ok": 1792494675
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792492339
+   "ok": 1792494674
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792492292
+   "ok": 1792494624
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792492308
+   "ok": 1792494646
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792492328
+   "ok": 1792494648
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792494646,
    "ok": 1792492308
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792492333
+   "ok": 1792494654
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792492342
+   "ok": 1792494679
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792492341
+   "ok": 1792494677
   },
   "Родной звук (TG)": {
    "count": 13,
    "err": "",
-   "ok": 1792492344
+   "ok": 1792494680
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792492343
+   "ok": 1792494679
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792492344
+   "ok": 1792494681
   }
  },
  "heartbeat": "2026-10-20",
@@ -738,6 +739,26 @@
    "ts": 1792406873.213988,
    "why": "грайм и афробит, не жанры 3L"
   },
+  "b2627c63c8f9": {
+   "also": [],
+   "artist": "Nabihah Iqbal",
+   "fit": 4,
+   "id": "b2627c63c8f9",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/nabihah-iqbal-returns-with-new-single-heaven-can-wait/",
+   "listen": {},
+   "major": false,
+   "msg_id": 47,
+   "release": "Heaven Can Wait",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Nabihah Iqbal is back with new single ‘Heaven Can Wait’. The UK artist is now based in New York City, with Nabihah signing to Ghostly International to focus on her next chapter. Building the follow-up to 2023 album ‘DREAMER’, the songwriter turns the page with new single ‘Heaven Can Wait’.… The post Nabihah Iqbal Returns With New Single ‘Heaven Can Wait’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Набиха Икбал выпустила новый сингл «Heaven Can Wait». Это первый материал после альбома DREAMER (2023), над которым она работает. Артистка переехала в Нью-Йорк и подписала контракт с Ghostly International.",
+   "title": "Nabihah Iqbal Returns With New Single ‘Heaven Can Wait’",
+   "ts": 1792494642.544341,
+   "why": "новый сингл, инди-электроника и дрим-поп, не любимый артист"
+  },
   "b5bc8c4d9a0e": {
    "also": [],
    "artist": "FUET!",
@@ -961,6 +982,7 @@
   "1190bdca8427": 1792492336.6984515,
   "11b546453935": 1792140460.045827,
   "121625f6561d": 1792413732.3814454,
+  "1217c4e6beea": 1792494671.4185624,
   "126a0a5d79e3": 1792140460.0458257,
   "127c5593c948": 1792140447.2519565,
   "12b3ba08a6f9": 1792140455.028919,
@@ -1004,7 +1026,9 @@
   "2132cb7b53af": 1792156032.01266,
   "213b94bb11f0": 1792443258.3728712,
   "213ce197186c": 1792458440.4909623,
+  "216e8859b167": 1792494654.2874107,
   "2193169657c9": 1792140446.1809134,
+  "21b5f8d0f370": 1792494660.5864563,
   "21f3b2cd1c8a": 1792440683.8495347,
   "221aa08a47ca": 1792140419.3187878,
   "2285d94f63ca": 1792140455.0289195,
@@ -1070,6 +1094,7 @@
   "36be753b5035": 1792140448.2248933,
   "36cf2f066160": 1792140455.6358771,
   "36d8a60cb0f6": 1792140447.2519493,
+  "36fefd377398": 1792494677.2540016,
   "3763f0d04960": 1792140419.3187895,
   "37718f033128": 1792162994.498489,
   "38a689ac4d40": 1792416651.4927404,
@@ -1230,6 +1255,7 @@
   "64672d2d90b5": 1792146689.3993351,
   "647e6ed5ab0f": 1792140455.961584,
   "64bbe29b3058": 1792140455.0717542,
+  "64f2e390d8a6": 1792494624.348612,
   "65bcf6c4486c": 1792140447.2519526,
   "6628b66f702f": 1792152825.1655142,
   "6834be2b7d46": 1792331407.3571088,
@@ -1375,6 +1401,7 @@
   "9377ddc69d53": 1792140449.516553,
   "93d6c526dcef": 1792148972.9182477,
   "93d92df0ce81": 1792404614.7149212,
+  "942a6eb0d8f6": 1792494643.066955,
   "948eae092ca3": 1792140455.6358817,
   "9498add16dcb": 1792140449.844742,
   "94ab1a1d63b0": 1792244944.5369136,
@@ -1437,11 +1464,13 @@
   "a70eedef66de": 1792140460.0458221,
   "a7438d7ebcb6": 1792167240.5355127,
   "a78420dc9d7a": 1792140455.961586,
+  "a7928c587097": 1792494668.2631805,
   "a7a7fc7ec88a": 1792140455.961586,
   "a9558be2e824": 1792140449.844752,
   "aa5a3d93093a": 1792440703.3610823,
   "aa8b54134cb2": 1792140446.1809144,
   "aa976d0dcb23": 1792140449.7097301,
+  "aca8d85dbe01": 1792494665.6587026,
   "acabb43d1aa3": 1792140456.384748,
   "acf72b6c08c6": 1792148969.8518102,
   "ad30869d0f20": 1792416644.3908706,
@@ -1464,12 +1493,14 @@
   "b1e8b156271f": 1792140455.028929,
   "b20415692253": 1792152846.5121946,
   "b23ada202e29": 1792140455.0717514,
+  "b2627c63c8f9": 1792494639.6479814,
   "b26a0c305fe1": 1792140448.2248852,
   "b2912b8ccea4": 1792148941.4395857,
   "b32c57b05f19": 1792167234.8527672,
   "b38ffb8de5a9": 1792480987.138016,
   "b393e7583939": 1792183932.8529909,
   "b394ccb5c82c": 1792313389.6735408,
+  "b3f940355541": 1792494657.5484557,
   "b451a09c2638": 1792140446.1809099,
   "b54dc7cce185": 1792408639.112622,
   "b5b16ec68cfd": 1792140455.0289187,
