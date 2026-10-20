@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792490275
+   "ok": 1792492329
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792490281
+   "ok": 1792492340
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792490281
+   "ok": 1792492340
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792490261
+   "ok": 1792492302
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792490268
+   "ok": 1792492307
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792490273
+   "ok": 1792492309
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792490275
+   "err_ts": 1792492329
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792490275
+   "ok": 1792492329
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792490251
+   "ok": 1792492292
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792490251
+   "ok": 1792492297
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792490277
+   "ok": 1792492330
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792490280
+   "ok": 1792492340
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792490280
+   "ok": 1792492340
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792490280
+   "ok": 1792492339
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792490250
+   "ok": 1792492292
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792490269
+   "ok": 1792492308
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792490274
+   "ok": 1792492328
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792490268
+   "ok": 1792492308
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792490280
+   "ok": 1792492333
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792490283
+   "ok": 1792492342
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792490282
+   "ok": 1792492341
   },
   "Родной звук (TG)": {
    "count": 13,
    "err": "",
-   "ok": 1792490284
+   "ok": 1792492344
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792490284
+   "ok": 1792492343
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792490285
+   "ok": 1792492344
   }
  },
  "heartbeat": "2026-10-20",
@@ -213,6 +213,26 @@
    "title": "Radio Free Alice shout out their ‘Melbourne Friends’ in exclusive playlist to accompany The Cover",
    "ts": 1792399808.6997886,
    "why": "инди-группа, новый дебютный альбом, близкие жанры"
+  },
+  "1870ba42ad82": {
+   "also": [],
+   "artist": "NCT DREAM",
+   "fit": 2,
+   "id": "1870ba42ad82",
+   "kind": "video",
+   "link": "https://readdork.com/news/nct-dream-the-sun-video-dream-after-dream-645dcc2268",
+   "listen": {},
+   "major": false,
+   "msg_id": 46,
+   "release": "The Sun",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "NCT DREAM’s new video for ‘The Sun’ arrives ahead of their sixth studio album, ‘DREAM AFTER DREAM’, due on 9th November.",
+   "summary_ru": "NCT DREAM выпустили клип на трек «The Sun» перед шестым студийным альбомом «DREAM AFTER DREAM», который выйдет 9 ноября. Группа - K-pop, далека от заявленных жанров 3L.",
+   "title": "NCT DREAM have unveiled ‘The Sun’ ahead of new album ‘DREAM AFTER DREAM’",
+   "ts": 1792492327.6936526,
+   "why": "K-pop, мейнстрим-поп, не любимый артист"
   },
   "1a9ca8a43973": {
    "also": [],
@@ -493,6 +513,26 @@
    "title": "jo from school Shares New Single “Living Room”",
    "ts": 1792146710.4511611,
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
+  },
+  "54afe85db117": {
+   "also": [],
+   "artist": "Hannah Frances",
+   "fit": 4,
+   "id": "54afe85db117",
+   "kind": "single",
+   "link": "https://readdork.com/news/hannah-frances-circadian-heart-video-715879f95e",
+   "listen": {},
+   "major": false,
+   "msg_id": 45,
+   "release": "Circadian Heart",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Hannah Frances’ new single ‘Circadian Heart’ arrives with a Derrick Alexander-helmed video as her UK and European tour continues.",
+   "summary_ru": "Ханна Фрэнсис выпустила новый сингл «Circadian Heart» с видео, которое снял Деррик Александер. Релиз совпал с продолжающимся туром по Великобритании и Европе.",
+   "title": "Hannah Frances is breaking old relationship patterns on her new single, ‘Circadian Heart’",
+   "ts": 1792492319.1764472,
+   "why": "новый сингл инди-поп артистки, близкий к дрим-попу"
   },
   "58977be833e1": {
    "also": [],
@@ -918,6 +958,7 @@
   "108dca2850ed": 1792158595.9177806,
   "116f5fd6222e": 1792490268.9391212,
   "118099b3c52c": 1792140419.31879,
+  "1190bdca8427": 1792492336.6984515,
   "11b546453935": 1792140460.045827,
   "121625f6561d": 1792413732.3814454,
   "126a0a5d79e3": 1792140460.0458257,
@@ -926,6 +967,7 @@
   "12cfc583aa5e": 1792487986.0171812,
   "13803bb369e8": 1792140448.2248926,
   "138479fbcfdb": 1792175857.1966312,
+  "139d4eb904d0": 1792492302.7914765,
   "13be515e46a6": 1792399806.0338573,
   "13d885cbec0a": 1792473359.6779761,
   "13eb4f70de50": 1792422138.3649497,
@@ -939,6 +981,7 @@
   "169c87879ee4": 1792140446.1809082,
   "16b7d5deb701": 1792140455.0717554,
   "183c6447ba17": 1792140454.9418406,
+  "1870ba42ad82": 1792492326.4260542,
   "1938e5f6d74d": 1792140460.0458217,
   "199cf08d08b7": 1792140446.1809065,
   "19f06b4eeb8c": 1792251658.0496576,
@@ -1093,6 +1136,7 @@
   "47f3c6e48cfd": 1792140459.2475774,
   "48764be2d5a4": 1792140455.9615915,
   "488fbcadb1ce": 1792140448.2248912,
+  "48ba04323394": 1792492319.6077063,
   "48d8b622a58b": 1792431203.437895,
   "497827820914": 1792140419.6649098,
   "49849074169a": 1792246358.0255156,
@@ -1104,6 +1148,7 @@
   "4b7977784cdb": 1792206424.4953105,
   "4b83f3977353": 1792140447.2519555,
   "4ba24c824ff9": 1792140460.0458252,
+  "4be0a6ba5462": 1792492292.2950537,
   "4c0d756a398a": 1792140419.3187897,
   "4c671b4757f4": 1792237202.7927878,
   "4cb400292c54": 1792140449.8447435,
@@ -1139,6 +1184,7 @@
   "53a84735055c": 1792140446.1809156,
   "53deeb975485": 1792140447.2519517,
   "54aef5424943": 1792140455.961583,
+  "54afe85db117": 1792492316.3400936,
   "54c3d4c56840": 1792140449.84475,
   "5513d3e4b246": 1792422151.1009116,
   "5571ceb1add5": 1792140455.6358814,
@@ -1430,6 +1476,7 @@
   "b5bc8c4d9a0e": 1792169705.1837678,
   "b68191dae77c": 1792453401.7144582,
   "b6bae459f1a8": 1792140455.6358774,
+  "b74758bdad7b": 1792492313.3335397,
   "b754f3b9945d": 1792140451.9265769,
   "b755ffca5d88": 1792140448.224886,
   "b7c7bb587490": 1792140449.5165505,
@@ -1438,6 +1485,7 @@
   "b940f4c3434f": 1792140446.1809156,
   "b9d2eaeff83a": 1792216588.8571377,
   "b9e6ec5954c5": 1792140449.8447447,
+  "b9ebd6f801b1": 1792492309.6645746,
   "ba12bebb94cb": 1792165220.2133727,
   "babac65f9ee5": 1792336195.3161216,
   "baf387705495": 1792140448.2248955,
@@ -1520,7 +1568,9 @@
   "cd54469f5588": 1792167231.590421,
   "cdb0a474d09f": 1792140459.2475774,
   "cdd0248af6e0": 1792140456.3847501,
+  "ce005e54ecad": 1792492333.7717834,
   "ce495841f579": 1792438294.4894397,
+  "cf8a59f7943e": 1792492323.2851028,
   "cf8fc31eaa39": 1792416602.0501945,
   "cfadb5360de1": 1792140455.6358788,
   "cfe7958f5a88": 1792231894.1587906,
@@ -1544,6 +1594,7 @@
   "d5139dfdf51b": 1792140449.7097282,
   "d5204abcd1f1": 1792237225.8804777,
   "d5499cd310ba": 1792140448.2248938,
+  "d559f7c8ab97": 1792492295.6119306,
   "d574441237e3": 1792140455.0717506,
   "d65394fb65ea": 1792167258.7184207,
   "d6826247bbc4": 1792140419.3187897,
