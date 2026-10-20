@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792505510
+   "ok": 1792508261
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792505516
+   "ok": 1792508268
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792505522
+   "ok": 1792508268
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792505488
+   "ok": 1792508233
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792505503
+   "ok": 1792508236
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792505509
+   "ok": 1792508239
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792505510
+   "err_ts": 1792508262
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792505510
+   "ok": 1792508262
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792505481
+   "ok": 1792508219
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792505481
+   "ok": 1792508223
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792505512
+   "ok": 1792508263
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792505515
+   "ok": 1792508267
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792505515
+   "ok": 1792508267
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792505515
+   "ok": 1792508267
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792505471
+   "ok": 1792508207
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792505508
+   "ok": 1792508238
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792505510
+   "ok": 1792508249
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792505504
+   "ok": 1792508237
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792505515
+   "ok": 1792508267
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792505524
+   "ok": 1792508273
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792505523
+   "ok": 1792508269
   },
   "Родной звук (TG)": {
    "count": 13,
    "err": "",
-   "ok": 1792505526
+   "ok": 1792508274
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792505525
+   "ok": 1792508274
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792505527
+   "ok": 1792508275
   }
  },
  "heartbeat": "2026-10-20",
@@ -153,6 +153,31 @@
    "title": "Ella Thompson – Triumph And Sadness",
    "ts": 1792505506.9408772,
    "why": "поп-соул и баллады, далеко от жанров 3L"
+  },
+  "0c74cea80e3a": {
+   "also": [
+    {
+     "link": "https://readdork.com/news/one-step-closer-zero-blue-hour-was-it-ever-enough-099ac479ec",
+     "source": "Dork"
+    }
+   ],
+   "artist": "One Step Closer",
+   "fit": 2,
+   "id": "0c74cea80e3a",
+   "kind": "album",
+   "link": "https://stereogum.com/2515090/one-step-closer-announce-new-album-zero-hear-two-tracks/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 54,
+   "release": "Zero",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post One Step Closer Announce New Album <em>Zero</em>: Hear Two Tracks appeared first on Stereogum .",
+   "summary_ru": "Группа One Step Closer анонсировала новый альбом Zero и опубликовала два трека. Больше подробностей в записи нет.",
+   "title": "One Step Closer Announce New Album Zero: Hear Two Tracks",
+   "ts": 1792508213.1999466,
+   "why": "тяжелый хардкор-звук, не в жанрах 3L"
   },
   "0e1856637269": {
    "also": [],
@@ -253,6 +278,26 @@
    "title": "NCT DREAM have unveiled ‘The Sun’ ahead of new album ‘DREAM AFTER DREAM’",
    "ts": 1792492327.6936526,
    "why": "K-pop, мейнстрим-поп, не любимый артист"
+  },
+  "19e0330a1098": {
+   "also": [],
+   "artist": "PINS",
+   "fit": 4,
+   "id": "19e0330a1098",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/pins_release_new_single_all_over",
+   "listen": {},
+   "major": false,
+   "msg_id": 56,
+   "release": "All Over",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "PINS share new single \"All Over\" and announce fourth album If I'm Alive Now, Then I Was Dead, due 12th February 2027",
+   "summary_ru": "Группа PINS выпустила новый сингл «All Over» и объявила четвёртый альбом If I'm Alive Now, Then I Was Dead, который выйдет 12 февраля 2027 года.",
+   "title": "PINS Release New Single “All Over”",
+   "ts": 1792508261.1746309,
+   "why": "Новый сингл и анонс альбома, инди-рок в духе пост-панка"
   },
   "1a9ca8a43973": {
    "also": [],
@@ -555,7 +600,12 @@
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
   },
   "54afe85db117": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://stereogum.com/2515106/hannah-frances-circadian-heart/music/",
+     "source": "Stereogum"
+    }
+   ],
    "artist": "Hannah Frances",
    "fit": 4,
    "id": "54afe85db117",
@@ -737,6 +787,26 @@
    "title": "Fontaines D.C. — Dopamine Chamber",
    "ts": 1792169715.7223,
    "why": "пост-панк группы, новый альбом, рецензия"
+  },
+  "974f6ed2c236": {
+   "also": [],
+   "artist": "CHALK",
+   "fit": 4,
+   "id": "974f6ed2c236",
+   "kind": "single",
+   "link": "https://readdork.com/news/chalk-heaven-hell-phantogram-fontaines-dc-tour-46ae946479",
+   "listen": {},
+   "major": false,
+   "msg_id": 55,
+   "release": "Heaven / Hell",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Belfast duo’s latest release arrives with a two-part video and an arena run supporting Fontaines D.C.",
+   "summary_ru": "Белфастский дуэт CHALK выпустил двойной сингл «Heaven» и «Hell» с участием Сары Бартел из Phantogram. Релиз сопровождается двухчастным видео и серией концертов на аренах в поддержку Fontaines D.C.",
+   "title": "CHALK have shared new double single ‘Heaven’ and ‘Hell’ with Phantogram’s Sarah Barthel",
+   "ts": 1792508248.2297764,
+   "why": "Новый сингл постпанк-группы, близкой к жанрам 3L"
   },
   "99c9b82bf452": {
    "also": [],
@@ -1079,10 +1149,12 @@
   "0a23054c8cc0": 1792140419.3187902,
   "0aabe4fd61ec": 1792140446.1809072,
   "0bf3ddcdf4ae": 1792140455.6358778,
+  "0c74cea80e3a": 1792508210.9518852,
   "0ca432f303ba": 1792140455.6358807,
   "0cbc6471679d": 1792140451.9265776,
   "0cbf301a1f4e": 1792140449.5165517,
   "0ce9c3736d05": 1792140455.6358805,
+  "0d47cbbba3fc": 1792508216.5903573,
   "0d4eba75b4f2": 1792140419.3187907,
   "0d858d64b8c6": 1792140455.0717509,
   "0d8e37dc4345": 1792422156.8566613,
@@ -1126,6 +1198,7 @@
   "1870ba42ad82": 1792492326.4260542,
   "1938e5f6d74d": 1792140460.0458217,
   "199cf08d08b7": 1792140446.1809065,
+  "19e0330a1098": 1792508253.0522387,
   "19f06b4eeb8c": 1792251658.0496576,
   "1a2837f9350c": 1792140460.9287448,
   "1a9ca8a43973": 1792158567.0555933,
@@ -1134,11 +1207,13 @@
   "1ae1e58eac1b": 1792140455.9615843,
   "1b8ebd38393f": 1792401953.9222965,
   "1c1a19341b3a": 1792140448.224896,
+  "1c85d917aef6": 1792508239.3585792,
   "1ca80366ece2": 1792401945.6989021,
   "1cb6b8a29133": 1792140455.9615846,
   "1d621bd98241": 1792140448.2248864,
   "1d66948e8460": 1792140447.251955,
   "1ebd567d2022": 1792140449.8447437,
+  "1eee9f06cc55": 1792508233.9891453,
   "1f3145e50fac": 1792140449.516549,
   "1f70bf6007bd": 1792140455.9615905,
   "2008852bbe08": 1792140455.9615865,
@@ -1153,6 +1228,7 @@
   "221aa08a47ca": 1792140419.3187878,
   "2285d94f63ca": 1792140455.0289195,
   "22b798924489": 1792140454.9418402,
+  "22f05a25215c": 1792508249.788675,
   "23252622723e": 1792144566.4577415,
   "2332685efb39": 1792140449.7097278,
   "23617083d539": 1792411083.2442558,
@@ -1225,6 +1301,7 @@
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
+  "3a295d1ab3af": 1792508213.7042525,
   "3a9d16105d88": 1792411062.3888013,
   "3b26fc1c0f43": 1792156082.832758,
   "3b56f4bbfe7d": 1792411077.339697,
@@ -1360,6 +1437,7 @@
   "5b15cad29d11": 1792483699.979192,
   "5b8783d98819": 1792140455.028918,
   "5bc25d26d660": 1792140460.928744,
+  "5bc707844c94": 1792508242.4379385,
   "5bf8eb3ee90a": 1792140447.2519531,
   "5cabf6b4e702": 1792401934.2513602,
   "5cceba3c9e71": 1792140459.2475762,
@@ -1544,6 +1622,7 @@
   "96a8a3d3f1d2": 1792499751.6825202,
   "96ab6eac469e": 1792148985.7453387,
   "972e97802e92": 1792307774.648558,
+  "974f6ed2c236": 1792508245.4609227,
   "97d2543aea4d": 1792140455.0717547,
   "98289903348d": 1792140419.3187919,
   "986d9123933f": 1792140455.0289211,
@@ -1645,6 +1724,7 @@
   "b74758bdad7b": 1792492313.3335397,
   "b754f3b9945d": 1792140451.9265769,
   "b755ffca5d88": 1792140448.224886,
+  "b79df9f648bb": 1792508219.5516636,
   "b7c7bb587490": 1792140449.5165505,
   "b804d527fa31": 1792140454.9418395,
   "b921c157f828": 1792152839.4524844,
@@ -1811,6 +1891,7 @@
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
   "e36b2397b7e7": 1792158581.4648004,
+  "e38c455dd67d": 1792508207.8553078,
   "e3f7a31a1d4c": 1792411071.9854484,
   "e41058613fdd": 1792140449.5165455,
   "e4555c33b8e7": 1792140419.3187923,
@@ -1896,6 +1977,7 @@
   "fcb7c6b0cfd8": 1792486031.3206658,
   "fd65f9e97e46": 1792140455.9615855,
   "fe1d3fc30a4f": 1792140448.2248933,
+  "fe2cd00e439c": 1792508269.549407,
   "febd0470b7af": 1792171558.4127772,
   "ff2bf818309b": 1792140455.961585,
   "ff47b1f2c293": 1792394172.7264376,
