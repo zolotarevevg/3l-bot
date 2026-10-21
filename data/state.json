@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792562046
+   "ok": 1792564527
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792562053
+   "ok": 1792564533
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792562053
+   "ok": 1792564533
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792562042
+   "ok": 1792564519
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792562043
+   "ok": 1792564521
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792562045
+   "ok": 1792564526
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792562047
+   "err_ts": 1792564528
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792562047
+   "ok": 1792564528
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792562030
+   "ok": 1792564509
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792562031
+   "ok": 1792564509
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792562049
+   "ok": 1792564530
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792562052
+   "ok": 1792564533
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792562052
+   "ok": 1792564533
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792562052
+   "ok": 1792564532
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792562030
+   "ok": 1792564509
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792562044
+   "ok": 1792564525
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792562046
+   "ok": 1792564527
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792562044
+   "ok": 1792564522
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792562051
+   "ok": 1792564532
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792562055
+   "ok": 1792564536
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792562054
+   "ok": 1792564535
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792562057
+   "ok": 1792564537
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792562056
+   "ok": 1792564536
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792562057
+   "ok": 1792564537
   }
  },
  "heartbeat": "2026-10-21",
@@ -952,6 +952,26 @@
    "title": "Ghost Jr Ups The Tempo On Latest Single ‘2 Phones’",
    "ts": 1792413711.600326,
    "why": "клаб-техно и транс, далеко от жанров 3L"
+  },
+  "9d43247b68cc": {
+   "also": [],
+   "artist": "Knats",
+   "fit": 2,
+   "id": "9d43247b68cc",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/knats-a-great-day-in-newcastle",
+   "listen": {},
+   "major": false,
+   "msg_id": 64,
+   "release": "A Great Day In Newcastle",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "The Jazz quintet deliver a fantastic paean to their home city and showcase freewheeling vitality as a musical ensemble The post Knats – A Great Day In Newcastle appeared first on musicOMH .",
+   "summary_ru": "musicOMH рецензирует альбом A Great Day In Newcastle джазового квинтета Knats. Рецензент отмечает посвящение родному городу и свободную энергию ансамбля.",
+   "title": "Knats – A Great Day In Newcastle",
+   "ts": 1792564524.5735698,
+   "why": "джаз, не в жанрах 3L"
   },
   "a045afcf837d": {
    "also": [],
@@ -1820,6 +1840,7 @@
   "9c3d06bccd88": 1792543834.4118776,
   "9c9dafd824f8": 1792519700.5345464,
   "9d42010b171c": 1792413708.665486,
+  "9d43247b68cc": 1792564522.1471624,
   "9d77ae8d7812": 1792140456.3847497,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
