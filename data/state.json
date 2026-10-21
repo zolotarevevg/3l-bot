@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792575316
+   "ok": 1792577672
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792575322
+   "ok": 1792577679
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792575322
+   "ok": 1792577679
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792575290
+   "ok": 1792577660
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792575299
+   "ok": 1792577665
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792575306
+   "ok": 1792577667
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792575316
+   "err_ts": 1792577672
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792575316
+   "ok": 1792577672
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792575278
+   "ok": 1792577650
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792575282
+   "ok": 1792577654
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792575318
+   "ok": 1792577674
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792575322
+   "ok": 1792577679
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792575321
+   "ok": 1792577678
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792575321
+   "ok": 1792577677
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792575278
+   "ok": 1792577649
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792575303
+   "ok": 1792577666
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792575315
+   "ok": 1792577672
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792575302,
-   "ok": 1792573136
+   "err": "",
+   "ok": 1792577666
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792575321
+   "ok": 1792577677
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792575324
+   "ok": 1792577682
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792575323
+   "ok": 1792577681
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792575329
+   "ok": 1792577683
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792575325
+   "ok": 1792577683
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792575329
+   "ok": 1792577684
   }
  },
  "heartbeat": "2026-10-21",
@@ -873,6 +872,26 @@
    "title": "OK Go have released handbell versions of ‘Return’ and ‘Shooting the Moon’",
    "ts": 1792422142.937632,
    "why": "инди-поп группа, новое видео и аранжировки"
+  },
+  "8a227d049bed": {
+   "also": [],
+   "artist": "Fenne Lily",
+   "fit": 4,
+   "id": "8a227d049bed",
+   "kind": "single",
+   "link": "https://readdork.com/news/fenne-lily-stranger-things-win-win-single-video-e7b13255bc",
+   "listen": {},
+   "major": false,
+   "msg_id": 67,
+   "release": "Stranger Things",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Fenne Lily’s new single ‘Stranger Things’ arrives with a Puget Sound-shot video before her fourth album ‘Win Win’ lands this Friday.",
+   "summary_ru": "Фенн Лили выпустила новый сингл «Stranger Things» с видео, снятым в районе Puget Sound. Это предвестник четвертого альбома «Win Win», который выходит в эту пятницу.",
+   "title": "Fenne Lily is finding reasons to be optimistic with new single ‘Stranger Things’",
+   "ts": 1792577670.3305762,
+   "why": "инди-рок, новый сингл и анонс альбома"
   },
   "8b9537ee25c2": {
    "also": [],
@@ -1785,6 +1804,7 @@
   "7f85e4b2c5ba": 1792140447.2519534,
   "7fde0bc85218": 1792140460.0458272,
   "7fe99601ab13": 1792140419.6649106,
+  "800ae9f40da0": 1792577650.48513,
   "800de1077536": 1792142237.73086,
   "8067e1d3064f": 1792426680.3227131,
   "809571dd721e": 1792140449.8447495,
@@ -1830,6 +1850,7 @@
   "89b522e809fd": 1792140419.3187902,
   "89f40bc53adc": 1792140456.384752,
   "8a1541a9d297": 1792422140.4139302,
+  "8a227d049bed": 1792577667.6337144,
   "8b11ccb6e91a": 1792341719.9827135,
   "8b47fa9dd67f": 1792512960.8585916,
   "8b66ee660951": 1792443276.4357345,
@@ -1992,6 +2013,7 @@
   "b9e6ec5954c5": 1792140449.8447447,
   "b9ebd6f801b1": 1792492309.6645746,
   "ba12bebb94cb": 1792165220.2133727,
+  "ba932da34c59": 1792577660.6593142,
   "babac65f9ee5": 1792336195.3161216,
   "baf387705495": 1792140448.2248955,
   "bb2d00251754": 1792502550.7149422,
