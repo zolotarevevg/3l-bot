@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792577672
+   "ok": 1792580183
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792577679
+   "ok": 1792580188
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792577679
+   "ok": 1792580188
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792577660
+   "ok": 1792580138
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792577665
+   "ok": 1792580140
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792577667
+   "ok": 1792580141
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792577672
+   "err_ts": 1792580183
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792577672
+   "ok": 1792580183
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792577650
+   "ok": 1792580132
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792577654
+   "ok": 1792580133
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792577674
+   "ok": 1792580185
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792577679
+   "ok": 1792580188
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792577678
+   "ok": 1792580188
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792577677
+   "ok": 1792580188
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792577649
+   "ok": 1792580132
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792577666
+   "ok": 1792580141
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792577672
+   "ok": 1792580183
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792577666
+   "ok": 1792580140
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792577677
+   "ok": 1792580188
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792577682
+   "ok": 1792580192
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792577681
+   "ok": 1792580190
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792577683
+   "ok": 1792580193
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792577683
+   "ok": 1792580193
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792577684
+   "ok": 1792580194
   }
  },
  "heartbeat": "2026-10-21",
@@ -339,6 +339,26 @@
    "ts": 1792158568.7757282,
    "why": "кантри-фолк, мейнстрим; не в жанрах 3L"
   },
+  "1bc3ceec0e73": {
+   "also": [],
+   "artist": "Lou Doillon",
+   "fit": 3,
+   "id": "1bc3ceec0e73",
+   "kind": "single",
+   "link": "https://readdork.com/news/lou-doillon-i-try-my-best-single-video-b1c0ff9ac6",
+   "listen": {},
+   "major": false,
+   "msg_id": 72,
+   "release": "I Try My Best",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Lou Doillon’s first single for Columbia France, ‘I Try My Best’, is out now with an Alexandra Cabral-directed video and a new album due in 2027.",
+   "summary_ru": "Лу Дуйон выпустила первый за семь лет сингл «I Try My Best» на лейбле Columbia France, к нему вышло видео в режиссуре Александры Кабрал. Новый альбом обещан в 2027 году.",
+   "title": "Lou Doillon has shared her first new music in seven years",
+   "ts": 1792580161.8491704,
+   "why": "Новый сингл и анонс альбома, но звучание не из любимого списка"
+  },
   "2043ca86c43d": {
    "also": [],
    "artist": "Ibex Clone",
@@ -378,6 +398,46 @@
    "title": "Chappell Roan Joins Olivia Rodrigo On “Expectations” Remix: Watch Their Kitschy Video Feat. David Byrne",
    "ts": 1792156034.8465784,
    "why": "мейнстрим-поп, не любимый артист 3L"
+  },
+  "21f9dac8dfee": {
+   "also": [],
+   "artist": "Canned Pineapple",
+   "fit": 4,
+   "id": "21f9dac8dfee",
+   "kind": "single",
+   "link": "https://readdork.com/news/canned-pineapple-sign-missing-piece-records-done-with-everything-17510d8f14",
+   "listen": {},
+   "major": false,
+   "msg_id": 71,
+   "release": "Done With Everything",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Brighton five-piece Canned Pineapple have joined Missing Piece Records, releasing new single ‘Done With Everything’ to mark the signing.",
+   "summary_ru": "Пятиместная группа Canned Pineapple из Брайтона подписала контракт с лейблом Missing Piece Records и выпустила новый сингл Done With Everything.",
+   "title": "Canned Pineapple have signed to Missing Piece Records and shared ‘Done With Everything’",
+   "ts": 1792580157.8769813,
+   "why": "новый сингл инди-группы, явно в жанрах 3L"
+  },
+  "224c16a35330": {
+   "also": [],
+   "artist": "Esme Emerson",
+   "fit": 4,
+   "id": "224c16a35330",
+   "kind": "single",
+   "link": "https://readdork.com/news/esme-emerson-gun-single-video-509685f00b",
+   "listen": {},
+   "major": false,
+   "msg_id": 70,
+   "release": "Gun",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Suffolk sibling duo’s latest preview of ‘It’s All Just Noise’ arrives with a tape-shot road-trip video.",
+   "summary_ru": "Суффолкский сиблинг-дуэт Esme Emerson выпустил трек \"Gun\" о безответной любви и вине - это превью предстоящего альбома \"It's All Just Noise\". К песне вышло видео в духе дорожного путешествия.",
+   "title": "Esme Emerson have shared ‘Gun’, a song about unrequited love and guilt",
+   "ts": 1792580152.1086078,
+   "why": "новый сингл инди-дуэта, анонс альбома"
   },
   "23617083d539": {
    "also": [],
@@ -809,6 +869,26 @@
    "ts": 1792505491.3051677,
    "why": "панк, далёкий от жанров 3L"
   },
+  "6b8b10122807": {
+   "also": [],
+   "artist": "Big Softy",
+   "fit": 4,
+   "id": "6b8b10122807",
+   "kind": "ep",
+   "link": "https://readdork.com/news/big-softy-soft-tissue-troubleshooting-a2a31099ff",
+   "listen": {},
+   "major": false,
+   "msg_id": 74,
+   "release": "Troubleshooting",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The London duo’s debut EP arrives on 4th November, alongside a new single and November headline shows.",
+   "summary_ru": "Лондонский дуэт Big Softy выпускает дебютный EP Troubleshooting 4 ноября вместе с новым синглом. В ноябре также запланированы сольные концерты в качестве хедлайнеров.",
+   "title": "East London dance-punk duo Big Softy are taking aim at toxic expectations on ‘Troubleshooting’",
+   "ts": 1792580176.8426065,
+   "why": "Дебютный EP, dance-punk близок к пост-панку"
+  },
   "7016723a5dea": {
    "also": [],
    "artist": "Bicep",
@@ -828,6 +908,26 @@
    "title": "Bicep Announce New Album SLUG: Hear Three Tracks",
    "ts": 1792522283.1874523,
    "why": "анонс альбома, но электроника клубного толка, соседний жанр"
+  },
+  "722402c1ca0a": {
+   "also": [],
+   "artist": "Elephant",
+   "fit": 4,
+   "id": "722402c1ca0a",
+   "kind": "single",
+   "link": "https://readdork.com/news/elephant-about-you-single-video-49099e1f32",
+   "listen": {},
+   "major": false,
+   "msg_id": 73,
+   "release": "About You",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Rotterdam quartet Elephant’s new single ‘About You’ is out now via V2 Records, alongside a video and November live dates.",
+   "summary_ru": "Роттердамский квартет Elephant выпустил новый сингл «About You» на лейбле V2 Records вместе с видеоклипом. Группа также анонсировала концерты в ноябре.",
+   "title": "Rotterdam quartet Elephant have shared their bittersweet new single ‘About You’",
+   "ts": 1792580173.801815,
+   "why": "новый инди-сингл, жанр близкий 3L"
   },
   "80b15b35029e": {
    "also": [],
@@ -1153,6 +1253,26 @@
    "ts": 1792431211.1844468,
    "why": "хип-хоп, мейнстрим-рэп, не любимый артист"
   },
+  "c5dcf770bb75": {
+   "also": [],
+   "artist": "Horse Vision",
+   "fit": 4,
+   "id": "c5dcf770bb75",
+   "kind": "single",
+   "link": "https://readdork.com/news/horse-vision-goblins-head-scenic-route-cbaefee112",
+   "listen": {},
+   "major": false,
+   "msg_id": 69,
+   "release": "Goblin's Head",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Stockholm duo’s first release for Scenic Route began as a stripped-back studio ballad before taking shape in the archipelago.",
+   "summary_ru": "Стокгольмский дуэт Horse Vision выпустил новый сингл «Goblin's Head», свой первый релиз на лейбле Scenic Route. Трек начинался как аскетичная студийная баллада, а окончательно оформился в архипелаге.",
+   "title": "Stockholm duo Horse Vision have returned with new single ‘Goblin’s Head’",
+   "ts": 1792580146.2129893,
+   "why": "новый сингл инди-дуэта, близкий к дрим-попу"
+  },
   "c996c546aeee": {
    "also": [],
    "artist": "Florrie",
@@ -1232,6 +1352,26 @@
    "title": "Disfear – “Shackled To Our Vice”",
    "ts": 1792510423.1326835,
    "why": "хардкор-панк, далёкий от жанров 3L"
+  },
+  "e1370b5fd45d": {
+   "also": [],
+   "artist": "Chiedu Oraka",
+   "fit": 2,
+   "id": "e1370b5fd45d",
+   "kind": "single",
+   "link": "https://readdork.com/news/chiedu-oraka-damned-kwechiri-single-0bdf582c80",
+   "listen": {},
+   "major": false,
+   "msg_id": 68,
+   "release": "Damned",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Hull rapper Chiedu Oraka follows ‘Cocoa Butter’ with the smooth, stripped-back ‘Damned’, accompanied by a video addressing racial profiling.",
+   "summary_ru": "Рэпер из Халла Чиеду Ораке выпустил сингл «Damned» перед EP «Kwechiri», следом за треком «Cocoa Butter». Видео к песне затрагивает расовое профилирование.",
+   "title": "Chiedu Oraka has shared new single ‘Damned’ ahead of his ‘Kwechiri’ EP",
+   "ts": 1792580144.4189217,
+   "why": "хип-хоп, вне жанров 3L, не любимый артист"
   },
   "e28c1b62372d": {
    "also": [],
@@ -1356,11 +1496,13 @@
   "03a99f1e8d20": 1792140455.961588,
   "04420f0110cc": 1792140447.251953,
   "048b9c3740eb": 1792140455.635878,
+  "04dd1100da82": 1792580152.6002626,
   "0598a5437ecb": 1792140455.0717537,
   "059e088393a3": 1792140448.2248957,
   "05b820b582e5": 1792411097.326417,
   "05c74dc89c99": 1792140449.844748,
   "05ecdda2dedc": 1792173631.7756095,
+  "0631a73a3f8c": 1792580181.858272,
   "0695d8fe5478": 1792140448.2248847,
   "06b35e5c1641": 1792140449.7097294,
   "06edcd7a6d46": 1792575278.4042907,
@@ -1437,6 +1579,7 @@
   "1adeb91bc752": 1792140446.1809092,
   "1ae1e58eac1b": 1792140455.9615843,
   "1b8ebd38393f": 1792401953.9222965,
+  "1bc3ceec0e73": 1792580160.6029775,
   "1c1a19341b3a": 1792140448.224896,
   "1c85d917aef6": 1792508239.3585792,
   "1ca80366ece2": 1792401945.6989021,
@@ -1458,8 +1601,10 @@
   "2193169657c9": 1792140446.1809134,
   "21b5f8d0f370": 1792494660.5864563,
   "21f3b2cd1c8a": 1792440683.8495347,
+  "21f9dac8dfee": 1792580155.3225443,
   "221aa08a47ca": 1792140419.3187878,
   "223ce2176870": 1792515294.4774737,
+  "224c16a35330": 1792580149.6238112,
   "2285d94f63ca": 1792140455.0289195,
   "22b798924489": 1792140454.9418402,
   "22f05a25215c": 1792508249.788675,
@@ -1648,6 +1793,7 @@
   "4fb516e2a4f2": 1792140446.3270483,
   "4fdb7591c6cc": 1792413693.1458669,
   "503f6fa21f9f": 1792140447.2519507,
+  "507dccca9d6b": 1792580181.8582704,
   "5080e114c5a9": 1792399824.7527132,
   "508edc71da07": 1792140462.2817566,
   "521cb72facdc": 1792416647.0615003,
@@ -1713,6 +1859,7 @@
   "633c8a8374fe": 1792413720.500745,
   "636f788ecffb": 1792202413.4859474,
   "63749dc8dd87": 1792140446.1809075,
+  "637df2591771": 1792580162.321164,
   "63e736abbad6": 1792151149.0594196,
   "64672d2d90b5": 1792146689.3993351,
   "647e6ed5ab0f": 1792140455.961584,
@@ -1733,6 +1880,7 @@
   "6adf74921ba7": 1792140448.2248957,
   "6b360b0bf3ea": 1792140455.6358812,
   "6b7aeeb8116d": 1792140419.4762344,
+  "6b8b10122807": 1792580174.278773,
   "6c02cdbec83d": 1792487962.0225365,
   "6c94b9488f69": 1792429163.1891952,
   "6d39a5881c80": 1792339702.5628843,
@@ -1752,6 +1900,7 @@
   "709b95069b59": 1792142237.730859,
   "70cc05c79f2a": 1792140449.8447452,
   "712e7bb84c2a": 1792140455.961588,
+  "722402c1ca0a": 1792580170.7398224,
   "725f1b9c2b1a": 1792140448.2248943,
   "72a7bb3a2ba5": 1792140446.1809094,
   "72adf3386d46": 1792140462.2817569,
@@ -1773,6 +1922,7 @@
   "7537ab40d39e": 1792404605.3771222,
   "756a17119932": 1792140455.96159,
   "759679035db5": 1792177974.4335725,
+  "759d71760200": 1792580146.8202639,
   "75e263cff6cd": 1792140456.3847508,
   "761513d062d8": 1792140455.9615877,
   "7616e2b960c9": 1792160449.239621,
@@ -1860,6 +2010,7 @@
   "8c363754de28": 1792162968.1204598,
   "8c6d212fb010": 1792490261.0778842,
   "8cf4f6337609": 1792140449.5165527,
+  "8d21ae1e7953": 1792580164.9990478,
   "8d8aec2def93": 1792140448.224892,
   "8d9964c367b8": 1792140449.844752,
   "8e881925f98d": 1792167217.643163,
@@ -1900,6 +2051,7 @@
   "99535c47c6bd": 1792140446.1809103,
   "99585ee436d1": 1792140419.4762278,
   "9974ec4b2351": 1792408646.2620907,
+  "99b8b40666b2": 1792580181.8582687,
   "99c9b82bf452": 1792156053.0010424,
   "99ca80f6c202": 1792140448.2248926,
   "99fe4d7175b9": 1792140419.318793,
@@ -2059,6 +2211,7 @@
   "c3fd80da2d25": 1792502554.7610836,
   "c413891dd1ad": 1792140455.0289178,
   "c4409e4c29f6": 1792140446.1809063,
+  "c44376e0f904": 1792580178.5709918,
   "c45fad1d4ede": 1792419538.2528684,
   "c46ae93a17a2": 1792431200.2513068,
   "c49c93d616eb": 1792431209.9066129,
@@ -2070,6 +2223,7 @@
   "c5abad382776": 1792140449.5165534,
   "c5b0508c62e8": 1792140454.9418404,
   "c5d80d71f562": 1792140460.0458276,
+  "c5dcf770bb75": 1792580144.9394844,
   "c63fc5ef7d5f": 1792140449.5165498,
   "c64d2b5ef670": 1792140449.5165548,
   "c64e0e9bd89e": 1792140449.5165548,
@@ -2104,6 +2258,7 @@
   "cdd0248af6e0": 1792140456.3847501,
   "ce005e54ecad": 1792492333.7717834,
   "ce495841f579": 1792438294.4894397,
+  "cf06a4a9b303": 1792580190.0545037,
   "cf8a59f7943e": 1792492323.2851028,
   "cf8fc31eaa39": 1792416602.0501945,
   "cfadb5360de1": 1792140455.6358788,
@@ -2141,6 +2296,7 @@
   "d8516f1c7b5e": 1792575309.8005059,
   "d86fc384d4ba": 1792338128.2548878,
   "d889aaf06053": 1792338147.1760545,
+  "d89d77a038b4": 1792580177.3079207,
   "d8fe7164610a": 1792140449.516551,
   "d9a6be2ac275": 1792140455.0717518,
   "d9a7bdd59168": 1792140455.6358798,
@@ -2173,6 +2329,7 @@
   "e0f75141e683": 1792140419.3187861,
   "e11c9ced58f9": 1792140455.9615917,
   "e1355601b294": 1792478069.0786424,
+  "e1370b5fd45d": 1792580141.6037438,
   "e16c4c346902": 1792169690.0172782,
   "e17d154dc10d": 1792140448.2248929,
   "e1869ead1454": 1792140449.8447478,
@@ -2219,6 +2376,7 @@
   "ecb2b42e7823": 1792483706.1863785,
   "ecca7d0cf56c": 1792140448.224895,
   "eccf533edf11": 1792167237.6133509,
+  "ed2fe6f93d45": 1792580158.3805008,
   "ed3baed6d6aa": 1792140455.0717516,
   "edb1719f6081": 1792140446.1809142,
   "edbf257e9d8f": 1792140449.8447516,
@@ -2230,6 +2388,7 @@
   "f05dc6d2a0b3": 1792426641.387894,
   "f079f6a977f9": 1792140455.9615886,
   "f0ca5bb9c05f": 1792140419.318792,
+  "f0d393044f5e": 1792580181.8582711,
   "f0f750fbac1e": 1792140455.635877,
   "f19de1a9a3f3": 1792522303.0382776,
   "f1e7a941e7f9": 1792140455.96159,
@@ -2250,6 +2409,7 @@
   "f5b4ae464757": 1792309734.017719,
   "f5ecccd8442e": 1792140446.1809096,
   "f5f31ee24982": 1792167243.2886531,
+  "f6ac5fa4bb9e": 1792580168.0418339,
   "f6b35d0cea11": 1792140448.2248924,
   "f73ae026400e": 1792167228.6425884,
   "f75d23074d1a": 1792327572.7444234,
