@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792567569
+   "ok": 1792570317
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792567574
+   "ok": 1792570326
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792567574
+   "ok": 1792570326
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792567566
+   "ok": 1792570307
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792567567
+   "ok": 1792570308
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792567568
+   "ok": 1792570316
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792567569
+   "err_ts": 1792570318
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792567569
+   "ok": 1792570318
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792567555
+   "ok": 1792570294
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792567556
+   "ok": 1792570295
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792567571
+   "ok": 1792570320
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792567574
+   "ok": 1792570323
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792567574
+   "ok": 1792570323
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792567574
+   "ok": 1792570323
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792567555
+   "ok": 1792570294
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792567568
+   "ok": 1792570312
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792567569
+   "ok": 1792570317
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792567567,
-   "ok": 1792564522
+   "err": "",
+   "ok": 1792570309
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792567574
+   "ok": 1792570323
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792567578
+   "ok": 1792570329
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792567575
+   "ok": 1792570328
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792567579
+   "ok": 1792570330
   },
   "Сломанные пляски (TG)": {
    "count": 18,
    "err": "",
-   "ok": 1792567578
+   "ok": 1792570329
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792567583
+   "ok": 1792570331
   }
  },
  "heartbeat": "2026-10-21",
@@ -519,6 +518,26 @@
    "title": "Tierra Whack Shares Seven New Songs On Deluxe Whack’s Museum",
    "ts": 1792173605.0382996,
    "why": "хип-хоп/R&B-артистка, не в жанрах 3L"
+  },
+  "39fe00195106": {
+   "also": [],
+   "artist": "Darren Hayman",
+   "fit": 4,
+   "id": "39fe00195106",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
+   "listen": {},
+   "major": false,
+   "msg_id": 65,
+   "release": "I'm Your Team",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "The prolific creator's latest uses the Yamaha DX7 synthesiser to create 50 minutes of startlingly lovely music to soothe troubled souls The post Darren Hayman – I’m Your Team appeared first on musicOMH .",
+   "summary_ru": "Рецензия на новый альбом Даррена Хаймана I'm Your Team, записанный с использованием синтезатора Yamaha DX7. Длительность около 50 минут, музыка мягкая и успокаивающая.",
+   "title": "Darren Hayman – I’m Your Team",
+   "ts": 1792570311.1852093,
+   "why": "инди-артист, синт-звучание DX7, новый альбом"
   },
   "3b56f4bbfe7d": {
    "also": [],
@@ -1480,9 +1499,11 @@
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
+  "39fe00195106": 1792570309.7251508,
   "3a295d1ab3af": 1792508213.7042525,
   "3a9d16105d88": 1792411062.3888013,
   "3b26fc1c0f43": 1792156082.832758,
+  "3b2977aa17f7": 1792570312.485603,
   "3b56f4bbfe7d": 1792411077.339697,
   "3b93e395b3d2": 1792140419.3187933,
   "3b9e7ac64695": 1792140447.2519503,
