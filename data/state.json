@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792600468
+   "ok": 1792602876
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792600480
+   "ok": 1792602881
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792600480
+   "ok": 1792602881
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792600440
+   "ok": 1792602864
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792600443
+   "ok": 1792602868
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792600446
+   "ok": 1792602870
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792600469
+   "err_ts": 1792602876
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792600468
+   "ok": 1792602876
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792600422
+   "ok": 1792602856
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792600429
+   "ok": 1792602856
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792600470
+   "ok": 1792602878
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792600480
+   "ok": 1792602881
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792600480
+   "ok": 1792602881
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792600473
+   "ok": 1792602881
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792600420
+   "ok": 1792602849
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792600446
+   "ok": 1792602869
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792600468
+   "ok": 1792602871
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792600443,
-   "ok": 1792595606
+   "err": "",
+   "ok": 1792602869
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792600473
+   "ok": 1792602881
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792600482
+   "ok": 1792602884
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792600481
+   "ok": 1792602883
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792600483
+   "ok": 1792602885
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792600482
+   "ok": 1792602884
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792600486
+   "ok": 1792602886
   }
  },
  "heartbeat": "2026-10-21",
@@ -624,6 +623,26 @@
    "title": "Tierra Whack Shares Seven New Songs On Deluxe Whack’s Museum",
    "ts": 1792173605.0382996,
    "why": "хип-хоп/R&B-артистка, не в жанрах 3L"
+  },
+  "353cd0da6ccf": {
+   "also": [],
+   "artist": "Doechii",
+   "fit": 2,
+   "id": "353cd0da6ccf",
+   "kind": "single",
+   "link": "https://stereogum.com/2515238/doechii-catwoman/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 83,
+   "release": "Catwoman",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Doechii – “Catwoman” appeared first on Stereogum .",
+   "summary_ru": "Доечи выпустила новый сингл «Catwoman». В записи больше никаких подробностей нет.",
+   "title": "Doechii – “Catwoman”",
+   "ts": 1792602852.6219513,
+   "why": "хип-хоп/R&B, не в жанрах 3L"
   },
   "39fe00195106": {
    "also": [],
@@ -1868,10 +1887,12 @@
   "34369501961e": 1792140446.1809082,
   "34bc062af6d5": 1792140455.0289285,
   "34d77bef4587": 1792165187.4361115,
+  "353cd0da6ccf": 1792602849.6578767,
   "35793f0f0508": 1792140454.9418368,
   "35ac8a3e9935": 1792140462.2817574,
   "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
+  "366954fce984": 1792602871.4797435,
   "36b5988e8268": 1792156035.7558544,
   "36b9b2aac1d0": 1792541002.3197086,
   "36be753b5035": 1792140448.2248933,
@@ -2034,6 +2055,7 @@
   "5513d3e4b246": 1792422151.1009116,
   "5571ceb1add5": 1792140455.6358814,
   "55b51cc1bf5c": 1792140449.8447442,
+  "55da789a2292": 1792602864.0676343,
   "55fb93099503": 1792140447.251956,
   "56f2b400c544": 1792140446.1809154,
   "575aad530b3a": 1792140449.8447511,
@@ -2094,6 +2116,7 @@
   "64bbe29b3058": 1792140455.0717542,
   "64f2e390d8a6": 1792494624.348612,
   "659a24ab17a9": 1792505488.5260932,
+  "65a1d64ec464": 1792602853.0653977,
   "65bcf6c4486c": 1792140447.2519526,
   "6628b66f702f": 1792152825.1655142,
   "66c0ac97b729": 1792512935.726863,
