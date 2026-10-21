@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792593139
+   "ok": 1792595631
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792593148
+   "ok": 1792595639
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792593148
+   "ok": 1792595645
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792593127
+   "ok": 1792595603
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792593135
+   "ok": 1792595605
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792593137
+   "ok": 1792595608
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792593139
+   "err_ts": 1792595631
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792593139
+   "ok": 1792595631
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792593116
+   "ok": 1792595598
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792593116
+   "ok": 1792595599
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792593141
+   "ok": 1792595633
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792593148
+   "ok": 1792595639
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792593147
+   "ok": 1792595639
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792593144
+   "ok": 1792595636
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792593104
+   "ok": 1792595587
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792593137
+   "ok": 1792595607
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792593139
+   "ok": 1792595631
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792593136
+   "ok": 1792595606
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792593144
+   "ok": 1792595636
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792593150
+   "ok": 1792595649
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792593149
+   "ok": 1792595646
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792593154
+   "ok": 1792595650
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792593151
+   "ok": 1792595650
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792593155
+   "ok": 1792595651
   }
  },
  "heartbeat": "2026-10-21",
@@ -639,6 +639,26 @@
    "ts": 1792411079.1130133,
    "why": "мейнстрим-поп, не любимый артист"
   },
+  "3eade16923ed": {
+   "also": [],
+   "artist": "Pulled Apart By Horses",
+   "fit": 2,
+   "id": "3eade16923ed",
+   "kind": "album",
+   "link": "https://readdork.com/news/pulled-apart-by-horses-dopamine-hits-great-white-lies-741f242d96",
+   "listen": {},
+   "major": false,
+   "msg_id": 80,
+   "release": "Dopamine Hits",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Leeds trio’s sixth album arrives in February via their new label, Damage Limited Records.",
+   "summary_ru": "Pulled Apart By Horses анонсировали шестой альбом Dopamine Hits, который выйдет в феврале. Это их первый релиз на независимом лейбле Damage Limited Records.",
+   "title": "Pulled Apart By Horses have confirmed their first independent album, ‘Dopamine Hits’",
+   "ts": 1792595616.689685,
+   "why": "post-hardcore и хард-рок, вне жанров 3L"
+  },
   "3ec61087525b": {
    "also": [],
    "artist": "Sleaford Mods",
@@ -778,6 +798,26 @@
    "title": "jo from school Shares New Single “Living Room”",
    "ts": 1792146710.4511611,
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
+  },
+  "5481477a3d7e": {
+   "also": [],
+   "artist": "Cloud Nothings",
+   "fit": 4,
+   "id": "5481477a3d7e",
+   "kind": "album",
+   "link": "https://readdork.com/news/cloud-nothings-what-kind-of-hell-did-you-survive-2a547e00da",
+   "listen": {},
+   "major": false,
+   "msg_id": 79,
+   "release": "What Kind of Hell Did You Survive?",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Cloud Nothings will release ‘What Kind of Hell Did You Survive?’ on 29th January, with new single ‘Death Keeps Me Alive’ available now.",
+   "summary_ru": "Cloud Nothings выпустят альбом What Kind of Hell Did You Survive? 29 января, уже доступен новый сингл Death Keeps Me Alive. Группа вдохновлялась хард-роком.",
+   "title": "Cloud Nothings are paying homage to heavy rock with their new album, ‘What Kind of Hell Did You Survive?’",
+   "ts": 1792595610.2598193,
+   "why": "новый альбом инди-рок группы, близкий жанр"
   },
   "54afe85db117": {
    "also": [
@@ -1278,6 +1318,31 @@
    "ts": 1792169707.2205467,
    "why": "хардкор, не жанр 3L, новый сингл"
   },
+  "bad0c207d598": {
+   "also": [
+    {
+     "link": "https://readdork.com/news/clap-your-hands-say-yeah-burned-fever-of-the-mind-tour-2027-5ca7e4e72e",
+     "source": "Dork"
+    }
+   ],
+   "artist": "Clap Your Hands Say Yeah",
+   "fit": 4,
+   "id": "bad0c207d598",
+   "kind": "album",
+   "link": "https://stereogum.com/2515212/clap-your-hands-say-yeah-announce-new-album-burned-hear-fever-of-the-mind/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 78,
+   "release": "Burned",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Clap Your Hands Say Yeah Announce New Album <em>Burned</em>: Hear “Fever Of The Mind” appeared first on Stereogum .",
+   "summary_ru": "Clap Your Hands Say Yeah анонсировали новый альбом Burned и выпустили трек Fever of the Mind. Больше деталей о дате выхода и лейбле в записи нет.",
+   "title": "Clap Your Hands Say Yeah Announce New Album Burned: Hear “Fever Of The Mind”",
+   "ts": 1792595591.5757027,
+   "why": "инди-рок нулевых, новый альбом и трек"
+  },
   "c49c93d616eb": {
    "also": [],
    "artist": "Cardi B",
@@ -1578,6 +1643,7 @@
   "08930dde7406": 1792140460.0458224,
   "09116be56fa6": 1792165233.7399683,
   "0972ec576960": 1792140448.224892,
+  "0997e8477041": 1792595617.2528396,
   "09cccf170394": 1792140459.2475755,
   "09e91e17bdb5": 1792142237.7308555,
   "0a175cea454a": 1792447350.552838,
@@ -1720,6 +1786,7 @@
   "2ef8fa22a2e2": 1792140455.0289195,
   "2efdfead27ce": 1792404623.5460773,
   "2f88a299e6cb": 1792140449.5165534,
+  "2fbb999d28db": 1792595636.3501866,
   "2fe6f2b1fb03": 1792140455.0717504,
   "2fe9030313a2": 1792140419.3187876,
   "2fee18337610": 1792140456.384751,
@@ -1787,6 +1854,7 @@
   "3d6f443e82b6": 1792140455.6358812,
   "3e5d41f753e4": 1792162985.8961833,
   "3e847677fa3d": 1792140446.1809094,
+  "3eade16923ed": 1792595613.834872,
   "3ec61087525b": 1792426658.1369722,
   "3ec8c8bd85ed": 1792140462.281758,
   "3f136aefa705": 1792140456.384752,
@@ -1794,6 +1862,7 @@
   "3f44a8b2e63c": 1792146706.4860857,
   "3f8439c7b1b7": 1792140446.3270478,
   "3f874448b1d3": 1792582319.4214797,
+  "401357c7fb80": 1792595626.8481739,
   "408c7cfc13a8": 1792505516.23249,
   "40c54c028cfd": 1792140455.961589,
   "41168a9c98db": 1792447316.253138,
@@ -1846,6 +1915,7 @@
   "4910a2bbcb17": 1792593127.4770179,
   "497827820914": 1792140419.6649098,
   "49849074169a": 1792246358.0255156,
+  "49f97ed38bf6": 1792595639.813323,
   "49ff6130e324": 1792140460.0458262,
   "4a08e5225078": 1792140448.2248921,
   "4a709f62b2a0": 1792140456.38475,
@@ -1897,6 +1967,7 @@
   "53deeb975485": 1792140447.2519517,
   "540adfee391a": 1792555752.1734598,
   "5411019fd26e": 1792567579.3377168,
+  "5481477a3d7e": 1792595608.0459225,
   "54aef5424943": 1792140455.961583,
   "54afe85db117": 1792492316.3400936,
   "54c3d4c56840": 1792140449.84475,
@@ -1965,6 +2036,7 @@
   "65bcf6c4486c": 1792140447.2519526,
   "6628b66f702f": 1792152825.1655142,
   "66c0ac97b729": 1792512935.726863,
+  "677c3d49b84f": 1792595642.7679071,
   "677cb8830c31": 1792588204.3411741,
   "6834be2b7d46": 1792331407.3571088,
   "693056b7f5c2": 1792158569.604045,
@@ -2202,6 +2274,7 @@
   "a255ed262093": 1792140455.6358814,
   "a308499f2b6e": 1792180119.1027365,
   "a313d4bfcad0": 1792140451.9265773,
+  "a3bf28b512a5": 1792595620.8779018,
   "a3d4fb841682": 1792167214.670259,
   "a3efa12afac7": 1792426675.610756,
   "a3f4ae4cd417": 1792140455.0289216,
@@ -2214,6 +2287,7 @@
   "a533100a6026": 1792425012.2378073,
   "a53354d35458": 1792140446.3270502,
   "a5693ea21883": 1792140456.384751,
+  "a57aa4f74d26": 1792595646.6859303,
   "a5f892537dc6": 1792425039.830182,
   "a6b3b5ceeb4e": 1792575325.4105005,
   "a70eedef66de": 1792140460.0458221,
@@ -2285,6 +2359,7 @@
   "ba12bebb94cb": 1792165220.2133727,
   "ba932da34c59": 1792577660.6593142,
   "babac65f9ee5": 1792336195.3161216,
+  "bad0c207d598": 1792595587.8660197,
   "baf387705495": 1792140448.2248955,
   "bb2d00251754": 1792502550.7149422,
   "bb3963289efd": 1792140446.3270488,
@@ -2433,6 +2508,7 @@
   "dbd81aee1d50": 1792320475.1409245,
   "dcacabdd1522": 1792483691.139654,
   "dce98e7031cf": 1792140448.2248862,
+  "dd3c1457f82a": 1792595594.9873903,
   "dd3f21753fb0": 1792510420.1930728,
   "dd99eb344c18": 1792140446.3270469,
   "ddc0afc72080": 1792541005.8304975,
@@ -2449,6 +2525,7 @@
   "dff397453995": 1792140449.7097275,
   "e00b2da31894": 1792383609.199037,
   "e02dc6e2a336": 1792140446.1809142,
+  "e03f37534103": 1792595623.5849202,
   "e0b0fca5c6cc": 1792140449.7097292,
   "e0f75141e683": 1792140419.3187861,
   "e11c9ced58f9": 1792140455.9615917,
@@ -2458,10 +2535,12 @@
   "e17d154dc10d": 1792140448.2248929,
   "e1869ead1454": 1792140449.8447478,
   "e1928e55e12b": 1792140460.045822,
+  "e256a24985e1": 1792595610.845401,
   "e26be94ff5dc": 1792140455.9615912,
   "e28c1b62372d": 1792497224.4252322,
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
+  "e357815f3ef4": 1792595592.1446948,
   "e36b2397b7e7": 1792158581.4648004,
   "e38c455dd67d": 1792508207.8553078,
   "e3ba4fdd5cdf": 1792582313.1061494,
