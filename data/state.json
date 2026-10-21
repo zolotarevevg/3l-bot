@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792602876
+   "ok": 1792605158
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792602881
+   "ok": 1792605167
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792602881
+   "ok": 1792605167
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792602864
+   "ok": 1792605153
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792602868
+   "ok": 1792605155
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792602870
+   "ok": 1792605156
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792602876
+   "err_ts": 1792605158
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792602876
+   "ok": 1792605158
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792602856
+   "ok": 1792605148
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792602856
+   "ok": 1792605148
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792602878
+   "ok": 1792605160
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792602881
+   "ok": 1792605166
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792602881
+   "ok": 1792605166
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792602881
+   "ok": 1792605163
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792602849
+   "ok": 1792605139
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792602869
+   "ok": 1792605156
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792602871
+   "ok": 1792605158
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792605155,
    "ok": 1792602869
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792602881
+   "ok": 1792605163
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792602884
+   "ok": 1792605169
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792602883
+   "ok": 1792605168
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792602885
+   "ok": 1792605171
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792602884
+   "ok": 1792605170
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792602886
+   "ok": 1792605172
   }
  },
  "heartbeat": "2026-10-21",
@@ -644,6 +645,26 @@
    "ts": 1792602852.6219513,
    "why": "хип-хоп/R&B, не в жанрах 3L"
   },
+  "374936cc2ccf": {
+   "also": [],
+   "artist": "Yung Miami",
+   "fit": 2,
+   "id": "374936cc2ccf",
+   "kind": "album",
+   "link": "https://pitchfork.com/story/yung-miami-announces-debut-solo-album-watch-dis-features/",
+   "listen": {},
+   "major": false,
+   "msg_id": 84,
+   "release": "Watch Dis",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "The long-awaited Watch Dis features Quavo, G Herbo, Lil Baby, Kodak Black, Shenseea, Vybez Kartel, and more",
+   "summary_ru": "Yung Miami выпускает дебютный сольный альбом Watch Dis с треками «F U» и «2008». В записи участвуют Quavo, G Herbo, Lil Baby, Kodak Black, Shenseea и Vybez Kartel.",
+   "title": "Yung Miami Launches Debut Solo Album With New Songs “F U” and “2008”",
+   "ts": 1792605166.1193907,
+   "why": "хип-хоп, не любимый артист"
+  },
   "39fe00195106": {
    "also": [],
    "artist": "Darren Hayman",
@@ -1084,7 +1105,12 @@
    "why": "инди-поп группа, новое видео и аранжировки"
   },
   "8a227d049bed": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://stereogum.com/2515245/fenne-lily-stranger-things/music/",
+     "source": "Stereogum"
+    }
+   ],
    "artist": "Fenne Lily",
    "fit": 4,
    "id": "8a227d049bed",
@@ -1900,6 +1926,7 @@
   "36d8a60cb0f6": 1792140447.2519493,
   "36fefd377398": 1792494677.2540016,
   "371ef3094974": 1792582357.4732287,
+  "374936cc2ccf": 1792605163.4222844,
   "3763f0d04960": 1792140419.3187895,
   "37718f033128": 1792162994.498489,
   "38196529c3f4": 1792582357.473216,
@@ -1940,6 +1967,7 @@
   "3f8439c7b1b7": 1792140446.3270478,
   "3f874448b1d3": 1792582319.4214797,
   "401357c7fb80": 1792595626.8481739,
+  "4085dee4ef7f": 1792605143.1262877,
   "408c7cfc13a8": 1792505516.23249,
   "40c54c028cfd": 1792140455.961589,
   "41168a9c98db": 1792447316.253138,
@@ -2075,6 +2103,7 @@
   "5a83bcb0474f": 1792510423.952773,
   "5aba388e115a": 1792140419.4762347,
   "5b06e1c989d2": 1792210358.1284826,
+  "5b0c33d33660": 1792605139.374739,
   "5b15cad29d11": 1792483699.979192,
   "5b8783d98819": 1792140455.028918,
   "5bc25d26d660": 1792140460.928744,
@@ -2202,6 +2231,7 @@
   "7abe29b56b91": 1792140460.9287455,
   "7af72c2d298e": 1792582323.9984736,
   "7c006d277346": 1792140455.6358821,
+  "7c36035dffc8": 1792605145.6038854,
   "7d65c438337f": 1792140455.0289216,
   "7db93ca61f13": 1792582357.4732285,
   "7df1bf3e67fe": 1792140448.2248952,
