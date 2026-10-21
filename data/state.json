@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792618856
+   "ok": 1792620923
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792618860
+   "ok": 1792620926
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792618860
+   "ok": 1792620927
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792618852
+   "ok": 1792620874
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792618854
+   "ok": 1792620876
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792618855
+   "ok": 1792620877
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792618857
+   "err_ts": 1792620923
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792618857
+   "ok": 1792620923
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,84 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792618841
+   "ok": 1792620869
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792618841
+   "ok": 1792620870
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792618858
+   "ok": 1792620925
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792618859
+   "ok": 1792620926
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792618859
+   "ok": 1792620926
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792618859
+   "ok": 1792620926
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792618841
+   "ok": 1792620869
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792618855
+   "ok": 1792620877
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792618856
+   "ok": 1792620922
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792620876,
    "ok": 1792618854
   },
   "out out - music done": {
    "count": 10,
    "err": "HTTPError: 502 Server Error: Bad Gateway for url: https://wrszw.net/feed",
-   "err_ts": 1792618859,
+   "err_ts": 1792620926,
    "ok": 1792610229
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792618862
+   "ok": 1792620929
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792618861
+   "ok": 1792620928
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792618863
+   "ok": 1792620930
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792618863
+   "ok": 1792620929
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792618864
+   "ok": 1792620930
   }
  },
  "heartbeat": "2026-10-21",
@@ -154,6 +155,26 @@
    "title": "Ella Thompson – Triumph And Sadness",
    "ts": 1792505506.9408772,
    "why": "поп-соул и баллады, далеко от жанров 3L"
+  },
+  "026f4406614f": {
+   "also": [],
+   "artist": "Porcelain",
+   "fit": 2,
+   "id": "026f4406614f",
+   "kind": "single",
+   "link": "https://readdork.com/news/porcelain-dsd-single-video-todays-minor-victories-92e6f01dee",
+   "listen": {},
+   "major": false,
+   "msg_id": 88,
+   "release": "DSD",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Austin post-hardcore band Porcelain have released ‘DSD’, the final preview of their second album ‘Today’s Minor Victories’, due this Friday via TODO Records.",
+   "summary_ru": "Austin post-hardcore группа Porcelain выпустила трек 'DSD' с политическим подтекстом - это последнее превью второго альбома 'Today's Minor Victories', который выйдет в эту пятницу на TODO Records.",
+   "title": "Austin post-hardcore band Porcelain have shared politically charged new single ‘DSD’",
+   "ts": 1792620915.2180643,
+   "why": "пост-хардкор, далеко от жанров 3L"
   },
   "0c74cea80e3a": {
    "also": [
@@ -1000,6 +1021,26 @@
    "ts": 1792505491.3051677,
    "why": "панк, далёкий от жанров 3L"
   },
+  "685784b10d06": {
+   "also": [],
+   "artist": "Puma Blue",
+   "fit": 4,
+   "id": "685784b10d06",
+   "kind": "single",
+   "link": "https://readdork.com/news/puma-blue-croak-deluxe-whispering-ab7ddd2151",
+   "listen": {},
+   "major": false,
+   "msg_id": 87,
+   "release": "Whispering",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Puma Blue will release an expanded edition of ‘Croak Dream’ on 13th November, led by newly shared single ‘Whispering’.",
+   "summary_ru": "Пума Блю выпустил новый сингл «Whispering» в стиле трип-хопа. Он анонсирует расширенное издание альбома «Croak Dream», которое выйдет 13 ноября.",
+   "title": "Puma Blue has shared trip-hop-inspired new single ‘Whispering’ ahead of his deluxe album",
+   "ts": 1792620911.9913068,
+   "why": "новый сингл и анонс делюкс-альбома, инди-электроника"
+  },
   "6b8b10122807": {
    "also": [],
    "artist": "Big Softy",
@@ -1679,6 +1720,46 @@
    "ts": 1792582352.8507178,
    "why": "экспериментальная электроника и джаз, вне жанров 3L"
   },
+  "f9d890b2fcb3": {
+   "also": [],
+   "artist": "Warpaint",
+   "fit": 5,
+   "id": "f9d890b2fcb3",
+   "kind": "album",
+   "link": "https://readdork.com/news/warpaint-artifact-live-album-8418a3c067",
+   "listen": {},
+   "major": false,
+   "msg_id": 86,
+   "release": "Artifact",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The 16-track collection arrives on 11th December, with live versions of ‘Billie Holiday’ and ‘New Song’ available now.",
+   "summary_ru": "Warpaint отмечают двадцатилетие группы концертным альбомом Artifact из 16 треков, который выйдет 11 декабря. Живые версии «Billie Holiday» и «New Song» уже доступны.",
+   "title": "Warpaint are celebrating two decades together with new live album ‘Artifact’",
+   "ts": 1792620897.3886082,
+   "why": "любимая группа вышла с новым живым альбомом"
+  },
+  "fad9333cf136": {
+   "also": [],
+   "artist": "Snoh Aalegra",
+   "fit": 2,
+   "id": "fad9333cf136",
+   "kind": "album",
+   "link": "https://readdork.com/news/snoh-aalegra-legendary-love-i-love-you-d9a1981801",
+   "listen": {},
+   "major": false,
+   "msg_id": 85,
+   "release": "Legendary Love",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Snoh Aalegra’s new album ‘Legendary Love’ arrives on 13th November via Stem, led by ‘Karma’ and new single ‘I Love You’.",
+   "summary_ru": "Сноу Алегра анонсировала новый альбом Legendary Love, который выйдет 13 ноября на лейбле Stem. Альбом поддерживают сингл Karma и новый трек I Love You.",
+   "title": "Iranian-Swedish R&B singer Snoh Aalegra has announced new album ‘Legendary Love’",
+   "ts": 1792620895.344637,
+   "why": "R&B вне жанров 3L, близко к мейнстрим-поп"
+  },
   "febd0470b7af": {
    "also": [],
    "artist": "SOB x RBE",
@@ -1715,6 +1796,7 @@
   "021207a43263": 1792140460.045821,
   "023092091bb9": 1792505504.4008245,
   "0253f5b89e8e": 1792422148.3329163,
+  "026f4406614f": 1792620912.5133727,
   "027201d988eb": 1792144554.365646,
   "027e3883aa60": 1792404617.7486067,
   "02fc2c1a5ef0": 1792486032.712581,
@@ -1723,6 +1805,7 @@
   "03a99f1e8d20": 1792140455.961588,
   "03aa337b6e58": 1792598313.2244039,
   "04420f0110cc": 1792140447.251953,
+  "04829c171fcb": 1792620877.9015398,
   "048b9c3740eb": 1792140455.635878,
   "04dd1100da82": 1792580152.6002626,
   "0598a5437ecb": 1792140455.0717537,
@@ -1774,6 +1857,7 @@
   "1190bdca8427": 1792492336.6984515,
   "11b546453935": 1792140460.045827,
   "11f05f534f7a": 1792607484.4272025,
+  "11f4402d9b63": 1792620889.8545327,
   "121625f6561d": 1792413732.3814454,
   "1217c4e6beea": 1792494671.4185624,
   "126a0a5d79e3": 1792140460.0458257,
@@ -2051,6 +2135,7 @@
   "4d68877d9ea4": 1792588221.3634934,
   "4d890bfba330": 1792140419.4762356,
   "4da1d2c9310f": 1792140455.071755,
+  "4dda1ff8b743": 1792620921.5496478,
   "4ddc7c7d921a": 1792140449.8447464,
   "4e3bd443ca29": 1792419545.0536368,
   "4e6b645be47f": 1792140448.2248857,
@@ -2136,6 +2221,7 @@
   "61a93cd9c515": 1792230521.538974,
   "61b3ee7fe73e": 1792140446.1809077,
   "625726d5472f": 1792582357.4732234,
+  "6333527152f9": 1792620880.984596,
   "633c8a8374fe": 1792413720.500745,
   "636f788ecffb": 1792202413.4859474,
   "63749dc8dd87": 1792140446.1809075,
@@ -2154,6 +2240,7 @@
   "677c3d49b84f": 1792595642.7679071,
   "677cb8830c31": 1792588204.3411741,
   "6834be2b7d46": 1792331407.3571088,
+  "685784b10d06": 1792620908.6497743,
   "693056b7f5c2": 1792158569.604045,
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
@@ -2168,6 +2255,7 @@
   "6b7aeeb8116d": 1792140419.4762344,
   "6b8b10122807": 1792580174.278773,
   "6c02cdbec83d": 1792487962.0225365,
+  "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
   "6d39a5881c80": 1792339702.5628843,
   "6e36b732c08f": 1792584700.7732987,
@@ -2248,6 +2336,7 @@
   "7f5f620284ee": 1792519745.2865176,
   "7f76c3b02e7b": 1792419508.0815978,
   "7f85e4b2c5ba": 1792140447.2519534,
+  "7f866a3ccbce": 1792620918.3364587,
   "7f8a2e0494a0": 1792600440.5094643,
   "7fde0bc85218": 1792140460.0458272,
   "7fe99601ab13": 1792140419.6649106,
@@ -2341,6 +2430,7 @@
   "962fdfe11801": 1792140448.2248914,
   "963062bba48c": 1792140451.9265785,
   "96330c08539f": 1792517964.4208171,
+  "963efebf986d": 1792620921.5496438,
   "96a8a3d3f1d2": 1792499751.6825202,
   "96ab6eac469e": 1792148985.7453387,
   "972e97802e92": 1792307774.648558,
@@ -2423,6 +2513,7 @@
   "aa5a3d93093a": 1792440703.3610823,
   "aa8b54134cb2": 1792140446.1809144,
   "aa976d0dcb23": 1792140449.7097301,
+  "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
   "acabb43d1aa3": 1792140456.384748,
   "acf72b6c08c6": 1792148969.8518102,
@@ -2460,6 +2551,7 @@
   "b3f940355541": 1792494657.5484557,
   "b451a09c2638": 1792140446.1809099,
   "b49f637bfb75": 1792530988.4977975,
+  "b4b5f098b367": 1792620905.1703417,
   "b54dc7cce185": 1792408639.112622,
   "b56fc00fb5fa": 1792575299.3751597,
   "b5b16ec68cfd": 1792140455.0289187,
@@ -2509,6 +2601,7 @@
   "bf65c918fec2": 1792140448.2248826,
   "bf66b1f62f0a": 1792419541.6738656,
   "bfe1d8d55b5d": 1792426662.8748226,
+  "c0269e23ab90": 1792620921.5496461,
   "c0462cfc0a95": 1792167249.1019454,
   "c0c1e23ac6ac": 1792140447.2519538,
   "c0e4891717c6": 1792140446.180915,
@@ -2581,6 +2674,7 @@
   "cdf91db70fc8": 1792584690.1336942,
   "ce005e54ecad": 1792492333.7717834,
   "ce495841f579": 1792438294.4894397,
+  "ce654c3bacdf": 1792620897.8801079,
   "cf06a4a9b303": 1792580190.0545037,
   "cf8a59f7943e": 1792492323.2851028,
   "cf8fc31eaa39": 1792416602.0501945,
@@ -2671,6 +2765,7 @@
   "e357815f3ef4": 1792595592.1446948,
   "e36b2397b7e7": 1792158581.4648004,
   "e38c455dd67d": 1792508207.8553078,
+  "e3a8238c836a": 1792620902.3118548,
   "e3ba4fdd5cdf": 1792582313.1061494,
   "e3f7a31a1d4c": 1792411071.9854484,
   "e407ecd1cff7": 1792588237.6362753,
@@ -2707,6 +2802,7 @@
   "eadf2bef881f": 1792140455.0289192,
   "eba784da422c": 1792140446.1809137,
   "ebb475562801": 1792487980.9764705,
+  "eca6af54de70": 1792620887.0254629,
   "ecb2b42e7823": 1792483706.1863785,
   "ecca7d0cf56c": 1792140448.224895,
   "eccf533edf11": 1792167237.6133509,
@@ -2732,6 +2828,7 @@
   "f1e7a941e7f9": 1792140455.96159,
   "f1fa40e98212": 1792140446.180908,
   "f23ed9366163": 1792140455.071755,
+  "f260c09421d5": 1792620899.1902475,
   "f26419ddedbd": 1792140449.7097266,
   "f27cf0b489e1": 1792140446.3270473,
   "f28791f6cd57": 1792510440.7326968,
@@ -2764,8 +2861,10 @@
   "f8fa769ac659": 1792140448.224884,
   "f90cb3bbff53": 1792515297.6279485,
   "f949ca1673a8": 1792140447.251955,
+  "f9d890b2fcb3": 1792620895.995453,
   "faaab1470297": 1792140455.028921,
   "fab4d48cdb25": 1792381262.0103343,
+  "fad9333cf136": 1792620892.6378245,
   "fae188466bd8": 1792140455.9615874,
   "fb56c47112c2": 1792140455.9615815,
   "fb9c461c0e21": 1792140449.844751,
