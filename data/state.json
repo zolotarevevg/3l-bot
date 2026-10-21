@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792588232
+   "ok": 1792590885
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792588241
+   "ok": 1792590891
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792588241
+   "ok": 1792590891
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792588221
+   "ok": 1792590875
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792588229
+   "ok": 1792590883
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792588230
+   "ok": 1792590884
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792588232
+   "err_ts": 1792590886
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792588232
+   "ok": 1792590886
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792588207
+   "ok": 1792590870
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792588209
+   "ok": 1792590871
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792588234
+   "ok": 1792590887
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792588241
+   "ok": 1792590890
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792588241
+   "ok": 1792590890
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792588237
+   "ok": 1792590890
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792588204
+   "ok": 1792590866
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792588230
+   "ok": 1792590883
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792588232
+   "ok": 1792590885
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792590883,
    "ok": 1792588229
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792588237
+   "ok": 1792590890
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792588243
+   "ok": 1792590893
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792588243
+   "ok": 1792590892
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792588245
+   "ok": 1792590894
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792588244
+   "ok": 1792590893
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792588246
+   "ok": 1792590895
   }
  },
  "heartbeat": "2026-10-21",
@@ -498,6 +499,26 @@
    "title": "Kate Nash Tackles Freedom of Speech in New Song “Freedom of Me”",
    "ts": 1792187908.6268144,
    "why": "новый сингл и анонс альбома, инди-поп близкий к нулевым"
+  },
+  "27f4a4b71ab7": {
+   "also": [],
+   "artist": "Wendy Eisenberg",
+   "fit": 4,
+   "id": "27f4a4b71ab7",
+   "kind": "album",
+   "link": "https://stereogum.com/2515194/wendy-eisenberg-releases-surprise-new-companion-album-wweennddyy-eeiisseennbbeerrgg/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 76,
+   "release": "Wweennddyy Eeiisseennbbeerrgg",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Wendy Eisenberg Releases Surprise New Companion Album <em>Wweennddyy Eeiisseennbbeerrgg</em> appeared first on Stereogum .",
+   "summary_ru": "Венди Айзенберг неожиданно выпустила компаньон-альбом под названием Wweennddyy Eeiisseennbbeerrgg. Текст записи не содержит подробностей о звучании, лейбле и участниках.",
+   "title": "Wendy Eisenberg Releases Surprise New Companion Album Wweennddyy Eeiisseennbbeerrgg",
+   "ts": 1792590870.403644,
+   "why": "новый альбом инди-артистки, точное звучание неизвестно"
   },
   "284d60fb998b": {
    "also": [],
@@ -1133,6 +1154,26 @@
    "ts": 1792564524.5735698,
    "why": "джаз, не в жанрах 3L"
   },
+  "9de1505a0e48": {
+   "also": [],
+   "artist": "The Joy Hotel",
+   "fit": 4,
+   "id": "9de1505a0e48",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/the-joy-hotel-push-back-against-our-modern-dystopia-on-misery-93/",
+   "listen": {},
+   "major": false,
+   "msg_id": 77,
+   "release": "Misery '93",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "The Joy Hotel have shared their powerful new single ‘Misery ’93’. The Scottish band secured a SAY Award nomination for their acclaimed debut album, before ripping up the rulebook for a follow-up. Incoming album ‘Consume’ – out on January 29th – was recorded over three weeks at La Frette Studios outside Paris,… The post The Joy Hotel Push Back Against Our Modern Dystopia On ‘Misery ’93’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Шотландская группа The Joy Hotel выпустила новый сингл «Misery '93». Предстоящий альбом Consume выйдет 29 января, записывался три недели на студии La Frette близ Парижа.",
+   "title": "The Joy Hotel Push Back Against Our Modern Dystopia On ‘Misery ’93’",
+   "ts": 1792590881.5041513,
+   "why": "Новый сингл и анонс альбома, инди-рок, но не любимый артист"
+  },
   "a045afcf837d": {
    "also": [],
    "artist": "Matt Carmichael",
@@ -1659,6 +1700,7 @@
   "2738cc8df0ad": 1792140455.9615848,
   "279cd8a265c5": 1792140455.0717537,
   "27dde81aa9a8": 1792404611.80304,
+  "27f4a4b71ab7": 1792590866.5926363,
   "284d60fb998b": 1792173605.5963154,
   "289305b4f40a": 1792411075.6856875,
   "29aa4ef1cd6f": 1792140455.9615905,
@@ -2130,6 +2172,8 @@
   "9d42010b171c": 1792413708.665486,
   "9d43247b68cc": 1792564522.1471624,
   "9d77ae8d7812": 1792140456.3847497,
+  "9de1505a0e48": 1792590879.0948431,
+  "9e3b839c0757": 1792590875.82778,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
   "9f04ca99ea73": 1792142259.7923665,
