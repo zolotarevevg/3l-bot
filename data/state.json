@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792674645
+   "ok": 1792677654
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792674653
+   "ok": 1792677663
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792674653
+   "ok": 1792677663
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792674632
+   "ok": 1792677625
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792674639
+   "ok": 1792677648
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792674641
+   "ok": 1792677652
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792674647
+   "err_ts": 1792677657
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792674645
+   "ok": 1792677657
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792674617
+   "ok": 1792677613
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792674621
+   "ok": 1792677613
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792674648
+   "ok": 1792677659
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792674652
+   "ok": 1792677663
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792674652
+   "ok": 1792677662
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792674652
+   "ok": 1792677662
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792674617
+   "ok": 1792677602
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792674640
+   "ok": 1792677649
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792674644
+   "ok": 1792677653
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792677648,
    "ok": 1792674639
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792674652
+   "ok": 1792677662
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792674655
+   "ok": 1792677668
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792674654
+   "ok": 1792677664
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792674660
+   "ok": 1792677669
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792674656
+   "ok": 1792677668
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792674661
+   "ok": 1792677670
   }
  },
  "heartbeat": "2026-10-22",
@@ -1823,6 +1824,26 @@
    "ts": 1792411074.7446046,
    "why": "неоклассика и ambient, далеко от жанров 3L"
   },
+  "e43c3be89515": {
+   "also": [],
+   "artist": "Brandon Flowers",
+   "fit": 5,
+   "id": "e43c3be89515",
+   "kind": "single",
+   "link": "https://stereogum.com/2515309/brandon-flowers-debuts-solo-song-diamonds-on-black-velvet-that-was-cut-from-the-last-killers-album/news/",
+   "listen": {},
+   "major": false,
+   "msg_id": 99,
+   "release": "Diamonds On Black Velvet",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Brandon Flowers Debuts Solo Song “Diamonds On Black Velvet” That Was Cut From The Last Killers Album appeared first on Stereogum .",
+   "summary_ru": "Брэндон Флауэрс дебютировал с сольной песней «Diamonds On Black Velvet», которая ранее не вошла в последний альбом The Killers. Трек вышел как новый сольный материал артиста.",
+   "title": "Brandon Flowers Debuts Solo Song “Diamonds On Black Velvet” That Was Cut From The Last Killers Album",
+   "ts": 1792677612.6251478,
+   "why": "новый трек фронтмена The Killers"
+  },
   "e522bf3e1268": {
    "also": [],
    "artist": "Ruby Gill",
@@ -1864,7 +1885,12 @@
    "why": "новый сингл и анонс концерта, инди-группа"
   },
   "ee0bd1bc4837": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://stereogum.com/2515275/helena-deland-announces-new-album-eternity-shrugs-hear-tip-of-my-tongue/music/",
+     "source": "Stereogum"
+    }
+   ],
    "artist": "Helena Deland",
    "fit": 4,
    "id": "ee0bd1bc4837",
@@ -1946,7 +1972,12 @@
    "why": "любимая группа вышла с новым живым альбомом"
   },
   "fad9333cf136": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://www.clashmusic.com/news/snoh-aalegra-announces-new-album-legendary-love/",
+     "source": "Clash"
+    }
+   ],
    "artist": "Snoh Aalegra",
    "fit": 2,
    "id": "fad9333cf136",
@@ -2187,6 +2218,7 @@
   "2e62ab4b5514": 1792582357.4732254,
   "2e7d01277e39": 1792140419.3187907,
   "2eac6fc0f112": 1792140456.3847518,
+  "2eba3b0759dc": 1792677664.7420664,
   "2ef8fa22a2e2": 1792140455.0289195,
   "2efdfead27ce": 1792404623.5460773,
   "2f38c4fe4173": 1792674656.5846965,
@@ -2289,6 +2321,7 @@
   "42ac00b68f5e": 1792140419.3187935,
   "42b19b2c4292": 1792394162.9122472,
   "42db33201c97": 1792419522.009265,
+  "42e296c212a7": 1792677632.7247596,
   "431c95f9c1cd": 1792140455.6358795,
   "4341c65dffd8": 1792169696.0349832,
   "4342357ce348": 1792140455.9615915,
@@ -2412,6 +2445,7 @@
   "59022366ba53": 1792140446.1809075,
   "590ff1262ddf": 1792512912.8275015,
   "593e05194f8d": 1792575290.4325292,
+  "596fb8676db8": 1792677625.4422295,
   "5975e2515efb": 1792140460.0458274,
   "59adc6a30861": 1792140455.961589,
   "59af292e153d": 1792140455.961587,
@@ -2611,6 +2645,7 @@
   "849d354c5446": 1792144583.6977081,
   "84ebc6432c36": 1792486028.4578288,
   "84fe036a2bd2": 1792429145.3496408,
+  "8503f52cc3ea": 1792677649.2726662,
   "856f1c1110f6": 1792140419.476228,
   "85cda2b46109": 1792404608.7922325,
   "85e43a6506c9": 1792140446.3270457,
@@ -2651,6 +2686,7 @@
   "8e881925f98d": 1792167217.643163,
   "8f42d93a134c": 1792140460.9287431,
   "8f5ff22aa177": 1792671196.1850069,
+  "8fb749c25ea5": 1792677606.058137,
   "9003583d56b4": 1792140460.9287455,
   "9055e0943588": 1792140449.516548,
   "90622a89f112": 1792140455.0717528,
@@ -2670,6 +2706,7 @@
   "948eae092ca3": 1792140455.6358817,
   "9498add16dcb": 1792140449.844742,
   "94ab1a1d63b0": 1792244944.5369136,
+  "9567a211abc7": 1792677602.5091481,
   "95c507915430": 1792140448.224895,
   "961a8b84f529": 1792140419.318788,
   "962fdfe11801": 1792140448.2248914,
@@ -2700,6 +2737,7 @@
   "9a68ffcca1ad": 1792296821.406791,
   "9a6d97d59356": 1792140446.1809149,
   "9a72aece7356": 1792510427.3424282,
+  "9bb39ebdf404": 1792677636.5749328,
   "9bd8661db7d8": 1792140446.1809137,
   "9bde636af911": 1792151166.0153506,
   "9c0f252e847e": 1792666576.8193662,
@@ -2836,6 +2874,7 @@
   "bb2d00251754": 1792502550.7149422,
   "bb3963289efd": 1792140446.3270488,
   "bb92164e8cae": 1792140419.4762352,
+  "bbb12be67ff0": 1792677609.5075011,
   "bc4de10ba01d": 1792140455.028921,
   "bc90c98cb385": 1792140455.0289185,
   "bc961d5f3279": 1792140455.0289197,
@@ -2860,6 +2899,7 @@
   "bfe1d8d55b5d": 1792426662.8748226,
   "c0269e23ab90": 1792620921.5496461,
   "c0462cfc0a95": 1792167249.1019454,
+  "c0884d6be1ad": 1792677654.144983,
   "c0c1e23ac6ac": 1792140447.2519538,
   "c0e4891717c6": 1792140446.180915,
   "c129fcab4083": 1792671188.9215186,
@@ -3035,6 +3075,7 @@
   "e407ecd1cff7": 1792588237.6362753,
   "e41058613fdd": 1792140449.5165455,
   "e41da7339017": 1792593104.3864765,
+  "e43c3be89515": 1792677611.2302487,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
   "e4c8176b9eb6": 1792334830.8639565,
