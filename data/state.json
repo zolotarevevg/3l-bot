@@ -3,7 +3,7 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792679950
+   "ok": 1792682277
   },
   "Bandcamp Daily": {
    "count": 38,
@@ -22,17 +22,17 @@
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792679928
+   "ok": 1792682267
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792679929
+   "ok": 1792682274
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792679931
+   "ok": 1792682275
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792679951
+   "ok": 1792682277
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,12 +54,12 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792679922
+   "ok": 1792682259
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792679922
+   "ok": 1792682263
   },
   "Nbhap": {
    "count": 8,
@@ -84,22 +84,22 @@
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792679912
+   "ok": 1792682255
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792679930
+   "ok": 1792682275
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792679948
+   "ok": 1792682276
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792679930
+   "ok": 1792682274
   },
   "out out - music done": {
    "count": 10,
@@ -1184,6 +1184,26 @@
    "ts": 1792580176.8426065,
    "why": "Дебютный EP, dance-punk близок к пост-панку"
   },
+  "6bc22bb6b657": {
+   "also": [],
+   "artist": "Westerman",
+   "fit": 4,
+   "id": "6bc22bb6b657",
+   "kind": "ep",
+   "link": "https://stereogum.com/2515320/westerman-announces-new-ep-reception-hear-l-c/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 104,
+   "release": "Reception",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Westerman Announces New EP <em>Reception</em>: Hear “L/C” appeared first on Stereogum .",
+   "summary_ru": "Вестерман анонсировал новый EP Reception и выпустил трек «L/C». Больше деталей о дате выхода и лейбле в записи нет.",
+   "title": "Westerman Announces New EP Reception: Hear “L/C”",
+   "ts": 1792682258.5014818,
+   "why": "инди-артист, новый EP и первый трек"
+  },
   "7016723a5dea": {
    "also": [],
    "artist": "Bicep",
@@ -2225,6 +2245,7 @@
   "1adeb91bc752": 1792140446.1809092,
   "1ae1e58eac1b": 1792140455.9615843,
   "1b3bbc857366": 1792582368.096183,
+  "1b47a391be6a": 1792682270.390802,
   "1b8ebd38393f": 1792401953.9222965,
   "1bc3ceec0e73": 1792580160.6029775,
   "1bf60d94a5d9": 1792582357.473223,
@@ -2239,6 +2260,7 @@
   "1f3145e50fac": 1792140449.516549,
   "1f70bf6007bd": 1792140455.9615905,
   "1f7aca6c3335": 1792517947.7068393,
+  "1f85cd65f7cb": 1792682259.115081,
   "1fcf807a79bb": 1792661865.4209087,
   "2008852bbe08": 1792140455.9615865,
   "200d5236483c": 1792646047.2057033,
@@ -2346,6 +2368,7 @@
   "36b9b2aac1d0": 1792541002.3197086,
   "36be753b5035": 1792140448.2248933,
   "36cf2f066160": 1792140455.6358771,
+  "36d0ea0ab61c": 1792682267.4816778,
   "36d8a60cb0f6": 1792140447.2519493,
   "36fefd377398": 1792494677.2540016,
   "371ef3094974": 1792582357.4732287,
@@ -2610,6 +2633,7 @@
   "6b7aeeb8116d": 1792140419.4762344,
   "6b891583dbe7": 1792671191.7447448,
   "6b8b10122807": 1792580174.278773,
+  "6bc22bb6b657": 1792682255.320585,
   "6c02cdbec83d": 1792487962.0225365,
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
@@ -3087,6 +3111,7 @@
   "d2536a491210": 1792171575.8956566,
   "d25a928aa0df": 1792140447.2519505,
   "d301e05295c7": 1792140455.9615839,
+  "d333b84d164e": 1792682277.4035819,
   "d3765b0001fb": 1792140455.0289202,
   "d383ba083cc4": 1792426681.2487686,
   "d3ca17f4a685": 1792140446.18091,
