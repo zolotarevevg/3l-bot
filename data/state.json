@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792696681
+   "ok": 1792698945
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792696690
+   "ok": 1792698952
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792696690
+   "ok": 1792698952
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792696677
+   "ok": 1792698941
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792696678
+   "ok": 1792698942
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792696680
+   "ok": 1792698944
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792696682
+   "err_ts": 1792698945
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792696682
+   "ok": 1792698945
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792696669
+   "ok": 1792698934
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792696670
+   "ok": 1792698934
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792696683
+   "ok": 1792698947
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792696690
+   "ok": 1792698951
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792696690
+   "ok": 1792698951
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792696687
+   "ok": 1792698950
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792696666
+   "ok": 1792698930
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792696679
+   "ok": 1792698943
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792696681
+   "ok": 1792698945
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792696679
+   "ok": 1792698942
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792696687
+   "ok": 1792698949
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792696692
+   "ok": 1792698953
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792696691
+   "ok": 1792698953
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792696693
+   "ok": 1792698954
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792696693
+   "ok": 1792698954
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792696694
+   "ok": 1792698955
   }
  },
  "heartbeat": "2026-10-22",
@@ -1574,7 +1574,12 @@
    "why": "возможна экспериментальная электроника, жанр не указан"
   },
   "b029ffc2ed44": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://pitchfork.com/story/westside-gunn-announces-new-album-heelmatic/",
+     "source": "Pitchfork News"
+    }
+   ],
    "artist": "Westside Gunn",
    "fit": 2,
    "id": "b029ffc2ed44",
@@ -2154,6 +2159,26 @@
    "title": "SOB x RBE Announce New Album From The Land: Hear “Someone”",
    "ts": 1792171559.7200608,
    "why": "хип-хоп, не в жанрах 3L"
+  },
+  "ff057eb64b04": {
+   "also": [],
+   "artist": "Natalie Bergman",
+   "fit": 3,
+   "id": "ff057eb64b04",
+   "kind": "ep",
+   "link": "https://stereogum.com/2515367/natalie-bergman-announces-new-ep-i-killed-a-north-american-songbird-hear-white-oak/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 107,
+   "release": "I Killed A North American Songbird",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Natalie Bergman Announces New EP <em>I Killed A North American Songbird</em>: Hear “White Oak” appeared first on Stereogum .",
+   "summary_ru": "Натали Бергман анонсировала новый EP I Killed A North American Songbird и выпустила первый трек с него - «White Oak». Подробностей о дате выхода и составе в записи нет.",
+   "title": "Natalie Bergman Announces New EP I Killed A North American Songbird: Hear “White Oak”",
+   "ts": 1792698933.6096907,
+   "why": "соседний инди-фолк звук, новый EP, неизвестный 3L"
   }
  },
  "playlists": {},
@@ -2361,6 +2386,7 @@
   "2db12c71e7ea": 1792140446.1809146,
   "2e1324f392af": 1792140419.4762344,
   "2e42311a7d27": 1792543829.5474877,
+  "2e4ad4974528": 1792698950.064075,
   "2e62ab4b5514": 1792582357.4732254,
   "2e7d01277e39": 1792140419.3187907,
   "2eac6fc0f112": 1792140456.3847518,
@@ -3373,6 +3399,7 @@
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
   "febd0470b7af": 1792171558.4127772,
+  "ff057eb64b04": 1792698930.5437222,
   "ff2bf818309b": 1792140455.961585,
   "ff47b1f2c293": 1792394172.7264376,
   "ff9f319d41f9": 1792631937.5906265,
