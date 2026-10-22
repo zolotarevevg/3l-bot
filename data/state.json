@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792684614
+   "ok": 1792686920
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792684626
+   "ok": 1792686925
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792684626
+   "ok": 1792686926
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792684598
+   "ok": 1792686908
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792684603
+   "ok": 1792686913
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792684610
+   "ok": 1792686915
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792684614
+   "err_ts": 1792686920
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792684614
+   "ok": 1792686920
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792684590
+   "ok": 1792686898
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792684593
+   "ok": 1792686898
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792684616
+   "ok": 1792686922
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792684626
+   "ok": 1792686925
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792684625
+   "ok": 1792686925
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792684620
+   "ok": 1792686925
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792684584
+   "ok": 1792686893
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792684608
+   "ok": 1792686915
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792684611
+   "ok": 1792686917
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792684607
+   "ok": 1792686914
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792684620
+   "ok": 1792686925
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792684628
+   "ok": 1792686928
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792684627
+   "ok": 1792686927
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792684630
+   "ok": 1792686930
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792684629
+   "ok": 1792686929
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792684630
+   "ok": 1792686930
   }
  },
  "heartbeat": "2026-10-22",
@@ -1573,6 +1573,26 @@
    "ts": 1792679974.7818675,
    "why": "возможна экспериментальная электроника, жанр не указан"
   },
+  "b029ffc2ed44": {
+   "also": [],
+   "artist": "Westside Gunn",
+   "fit": 2,
+   "id": "b029ffc2ed44",
+   "kind": "album",
+   "link": "https://stereogum.com/2515336/westside-gunn-announces-new-album-heelmatic-hear-zilla/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 106,
+   "release": "Heelmatic",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Westside Gunn Announces New Album <em>Heelmatic</em>: Hear “Zilla” appeared first on Stereogum .",
+   "summary_ru": "Westside Gunn анонсировал новый альбом Heelmatic и выпустил трек Zilla. Материал опубликован Stereogum в рубриках New Music и Daily Gems.",
+   "title": "Westside Gunn Announces New Album Heelmatic: Hear “Zilla”",
+   "ts": 1792686897.4162734,
+   "why": "хип-хоп, не любимый артист"
+  },
   "b081adddb626": {
    "also": [],
    "artist": "DJ Target",
@@ -2235,6 +2255,7 @@
   "13be515e46a6": 1792399806.0338573,
   "13d885cbec0a": 1792473359.6779761,
   "13eb4f70de50": 1792422138.3649497,
+  "1452d7b7b6a0": 1792686908.5958514,
   "1462713d87da": 1792664273.8909972,
   "14715da0d8f5": 1792142306.6505816,
   "1498394b19db": 1792142237.7308586,
@@ -2413,6 +2434,7 @@
   "3b56f4bbfe7d": 1792411077.339697,
   "3b93e395b3d2": 1792140419.3187933,
   "3b9e7ac64695": 1792140447.2519503,
+  "3ba37cb7edc6": 1792686917.045103,
   "3bdc40419b84": 1792497233.6616488,
   "3be9a98fcc0a": 1792140449.8447514,
   "3c295e6aed26": 1792140446.3270476,
@@ -2957,6 +2979,7 @@
   "aea81a308773": 1792679971.9229736,
   "af38d247ea14": 1792243087.9580936,
   "afce16bf96e1": 1792140449.5165496,
+  "b029ffc2ed44": 1792686896.3083942,
   "b081adddb626": 1792406870.2139947,
   "b09779f9d707": 1792142237.730857,
   "b09c4f532962": 1792140451.9265754,
@@ -3118,6 +3141,7 @@
   "ce495841f579": 1792438294.4894397,
   "ce654c3bacdf": 1792620897.8801079,
   "cf06a4a9b303": 1792580190.0545037,
+  "cf4dc640805c": 1792686893.9321146,
   "cf8a59f7943e": 1792492323.2851028,
   "cf8fc31eaa39": 1792416602.0501945,
   "cfadb5360de1": 1792140455.6358788,
