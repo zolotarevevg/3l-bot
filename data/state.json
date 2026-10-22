@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792656843
+   "ok": 1792659630
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792656849
+   "ok": 1792659642
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792656849
+   "ok": 1792659642
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792656832
+   "ok": 1792659612
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792656834
+   "ok": 1792659624
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792656839
+   "ok": 1792659629
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792656843
+   "err_ts": 1792659630
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792656843
+   "ok": 1792659630
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792656827
+   "ok": 1792659598
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792656827
+   "ok": 1792659600
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792656845
+   "ok": 1792659632
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792656849
+   "ok": 1792659642
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792656849
+   "ok": 1792659641
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792656848
+   "ok": 1792659641
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792656827
+   "ok": 1792659598
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792656835
+   "ok": 1792659625
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792656839
+   "ok": 1792659630
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792656834,
-   "ok": 1792654055
+   "err": "",
+   "ok": 1792659624
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792656848
+   "ok": 1792659635
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792656853
+   "ok": 1792659644
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792656851
+   "ok": 1792659643
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792656856
+   "ok": 1792659646
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792656855
+   "ok": 1792659645
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792656857
+   "ok": 1792659647
   }
  },
  "heartbeat": "2026-10-22",
@@ -884,6 +883,26 @@
    "title": "jo from school Shares New Single “Living Room”",
    "ts": 1792146710.4511611,
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
+  },
+  "4f3956b946c6": {
+   "also": [],
+   "artist": "The Buoys",
+   "fit": 3,
+   "id": "4f3956b946c6",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/reviews/the-buoys-concrete-cowboy/",
+   "listen": {},
+   "major": false,
+   "msg_id": 90,
+   "release": "Concrete Cowboy",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Projecting energetic alt-rock across the globe, Sydney group The Buoys channel anthemic melodies and an unmistakable chemistry on their sophomore record ‘Concrete Cowboy’. Speaking on the origins of the nature of the album’s creation, the band state that “we were in the studio together when the phrase came to us:… The post The Buoys – Concrete Cowboy appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Рецензия на второй альбом сиднейской группы The Buoys «Concrete Cowboy». По описанию издания, в записи звучит энергичный альт-рок с запоминающимися мелодиями и заметной слаженностью группы.",
+   "title": "The Buoys – Concrete Cowboy",
+   "ts": 1792659615.4651802,
+   "why": "соседний жанр альт-рок, малоизвестная группа"
   },
   "5481477a3d7e": {
    "also": [
@@ -1838,6 +1857,7 @@
   "06edcd7a6d46": 1792575278.4042907,
   "0772f91cbec9": 1792140455.9615893,
   "07c24704ffee": 1792140448.2248955,
+  "07cb58b1c7cd": 1792659598.5140214,
   "080148fa9533": 1792142256.046359,
   "08721f394527": 1792140449.8447485,
   "08930dde7406": 1792140460.0458224,
@@ -2165,7 +2185,9 @@
   "4eb9f6f64de6": 1792140449.8447444,
   "4ebd993f171f": 1792140419.3187885,
   "4eea7e3c1525": 1792140455.0717552,
+  "4ef79dbd819d": 1792659616.0317702,
   "4f26e8f61eec": 1792140449.5165443,
+  "4f3956b946c6": 1792659612.7369926,
   "4f60061fa94c": 1792140446.1809068,
   "4fb516e2a4f2": 1792140446.3270483,
   "4fdb7591c6cc": 1792413693.1458669,
@@ -2246,6 +2268,7 @@
   "625726d5472f": 1792582357.4732234,
   "6333527152f9": 1792620880.984596,
   "633c8a8374fe": 1792413720.500745,
+  "6348c41debf3": 1792659635.2520547,
   "636f788ecffb": 1792202413.4859474,
   "63749dc8dd87": 1792140446.1809075,
   "637df2591771": 1792580162.321164,
@@ -2344,6 +2367,7 @@
   "7a88037d3c2f": 1792140455.9615881,
   "7aa12c6268e9": 1792162976.276501,
   "7abe29b56b91": 1792140460.9287455,
+  "7ac639564248": 1792659638.5494733,
   "7af72c2d298e": 1792582323.9984736,
   "7c006d277346": 1792140455.6358821,
   "7c36035dffc8": 1792605145.6038854,
@@ -2428,6 +2452,7 @@
   "8d8aec2def93": 1792140448.224892,
   "8d9964c367b8": 1792140449.844752,
   "8e6e6ef4f35b": 1792598275.9102778,
+  "8e84d81c8091": 1792659619.0771985,
   "8e881925f98d": 1792167217.643163,
   "8f42d93a134c": 1792140460.9287431,
   "9003583d56b4": 1792140460.9287455,
@@ -2703,6 +2728,7 @@
   "cf8a59f7943e": 1792492323.2851028,
   "cf8fc31eaa39": 1792416602.0501945,
   "cfadb5360de1": 1792140455.6358788,
+  "cfc310b0879e": 1792659625.000042,
   "cfe7958f5a88": 1792231894.1587906,
   "cfeda53818a0": 1792152850.358851,
   "cffa59b9f1cb": 1792140455.071754,
