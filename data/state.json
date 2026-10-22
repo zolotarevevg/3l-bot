@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792654060
+   "ok": 1792656843
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792654065
+   "ok": 1792656849
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792654065
+   "ok": 1792656849
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792654053
+   "ok": 1792656832
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792654055
+   "ok": 1792656834
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792654059
+   "ok": 1792656839
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792654060
+   "err_ts": 1792656843
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792654060
+   "ok": 1792656843
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792654042
+   "ok": 1792656827
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792654042
+   "ok": 1792656827
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792654062
+   "ok": 1792656845
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792654065
+   "ok": 1792656849
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792654065
+   "ok": 1792656849
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792654065
+   "ok": 1792656848
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792654041
+   "ok": 1792656827
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792654058
+   "ok": 1792656835
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792654060
+   "ok": 1792656839
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792656834,
    "ok": 1792654055
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792654065
+   "ok": 1792656848
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792654068
+   "ok": 1792656853
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792654066
+   "ok": 1792656851
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792654070
+   "ok": 1792656856
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792654070
+   "ok": 1792656855
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792654071
+   "ok": 1792656857
   }
  },
  "heartbeat": "2026-10-22",
@@ -1328,6 +1329,26 @@
    "ts": 1792590881.5041513,
    "why": "Новый сингл и анонс альбома, инди-рок, но не любимый артист"
   },
+  "9f62f37de7c7": {
+   "also": [],
+   "artist": "Shovel Dance Collective",
+   "fit": 2,
+   "id": "9f62f37de7c7",
+   "kind": "album",
+   "link": "https://thequietus.com/quietus-reviews/album-of-the-week/everything-in-readiness-shovel-dance-collective-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 89,
+   "release": "Tally Ho! Hark Away! Everything in Readiness",
+   "russian": false,
+   "source": "The Quietus",
+   "status": "new",
+   "summary_en": "The London experimental folk outliers’ triumphant third album is a demonstration of traditional music at its most progressive, outward-looking and migratory Photo credit: Brad Gilbert The hammered dulcimer originated in Persia as the santur, perhaps as many as 5,000 years ago. From there it travelled in all directions, adapting and mutating as it went. It moved southwards to India, where it became the santoor, played by ancient Sufi mystics as an accompaniment to hymns, and then moved eastwards via China to become the Korean yanggeum. In Hungary it has grown bigger and turned into the cimbalom, the national instrument. In Spain, it can be found depicted on the relief of a 12th century cathedral. It England it became popular with street performers... The post Tally Ho! Hark Away! Everything in Readiness by Shovel Dance Collective appeared first on The Quietus .",
+   "summary_ru": "Третий альбом лондонского экспериментального фолк-коллектива Shovel Dance Collective, который The Quietus назвал альбомом недели. Издание описывает его как пример традиционной музыки в её самом прогрессивном и открытом виде, с опорой на цимбалы и историю инструмента.",
+   "title": "Tally Ho! Hark Away! Everything in Readiness by Shovel Dance Collective",
+   "ts": 1792656838.2360518,
+   "why": "экспериментальный фолк, далёкий от жанров 3L"
+  },
   "a045afcf837d": {
    "also": [],
    "artist": "Matt Carmichael",
@@ -2111,6 +2132,7 @@
   "49f97ed38bf6": 1792595639.813323,
   "49ff6130e324": 1792140460.0458262,
   "4a08e5225078": 1792140448.2248921,
+  "4a4633e09c73": 1792656851.1216588,
   "4a709f62b2a0": 1792140456.38475,
   "4a8f43755962": 1792140454.9418387,
   "4aa044a239d8": 1792140454.9418383,
@@ -2471,6 +2493,7 @@
   "9f0aff8eb457": 1792406873.6734486,
   "9f206b920ab3": 1792413729.4807835,
   "9f307390a3bd": 1792140449.70973,
+  "9f62f37de7c7": 1792656835.1446323,
   "9fb7bf4b6ef1": 1792140448.2248917,
   "9fc236ec2ee8": 1792593151.1229913,
   "a00bff41256b": 1792140455.0717523,
@@ -2783,6 +2806,7 @@
   "e54150c45bbc": 1792140419.3187938,
   "e57eb5a4b28b": 1792425024.900194,
   "e5971488affe": 1792543837.1574347,
+  "e622f479d05f": 1792656839.9825618,
   "e62bce1c7bb3": 1792487989.2660182,
   "e64bfe4c2c75": 1792140449.8447442,
   "e67c156bd693": 1792515312.985797,
