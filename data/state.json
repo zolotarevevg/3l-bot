@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792671200
+   "ok": 1792674645
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792671214
+   "ok": 1792674653
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792671215
+   "ok": 1792674653
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792671181
+   "ok": 1792674632
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792671187
+   "ok": 1792674639
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792671188
+   "ok": 1792674641
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792671201
+   "err_ts": 1792674647
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792671201
+   "ok": 1792674645
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792671172
+   "ok": 1792674617
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792671176
+   "ok": 1792674621
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792671210
+   "ok": 1792674648
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792671213
+   "ok": 1792674652
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792671213
+   "ok": 1792674652
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792671213
+   "ok": 1792674652
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792671171
+   "ok": 1792674617
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792671188
+   "ok": 1792674640
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792671200
+   "ok": 1792674644
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792671187
+   "ok": 1792674639
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792671213
+   "ok": 1792674652
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792671217
+   "ok": 1792674655
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792671216
+   "ok": 1792674654
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792671218
+   "ok": 1792674660
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792671218
+   "ok": 1792674656
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792671219
+   "ok": 1792674661
   }
  },
  "heartbeat": "2026-10-22",
@@ -173,6 +173,26 @@
    "title": "Austin post-hardcore band Porcelain have shared politically charged new single ‘DSD’",
    "ts": 1792620915.2180643,
    "why": "пост-хардкор, далеко от жанров 3L"
+  },
+  "0449f6e5fa68": {
+   "also": [],
+   "artist": "Slate",
+   "fit": 4,
+   "id": "0449f6e5fa68",
+   "kind": "ep",
+   "link": "https://www.clashmusic.com/news/slate-announce-new-ep-the-grandfather-clock/",
+   "listen": {},
+   "major": false,
+   "msg_id": 97,
+   "release": "The Grandfather Clock",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Slate have confirmed plans for new EP ‘The Grandfather Clock’. The Welsh band’s debut EP ‘Deathless’ landed back in 2024, making a huge impact in the process. Following a period of writing and evolution, the group returned to the studio a few months ago. Recorded live at RAK Studios and Perryvale Studios in London… The post Slate Announce New EP ‘The Grandfather Clock’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Валлийская группа Slate анонсировала новый EP The Grandfather Clock, пришедший после дебютного EP Deathless (2024). Запись прошла вживую в RAK Studios и Perryvale Studios в Лондоне.",
+   "title": "Slate Announce New EP ‘The Grandfather Clock’",
+   "ts": 1792674634.2113774,
+   "why": "анонс нового EP в инди-рок жанре"
   },
   "0c74cea80e3a": {
    "also": [
@@ -1843,6 +1863,28 @@
    "ts": 1792664269.2318585,
    "why": "новый сингл и анонс концерта, инди-группа"
   },
+  "ee0bd1bc4837": {
+   "also": [],
+   "artist": "Helena Deland",
+   "fit": 4,
+   "id": "ee0bd1bc4837",
+   "kind": "video",
+   "link": "https://www.gorillavsbear.net/helena-deland-tip-of-my-tongue/",
+   "listen": {
+    "Bandcamp": "https://helenadeland.bandcamp.com/album/eternity-shrugs"
+   },
+   "major": false,
+   "msg_id": 98,
+   "release": "Tip of My Tongue",
+   "russian": false,
+   "source": "Gorilla vs. Bear",
+   "status": "new",
+   "summary_en": "Helena Deland 's new album Eternity Shrugs is out January 22nd, 2027 . Video by Jodi Heartz and Alex Blouin ... Continue reading…",
+   "summary_ru": "Helena Deland выпустила видео на трек «Tip of My Tongue» с предстоящего альбома Eternity Shrugs, который выйдет 22 января 2027 года. Видео сняли Jodi Heartz и Alex Blouin.",
+   "title": "Helena Deland – Tip of My Tongue",
+   "ts": 1792674646.617519,
+   "why": "Новый клип и анонс альбома, инди из Монреаля"
+  },
   "eef3628279ba": {
    "also": [],
    "artist": "Chaosbay",
@@ -1956,6 +1998,7 @@
   "011e32149a2d": 1792598304.9127445,
   "017689e5990b": 1792140461.4665873,
   "01caf8286699": 1792429166.2953134,
+  "01de2989b1e9": 1792674641.458071,
   "01dff0a9f417": 1792140448.224893,
   "021207a43263": 1792140460.045821,
   "023092091bb9": 1792505504.4008245,
@@ -1969,6 +2012,7 @@
   "03a99f1e8d20": 1792140455.961588,
   "03aa337b6e58": 1792598313.2244039,
   "04420f0110cc": 1792140447.251953,
+  "0449f6e5fa68": 1792674632.2852583,
   "04829c171fcb": 1792620877.9015398,
   "048b9c3740eb": 1792140455.635878,
   "04dd1100da82": 1792580152.6002626,
@@ -2145,6 +2189,7 @@
   "2eac6fc0f112": 1792140456.3847518,
   "2ef8fa22a2e2": 1792140455.0289195,
   "2efdfead27ce": 1792404623.5460773,
+  "2f38c4fe4173": 1792674656.5846965,
   "2f88a299e6cb": 1792140449.5165534,
   "2fbb999d28db": 1792595636.3501866,
   "2fe6f2b1fb03": 1792140455.0717504,
@@ -2911,6 +2956,7 @@
   "d3765b0001fb": 1792140455.0289202,
   "d383ba083cc4": 1792426681.2487686,
   "d3ca17f4a685": 1792140446.18091,
+  "d3ea5ef60592": 1792674617.6097536,
   "d491512e60f4": 1792140419.3187916,
   "d5139dfdf51b": 1792140449.7097282,
   "d5204abcd1f1": 1792237225.8804777,
@@ -3031,6 +3077,7 @@
   "ed3baed6d6aa": 1792140455.0717516,
   "edb1719f6081": 1792140446.1809142,
   "edbf257e9d8f": 1792140449.8447516,
+  "ee0bd1bc4837": 1792674645.3592305,
   "eee8b8c0b7d3": 1792598292.2264707,
   "eef3628279ba": 1792478065.7128956,
   "ef4ad44e8683": 1792140455.0289283,
@@ -3089,6 +3136,7 @@
   "fad9333cf136": 1792620892.6378245,
   "fae188466bd8": 1792140455.9615874,
   "fb56c47112c2": 1792140455.9615815,
+  "fb715baab7b9": 1792674634.706975,
   "fb9c461c0e21": 1792140449.844751,
   "fbb73e408c35": 1792146698.0368562,
   "fbbef8e85667": 1792343416.4451923,
