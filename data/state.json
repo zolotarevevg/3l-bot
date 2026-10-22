@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792677654
+   "ok": 1792679950
   },
   "Bandcamp Daily": {
-   "count": 39,
+   "count": 38,
    "err": "",
-   "ok": 1792677663
+   "ok": 1792679968
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792677663
+   "ok": 1792679975
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792677625
+   "ok": 1792679928
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792677648
+   "ok": 1792679929
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792677652
+   "ok": 1792679931
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792677657
+   "err_ts": 1792679951
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792677657
+   "ok": 1792679951
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792677613
+   "ok": 1792679922
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792677613
+   "ok": 1792679922
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792677659
+   "ok": 1792679952
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792677663
+   "ok": 1792679968
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792677662
+   "ok": 1792679968
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792677662
+   "ok": 1792679956
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792677602
+   "ok": 1792679912
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792677649
+   "ok": 1792679930
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792677653
+   "ok": 1792679948
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792677648,
-   "ok": 1792674639
+   "err": "",
+   "ok": 1792679930
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792677662
+   "ok": 1792679955
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792677668
+   "ok": 1792679976
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792677664
+   "ok": 1792679976
   },
   "Родной звук (TG)": {
-   "count": 9,
+   "count": 10,
    "err": "",
-   "ok": 1792677669
+   "ok": 1792679977
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792677668
+   "ok": 1792679977
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792677670
+   "ok": 1792679981
   }
  },
  "heartbeat": "2026-10-22",
@@ -259,6 +258,26 @@
    "title": "The Treatment of Fractures EP",
    "ts": 1792413735.7973962,
    "why": "малоизвестный артист, жанр в записи не указан явно"
+  },
+  "123227c0a4fa": {
+   "also": [],
+   "artist": "Fleetwood Mac",
+   "fit": 2,
+   "id": "123227c0a4fa",
+   "kind": "video",
+   "link": "https://readdork.com/news/fleetwood-mac-the-chain-apple-tv-release-date-56db684e0b",
+   "listen": {},
+   "major": false,
+   "msg_id": 101,
+   "release": "The Chain",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Fleetwood Mac’s first fully authorised documentary, The Chain, will arrive on Apple TV on 29th January 2027.",
+   "summary_ru": "Fleetwood Mac анонсировали первую полностью авторизованную документалку The Chain, которая выйдет на Apple TV 29 января 2027 года.",
+   "title": "Fleetwood Mac have named their Apple TV documentary The Chain",
+   "ts": 1792679938.8764956,
+   "why": "классика рока, вне жанров 3L, без нового релиза"
   },
   "138479fbcfdb": {
    "also": [],
@@ -849,6 +868,26 @@
    "title": "Shabazz Palaces, “It’s A Style Sport”",
    "ts": 1792505519.007252,
    "why": "экспериментальный хип-хоп, не любимый артист 3L"
+  },
+  "42370004efab": {
+   "also": [],
+   "artist": "FaltyDL",
+   "fit": 4,
+   "id": "42370004efab",
+   "kind": "album",
+   "link": "https://readdork.com/news/faltydl-vega-album-december-10aa50c9b5",
+   "listen": {},
+   "major": false,
+   "msg_id": 100,
+   "release": "VEGA",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "FaltyDL’s new album ‘VEGA’ arrives in December via Drowned By Locals, led by the single ‘Queen Brute’.",
+   "summary_ru": "Новый альбом FaltyDL VEGA выйдет в декабре на лейбле Drowned By Locals. Ведущим синглом стал трек Queen Brute. По словам издания, пластинка посвящена жизни, смерти и отцовству.",
+   "title": "FaltyDL is exploring life, death and fatherhood on his new album ‘VEGA’",
+   "ts": 1792679935.3686829,
+   "why": "электроника, новый альбом с анонсом, но не любимый артист"
   },
   "4341c65dffd8": {
    "also": [],
@@ -1494,6 +1533,26 @@
    "ts": 1792664278.0551856,
    "why": "Новый сингл, but стиль неизвестен, малоизвестный артист"
   },
+  "aea81a308773": {
+   "also": [],
+   "artist": "Kill Alters",
+   "fit": 3,
+   "id": "aea81a308773",
+   "kind": "album",
+   "link": "https://daily.bandcamp.com/album-of-the-day/kill-alters-we-can-rot-together-review",
+   "listen": {},
+   "major": false,
+   "msg_id": 103,
+   "release": "We Can Rot Together",
+   "russian": false,
+   "source": "Bandcamp Daily",
+   "status": "new",
+   "summary_en": "Bonnie Baxter dives into the digital detritus of modern life and emerges with a diamond. Read full story on the Bandcamp Daily .",
+   "summary_ru": "Album of the Day на Bandcamp Daily: рецензия Бонни Бакстер на альбом Kill Alters «We Can Rot Together». Автор описывает работу с цифровым мусором современной жизни. Жанр и подробности в записи не указаны.",
+   "title": "Kill Alters, “We Can Rot Together”",
+   "ts": 1792679974.7818675,
+   "why": "возможна экспериментальная электроника, жанр не указан"
+  },
   "b081adddb626": {
    "also": [],
    "artist": "DJ Target",
@@ -1603,6 +1662,26 @@
    "title": "Marsy have announced their ‘Miss Wave’ EP and shared its title track",
    "ts": 1792664287.0280187,
    "why": "новый EP и анонс, инди-лейбл, близко к жанрам 3L"
+  },
+  "c0df3f1282d1": {
+   "also": [],
+   "artist": "Bloodworm",
+   "fit": 4,
+   "id": "c0df3f1282d1",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/bloodworm_release_new_single",
+   "listen": {},
+   "major": false,
+   "msg_id": 102,
+   "release": "Still You",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Hotly-tipped post punk trio Bloodworm release a brand new single today entitled “Still You”",
+   "summary_ru": "Пост-панк трио Bloodworm выпускает новый сингл «Still You». Группу называют одной из самых перспективных в жанре.",
+   "title": "Bloodworm Release New Single",
+   "ts": 1792679950.1888564,
+   "why": "новый сингл, пост-панк, но группа малоизвестна"
   },
   "c49c93d616eb": {
    "also": [],
@@ -2031,6 +2110,7 @@
   "01caf8286699": 1792429166.2953134,
   "01de2989b1e9": 1792674641.458071,
   "01dff0a9f417": 1792140448.224893,
+  "02103129a132": 1792679919.1286101,
   "021207a43263": 1792140460.045821,
   "023092091bb9": 1792505504.4008245,
   "0253f5b89e8e": 1792422148.3329163,
@@ -2073,6 +2153,7 @@
   "0bf3ddcdf4ae": 1792140455.6358778,
   "0c74cea80e3a": 1792508210.9518852,
   "0ca432f303ba": 1792140455.6358807,
+  "0cae2451dcf3": 1792679941.9548342,
   "0cbc6471679d": 1792140451.9265776,
   "0cbf301a1f4e": 1792140449.5165517,
   "0ce9c3736d05": 1792140455.6358805,
@@ -2089,6 +2170,7 @@
   "0ea5610d1c38": 1792406855.018402,
   "0ed6b841b05d": 1792413711.9912553,
   "0edde9d1bc4a": 1792426684.5101395,
+  "0f0f3ecf4d8e": 1792679931.109047,
   "0fec224297bb": 1792140419.31879,
   "0fff843c3f27": 1792431206.560036,
   "108dca2850ed": 1792158595.9177806,
@@ -2101,6 +2183,7 @@
   "11f4402d9b63": 1792620889.8545327,
   "121625f6561d": 1792413732.3814454,
   "1217c4e6beea": 1792494671.4185624,
+  "123227c0a4fa": 1792679935.867533,
   "126a0a5d79e3": 1792140460.0458257,
   "127c5593c948": 1792140447.2519565,
   "12b3ba08a6f9": 1792140455.028919,
@@ -2252,6 +2335,7 @@
   "345b1df80d07": 1792668775.198597,
   "34bc062af6d5": 1792140455.0289285,
   "34d77bef4587": 1792165187.4361115,
+  "3505188b3ade": 1792679961.0929444,
   "353cd0da6ccf": 1792602849.6578767,
   "35793f0f0508": 1792140454.9418368,
   "35ac8a3e9935": 1792140462.2817574,
@@ -2295,6 +2379,7 @@
   "3cf416b4ddf2": 1792331366.4819434,
   "3d0fa53992bc": 1792140449.5165458,
   "3d6f443e82b6": 1792140455.6358812,
+  "3e39949eb445": 1792679956.0795794,
   "3e5d41f753e4": 1792162985.8961833,
   "3e847677fa3d": 1792140446.1809094,
   "3eade16923ed": 1792595613.834872,
@@ -2318,6 +2403,7 @@
   "420cd0380016": 1792505471.2903924,
   "42143c76789b": 1792224778.2659497,
   "4229112470c9": 1792140454.9418397,
+  "42370004efab": 1792679934.083065,
   "42ac00b68f5e": 1792140419.3187935,
   "42b19b2c4292": 1792394162.9122472,
   "42db33201c97": 1792419522.009265,
@@ -2329,6 +2415,7 @@
   "4379b2795422": 1792140449.5165546,
   "437e9e762bdf": 1792140419.3187883,
   "43d3de236d1c": 1792140447.2519557,
+  "445063a728a0": 1792679944.8095715,
   "446c37bffae3": 1792422113.9901989,
   "446fdd174120": 1792140455.0289283,
   "448b9413020e": 1792486036.1012127,
@@ -2472,6 +2559,7 @@
   "5f8252676042": 1792140419.66491,
   "5faea83a099d": 1792140447.2519577,
   "5fbf2f967879": 1792582298.2390654,
+  "5fcf8809b1a6": 1792679958.3298347,
   "604f481cfcf7": 1792140448.224885,
   "605d0560ee3d": 1792140455.0289204,
   "606006d231b9": 1792140446.3270464,
@@ -2526,6 +2614,7 @@
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
   "6d39a5881c80": 1792339702.5628843,
+  "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
   "6e6dbb97461c": 1792140456.3847506,
   "6ea463529840": 1792404602.2193522,
@@ -2567,6 +2656,7 @@
   "74e1d096a751": 1792140455.0717535,
   "7537ab40d39e": 1792404605.3771222,
   "756a17119932": 1792140455.96159,
+  "757525a9a28d": 1792679939.2190511,
   "759679035db5": 1792177974.4335725,
   "759d71760200": 1792580146.8202639,
   "75e263cff6cd": 1792140456.3847508,
@@ -2804,6 +2894,7 @@
   "aa5a3d93093a": 1792440703.3610823,
   "aa8b54134cb2": 1792140446.1809144,
   "aa976d0dcb23": 1792140449.7097301,
+  "ab17e645739a": 1792679912.8879662,
   "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
   "acabb43d1aa3": 1792140456.384748,
@@ -2815,6 +2906,7 @@
   "adf4ac1e2054": 1792140446.3270504,
   "ae5f1ca5bd81": 1792671181.6480582,
   "ae8bd1ea10bb": 1792163006.5854099,
+  "aea81a308773": 1792679971.9229736,
   "af38d247ea14": 1792243087.9580936,
   "afce16bf96e1": 1792140449.5165496,
   "b081adddb626": 1792406870.2139947,
@@ -2901,6 +2993,7 @@
   "c0462cfc0a95": 1792167249.1019454,
   "c0884d6be1ad": 1792677654.144983,
   "c0c1e23ac6ac": 1792140447.2519538,
+  "c0df3f1282d1": 1792679948.6555061,
   "c0e4891717c6": 1792140446.180915,
   "c129fcab4083": 1792671188.9215186,
   "c132c3f57172": 1792404620.620397,
@@ -2908,6 +3001,7 @@
   "c1c70e5e58cd": 1792140455.6358776,
   "c1ee0c25a30d": 1792140455.0289285,
   "c1fd74c901f3": 1792582364.6117935,
+  "c20bbe944bc5": 1792679916.1630077,
   "c21a2020aa01": 1792321839.846243,
   "c299cadda15b": 1792140419.318787,
   "c2a380fb0467": 1792140454.941841,
@@ -3015,6 +3109,7 @@
   "d86fc384d4ba": 1792338128.2548878,
   "d889aaf06053": 1792338147.1760545,
   "d89d77a038b4": 1792580177.3079207,
+  "d8ccfca4c4e6": 1792679977.704332,
   "d8fe7164610a": 1792140449.516551,
   "d9a6be2ac275": 1792140455.0717518,
   "d9a7bdd59168": 1792140455.6358798,
