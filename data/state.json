@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792659630
+   "ok": 1792661876
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792659642
+   "ok": 1792661881
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792659642
+   "ok": 1792661882
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792659612
+   "ok": 1792661865
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792659624
+   "ok": 1792661870
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792659629
+   "ok": 1792661875
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792659630
+   "err_ts": 1792661876
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792659630
+   "ok": 1792661876
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792659598
+   "ok": 1792661849
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792659600
+   "ok": 1792661853
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792659632
+   "ok": 1792661878
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792659642
+   "ok": 1792661881
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792659641
+   "ok": 1792661881
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792659641
+   "ok": 1792661881
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792659598
+   "ok": 1792661849
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792659625
+   "ok": 1792661871
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792659630
+   "ok": 1792661876
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792661870,
    "ok": 1792659624
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792659635
+   "ok": 1792661881
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792659644
+   "ok": 1792661887
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792659643
+   "ok": 1792661883
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792659646
+   "ok": 1792661888
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792659645
+   "ok": 1792661888
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792659647
+   "ok": 1792661889
   }
  },
  "heartbeat": "2026-10-22",
@@ -1951,6 +1952,7 @@
   "1f3145e50fac": 1792140449.516549,
   "1f70bf6007bd": 1792140455.9615905,
   "1f7aca6c3335": 1792517947.7068393,
+  "1fcf807a79bb": 1792661865.4209087,
   "2008852bbe08": 1792140455.9615865,
   "200d5236483c": 1792646047.2057033,
   "2043ca86c43d": 1792530976.3543844,
@@ -2551,6 +2553,8 @@
   "a53354d35458": 1792140446.3270502,
   "a5693ea21883": 1792140456.384751,
   "a57aa4f74d26": 1792595646.6859303,
+  "a585cbc5f74f": 1792661849.837127,
+  "a5ba6f22ce58": 1792661883.0974984,
   "a5f892537dc6": 1792425039.830182,
   "a6b3b5ceeb4e": 1792575325.4105005,
   "a70eedef66de": 1792140460.0458221,
@@ -2776,6 +2780,7 @@
   "db11a3f46399": 1792140449.8447473,
   "db3557309c42": 1792424989.7137206,
   "db4087247b1d": 1792140448.2248945,
+  "db88545f05b6": 1792661871.0030665,
   "dbd802634c72": 1792140460.045826,
   "dbd81aee1d50": 1792320475.1409245,
   "dcacabdd1522": 1792483691.139654,
