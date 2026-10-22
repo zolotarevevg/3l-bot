@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792661876
+   "ok": 1792664301
   },
   "Bandcamp Daily": {
    "count": 39,
    "err": "",
-   "ok": 1792661881
+   "ok": 1792664307
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792661882
+   "ok": 1792664307
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792661865
+   "ok": 1792664252
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792661870
+   "ok": 1792664256
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792661875
+   "ok": 1792664258
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792661876
+   "err_ts": 1792664302
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792661876
+   "ok": 1792664302
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792661849
+   "ok": 1792664247
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792661853
+   "ok": 1792664247
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792661878
+   "ok": 1792664303
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792661881
+   "ok": 1792664306
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792661881
+   "ok": 1792664306
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792661881
+   "ok": 1792664306
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792661849
+   "ok": 1792664247
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792661871
+   "ok": 1792664257
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792661876
+   "ok": 1792664301
   },
   "musicOMH": {
    "count": 20,
    "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792661870,
+   "err_ts": 1792664256,
    "ok": 1792659624
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792661881
+   "ok": 1792664306
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792661887
+   "ok": 1792664309
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792661883
+   "ok": 1792664308
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1792661888
+   "ok": 1792664311
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792661888
+   "ok": 1792664310
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792661889
+   "ok": 1792664312
   }
  },
  "heartbeat": "2026-10-22",
@@ -279,6 +279,26 @@
    "title": "Radio Free Alice shout out their ‘Melbourne Friends’ in exclusive playlist to accompany The Cover",
    "ts": 1792399808.6997886,
    "why": "инди-группа, новый дебютный альбом, близкие жанры"
+  },
+  "1462713d87da": {
+   "also": [],
+   "artist": "Isak Danielson",
+   "fit": 4,
+   "id": "1462713d87da",
+   "kind": "album",
+   "link": "https://readdork.com/news/isak-danielson-love-isak-album-announcement-46d35d0487",
+   "listen": {},
+   "major": false,
+   "msg_id": 93,
+   "release": "Love, Isak",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Swedish singer-songwriter’s sixth album, ‘Love, Isak’, will arrive on 22nd January 2027.",
+   "summary_ru": "Шведский исполнитель Исак Даниэльсон анонсировал шестой альбом «Love, Isak», который выйдет 22 января 2027 года.",
+   "title": "Isak Danielson has announced new album ‘Love, Isak’",
+   "ts": 1792664276.2702515,
+   "why": "анонс нового альбома инди-поп исполнителя"
   },
   "1870ba42ad82": {
    "also": [],
@@ -975,6 +995,26 @@
    "ts": 1792505480.131889,
    "why": "новый сингл, инди-рок, но артист не в любимых"
   },
+  "5599512c07cf": {
+   "also": [],
+   "artist": "Beaks",
+   "fit": 4,
+   "id": "5599512c07cf",
+   "kind": "single",
+   "link": "https://readdork.com/news/beaks-vanilla-sky-new-single-aldie-ab39a49b0c",
+   "listen": {},
+   "major": false,
+   "msg_id": 95,
+   "release": "vanilla sky",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Beaks’ final ‘ALDIE’ preview, ‘vanilla sky’, is out now ahead of the album’s 13th November release.",
+   "summary_ru": "Beaks выпустили сингл «vanilla sky», последнее превью перед дебютным альбомом ALDIE, который выйдет 13 ноября.",
+   "title": "Beaks has shared new single ‘vanilla sky’ ahead of debut album ‘ALDIE’",
+   "ts": 1792664284.223663,
+   "why": "новый сингл и анонс дебютного альбома, жанр близок к пост-панку"
+  },
   "58977be833e1": {
    "also": [],
    "artist": "Gotts Street Park",
@@ -1409,6 +1449,26 @@
    "ts": 1792429134.6989515,
    "why": "новый трек, жанр по записи неясен"
   },
+  "add5be8f31ed": {
+   "also": [],
+   "artist": "Heidi Curtis",
+   "fit": 3,
+   "id": "add5be8f31ed",
+   "kind": "single",
+   "link": "https://readdork.com/news/heidi-curtis-run-single-summon-ep-20809c387d",
+   "listen": {},
+   "major": false,
+   "msg_id": 94,
+   "release": "Run",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Heidi Curtis’ new single ‘Run’ is out now with an accompanying video, ahead of her ‘Summon’ EP next month.",
+   "summary_ru": "Heidi Curtis выпустила новый сингл «Run» с видеоклипом. Он вышел перед EP «Summon», которое появится в следующем месяце.",
+   "title": "Heidi Curtis has released new single ‘Run’ ahead of her ‘Summon’ EP",
+   "ts": 1792664278.0551856,
+   "why": "Новый сингл, but стиль неизвестен, малоизвестный артист"
+  },
   "b081adddb626": {
    "also": [],
    "artist": "DJ Target",
@@ -1498,6 +1558,26 @@
    "title": "Clap Your Hands Say Yeah Announce New Album Burned: Hear “Fever Of The Mind”",
    "ts": 1792595591.5757027,
    "why": "инди-рок нулевых, новый альбом и трек"
+  },
+  "bde722fb1fad": {
+   "also": [],
+   "artist": "Marsy",
+   "fit": 4,
+   "id": "bde722fb1fad",
+   "kind": "ep",
+   "link": "https://readdork.com/news/marsy-miss-wave-ep-title-track-video-c6c909ee65",
+   "listen": {},
+   "major": false,
+   "msg_id": 96,
+   "release": "Miss Wave",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Marsy’s five-track ‘Miss Wave’ EP arrives on Heavenly Recordings on 20th November, with its title track and video out now.",
+   "summary_ru": "Marsy анонсировали EP «Miss Wave» из пяти треков, который выйдет 20 ноября на лейбле Heavenly Recordings. Уже доступны титульный трек и видео к нему.",
+   "title": "Marsy have announced their ‘Miss Wave’ EP and shared its title track",
+   "ts": 1792664287.0280187,
+   "why": "новый EP и анонс, инди-лейбл, близко к жанрам 3L"
   },
   "c49c93d616eb": {
    "also": [],
@@ -1659,6 +1739,26 @@
    "ts": 1792580144.4189217,
    "why": "хип-хоп, вне жанров 3L, не любимый артист"
   },
+  "e1f258b97a61": {
+   "also": [],
+   "artist": "Willie J Healey",
+   "fit": 4,
+   "id": "e1f258b97a61",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/willie-j-healey-announces-new-album-lucky/",
+   "listen": {},
+   "major": false,
+   "msg_id": 91,
+   "release": "Lucky",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Willie J Healey has confirmed plans for new album ‘Lucky’. The songwriter embraces maturity on his new record, with the English artist able to look at recurring themes – friendship and self-doubt, communion and isolation – from a different and more reflective vantage point. Out on March 12th, new album… The post Willie J Healey Announces New Album ‘Lucky’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Willie J Healey анонсировал новый альбом «Lucky», который выйдет 12 марта. По описанию, пластинка звучит более зрелой и рефлексивной, с темами дружбы, неуверенности в себе и одиночества.",
+   "title": "Willie J Healey Announces New Album ‘Lucky’",
+   "ts": 1792664254.3399756,
+   "why": "анонс нового альбома английского инди-автора"
+  },
   "e28c1b62372d": {
    "also": [],
    "artist": "Toria Wooff",
@@ -1718,6 +1818,26 @@
    "title": "Ruby Gill has released new album ‘Fishing is not about fishing’",
    "ts": 1792411082.9069874,
    "why": "новый альбом с видео, инди-поп без явной привязки к жанрам 3L"
+  },
+  "eba415144f44": {
+   "also": [],
+   "artist": "Alphabet",
+   "fit": 4,
+   "id": "eba415144f44",
+   "kind": "single",
+   "link": "https://readdork.com/news/alphabet-into-the-blur-old-blue-last-show-8126b3460c",
+   "listen": {},
+   "major": false,
+   "msg_id": 92,
+   "release": "Into The Blur",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "London four-piece Alphabet will headline the Old Blue Last on 3rd December, with new single ‘Into The Blur’ out now.",
+   "summary_ru": "Лондонский квартет Alphabet выступит хедлайнером в клубе Old Blue Last 3 декабря. Уже вышел новый сингл «Into The Blur».",
+   "title": "Alphabet have announced an Old Blue Last headline show alongside new single ‘Into The Blur’",
+   "ts": 1792664269.2318585,
+   "why": "новый сингл и анонс концерта, инди-группа"
   },
   "eef3628279ba": {
    "also": [],
@@ -1911,6 +2031,7 @@
   "13be515e46a6": 1792399806.0338573,
   "13d885cbec0a": 1792473359.6779761,
   "13eb4f70de50": 1792422138.3649497,
+  "1462713d87da": 1792664273.8909972,
   "14715da0d8f5": 1792142306.6505816,
   "1498394b19db": 1792142237.7308586,
   "14ac3666dd7a": 1792140449.8447518,
@@ -1930,7 +2051,9 @@
   "199cf08d08b7": 1792140446.1809065,
   "19e0330a1098": 1792508253.0522387,
   "19f06b4eeb8c": 1792251658.0496576,
+  "1a1ec73c93cb": 1792664287.4882174,
   "1a2837f9350c": 1792140460.9287448,
+  "1a599602974c": 1792664290.2948997,
   "1a8dd88cb908": 1792517943.933015,
   "1a9ca8a43973": 1792158567.0555933,
   "1abba4f336d2": 1792582283.2054315,
@@ -2022,6 +2145,7 @@
   "2fee18337610": 1792140456.384751,
   "2ffd0602b2be": 1792582329.9149673,
   "3018ad36e166": 1792140462.281757,
+  "301dd5e03000": 1792664300.3128512,
   "30c767b31b93": 1792140449.5165484,
   "3128c6ed83d6": 1792529035.3777864,
   "318b397810a2": 1792343409.0080278,
@@ -2125,6 +2249,7 @@
   "44b2528409f8": 1792419524.7455919,
   "44e32704f7ec": 1792505491.9044785,
   "451e0f45f3cf": 1792404592.9865537,
+  "45cc953ad3e7": 1792664269.6911159,
   "4617fbe156e4": 1792140449.5165532,
   "46310d15a682": 1792140460.0458255,
   "464983b4fd82": 1792582353.4627175,
@@ -2216,6 +2341,7 @@
   "5508a72ffbed": 1792505477.734797,
   "5513d3e4b246": 1792422151.1009116,
   "5571ceb1add5": 1792140455.6358814,
+  "5599512c07cf": 1792664281.3939202,
   "55b51cc1bf5c": 1792140449.8447442,
   "55da789a2292": 1792602864.0676343,
   "55fb93099503": 1792140447.251956,
@@ -2265,6 +2391,7 @@
   "60d2386d983a": 1792584727.6713085,
   "60eda1a14031": 1792512944.8388238,
   "616baa1a8dfb": 1792140446.1809132,
+  "61a43c3fb708": 1792664295.4694817,
   "61a93cd9c515": 1792230521.538974,
   "61b3ee7fe73e": 1792140446.1809077,
   "625726d5472f": 1792582357.4732234,
@@ -2280,6 +2407,7 @@
   "647e6ed5ab0f": 1792140455.961584,
   "64bbe29b3058": 1792140455.0717542,
   "64f2e390d8a6": 1792494624.348612,
+  "658bcd47c3f0": 1792664262.0418727,
   "659a24ab17a9": 1792505488.5260932,
   "65a1d64ec464": 1792602853.0653977,
   "65bcf6c4486c": 1792140447.2519526,
@@ -2341,6 +2469,7 @@
   "73f2ef6c1c56": 1792140447.2519557,
   "7418382b35bb": 1792140447.2519574,
   "7444ec11d643": 1792140449.8447502,
+  "747d60507178": 1792664300.312854,
   "74d58debea5a": 1792140455.0289288,
   "74e1d096a751": 1792140455.0717535,
   "7537ab40d39e": 1792404605.3771222,
@@ -2376,17 +2505,21 @@
   "7d65c438337f": 1792140455.0289216,
   "7db93ca61f13": 1792582357.4732285,
   "7df1bf3e67fe": 1792140448.2248952,
+  "7e0503716a6a": 1792664300.3128543,
   "7e110136eb40": 1792573128.7770834,
   "7e9332137f0d": 1792401948.768458,
   "7e96c7fc5eed": 1792140448.2248921,
+  "7e9faa5885fd": 1792664278.5046082,
   "7eea023c73b7": 1792397222.6336875,
   "7f0c1c7c664a": 1792140461.4665883,
   "7f2aaa41a6c9": 1792512952.429844,
   "7f5f620284ee": 1792519745.2865176,
+  "7f664d3dc8d0": 1792664297.690469,
   "7f76c3b02e7b": 1792419508.0815978,
   "7f85e4b2c5ba": 1792140447.2519534,
   "7f866a3ccbce": 1792620918.3364587,
   "7f8a2e0494a0": 1792600440.5094643,
+  "7fab7887a817": 1792664300.312849,
   "7fde0bc85218": 1792140460.0458272,
   "7fe99601ab13": 1792140419.6649106,
   "800ae9f40da0": 1792577650.48513,
@@ -2562,6 +2695,7 @@
   "a78420dc9d7a": 1792140455.961586,
   "a7928c587097": 1792494668.2631805,
   "a7a7fc7ec88a": 1792140455.961586,
+  "a8b90069f2cd": 1792664263.9461608,
   "a9558be2e824": 1792140449.844752,
   "aa5a3d93093a": 1792440703.3610823,
   "aa8b54134cb2": 1792140446.1809144,
@@ -2573,6 +2707,7 @@
   "ad30869d0f20": 1792416644.3908706,
   "ad837da2cf60": 1792140449.5165474,
   "ada7599cf7f8": 1792140451.9265778,
+  "add5be8f31ed": 1792664276.7811468,
   "adf4ac1e2054": 1792140446.3270504,
   "ae8bd1ea10bb": 1792163006.5854099,
   "af38d247ea14": 1792243087.9580936,
@@ -2616,6 +2751,7 @@
   "b74758bdad7b": 1792492313.3335397,
   "b754f3b9945d": 1792140451.9265769,
   "b755ffca5d88": 1792140448.224886,
+  "b75b26832fc1": 1792664292.398219,
   "b79df9f648bb": 1792508219.5516636,
   "b7a1b51599e4": 1792517968.8680768,
   "b7c7bb587490": 1792140449.5165505,
@@ -2645,6 +2781,7 @@
   "bda0fb865650": 1792264011.4918494,
   "bdbec7e10718": 1792140419.3187923,
   "bdce13a714b7": 1792425017.0447383,
+  "bde722fb1fad": 1792664284.6944864,
   "be238d5a9a8e": 1792152836.4937682,
   "be34867d852b": 1792582357.4731867,
   "be3ac7c5b64c": 1792140455.635881,
@@ -2783,6 +2920,7 @@
   "db88545f05b6": 1792661871.0030665,
   "dbd802634c72": 1792140460.045826,
   "dbd81aee1d50": 1792320475.1409245,
+  "dbe7c734baf3": 1792664258.3030195,
   "dcacabdd1522": 1792483691.139654,
   "dcbbe118675a": 1792623148.5752814,
   "dce98e7031cf": 1792140448.2248862,
@@ -2813,6 +2951,7 @@
   "e17d154dc10d": 1792140448.2248929,
   "e1869ead1454": 1792140449.8447478,
   "e1928e55e12b": 1792140460.045822,
+  "e1f258b97a61": 1792664252.6949341,
   "e256a24985e1": 1792595610.845401,
   "e26be94ff5dc": 1792140455.9615912,
   "e28c1b62372d": 1792497224.4252322,
@@ -2837,6 +2976,7 @@
   "e54150c45bbc": 1792140419.3187938,
   "e57eb5a4b28b": 1792425024.900194,
   "e5971488affe": 1792543837.1574347,
+  "e5f26787bbe3": 1792664300.3128536,
   "e622f479d05f": 1792656839.9825618,
   "e62bce1c7bb3": 1792487989.2660182,
   "e64bfe4c2c75": 1792140449.8447442,
@@ -2857,6 +2997,7 @@
   "ea6f8ddee7c2": 1792140449.7097304,
   "eab83437a92c": 1792156046.6465232,
   "eadf2bef881f": 1792140455.0289192,
+  "eba415144f44": 1792664267.2530026,
   "eba784da422c": 1792140446.1809137,
   "ebb475562801": 1792487980.9764705,
   "eca6af54de70": 1792620887.0254629,
@@ -2933,6 +3074,7 @@
   "fcb7c6b0cfd8": 1792486031.3206658,
   "fd5f5cb2f5b5": 1792512916.162363,
   "fd65f9e97e46": 1792140455.9615855,
+  "fd76788bec20": 1792664300.3128524,
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
   "febd0470b7af": 1792171558.4127772,
