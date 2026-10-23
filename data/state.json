@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792748058
+   "ok": 1792750446
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792748084
+   "ok": 1792750459
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,27 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792748084
+   "ok": 1792750459
   },
   "Clash": {
    "count": 10,
-   "err": "",
+   "err": "HTTPError: 403 Client Error: Forbidden for url: https://www.clashmusic.com/feed/",
+   "err_ts": 1792750406,
    "ok": 1792748039
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792748050
+   "ok": 1792750408
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792748056
+   "ok": 1792750411
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792748058
+   "err_ts": 1792750447
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792748058
+   "ok": 1792750446
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792748020
+   "ok": 1792750400
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792748026
+   "ok": 1792750406
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792748060
+   "ok": 1792750448
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792748084
+   "ok": 1792750459
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792748083
+   "ok": 1792750459
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792748083
+   "ok": 1792750458
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792748019
+   "ok": 1792750399
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792748055
+   "ok": 1792750410
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792748057
+   "ok": 1792750445
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792748055
+   "ok": 1792750409
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792748064
+   "ok": 1792750452
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792748086
+   "ok": 1792750462
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792748085
+   "ok": 1792750461
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792748091
+   "ok": 1792750463
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792748090
+   "ok": 1792750462
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792748092
+   "ok": 1792750464
   }
  },
  "heartbeat": "2026-10-23",
@@ -238,6 +239,26 @@
    "title": "Giant Rooks have released new album ‘If Heaven Exists, This Might Be It’",
    "ts": 1792411088.6443648,
    "why": "новый инди-рок альбом, явно в жанрах 3L"
+  },
+  "11ba36ce2a6d": {
+   "also": [],
+   "artist": "chlothegod",
+   "fit": 2,
+   "id": "11ba36ce2a6d",
+   "kind": "single",
+   "link": "https://readdork.com/news/chlothegod-b-polite-single-b1aef9a087",
+   "listen": {},
+   "major": false,
+   "msg_id": 112,
+   "release": "B Polite!",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "chlothegod’s new single ‘B Polite!’ is out now, following ‘Middle Man’ and ‘That Can’t Be Normal’.",
+   "summary_ru": "Вышел новый сингл chlothegod «B Polite!». Он следует за синглами «Middle Man» и «That Can't Be Normal».",
+   "title": "chlothegod is throwing politeness out the window on new single ‘B Polite!’",
+   "ts": 1792750425.9389231,
+   "why": "новый сингл, но жанр ближе к поп-экспериментам, не 3L"
   },
   "121625f6561d": {
    "also": [],
@@ -378,6 +399,26 @@
    "title": "PINS Release New Single “All Over”",
    "ts": 1792508261.1746309,
    "why": "Новый сингл и анонс альбома, инди-рок в духе пост-панка"
+  },
+  "19edf5ac1d5d": {
+   "also": [],
+   "artist": "Haute & Freddy",
+   "fit": 4,
+   "id": "19edf5ac1d5d",
+   "kind": "single",
+   "link": "https://readdork.com/news/haute-freddy-film-noir-single-video-041f9f7482",
+   "listen": {},
+   "major": false,
+   "msg_id": 115,
+   "release": "Film Noir",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Haute & Freddy’s new single ‘Film Noir’ arrives with an Amalia Irons-directed video and a Peter Gabriel cover B-side.",
+   "summary_ru": "Haute & Freddy выпустили новый сингл «Film Noir» с видео в режиссуре Амалии Айронс. На би-сайде группа записала кавер на «In Your Eyes» Peter Gabriel.",
+   "title": "Haute & Freddy have shared ‘Film Noir’ and covered Peter Gabriel's ‘In Your Eyes’",
+   "ts": 1792750442.1879685,
+   "why": "новый сингл, инди-поп, не любимый артист"
   },
   "1a8dd88cb908": {
    "also": [],
@@ -638,6 +679,26 @@
    "title": "The Avalanches have released their new album ‘No Bad Memories’",
    "ts": 1792411076.9787843,
    "why": "новый альбом инди-электроники, громкий релиз"
+  },
+  "2ab1acf5795f": {
+   "also": [],
+   "artist": "Heavy Head Feeling",
+   "fit": 4,
+   "id": "2ab1acf5795f",
+   "kind": "single",
+   "link": "https://readdork.com/news/heavy-head-feeling-dont-look-down-single-719fcbc5d6",
+   "listen": {},
+   "major": false,
+   "msg_id": 111,
+   "release": "Don't Look Down",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Cardiff’s Heavy Head Feeling channels a period of family loss into the self-produced new single ‘Don’t Look Down’.",
+   "summary_ru": "Кардиффская группа Heavy Head Feeling выпустила самостоятельно спродюсированный сингл «Don't Look Down», в котором рассказывает о периоде семейной утраты. Жанр - электронный поп-рок.",
+   "title": "Cardiff electronic pop-rock artist Heavy Head Feeling confronts grief on new single ‘Don’t Look Down’",
+   "ts": 1792750416.7302237,
+   "why": "новый сингл, электронный поп-рок, малоизвестный артист"
   },
   "3128c6ed83d6": {
    "also": [],
@@ -969,6 +1030,26 @@
    "ts": 1792419527.5654926,
    "why": "мейнстрим-поп, концертный обзор без нового релиза"
   },
+  "4842969e6b84": {
+   "also": [],
+   "artist": "Tom Grennan",
+   "fit": 2,
+   "id": "4842969e6b84",
+   "kind": "single",
+   "link": "https://readdork.com/news/tom-grennan-wrapped-in-gold-single-video-84ad260e21",
+   "listen": {},
+   "major": false,
+   "msg_id": 116,
+   "release": "Wrapped In Gold",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Tom Grennan’s first release for RCA Records arrives with a Freddie Cattaneo-directed video.",
+   "summary_ru": "Том Гренан выпустил новый сингл «Wrapped In Gold» - его первый релиз на лейбле RCA Records. К треку вышло видео в режиссуре Фредди Каттанео.",
+   "title": "Tom Grennan has shared new single ‘Wrapped In Gold’, his first release for RCA Records",
+   "ts": 1792750444.1202157,
+   "why": "поп-рок мейнстрим, не в жанрах 3L"
+  },
   "4d3ee6bdddfa": {
    "also": [],
    "artist": "jo from school",
@@ -990,7 +1071,12 @@
    "why": "новый сингл инди-артистки, жанр близкий к 3L"
   },
   "4f3956b946c6": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/the-buoys-concrete-cowboy-album-af1bb1a078",
+     "source": "Dork"
+    }
+   ],
    "artist": "The Buoys",
    "fit": 3,
    "id": "4f3956b946c6",
@@ -1768,6 +1854,26 @@
    "ts": 1792664287.0280187,
    "why": "новый EP и анонс, инди-лейбл, близко к жанрам 3L"
   },
+  "bf1ca7f7dcc4": {
+   "also": [],
+   "artist": "Gus Dapperton",
+   "fit": 4,
+   "id": "bf1ca7f7dcc4",
+   "kind": "album",
+   "link": "https://readdork.com/news/gus-dapperton-sweet-tooth-video-4-dear-life-92914cd2d1",
+   "listen": {},
+   "major": false,
+   "msg_id": 113,
+   "release": "4 Dear Life",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Gus Dapperton’s fourth album ‘4 Dear Life’ is out now, alongside a self-directed New York video for Ledbyher collaboration ‘Sweet Tooth’.",
+   "summary_ru": "Гас Даппертон выпустил четвёртый альбом 4 Dear Life. Одновременно вышло видео на совместный трек Sweet Tooth с Ledbyher, которое он снял сам в Нью-Йорке.",
+   "title": "Gus Dapperton and Ledbyher have shared a new ‘Sweet Tooth’ video as ‘4 Dear Life’ arrives",
+   "ts": 1792750433.0202363,
+   "why": "новый альбом инди-поп артиста, близкий жанр"
+  },
   "c0df3f1282d1": {
    "also": [],
    "artist": "Bloodworm",
@@ -2068,6 +2174,26 @@
    "ts": 1792411082.9069874,
    "why": "новый альбом с видео, инди-поп без явной привязки к жанрам 3L"
   },
+  "e7921996e27c": {
+   "also": [],
+   "artist": "Tune-Yards",
+   "fit": 4,
+   "id": "e7921996e27c",
+   "kind": "single",
+   "link": "https://readdork.com/news/tune-yards-the-ones-single-f12d815386",
+   "listen": {},
+   "major": false,
+   "msg_id": 114,
+   "release": "The Ones",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Tune-Yards return with ‘The Ones’, a standalone new song about solidarity ahead of their North American tour next month.",
+   "summary_ru": "Tune-Yards выпустили новый самостоятельный сингл «The Ones» о солидарности. Трек выходит перед североамериканским туром в следующем месяце.",
+   "title": "Tune-Yards are calling for solidarity on new single ‘The Ones’",
+   "ts": 1792750438.8777783,
+   "why": "новый сингл инди-группы, близкий к инди-поп звучанию"
+  },
   "eba415144f44": {
    "also": [],
    "artist": "Alphabet",
@@ -2270,6 +2396,7 @@
   "038a98c0496a": 1792732323.928334,
   "03a99f1e8d20": 1792140455.961588,
   "03aa337b6e58": 1792598313.2244039,
+  "03eba9fb9021": 1792750426.4952137,
   "04420f0110cc": 1792140447.251953,
   "0449f6e5fa68": 1792674632.2852583,
   "04829c171fcb": 1792620877.9015398,
@@ -2288,6 +2415,7 @@
   "06edcd7a6d46": 1792575278.4042907,
   "072249041215": 1792743051.6506038,
   "0772f91cbec9": 1792140455.9615893,
+  "0782e8e0aa73": 1792750455.4308333,
   "07c24704ffee": 1792140448.2248955,
   "07cb58b1c7cd": 1792659598.5140214,
   "080148fa9533": 1792142256.046359,
@@ -2332,6 +2460,7 @@
   "118099b3c52c": 1792140419.31879,
   "1190bdca8427": 1792492336.6984515,
   "11b546453935": 1792140460.045827,
+  "11ba36ce2a6d": 1792750421.7597094,
   "11f05f534f7a": 1792607484.4272025,
   "11f4402d9b63": 1792620889.8545327,
   "121625f6561d": 1792413732.3814454,
@@ -2369,6 +2498,7 @@
   "1938e5f6d74d": 1792140460.0458217,
   "199cf08d08b7": 1792140446.1809065,
   "19e0330a1098": 1792508253.0522387,
+  "19edf5ac1d5d": 1792750439.3828816,
   "19f06b4eeb8c": 1792251658.0496576,
   "1a1ec73c93cb": 1792664287.4882174,
   "1a2837f9350c": 1792140460.9287448,
@@ -2447,6 +2577,7 @@
   "29aa4ef1cd6f": 1792140455.9615905,
   "2a1a413d0b45": 1792598289.8253508,
   "2a223c0091ca": 1792140455.0717492,
+  "2ab1acf5795f": 1792750413.5905566,
   "2ac6cfe269f3": 1792422106.1589015,
   "2afa8e117716": 1792140448.224893,
   "2bc125031393": 1792140455.0717525,
@@ -2608,6 +2739,7 @@
   "4717282a2862": 1792140455.9615858,
   "4726ac85138a": 1792151138.4797187,
   "475045be92c2": 1792140449.5165505,
+  "476d2314c4ac": 1792750403.2417152,
   "478169686255": 1792140419.318792,
   "47948fc6a68f": 1792748050.6904366,
   "47b71a328d55": 1792505474.8297544,
@@ -2616,6 +2748,7 @@
   "47f3c6e48cfd": 1792140459.2475774,
   "48096a74fc03": 1792517956.4290605,
   "48359343d040": 1792584703.4402354,
+  "4842969e6b84": 1792750442.7013862,
   "48703afb4d77": 1792600483.4242177,
   "48764be2d5a4": 1792140455.9615915,
   "488fbcadb1ce": 1792140448.2248912,
@@ -2710,6 +2843,7 @@
   "585653a4d97d": 1792600449.5720272,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
+  "58e02520b1d2": 1792750411.038945,
   "59022366ba53": 1792140446.1809075,
   "590ff1262ddf": 1792512912.8275015,
   "5927f4ff01f7": 1792716148.4276853,
@@ -2921,6 +3055,7 @@
   "831514a0216c": 1792140419.318791,
   "835b4da34eef": 1792573131.4566736,
   "8396c64e6662": 1792140455.961587,
+  "83e1545a354c": 1792750433.574672,
   "840f36fc9aa4": 1792517975.2035751,
   "842bed8c6aea": 1792223386.951102,
   "8444dfbb9385": 1792140419.318789,
@@ -3122,6 +3257,7 @@
   "af38d247ea14": 1792243087.9580936,
   "afce16bf96e1": 1792140449.5165496,
   "b029ffc2ed44": 1792686896.3083942,
+  "b06b09597824": 1792750417.4515054,
   "b081adddb626": 1792406870.2139947,
   "b09779f9d707": 1792142237.730857,
   "b09c4f532962": 1792140451.9265754,
@@ -3185,6 +3321,7 @@
   "babac65f9ee5": 1792336195.3161216,
   "bad0c207d598": 1792595587.8660197,
   "baf387705495": 1792140448.2248955,
+  "bb118996228a": 1792750400.2481525,
   "bb2d00251754": 1792502550.7149422,
   "bb3963289efd": 1792140446.3270488,
   "bb92164e8cae": 1792140419.4762352,
@@ -3208,6 +3345,7 @@
   "be4b471fd815": 1792584717.2085958,
   "be64c4cebb51": 1792689127.5544784,
   "bf133f3761d8": 1792490269.8426087,
+  "bf1ca7f7dcc4": 1792750429.0619411,
   "bf3e427f3bc3": 1792397248.1169508,
   "bf65c918fec2": 1792140448.2248826,
   "bf66b1f62f0a": 1792419541.6738656,
@@ -3427,6 +3565,7 @@
   "e6edcec16fd8": 1792140461.4665887,
   "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
+  "e7921996e27c": 1792750436.4603963,
   "e7c7ad285c7e": 1792140455.6358824,
   "e7e30fd766f3": 1792140449.8447475,
   "e7e51417fd39": 1792748076.795763,
@@ -3441,6 +3580,7 @@
   "ea5529352777": 1792140455.0717494,
   "ea6e10489857": 1792497209.2803423,
   "ea6f8ddee7c2": 1792140449.7097304,
+  "eaa4bbe63f26": 1792750452.5662713,
   "eab83437a92c": 1792156046.6465232,
   "eadf2bef881f": 1792140455.0289192,
   "eba415144f44": 1792664267.2530026,
@@ -3531,6 +3671,7 @@
   "fd76788bec20": 1792664300.3128524,
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
+  "feb63a772433": 1792750409.5625513,
   "febd0470b7af": 1792171558.4127772,
   "ff057eb64b04": 1792698930.5437222,
   "ff2bf818309b": 1792140455.961585,
