@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792765247
+   "ok": 1792768212
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792765256
+   "ok": 1792768228
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,27 +16,28 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "",
+   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.brooklynvegan.com/feed/",
+   "err_ts": 1792768228,
    "ok": 1792765265
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792765238
+   "ok": 1792768186
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792765242
+   "ok": 1792768193
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792765246
+   "ok": 1792768202
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792765248
+   "err_ts": 1792768213
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792765248
+   "ok": 1792768212
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +55,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792765230
+   "ok": 1792768178
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792765230
+   "ok": 1792768182
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792765249
+   "ok": 1792768214
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792765256
+   "ok": 1792768228
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792765256
+   "ok": 1792768228
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792765252
+   "ok": 1792768223
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792765224
+   "ok": 1792768168
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792765246
+   "ok": 1792768201
   },
   "Under the Radar": {
    "count": 40,
-   "err": "",
+   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.undertheradarmag.com/site/rss",
+   "err_ts": 1792768212,
    "ok": 1792765247
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792765245,
-   "ok": 1792757302
+   "err": "",
+   "ok": 1792768200
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792765252
+   "ok": 1792768222
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792765267
+   "ok": 1792768230
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792765266
+   "ok": 1792768230
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792765268
+   "ok": 1792768231
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792765268
+   "ok": 1792768231
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792765272
+   "ok": 1792768235
   }
  },
  "heartbeat": "2026-10-23",
@@ -194,6 +195,26 @@
    "title": "Slate Announce New EP ‘The Grandfather Clock’",
    "ts": 1792674634.2113774,
    "why": "анонс нового EP в инди-рок жанре"
+  },
+  "09883f80b47f": {
+   "also": [],
+   "artist": "HMLTD",
+   "fit": 4,
+   "id": "09883f80b47f",
+   "kind": "album",
+   "link": "https://readdork.com/news/hmltd-what-the-hell-video-fangs-release-35d6259d9c",
+   "listen": {},
+   "major": false,
+   "msg_id": 128,
+   "release": "FANGS",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "HMLTD’s third album ‘FANGS’ is out now via Lucky Number, accompanied by a new video for opening track ‘What The Hell’.",
+   "summary_ru": "Британская группа HMLTD выпустила третий альбом FANGS на лейбле Lucky Number. Вместе с релизом вышло видео на открывающий трек What The Hell.",
+   "title": "HMLTD have released third album ‘FANGS’ alongside a new ‘What The Hell’ video",
+   "ts": 1792768211.1865656,
+   "why": "новый альбом, пост-панк с арт-роком, но не в любимых"
   },
   "0c74cea80e3a": {
    "also": [
@@ -699,6 +720,26 @@
    "title": "Cardiff electronic pop-rock artist Heavy Head Feeling confronts grief on new single ‘Don’t Look Down’",
    "ts": 1792750416.7302237,
    "why": "новый сингл, электронный поп-рок, малоизвестный артист"
+  },
+  "2c7f393eb9c1": {
+   "also": [],
+   "artist": "Skepta",
+   "fit": 2,
+   "id": "2c7f393eb9c1",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/skepta-shares-pandoras-box-confirms-the-cause-takeover/",
+   "listen": {},
+   "major": false,
+   "msg_id": 127,
+   "release": "Pandora's Box",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Skepta has shared new single ‘Pandora’s Box’. The North London figure is a unique British icon, someone who excels in production, performance, fashion, and film. Skepta’s new album ‘The Fork And Knife’ lands on November 6th, and it’s a return to rap music after a period focussing on club culture… The post Skepta Shares ‘Pandora’s Box’, Confirms The Cause Takeover appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Скепта выпустил новый сингл «Pandora's Box». Его новый альбом The Fork And Knife выйдет 6 ноября, и это возвращение к рэпу после периода клубного звучания.",
+   "title": "Skepta Shares ‘Pandora’s Box’, Confirms The Cause Takeover",
+   "ts": 1792768191.012963,
+   "why": "грайм/рэп, мимо вкуса 3L"
   },
   "3128c6ed83d6": {
    "also": [],
@@ -2061,6 +2102,26 @@
    "ts": 1792580146.2129893,
    "why": "новый сингл инди-дуэта, близкий к дрим-попу"
   },
+  "c6724e377520": {
+   "also": [],
+   "artist": "Kacey Musgraves",
+   "fit": 2,
+   "id": "c6724e377520",
+   "kind": "album",
+   "link": "https://stereogum.com/2515408/kacey-musgraves-announces-middle-of-nowhere-vol-2-tex-mex-tapes-hear-two-tracks/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 126,
+   "release": "Middle Of Nowhere Vol. 2: Tex Mex Tapes",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Kacey Musgraves Announces <em>Middle Of Nowhere Vol. 2: Tex Mex Tapes</em>: Hear Two Tracks appeared first on Stereogum .",
+   "summary_ru": "Кейси Масгрейвс анонсировала альбом Middle Of Nowhere Vol. 2: Tex Mex Tapes и выложила два трека. Дата релиза и лейбл в записи не указаны.",
+   "title": "Kacey Musgraves Announces Middle Of Nowhere Vol. 2: Tex Mex Tapes: Hear Two Tracks",
+   "ts": 1792768174.4722726,
+   "why": "кантри, не любимый артист; анонс альбома"
+  },
   "c94f24568d96": {
    "also": [],
    "artist": "Water Damage",
@@ -2601,6 +2662,7 @@
   "05b820b582e5": 1792411097.326417,
   "05c74dc89c99": 1792140449.844748,
   "05ecdda2dedc": 1792173631.7756095,
+  "062db0339eb9": 1792768193.2685616,
   "0631a73a3f8c": 1792580181.858272,
   "06821350a60c": 1792711616.240865,
   "0695d8fe5478": 1792140448.2248847,
@@ -2616,6 +2678,7 @@
   "08930dde7406": 1792140460.0458224,
   "09116be56fa6": 1792165233.7399683,
   "0972ec576960": 1792140448.224892,
+  "09883f80b47f": 1792768208.4869514,
   "0997e8477041": 1792595617.2528396,
   "09cccf170394": 1792140459.2475755,
   "09d61d027a83": 1792762681.7538242,
@@ -2770,6 +2833,7 @@
   "27267899dd91": 1792264008.2749743,
   "2738cc8df0ad": 1792140455.9615848,
   "279cd8a265c5": 1792140455.0717537,
+  "27cef85f9b8f": 1792768178.6201923,
   "27dde81aa9a8": 1792404611.80304,
   "27f4a4b71ab7": 1792590866.5926363,
   "284d60fb998b": 1792173605.5963154,
@@ -2783,6 +2847,7 @@
   "2b07f7d520ac": 1792757295.9080157,
   "2bc125031393": 1792140455.0717525,
   "2bd8983123f9": 1792510453.881489,
+  "2c7f393eb9c1": 1792768189.779041,
   "2caf0e6c6233": 1792142237.7308605,
   "2d0d74d93414": 1792140449.844743,
   "2d5fe814e4d0": 1792140459.2475772,
@@ -2841,6 +2906,7 @@
   "35ac8a3e9935": 1792140462.2817574,
   "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
+  "3646f9c90cd8": 1792768205.0424738,
   "36529816ec3a": 1792765227.525167,
   "366954fce984": 1792602871.4797435,
   "36b5988e8268": 1792156035.7558544,
@@ -2946,6 +3012,7 @@
   "466de0caf3ca": 1792388341.7862463,
   "46d46fbf3615": 1792582335.9986992,
   "46eaf615b470": 1792140448.224891,
+  "4711d5ec7834": 1792768186.9160845,
   "4717282a2862": 1792140455.9615858,
   "4726ac85138a": 1792151138.4797187,
   "475045be92c2": 1792140449.5165505,
@@ -3145,6 +3212,7 @@
   "69a48811974b": 1792757273.048859,
   "69b9f521aa2d": 1792140454.9418392,
   "69cd93a1f20f": 1792431197.1887515,
+  "6a53158cc1cb": 1792768225.1907177,
   "6a8aaa8bb9ed": 1792600456.4931808,
   "6a9fc3f24711": 1792140446.3270493,
   "6addf40e5c43": 1792140449.5165477,
@@ -3372,6 +3440,7 @@
   "974f6ed2c236": 1792508245.4609227,
   "97730b87c822": 1792703197.5852556,
   "97d2543aea4d": 1792140455.0717547,
+  "98242af8d06a": 1792768223.0249166,
   "98289903348d": 1792140419.3187919,
   "986b95625780": 1792593107.5179732,
   "986d9123933f": 1792140455.0289211,
@@ -3469,6 +3538,7 @@
   "aa976d0dcb23": 1792140449.7097301,
   "aab2a006b165": 1792691502.452069,
   "ab17e645739a": 1792679912.8879662,
+  "ab4fdf424071": 1792768214.861843,
   "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
   "acabb43d1aa3": 1792140456.384748,
@@ -3519,6 +3589,7 @@
   "b393e7583939": 1792183932.8529909,
   "b394ccb5c82c": 1792313389.6735408,
   "b3c5d895c1a4": 1792745834.7480357,
+  "b3f0f0a660b5": 1792768202.030544,
   "b3f940355541": 1792494657.5484557,
   "b451a09c2638": 1792140446.1809099,
   "b49f637bfb75": 1792530988.4977975,
@@ -3627,6 +3698,7 @@
   "c63fc5ef7d5f": 1792140449.5165498,
   "c64d2b5ef670": 1792140449.5165548,
   "c64e0e9bd89e": 1792140449.5165548,
+  "c6724e377520": 1792768171.8850412,
   "c67c09ea980b": 1792140460.0458233,
   "c69ee1d6089b": 1792140455.9615862,
   "c6a384e5b608": 1792419549.265609,
@@ -3669,6 +3741,7 @@
   "cdfd5b3cece8": 1792752805.0857105,
   "ce005e54ecad": 1792492333.7717834,
   "ce495841f579": 1792438294.4894397,
+  "ce536cb785d7": 1792768231.9298265,
   "ce654c3bacdf": 1792620897.8801079,
   "cf06a4a9b303": 1792580190.0545037,
   "cf4dc640805c": 1792686893.9321146,
@@ -3796,6 +3869,7 @@
   "e54150c45bbc": 1792140419.3187938,
   "e57eb5a4b28b": 1792425024.900194,
   "e5971488affe": 1792543837.1574347,
+  "e5c355b7500f": 1792768175.0299652,
   "e5f26787bbe3": 1792664300.3128536,
   "e622f479d05f": 1792656839.9825618,
   "e62bce1c7bb3": 1792487989.2660182,
@@ -3823,6 +3897,7 @@
   "ea6f8ddee7c2": 1792140449.7097304,
   "eaa4bbe63f26": 1792750452.5662713,
   "eab83437a92c": 1792156046.6465232,
+  "eacaa76a9a24": 1792768168.6658034,
   "eadf2bef881f": 1792140455.0289192,
   "eba415144f44": 1792664267.2530026,
   "eba784da422c": 1792140446.1809137,
