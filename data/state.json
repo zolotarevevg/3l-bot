@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792782947
+   "ok": 1792785035
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792782952
+   "ok": 1792785042
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,27 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792782955
+   "ok": 1792785042
   },
   "Clash": {
    "count": 10,
-   "err": "",
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.clashmusic.com', port=443): Read timed out. (read timeout=25)",
+   "err_ts": 1792785030,
    "ok": 1792782939
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792782941
+   "ok": 1792785032
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792782946
+   "ok": 1792785034
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792782948
+   "err_ts": 1792785036
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792782948
+   "ok": 1792785036
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792782934
+   "ok": 1792785004
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792782935
+   "ok": 1792785005
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792782949
+   "ok": 1792785037
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792782952
+   "ok": 1792785041
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792782952
+   "ok": 1792785041
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792782952
+   "ok": 1792785041
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792782934
+   "ok": 1792784996
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792782942
+   "ok": 1792785032
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792782947
+   "ok": 1792785035
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792782941
+   "ok": 1792785032
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792782952
+   "ok": 1792785041
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792782956
+   "ok": 1792785044
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792782955
+   "ok": 1792785043
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792782957
+   "ok": 1792785046
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792782957
+   "ok": 1792785045
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792782958
+   "ok": 1792785047
   }
  },
  "heartbeat": "2026-10-23",
@@ -1538,6 +1539,26 @@
    "ts": 1792770700.8810985,
    "why": "панк, далёкий от жанров 3L, без громкого статуса"
   },
+  "7b39442a6078": {
+   "also": [],
+   "artist": "Bruiser Wolf & Conductor Williams",
+   "fit": 2,
+   "id": "7b39442a6078",
+   "kind": "single",
+   "link": "https://stereogum.com/2515493/bruiser-wolf-conductor-williams-aint-got-time/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 133,
+   "release": "Ain't Got Time",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Bruiser Wolf & Conductor Williams – “Ain’t Got Time” appeared first on Stereogum .",
+   "summary_ru": "Bruiser Wolf и Conductor Williams выпустили новый трек «Ain't Got Time». Рубрика New Music издания Stereogum, подробностей о лейбле и составе в записи нет.",
+   "title": "Bruiser Wolf & Conductor Williams – “Ain’t Got Time”",
+   "ts": 1792785003.8840468,
+   "why": "хип-хоп, не в жанрах 3L"
+  },
   "7e1b781f7714": {
    "also": [],
    "artist": "Fine Glindvad",
@@ -2812,6 +2833,7 @@
   "12b3ba08a6f9": 1792140455.028919,
   "12cfc583aa5e": 1792487986.0171812,
   "12e4a55c4503": 1792734857.6123447,
+  "13193689fa95": 1792785000.062956,
   "131bb46d494e": 1792600461.7821186,
   "13803bb369e8": 1792140448.2248926,
   "138479fbcfdb": 1792175857.1966312,
@@ -3392,6 +3414,7 @@
   "7abe29b56b91": 1792140460.9287455,
   "7ac639564248": 1792659638.5494733,
   "7af72c2d298e": 1792582323.9984736,
+  "7b39442a6078": 1792785001.355564,
   "7c006d277346": 1792140455.6358821,
   "7c36035dffc8": 1792605145.6038854,
   "7d65c438337f": 1792140455.0289216,
@@ -3437,6 +3460,7 @@
   "82d4db8fa147": 1792582344.187398,
   "831514a0216c": 1792140419.318791,
   "835b4da34eef": 1792573131.4566736,
+  "836ca427c997": 1792784996.9077108,
   "8396c64e6662": 1792140455.961587,
   "83e1545a354c": 1792750433.574672,
   "840f36fc9aa4": 1792517975.2035751,
