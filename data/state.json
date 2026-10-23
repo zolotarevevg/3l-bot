@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792750446
+   "ok": 1792752856
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792750459
+   "ok": 1792752861
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,27 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792750459
+   "ok": 1792752861
   },
   "Clash": {
    "count": 10,
-   "err": "HTTPError: 403 Client Error: Forbidden for url: https://www.clashmusic.com/feed/",
-   "err_ts": 1792750406,
-   "ok": 1792748039
+   "err": "",
+   "ok": 1792752805
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792750408
+   "ok": 1792752820
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792750411
+   "ok": 1792752822
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792750447
+   "err_ts": 1792752856
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792750446
+   "ok": 1792752856
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792750400
+   "ok": 1792752794
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792750406
+   "ok": 1792752799
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792750448
+   "ok": 1792752858
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792750459
+   "ok": 1792752861
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792750459
+   "ok": 1792752861
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792750458
+   "ok": 1792752861
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792750399
+   "ok": 1792752794
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792750410
+   "ok": 1792752822
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792750445
+   "ok": 1792752855
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792750409
+   "ok": 1792752821
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792750452
+   "ok": 1792752861
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792750462
+   "ok": 1792752864
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792750461
+   "ok": 1792752862
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792750463
+   "ok": 1792752865
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792750462
+   "ok": 1792752865
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792750464
+   "ok": 1792752866
   }
  },
  "heartbeat": "2026-10-23",
@@ -1115,6 +1114,26 @@
    "ts": 1792748044.9939783,
    "why": "R&B/соул вне жанров 3L, новый сингл"
   },
+  "4fc96a763b32": {
+   "also": [],
+   "artist": "ATEEZ",
+   "fit": 2,
+   "id": "4fc96a763b32",
+   "kind": "single",
+   "link": "https://readdork.com/news/ateez-drip-single-video-golden-hour-part-six-f53f9f1014",
+   "listen": {},
+   "major": false,
+   "msg_id": 121,
+   "release": "Drip",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "ATEEZ’s new pre-release single and official video arrive before their 15th EP lands on 13th November.",
+   "summary_ru": "ATEEZ выпустили предрелизный сингл «Drip» с официальным клипом. Он предваряет их 15-й EP GOLDEN HOUR : Part.6, который выйдет 13 ноября.",
+   "title": "ATEEZ have shared new single ‘Drip’ ahead of EP ‘GOLDEN HOUR : Part.6’",
+   "ts": 1792752851.398589,
+   "why": "K-pop, мейнстрим-поп, не любимый артист"
+  },
   "5481477a3d7e": {
    "also": [
     {
@@ -1204,6 +1223,26 @@
    "title": "Beaks has shared new single ‘vanilla sky’ ahead of debut album ‘ALDIE’",
    "ts": 1792664284.223663,
    "why": "новый сингл и анонс дебютного альбома, жанр близок к пост-панку"
+  },
+  "583ec426e020": {
+   "also": [],
+   "artist": "Stand Atlantic",
+   "fit": 2,
+   "id": "583ec426e020",
+   "kind": "album",
+   "link": "https://readdork.com/news/stand-atlantic-so-cool-godbreath-release-6a8dec777d",
+   "listen": {},
+   "major": false,
+   "msg_id": 117,
+   "release": "GODBREATH",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "\"It’s a fun song to play in your car with the windows rolled down.\"",
+   "summary_ru": "Stand Atlantic выпустили пятый альбом GODBREATH вместе с новым синглом SO COOL. В записи больше ничего не сказано о звучании и деталях релиза.",
+   "title": "Stand Atlantic have released their fifth album ‘GODBREATH’ alongside new single ‘SO COOL’",
+   "ts": 1792752824.880721,
+   "why": "поп-панк и пост-хардкор, не в жанрах 3L"
   },
   "58977be833e1": {
    "also": [],
@@ -1619,6 +1658,26 @@
    "ts": 1792590881.5041513,
    "why": "Новый сингл и анонс альбома, инди-рок, но не любимый артист"
   },
+  "9e6850c5d75a": {
+   "also": [],
+   "artist": "My First Time",
+   "fit": 4,
+   "id": "9e6850c5d75a",
+   "kind": "single",
+   "link": "https://readdork.com/news/my-first-time-tough-single-video-897daf8708",
+   "listen": {},
+   "major": false,
+   "msg_id": 118,
+   "release": "Tough",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "My First Time’s new single ‘Tough’ turns a crowded Circle line commute into a sharp take on the monotony of working life.",
+   "summary_ru": "Группа My First Time выпустила новый сингл «Tough». По описанию, трек вдохновлён поездкой в час пик на линии Circle лондонского метро и посвящён монотонности работы.",
+   "title": "My First Time have shared new single ‘Tough’ inspired by the morning commute",
+   "ts": 1792752830.5670772,
+   "why": "новый сингл инди-группы, близкий к жанрам 3L"
+  },
   "9f62f37de7c7": {
    "also": [],
    "artist": "Shovel Dance Collective",
@@ -1698,6 +1757,26 @@
    "title": "Heidi Curtis has released new single ‘Run’ ahead of her ‘Summon’ EP",
    "ts": 1792664278.0551856,
    "why": "Новый сингл, but стиль неизвестен, малоизвестный артист"
+  },
+  "ae173403ba5b": {
+   "also": [],
+   "artist": "LISA",
+   "fit": 2,
+   "id": "ae173403ba5b",
+   "kind": "ep",
+   "link": "https://readdork.com/news/lisa-releases-press-play-tarantino-video-a111adbb39",
+   "listen": {},
+   "major": false,
+   "msg_id": 120,
+   "release": "PRESS PLAY",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "LISA’s six-track ‘PRESS PLAY’ EP is out now alongside a hotel-set action video for focus track ‘Tarantino’.",
+   "summary_ru": "ЛИЗА выпустила мини-альбом «PRESS PLAY» из шести треков. К главному треку «Tarantino» вышло видео, действие которого происходит в отеле.",
+   "title": "LISA has released new EP ‘PRESS PLAY’ alongside an action-packed ‘Tarantino’ video",
+   "ts": 1792752842.492904,
+   "why": "мейнстрим-поп, K-pop, не любимый артист"
   },
   "aea81a308773": {
    "also": [],
@@ -2094,6 +2173,26 @@
    "ts": 1792497227.0083885,
    "why": "новый сингл и анонс альбома, инди-звучание не подтверждено"
   },
+  "e38b8df65526": {
+   "also": [],
+   "artist": "Tough Cookie",
+   "fit": 3,
+   "id": "e38b8df65526",
+   "kind": "ep",
+   "link": "https://readdork.com/news/tough-cookie-devotion-ep-home-run-e3d19c74d0",
+   "listen": {},
+   "major": false,
+   "msg_id": 119,
+   "release": "Devotion",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The London art-grunge four-piece’s new EP arrives with ‘Home Run’, plus headline dates in Manchester and London next month.",
+   "summary_ru": "Лондонская арт-грандж группа Tough Cookie выпустила новый EP Devotion, его открывает трек Home Run. В следующем месяце группа сыграет хедлайнерские концерты в Манчестере и Лондоне.",
+   "title": "London art-grunge band Tough Cookie have shared new EP ‘Devotion’",
+   "ts": 1792752836.4743843,
+   "why": "соседний жанр, малоизвестная группа, но новый EP"
+  },
   "e3cea3d4d6fc": {
    "also": [],
    "artist": "Giant Drag",
@@ -2484,6 +2583,7 @@
   "1498394b19db": 1792142237.7308586,
   "14ac3666dd7a": 1792140449.8447518,
   "14c35494759f": 1792582357.4732249,
+  "153d03c0e349": 1792752825.437119,
   "15c666730871": 1792140449.8447454,
   "15cc0573e6e6": 1792140419.6649103,
   "15cf9e5a1624": 1792584697.9699051,
@@ -2566,6 +2666,7 @@
   "262a03135c9f": 1792140448.2248929,
   "26490473e361": 1792413726.2807765,
   "26a49991fc34": 1792140455.0717552,
+  "26b026edc873": 1792752851.8828557,
   "26d6589697d9": 1792582357.4732215,
   "27267899dd91": 1792264008.2749743,
   "2738cc8df0ad": 1792140455.9615848,
@@ -2630,6 +2731,7 @@
   "34bc062af6d5": 1792140455.0289285,
   "34c3bd7c24b7": 1792732308.3529346,
   "34d77bef4587": 1792165187.4361115,
+  "34e36bd602f9": 1792752836.9385548,
   "34fbfcc062b1": 1792745861.3305953,
   "3505188b3ade": 1792679961.0929444,
   "353cd0da6ccf": 1792602849.6578767,
@@ -2683,6 +2785,7 @@
   "3e39949eb445": 1792679956.0795794,
   "3e5d41f753e4": 1792162985.8961833,
   "3e847677fa3d": 1792140446.1809094,
+  "3e9244f9b9c8": 1792752794.9504714,
   "3eade16923ed": 1792595613.834872,
   "3ec61087525b": 1792426658.1369722,
   "3ec8c8bd85ed": 1792140462.281758,
@@ -2739,6 +2842,7 @@
   "4717282a2862": 1792140455.9615858,
   "4726ac85138a": 1792151138.4797187,
   "475045be92c2": 1792140449.5165505,
+  "47508a1b5497": 1792752831.1696427,
   "476d2314c4ac": 1792750403.2417152,
   "478169686255": 1792140419.318792,
   "47948fc6a68f": 1792748050.6904366,
@@ -2802,6 +2906,7 @@
   "4f5c07183d59": 1792748042.3901868,
   "4f60061fa94c": 1792140446.1809068,
   "4fb516e2a4f2": 1792140446.3270483,
+  "4fc96a763b32": 1792752848.976044,
   "4fdb7591c6cc": 1792413693.1458669,
   "503f6fa21f9f": 1792140447.2519507,
   "507dccca9d6b": 1792580181.8582704,
@@ -2835,11 +2940,13 @@
   "55fb93099503": 1792140447.251956,
   "56f2b400c544": 1792140446.1809154,
   "575aad530b3a": 1792140449.8447511,
+  "575e51179fd4": 1792752846.1423864,
   "5765ecf08426": 1792582357.4732194,
   "57710a490b3f": 1792748080.2968533,
   "579d6616ea5d": 1792140446.3270504,
   "57fc3445bdd8": 1792228457.4859502,
   "582655e58227": 1792173600.5714204,
+  "583ec426e020": 1792752822.6748762,
   "585653a4d97d": 1792600449.5720272,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
@@ -3179,6 +3286,7 @@
   "9d77ae8d7812": 1792140456.3847497,
   "9de1505a0e48": 1792590879.0948431,
   "9e3b839c0757": 1792590875.82778,
+  "9e6850c5d75a": 1792752828.0822506,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
   "9f04ca99ea73": 1792142259.7923665,
@@ -3214,6 +3322,7 @@
   "a3efa12afac7": 1792426675.610756,
   "a3f4ae4cd417": 1792140455.0289216,
   "a431ae935142": 1792140449.5165486,
+  "a457d8d571fc": 1792752812.6860633,
   "a45e92626498": 1792140455.6358793,
   "a46c9856d66d": 1792140446.3270497,
   "a46f89a11164": 1792582357.47322,
@@ -3250,6 +3359,7 @@
   "ada7599cf7f8": 1792140451.9265778,
   "add5be8f31ed": 1792664276.7811468,
   "adf4ac1e2054": 1792140446.3270504,
+  "ae173403ba5b": 1792752839.629208,
   "ae5f1ca5bd81": 1792671181.6480582,
   "ae8bd1ea10bb": 1792163006.5854099,
   "aea81a308773": 1792679971.9229736,
@@ -3347,6 +3457,7 @@
   "bf133f3761d8": 1792490269.8426087,
   "bf1ca7f7dcc4": 1792750429.0619411,
   "bf3e427f3bc3": 1792397248.1169508,
+  "bf6269ed903e": 1792752862.9821334,
   "bf65c918fec2": 1792140448.2248826,
   "bf66b1f62f0a": 1792419541.6738656,
   "bfe1d8d55b5d": 1792426662.8748226,
@@ -3370,6 +3481,7 @@
   "c2dff1919ab9": 1792399814.7457006,
   "c2eb773ca39b": 1792140446.3270478,
   "c379b324eefd": 1792140460.0458236,
+  "c37aa336bbb3": 1792752842.9789276,
   "c38b868b3723": 1792140455.0289168,
   "c38f9e98d3cd": 1792416617.1440046,
   "c390be1c42aa": 1792512975.4176617,
@@ -3426,10 +3538,12 @@
   "cd2e1b97df6c": 1792140419.3187935,
   "cd3b693306e4": 1792515329.1961846,
   "cd54469f5588": 1792167231.590421,
+  "cd95dfe424ec": 1792752809.6740913,
   "cdb0a474d09f": 1792140459.2475774,
   "cdc35698a7b1": 1792600463.9942658,
   "cdd0248af6e0": 1792140456.3847501,
   "cdf91db70fc8": 1792584690.1336942,
+  "cdfd5b3cece8": 1792752805.0857105,
   "ce005e54ecad": 1792492333.7717834,
   "ce495841f579": 1792438294.4894397,
   "ce654c3bacdf": 1792620897.8801079,
@@ -3538,6 +3652,7 @@
   "e3031933cc34": 1792689134.400368,
   "e357815f3ef4": 1792595592.1446948,
   "e36b2397b7e7": 1792158581.4648004,
+  "e38b8df65526": 1792752834.082932,
   "e38c455dd67d": 1792508207.8553078,
   "e3a8238c836a": 1792620902.3118548,
   "e3ba4fdd5cdf": 1792582313.1061494,
