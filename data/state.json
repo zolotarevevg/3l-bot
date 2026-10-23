@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792770702
+   "ok": 1792773233
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792770707
+   "ok": 1792773238
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,28 +16,27 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.brooklynvegan.com/feed/",
-   "err_ts": 1792770707,
-   "ok": 1792765265
+   "err": "",
+   "ok": 1792773238
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792770689
+   "ok": 1792773203
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792770696
+   "ok": 1792773216
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792770697
+   "ok": 1792773221
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792770702
+   "err_ts": 1792773233
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792770702
+   "ok": 1792773233
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,84 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792770671
+   "ok": 1792773199
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792770678
+   "ok": 1792773199
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792770703
+   "ok": 1792773235
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792770707
+   "ok": 1792773238
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792770707
+   "ok": 1792773238
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792770707
+   "ok": 1792773238
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792770665
+   "ok": 1792773192
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792770697
+   "ok": 1792773220
   },
   "Under the Radar": {
    "count": 40,
-   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.undertheradarmag.com/site/rss",
-   "err_ts": 1792770701,
-   "ok": 1792765247
+   "err": "",
+   "ok": 1792773222
   },
   "musicOMH": {
    "count": 20,
    "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792770696,
+   "err_ts": 1792773219,
    "ok": 1792768200
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792770707
+   "ok": 1792773238
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792770712
+   "ok": 1792773241
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792770708
+   "ok": 1792773240
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792770713
+   "ok": 1792773242
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792770713
+   "ok": 1792773242
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792770714
+   "ok": 1792773246
   }
  },
  "heartbeat": "2026-10-23",
@@ -381,6 +379,26 @@
    "title": "Isak Danielson has announced new album ‘Love, Isak’",
    "ts": 1792664276.2702515,
    "why": "анонс нового альбома инди-поп исполнителя"
+  },
+  "17e9fe3eb45a": {
+   "also": [],
+   "artist": "yeule",
+   "fit": 3,
+   "id": "17e9fe3eb45a",
+   "kind": "single",
+   "link": "https://stereogum.com/2515438/yeule-hysterique/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 132,
+   "release": "Hystérique",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post yeule – “Hystérique” appeared first on Stereogum .",
+   "summary_ru": "Йуле выпустила новый трек «Hystérique». В записи нет подробностей о лейбле и альбоме.",
+   "title": "yeule – “Hystérique”",
+   "ts": 1792773195.649309,
+   "why": "экспериментальная электроника, соседний жанр, артист не в списке"
   },
   "1870ba42ad82": {
    "also": [],
@@ -1232,6 +1250,10 @@
     {
      "link": "https://stereogum.com/2515106/hannah-frances-circadian-heart/music/",
      "source": "Stereogum"
+    },
+    {
+     "link": "http://www.undertheradarmag.com/news/hannah_frances_shares_new_song_circadian_heart",
+     "source": "Under the Radar"
     }
    ],
    "artist": "Hannah Frances",
@@ -2813,6 +2835,7 @@
   "16b7d5deb701": 1792140455.0717554,
   "16c859577fb8": 1792757302.6900477,
   "1798093617ec": 1792582357.4732208,
+  "17e9fe3eb45a": 1792773192.5090897,
   "183c6447ba17": 1792140454.9418406,
   "186cfe3c3af3": 1792526797.237889,
   "1870ba42ad82": 1792492326.4260542,
@@ -2839,6 +2862,7 @@
   "1c85d917aef6": 1792508239.3585792,
   "1ca80366ece2": 1792401945.6989021,
   "1cb6b8a29133": 1792140455.9615846,
+  "1cd5498964cf": 1792773210.1520832,
   "1d621bd98241": 1792140448.2248864,
   "1d66948e8460": 1792140447.251955,
   "1d6f07b16dbf": 1792748074.0569143,
@@ -2952,6 +2976,7 @@
   "33a5630dfe1f": 1792582304.1957128,
   "33cd4ff17de2": 1792140446.1809144,
   "33de0a385afa": 1792140455.0289197,
+  "33e83047c902": 1792773226.291024,
   "340518293301": 1792173603.7228317,
   "341df12a5566": 1792140455.9615912,
   "34369501961e": 1792140446.1809082,
@@ -3300,6 +3325,7 @@
   "6eee94deb890": 1792416648.2779644,
   "6f0dbb3d3a8b": 1792140446.1809132,
   "6f27b9f0cf39": 1792140455.635882,
+  "6f2aac0117aa": 1792773229.8975785,
   "6f4fc7c458db": 1792755028.8656292,
   "6f543076563c": 1792140448.2248945,
   "6f6d28bcd809": 1792600453.3686483,
@@ -3467,6 +3493,7 @@
   "8f42d93a134c": 1792140460.9287431,
   "8f5ff22aa177": 1792671196.1850069,
   "8fb749c25ea5": 1792677606.058137,
+  "8fd120293e80": 1792773203.7112818,
   "8fda3424c47e": 1792755035.309937,
   "9003583d56b4": 1792140460.9287455,
   "9055e0943588": 1792140449.516548,
@@ -3622,6 +3649,7 @@
   "af0ff42e5b1c": 1792748070.8450563,
   "af1c183ec866": 1792770708.4556124,
   "af38d247ea14": 1792243087.9580936,
+  "af9e1adfc03b": 1792773222.5983038,
   "afce16bf96e1": 1792140449.5165496,
   "b029ffc2ed44": 1792686896.3083942,
   "b06b09597824": 1792750417.4515054,
@@ -3766,6 +3794,7 @@
   "c63fc5ef7d5f": 1792140449.5165498,
   "c64d2b5ef670": 1792140449.5165548,
   "c64e0e9bd89e": 1792140449.5165548,
+  "c66ba6ccaa43": 1792773216.7256842,
   "c6724e377520": 1792768171.8850412,
   "c67c09ea980b": 1792140460.0458233,
   "c69ee1d6089b": 1792140455.9615862,
@@ -3846,6 +3875,7 @@
   "d5499cd310ba": 1792140448.2248938,
   "d559f7c8ab97": 1792492295.6119306,
   "d574441237e3": 1792140455.0717506,
+  "d594b303229c": 1792773196.36073,
   "d5e338dcc0c0": 1792600459.658764,
   "d65394fb65ea": 1792167258.7184207,
   "d6826247bbc4": 1792140419.3187897,
@@ -3863,6 +3893,7 @@
   "d9a6be2ac275": 1792140455.0717518,
   "d9a7bdd59168": 1792140455.6358798,
   "d9e2fcb3252e": 1792743037.141179,
+  "da94610050cb": 1792773206.547934,
   "da9d1c58b355": 1792140455.0717518,
   "daae5aeac297": 1792600446.8716428,
   "dac56a35f737": 1792169731.4102747,
@@ -4052,6 +4083,7 @@
   "fbb73e408c35": 1792146698.0368562,
   "fbbef8e85667": 1792343416.4451923,
   "fbc9efe9f470": 1792140461.4665866,
+  "fbef5da50834": 1792773242.8482513,
   "fbfbbe61515f": 1792140451.9265761,
   "fc5a521d992c": 1792765242.954879,
   "fc88cbf0bb1b": 1792765252.6941996,
