@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792723523
+   "ok": 1792725501
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792723529
+   "ok": 1792725506
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792723529
+   "ok": 1792725507
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792723518
+   "ok": 1792725494
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792723520
+   "ok": 1792725496
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792723522
+   "ok": 1792725497
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792723523
+   "err_ts": 1792725501
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792723523
+   "ok": 1792725501
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792723508
+   "ok": 1792725482
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792723508
+   "ok": 1792725482
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792723525
+   "ok": 1792725503
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792723528
+   "ok": 1792725506
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792723528
+   "ok": 1792725506
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792723528
+   "ok": 1792725506
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792723508
+   "ok": 1792725482
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792723521
+   "ok": 1792725496
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792723523
+   "ok": 1792725498
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792725496,
    "ok": 1792723520
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792723528
+   "ok": 1792725506
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792723531
+   "ok": 1792725509
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792723530
+   "ok": 1792725508
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1792723531
+   "ok": 1792725510
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792723531
+   "ok": 1792725510
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792723532
+   "ok": 1792725511
   }
  },
  "heartbeat": "2026-10-23",
@@ -788,6 +789,26 @@
    "title": "Tate McRae has released ‘Housewife’ with a South of France-shot video",
    "ts": 1792411079.1130133,
    "why": "мейнстрим-поп, не любимый артист"
+  },
+  "3be6e4dae643": {
+   "also": [],
+   "artist": "My Wonderful Boyfriend",
+   "fit": 3,
+   "id": "3be6e4dae643",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/my_wonderful_boyfriend_sign_to_new_west_and_release_new_single_chip_city",
+   "listen": {},
+   "major": false,
+   "msg_id": 109,
+   "release": "Chip City",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Brooklyn-based trio My Wonderful Boyfriend have signed to New West and released a new single, “Chip City.”",
+   "summary_ru": "Бруклинское трио My Wonderful Boyfriend подписало контракт с лейблом New West и выпустило новый сингл «Chip City». Больше деталей в записи нет.",
+   "title": "My Wonderful Boyfriend Sign to New West and Release New Single “Chip City”",
+   "ts": 1792725500.419369,
+   "why": "малоизвестная инди-группа, звучание неизвестно из записи"
   },
   "3eade16923ed": {
    "also": [],
@@ -2486,6 +2507,7 @@
   "3b9e7ac64695": 1792140447.2519503,
   "3ba37cb7edc6": 1792686917.045103,
   "3bdc40419b84": 1792497233.6616488,
+  "3be6e4dae643": 1792725498.7952363,
   "3be9a98fcc0a": 1792140449.8447514,
   "3c295e6aed26": 1792140446.3270476,
   "3c9c4022f475": 1792582333.4680588,
