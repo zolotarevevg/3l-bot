@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792755047
+   "ok": 1792757308
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792755052
+   "ok": 1792757317
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792755052
+   "ok": 1792757317
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792755028
+   "ok": 1792757281
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792755038
+   "ok": 1792757286
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792755045
+   "ok": 1792757307
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792755047
+   "err_ts": 1792757312
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792755047
+   "ok": 1792757308
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792755015
+   "ok": 1792757273
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792755023
+   "ok": 1792757276
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792755048
+   "ok": 1792757314
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792755052
+   "ok": 1792757317
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792755052
+   "ok": 1792757317
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792755052
+   "ok": 1792757317
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792755015
+   "ok": 1792757272
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792755045
+   "ok": 1792757306
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792755046
+   "ok": 1792757308
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792755044,
-   "ok": 1792752821
+   "err": "",
+   "ok": 1792757302
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792755052
+   "ok": 1792757317
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792755054
+   "ok": 1792757320
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792755053
+   "ok": 1792757319
   },
   "Родной звук (TG)": {
-   "count": 10,
+   "count": 11,
    "err": "",
-   "ok": 1792755055
+   "ok": 1792757324
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792755055
+   "ok": 1792757324
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792755056
+   "ok": 1792757331
   }
  },
  "heartbeat": "2026-10-23",
@@ -1270,6 +1269,26 @@
    "ts": 1792158580.8653674,
    "why": "соул и R&B, далеко от жанров 3L"
   },
+  "5e7178d8c1ee": {
+   "also": [],
+   "artist": "Vayda",
+   "fit": 2,
+   "id": "5e7178d8c1ee",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/vayda-links-with-niontay-on-haunting-you/",
+   "listen": {},
+   "major": false,
+   "msg_id": 122,
+   "release": "Haunting You",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Atlanta rapper-producer Vayda today shares her new single ‘Haunting You’ featuring Brooklyn-based rapper Niontay. The rapper’s inaugural release on Lex Records, ‘Haunting You’ is spooky seasonal offering produced by Tony Seltzer and Laron. After a desolate cold open, Vayda’s airy vocal glides atop compressed bass and melodic keys which expands past the songs two minute run time. The… The post Vayda Links With Niontay On ‘Haunting You’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Атлантская рэперша и продюсер Vayda выпустила сингл «Haunting You» с участием бруклинского рэпера Niontay. Это дебютный релиз на лейбле Lex Records, продюсеры Tony Seltzer и Laron.",
+   "title": "Vayda Links With Niontay On ‘Haunting You’",
+   "ts": 1792757284.464674,
+   "why": "хип-хоп, без любимых артистов 3L"
+  },
   "633c8a8374fe": {
    "also": [],
    "artist": "Mae Muller",
@@ -1414,6 +1433,28 @@
    "title": "Rotterdam quartet Elephant have shared their bittersweet new single ‘About You’",
    "ts": 1792580173.801815,
    "why": "новый инди-сингл, жанр близкий 3L"
+  },
+  "7e1b781f7714": {
+   "also": [],
+   "artist": "Fine Glindvad",
+   "fit": 3,
+   "id": "7e1b781f7714",
+   "kind": "single",
+   "link": "https://www.gorillavsbear.net/listen-to-fines-jazz-dreams/",
+   "listen": {
+    "Bandcamp": "https://finefinefinefine.bandcamp.com/album/jazz-dreams"
+   },
+   "major": false,
+   "msg_id": 123,
+   "release": "Jazz dreams",
+   "russian": false,
+   "source": "Gorilla vs. Bear",
+   "status": "new",
+   "summary_en": "Jazz dreams is out now . Video directed + filmed by Louise Le Meur ... Continue reading…",
+   "summary_ru": "Вышел новый трек Jazz dreams датского исполнителя Fine Glindvad из Копенгагена. Видео снято по режиссуре Луизы Ле Мёр.",
+   "title": "listen to Fine’s Jazz dreams",
+   "ts": 1792757311.841098,
+   "why": "новый трек, но жанр в записи не указан"
   },
   "80b15b35029e": {
    "also": [],
@@ -2319,6 +2360,31 @@
    "ts": 1792664269.2318585,
    "why": "новый сингл и анонс концерта, инди-группа"
   },
+  "ebc70a434a19": {
+   "also": [],
+   "artist": "Ксения Минаева",
+   "fit": 4,
+   "id": "ebc70a434a19",
+   "kind": "single",
+   "link": "https://t.me/rodzvuk/17469",
+   "listen": {
+    "Spotify": "https://open.spotify.com/album/1APvpXS9b4yxmu4EtS1cgN",
+    "VK Музыка": "https://vk.ru/audio_",
+    "band.link": "https://band.link/tainiigorodmoskva",
+    "Яндекс Музыка": "https://music.yandex.ru/album/44398379"
+   },
+   "major": false,
+   "msg_id": 124,
+   "release": "",
+   "russian": true,
+   "source": "Родной звук (TG)",
+   "status": "new",
+   "summary_en": "Минаева записала саундтрек для проекта «Тайный город» Ксения Минаева выпустила атмосферный трек для саундтрека мистического сериала «Тайный город». Романтичная композиция в фирменном стиле артистки сочетает в себе элементы личной истории и городского портрета. В центре песни — неоднозначные чувства, которые можно трактовать как признание в любви к человеку или к городу. Минаева создала особую атмосферу, где лирика переплетается с музыкальной подачей. Минаева - Москва Откуда: Москва, Россия Жанр: Indie Pop 💿 Слушать: Spotify | Яндекс Музыка | VK Музыка | Везде",
+   "summary_ru": "Ксения Минаева выпустила атмосферный трек для саундтрека мистического сериала «Тайный город». Композиция романтичная, в ней говорится о неоднозначных чувствах, которые можно трактовать как признание в любви к человеку или к городу.",
+   "title": "Минаева записала саундтрек для проекта «Тайный город»",
+   "ts": 1792757330.369579,
+   "why": "новый трек, инди-поп, русскоязычная артистка"
+  },
   "ee0bd1bc4837": {
    "also": [
     {
@@ -2479,6 +2545,7 @@
   "001f1eede82e": 1792707199.000006,
   "0075f9885681": 1792524750.0565996,
   "00cf68ed866d": 1792517972.206484,
+  "010a3ef80891": 1792757324.7685926,
   "010d74688fcd": 1792140449.7097287,
   "010e4a30c982": 1792140449.516552,
   "011b9f9ecda3": 1792140449.7097273,
@@ -2597,6 +2664,7 @@
   "168763a582b0": 1792422143.4614165,
   "169c87879ee4": 1792140446.1809082,
   "16b7d5deb701": 1792140455.0717554,
+  "16c859577fb8": 1792757302.6900477,
   "1798093617ec": 1792582357.4732208,
   "183c6447ba17": 1792140454.9418406,
   "186cfe3c3af3": 1792526797.237889,
@@ -2688,6 +2756,7 @@
   "2ab1acf5795f": 1792750413.5905566,
   "2ac6cfe269f3": 1792422106.1589015,
   "2afa8e117716": 1792140448.224893,
+  "2b07f7d520ac": 1792757295.9080157,
   "2bc125031393": 1792140455.0717525,
   "2bd8983123f9": 1792510453.881489,
   "2caf0e6c6233": 1792142237.7308605,
@@ -2724,6 +2793,7 @@
   "31d32a4b9fa5": 1792140448.2248914,
   "31d65ae61c53": 1792512942.6867552,
   "322784ec836b": 1792140456.3847504,
+  "3248cf69049e": 1792757292.7157557,
   "325c0a023b27": 1792411065.409499,
   "32b9a8afc72c": 1792689113.3207986,
   "32cf6f6ea87b": 1792584674.2430356,
@@ -2977,6 +3047,7 @@
   "5b0c33d33660": 1792605139.374739,
   "5b15cad29d11": 1792483699.979192,
   "5b8783d98819": 1792140455.028918,
+  "5bc06264af51": 1792757299.177742,
   "5bc25d26d660": 1792140460.928744,
   "5bc707844c94": 1792508242.4379385,
   "5bce1f8a4510": 1792691477.9287124,
@@ -2990,6 +3061,7 @@
   "5dfd9b70dcf8": 1792151141.6036267,
   "5e0198bf77a9": 1792582357.4732168,
   "5e3bc3d6bacf": 1792140455.635882,
+  "5e7178d8c1ee": 1792757281.8151665,
   "5eac0c6d611e": 1792515323.031293,
   "5ee1156c660c": 1792600422.2257273,
   "5f4649c81125": 1792727923.149833,
@@ -3039,6 +3111,7 @@
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
   "699481c3b580": 1792668746.6511729,
+  "69a48811974b": 1792757273.048859,
   "69b9f521aa2d": 1792140454.9418392,
   "69cd93a1f20f": 1792431197.1887515,
   "6a8aaa8bb9ed": 1792600456.4931808,
@@ -3134,6 +3207,7 @@
   "7df1bf3e67fe": 1792140448.2248952,
   "7e0503716a6a": 1792664300.3128543,
   "7e110136eb40": 1792573128.7770834,
+  "7e1b781f7714": 1792757308.8758736,
   "7e9332137f0d": 1792401948.768458,
   "7e96c7fc5eed": 1792140448.2248921,
   "7e9faa5885fd": 1792664278.5046082,
@@ -3538,6 +3612,7 @@
   "ca62ef7fb0de": 1792424992.9666033,
   "ca95f644b590": 1792404627.3754196,
   "cab2f2efdf89": 1792140455.6358762,
+  "cb233ab8f34d": 1792757289.3297522,
   "cb991e68c9e1": 1792140455.0289192,
   "cbe4da5d4916": 1792140446.1809065,
   "cc00ee94d99e": 1792140446.1809146,
@@ -3623,6 +3698,7 @@
   "dbd802634c72": 1792140460.045826,
   "dbd81aee1d50": 1792320475.1409245,
   "dbe7c734baf3": 1792664258.3030195,
+  "dc5bcf74c262": 1792757286.5535953,
   "dcacabdd1522": 1792483691.139654,
   "dcbbe118675a": 1792623148.5752814,
   "dce98e7031cf": 1792140448.2248862,
@@ -3714,6 +3790,7 @@
   "eba415144f44": 1792664267.2530026,
   "eba784da422c": 1792140446.1809137,
   "ebb475562801": 1792487980.9764705,
+  "ebc70a434a19": 1792757327.9411554,
   "eca6af54de70": 1792620887.0254629,
   "ecb2b42e7823": 1792483706.1863785,
   "ecca7d0cf56c": 1792140448.224895,
@@ -3766,6 +3843,7 @@
   "f73ae026400e": 1792167228.6425884,
   "f75d23074d1a": 1792327572.7444234,
   "f76a4a368e82": 1792140446.1809144,
+  "f77032706764": 1792757320.336966,
   "f7cc9b5a10b7": 1792425027.4257884,
   "f80c23e5c4f2": 1792140446.1809046,
   "f8324baa0ff4": 1792156073.8070056,
