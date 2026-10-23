@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792762687
+   "ok": 1792765247
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792762701
+   "ok": 1792765256
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792762701
+   "ok": 1792765265
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792762675
+   "ok": 1792765238
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792762681
+   "ok": 1792765242
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792762685
+   "ok": 1792765246
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792762693
+   "err_ts": 1792765248
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792762690
+   "ok": 1792765248
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792762666
+   "ok": 1792765230
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792762670
+   "ok": 1792765230
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792762694
+   "ok": 1792765249
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792762700
+   "ok": 1792765256
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792762700
+   "ok": 1792765256
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792762697
+   "ok": 1792765252
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792762666
+   "ok": 1792765224
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792762685
+   "ok": 1792765246
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792762686
+   "ok": 1792765247
   },
   "musicOMH": {
    "count": 20,
    "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1792762684,
+   "err_ts": 1792765245,
    "ok": 1792757302
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792762697
+   "ok": 1792765252
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792762703
+   "ok": 1792765267
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792762702
+   "ok": 1792765266
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792762703
+   "ok": 1792765268
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792762703
+   "ok": 1792765268
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792762707
+   "ok": 1792765272
   }
  },
  "heartbeat": "2026-10-23",
@@ -2061,6 +2061,26 @@
    "ts": 1792580146.2129893,
    "why": "новый сингл инди-дуэта, близкий к дрим-попу"
   },
+  "c94f24568d96": {
+   "also": [],
+   "artist": "Water Damage",
+   "fit": 2,
+   "id": "c94f24568d96",
+   "kind": "review",
+   "link": "https://daily.bandcamp.com/album-of-the-day/water-damage-repair-review",
+   "listen": {},
+   "major": false,
+   "msg_id": 125,
+   "release": "Repair",
+   "russian": false,
+   "source": "Bandcamp Daily",
+   "status": "new",
+   "summary_en": "This might be the purest distillation of Water Damage’s ethos as a band that does away with the formalities of rock, forever in thrall to the sprawl. Read full story on the Bandcamp Daily .",
+   "summary_ru": "Bandcamp Daily выбрал альбом Repair группы Water Damage альбомом дня. Издание пишет, что пластинка может быть самым чистым выражением подхода группы, которая отходит от рок-формальностей и тяготеет к разросшимся, растянутым формам.",
+   "title": "Water Damage, “Repair”",
+   "ts": 1792765259.702595,
+   "why": "экспериментальный рок, далёкий от жанров 3L"
+  },
   "c996c546aeee": {
    "also": [],
    "artist": "Florrie",
@@ -2777,6 +2797,7 @@
   "2eba3b0759dc": 1792677664.7420664,
   "2ef8fa22a2e2": 1792140455.0289195,
   "2efdfead27ce": 1792404623.5460773,
+  "2f2ca8ed0dba": 1792765262.7263696,
   "2f38c4fe4173": 1792674656.5846965,
   "2f88a299e6cb": 1792140449.5165534,
   "2fbb999d28db": 1792595636.3501866,
@@ -2820,6 +2841,7 @@
   "35ac8a3e9935": 1792140462.2817574,
   "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
+  "36529816ec3a": 1792765227.525167,
   "366954fce984": 1792602871.4797435,
   "36b5988e8268": 1792156035.7558544,
   "36b9b2aac1d0": 1792541002.3197086,
@@ -2845,6 +2867,7 @@
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
   "39fe00195106": 1792570309.7251508,
+  "3a2609c967ab": 1792765224.506886,
   "3a295d1ab3af": 1792508213.7042525,
   "3a7eac2b6df5": 1792575303.1896214,
   "3a9d16105d88": 1792411062.3888013,
@@ -3106,6 +3129,7 @@
   "659a24ab17a9": 1792505488.5260932,
   "65a1d64ec464": 1792602853.0653977,
   "65bcf6c4486c": 1792140447.2519526,
+  "660162b9fefd": 1792765238.4697502,
   "6628b66f702f": 1792152825.1655142,
   "66c0ac97b729": 1792512935.726863,
   "677c3d49b84f": 1792595642.7679071,
@@ -3134,6 +3158,7 @@
   "6c02cdbec83d": 1792487962.0225365,
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
+  "6ceb5703e792": 1792765268.700614,
   "6d39a5881c80": 1792339702.5628843,
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
@@ -3613,6 +3638,7 @@
   "c83788df11cc": 1792160452.6291058,
   "c89b7e996f04": 1792140449.516548,
   "c89d98f8b618": 1792140455.071753,
+  "c94f24568d96": 1792765256.368361,
   "c97e6b127a20": 1792140449.5165489,
   "c98418011c0f": 1792519703.6840823,
   "c993a94fc012": 1792557951.917994,
@@ -3785,6 +3811,7 @@
   "e7ff8077ee33": 1792684623.331554,
   "e81739940b07": 1792140449.5165465,
   "e82f0b8a57c0": 1792146701.923784,
+  "e849cf7e3746": 1792765260.110397,
   "e89ab1c5dd31": 1792140455.0289218,
   "e929bdd8f8e0": 1792486025.7565851,
   "e9c3a846ce3d": 1792740368.5752733,
@@ -3882,6 +3909,8 @@
   "fbbef8e85667": 1792343416.4451923,
   "fbc9efe9f470": 1792140461.4665866,
   "fbfbbe61515f": 1792140451.9265761,
+  "fc5a521d992c": 1792765242.954879,
+  "fc88cbf0bb1b": 1792765252.6941996,
   "fcb7c6b0cfd8": 1792486031.3206658,
   "fcba5b1f882e": 1792760018.179531,
   "fcd5f12f7a3c": 1792689139.551725,
