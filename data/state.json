@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792768212
+   "ok": 1792770702
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792768228
+   "ok": 1792770707
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,27 +17,27 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.brooklynvegan.com/feed/",
-   "err_ts": 1792768228,
+   "err_ts": 1792770707,
    "ok": 1792765265
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792768186
+   "ok": 1792770689
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792768193
+   "ok": 1792770696
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792768202
+   "ok": 1792770697
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792768213
+   "err_ts": 1792770702
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792768212
+   "ok": 1792770702
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,83 +55,84 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792768178
+   "ok": 1792770671
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792768182
+   "ok": 1792770678
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792768214
+   "ok": 1792770703
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792768228
+   "ok": 1792770707
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792768228
+   "ok": 1792770707
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792768223
+   "ok": 1792770707
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792768168
+   "ok": 1792770665
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792768201
+   "ok": 1792770697
   },
   "Under the Radar": {
    "count": 40,
    "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.undertheradarmag.com/site/rss",
-   "err_ts": 1792768212,
+   "err_ts": 1792770701,
    "ok": 1792765247
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1792770696,
    "ok": 1792768200
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792768222
+   "ok": 1792770707
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792768230
+   "ok": 1792770712
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792768230
+   "ok": 1792770708
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792768231
+   "ok": 1792770713
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792768231
+   "ok": 1792770713
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792768235
+   "ok": 1792770714
   }
  },
  "heartbeat": "2026-10-23",
@@ -1181,6 +1182,26 @@
    "ts": 1792752851.398589,
    "why": "K-pop, мейнстрим-поп, не любимый артист"
   },
+  "51f27dae3254": {
+   "also": [],
+   "artist": "Jazzy",
+   "fit": 2,
+   "id": "51f27dae3254",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/jazzy-releases-debut-album-peace-patience/",
+   "listen": {},
+   "major": false,
+   "msg_id": 129,
+   "release": "Peace & Patience",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Irish artist Jazzy has shared her debut album ‘Peace & Patience’ in full. Out now, it’s a key marker for the electronic talent, who has transformed her life from working in Tesco to becoming one of the most-tipped names in club culture and beyond. Fusing multiple strands of house music… The post Jazzy Releases Debut Album ‘Peace & Patience’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Ирландская артистка Джаззи выпустила дебютный альбом «Peace & Patience», который вышел целиком. Это электронный проект на стыке клубной и хаус-музыки.",
+   "title": "Jazzy Releases Debut Album ‘Peace & Patience’",
+   "ts": 1792770691.7269247,
+   "why": "клубный хаус-электроника, вне жанров 3L"
+  },
   "5481477a3d7e": {
    "also": [
     {
@@ -1475,6 +1496,26 @@
    "title": "Rotterdam quartet Elephant have shared their bittersweet new single ‘About You’",
    "ts": 1792580173.801815,
    "why": "новый инди-сингл, жанр близкий 3L"
+  },
+  "78d4a7c771d1": {
+   "also": [],
+   "artist": "Niis",
+   "fit": 2,
+   "id": "78d4a7c771d1",
+   "kind": "ep",
+   "link": "https://readdork.com/news/niis-play-niis-bad-aim-video-d6b165df32",
+   "listen": {},
+   "major": false,
+   "msg_id": 131,
+   "release": "Play Niis",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Niis’ six-track Rise Records EP ‘Play Niis’ is out now, with a Nick Pillot-directed video for opener ‘Bad Aim’.",
+   "summary_ru": "Лос-анджелесская панк-группа Niis выпустила шеститрековый EP Play Niis на лейбле Rise Records. К открывающему трек Bad Aim вышло видео, его снял режиссёр Nick Pillot.",
+   "title": "LA punks Niis have released new EP ‘Play Niis’ alongside a ‘Bad Aim’ video",
+   "ts": 1792770700.8810985,
+   "why": "панк, далёкий от жанров 3L, без громкого статуса"
   },
   "7e1b781f7714": {
    "also": [],
@@ -1866,6 +1907,26 @@
    "title": "LISA has released new EP ‘PRESS PLAY’ alongside an action-packed ‘Tarantino’ video",
    "ts": 1792752842.492904,
    "why": "мейнстрим-поп, K-pop, не любимый артист"
+  },
+  "ae3d40572faf": {
+   "also": [],
+   "artist": "Mattiel",
+   "fit": 4,
+   "id": "ae3d40572faf",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/mattiel-returns-with-new-single-heartbreak-heatwave/",
+   "listen": {},
+   "major": false,
+   "msg_id": 130,
+   "release": "Heartbreak Heatwave",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Mattiel returns with new single ‘Heartbreak Heatwave’. The American artist is now rooted in Italy, and she returns to London on November 16th for an intimate one-off show at the George Tavern. The Atlanta-born has spent a lot of time in Los Angeles, and the city’s peculiar atmosphere haunts her… The post Mattiel Returns With New Single ‘Heartbreak Heatwave’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Маттиэль выпустила новый сингл «Heartbreak Heatwave». Артистка родом из Атланты, сейчас живёт в Италии, а 16 ноября сыграет камерный концерт в лондонском George Tavern.",
+   "title": "Mattiel Returns With New Single ‘Heartbreak Heatwave’",
+   "ts": 1792770695.0114603,
+   "why": "новый сингл инди-рок артистки, близкий звучанию"
   },
   "aea81a308773": {
    "also": [],
@@ -3087,6 +3148,7 @@
   "5080e114c5a9": 1792399824.7527132,
   "508edc71da07": 1792140462.2817566,
   "519458db5521": 1792684584.9816127,
+  "51f27dae3254": 1792770689.1093802,
   "521cb72facdc": 1792416647.0615003,
   "52377e145082": 1792160469.6877298,
   "52b12e62549e": 1792160481.6299381,
@@ -3290,6 +3352,7 @@
   "7807b3d69ce8": 1792593110.3183172,
   "7824af675775": 1792582357.4732282,
   "78282ff4dcc2": 1792140447.251952,
+  "78d4a7c771d1": 1792770697.9170432,
   "79306a7a3192": 1792588224.4116888,
   "797745e6bcf9": 1792582346.9407291,
   "79e966b950b5": 1792140462.2817593,
@@ -3380,6 +3443,7 @@
   "89f40bc53adc": 1792140456.384752,
   "8a1541a9d297": 1792422140.4139302,
   "8a227d049bed": 1792577667.6337144,
+  "8a8c5e253d03": 1792770675.0797424,
   "8b11ccb6e91a": 1792341719.9827135,
   "8b47fa9dd67f": 1792512960.8585916,
   "8b5000119d5c": 1792600473.4863582,
@@ -3408,6 +3472,7 @@
   "9055e0943588": 1792140449.516548,
   "90622a89f112": 1792140455.0717528,
   "90852db80b8b": 1792350461.9935637,
+  "90dd647b017e": 1792770671.9388318,
   "911e2eab8ed1": 1792140449.5165522,
   "91422c082c9e": 1792705169.8072422,
   "91ae5eb9645b": 1792499765.2437646,
@@ -3542,6 +3607,7 @@
   "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
   "acabb43d1aa3": 1792140456.384748,
+  "acb106477ad4": 1792770669.0576847,
   "acf72b6c08c6": 1792148969.8518102,
   "ad30869d0f20": 1792416644.3908706,
   "ad837da2cf60": 1792140449.5165474,
@@ -3549,10 +3615,12 @@
   "add5be8f31ed": 1792664276.7811468,
   "adf4ac1e2054": 1792140446.3270504,
   "ae173403ba5b": 1792752839.629208,
+  "ae3d40572faf": 1792770692.26408,
   "ae5f1ca5bd81": 1792671181.6480582,
   "ae8bd1ea10bb": 1792163006.5854099,
   "aea81a308773": 1792679971.9229736,
   "af0ff42e5b1c": 1792748070.8450563,
+  "af1c183ec866": 1792770708.4556124,
   "af38d247ea14": 1792243087.9580936,
   "afce16bf96e1": 1792140449.5165496,
   "b029ffc2ed44": 1792686896.3083942,
@@ -3767,6 +3835,7 @@
   "d25a928aa0df": 1792140447.2519505,
   "d301e05295c7": 1792140455.9615839,
   "d333b84d164e": 1792682277.4035819,
+  "d348c4297ea2": 1792770665.879305,
   "d3765b0001fb": 1792140455.0289202,
   "d383ba083cc4": 1792426681.2487686,
   "d3ca17f4a685": 1792140446.18091,
