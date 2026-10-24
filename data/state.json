@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792828564
+   "ok": 1792830501
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792828573
+   "ok": 1792830512
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792828574
+   "ok": 1792830513
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792828559
+   "ok": 1792830497
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792828561
+   "ok": 1792830498
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792828563
+   "ok": 1792830500
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792828565
+   "err_ts": 1792830501
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792828565
+   "ok": 1792830501
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792828554
+   "ok": 1792830489
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792828555
+   "ok": 1792830492
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792828566
+   "ok": 1792830503
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792828573
+   "ok": 1792830512
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792828573
+   "ok": 1792830512
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792828572
+   "ok": 1792830512
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792828554
+   "ok": 1792830489
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792828562
+   "ok": 1792830499
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792828564
+   "ok": 1792830501
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792828562
+   "ok": 1792830498
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792828572
+   "ok": 1792830506
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792828575
+   "ok": 1792830515
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792828575
+   "ok": 1792830514
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792828577
+   "ok": 1792830516
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792828576
+   "ok": 1792830515
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792828577
+   "ok": 1792830516
   }
  },
  "heartbeat": "2026-10-24",
@@ -2204,6 +2204,26 @@
    "ts": 1792580146.2129893,
    "why": "новый сингл инди-дуэта, близкий к дрим-попу"
   },
+  "c634b8980841": {
+   "also": [],
+   "artist": "Noel Gallagher",
+   "fit": 3,
+   "id": "c634b8980841",
+   "kind": "interview",
+   "link": "https://www.nme.com/news/music/watch-noel-gallagher-talk-oasis-reunion-on-chicken-shop-date-3974092?utm_source=rss&utm_medium=rss&utm_campaign=watch-noel-gallagher-talk-oasis-reunion-on-chicken-shop-date",
+   "listen": {},
+   "major": true,
+   "msg_id": 134,
+   "release": "",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Noel Gallagher has appeared as a guest on the final series of Chicken Shop Date , where he discussed the Oasis reunion, advice on working with a sibling, and more. Watch below. The guitarist, singer and songwriter joined Amelia Dimoldenberg at Sam’s Chicken in Harlesden, London, where he was quizzed on various subjects. READ MORE: Oasis: Don’t Look Back In Anger review: an emotional, irreverent reliving of rock’s unlikeliest reunion “How long do you think you should wait before reviving something once it’s ended?” the host asked. In response, Noel said, “16 years”, referring to the gap between Oasis’ split and their 2025 reunion tour . “When you revive [ Chicken Shop Date ], get me back on.” Dimoldenberg fired back: “Well, you might not be around.” Noel replied: “In 16 years? What are you trying to say? That’s not very nice.” Later, Gallagher was pressed on what makes a comeback feel “natural and not desperate”. He responded: “You’ve just got to hope that you can do whatever it is you’re trying to do as well as you once did it. And in the case of Oasis, it became apparent after maybe a week in rehearsals that it was gonna be as good, if not better, than it ever was.” As for his advice for working alongside a brother or sister, he said: “I think you’ve got to be prepared just to compromise, which is something I’m not ordinarily very good at. But I think it gets better as you get older.” Gallagher teased that he has “tonnes of unreleased material”, too, but did not say whether this was for Oasis. The musician revealed how his perception of Oasis’ Live ’25 closer ‘Champagne Supernova’ had changed over the years: “It was nonsensical in the ’90s, and then it’s taken on more meaning for a new generation. I mean, I’ve still no idea what ‘ Slowly walking down the hall, faster than a cannonball ‘ means. I think it’s a drug reference.” Earlier, Gallagher hit out at vegetarians and vegans (“Fuck those guys”), responded to rumours that he doesn’t wear underwear on stage, described himself as a “low-key” rock star, and discussed what keeps him humble. “We played a gig in São Paulo to 90,000 people on a Sunday night,” he said. “We arrived home on a Tuesday morning, and I came down to find my two lads both arguing over what was left in a box of Coco Pops. And I thought to myself, ’48 hours ago I was on stage in São Paulo – the world was in my hands, and now I’m arguing with two bellends about Coco Pops’.” Gallagher told Dimoldenberg about his relationship with previous Chicken Shop Date guest Paul McCartney (“He calls me Nolo”), talked about his beloved Manchester City’s controversial victory over Manchester United last month, and revealed he once “bought a life-size cardboard cutout” of Matthew McConaughey. Later in the lunch date, the musician discussed being a Gemini and “a superior being”, and spoke about where the name High Flying Birds came from. Oasis Live ’25 tour. CREDIT: Big Brother Recordings Gallagher’s appearance on Chicken Shop Date follows recent",
+   "summary_ru": "Ноэл Галлахер появился в финальном сезоне шоу Chicken Shop Date с Амелией Диморденберг и обсудил воссоединение Oasis, работу с братом и возможные неизданные материалы. Он упомянул, что у него «тонны неизданного», но не сказал, относятся ли они к Oasis.",
+   "title": "Watch Noel Gallagher talk Oasis reunion and “compromise” of working with a sibling on ‘Chicken Shop Date’",
+   "ts": 1792830491.7556503,
+   "why": "интервью о воссоединении Oasis, без нового релиза"
+  },
   "c6724e377520": {
    "also": [],
    "artist": "Kacey Musgraves",
@@ -3356,6 +3376,7 @@
   "6f0dbb3d3a8b": 1792140446.1809132,
   "6f27b9f0cf39": 1792140455.635882,
   "6f2aac0117aa": 1792773229.8975785,
+  "6f40804b2d7a": 1792830509.8082328,
   "6f4fc7c458db": 1792755028.8656292,
   "6f543076563c": 1792140448.2248945,
   "6f6d28bcd809": 1792600453.3686483,
@@ -3384,6 +3405,7 @@
   "73deacb6c18c": 1792140449.8447487,
   "73e7b0156ff4": 1792140448.224893,
   "73f2ef6c1c56": 1792140447.2519557,
+  "7403be02e9eb": 1792830506.7481964,
   "7418382b35bb": 1792140447.2519574,
   "7444ec11d643": 1792140449.8447502,
   "74778f5828ac": 1792821141.9760711,
@@ -3833,6 +3855,7 @@
   "c5d80d71f562": 1792140460.0458276,
   "c5dcf770bb75": 1792580144.9394844,
   "c60efb3df79c": 1792759991.2229214,
+  "c634b8980841": 1792830489.9905524,
   "c63fc5ef7d5f": 1792140449.5165498,
   "c64d2b5ef670": 1792140449.5165548,
   "c64e0e9bd89e": 1792140449.5165548,
