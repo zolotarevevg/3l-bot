@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1792842662
+   "ok": 1792844970
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1792842667
+   "ok": 1792844976
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1792842667
+   "ok": 1792844976
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1792842658
+   "ok": 1792844963
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1792842659
+   "ok": 1792844964
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1792842660
+   "ok": 1792844969
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1792842662
+   "err_ts": 1792844970
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1792842662
+   "ok": 1792844970
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1792842649
+   "ok": 1792844958
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1792842653
+   "ok": 1792844958
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1792842663
+   "ok": 1792844972
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1792842667
+   "ok": 1792844976
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1792842667
+   "ok": 1792844975
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1792842667
+   "ok": 1792844975
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1792842649
+   "ok": 1792844958
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1792842660
+   "ok": 1792844969
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1792842661
+   "ok": 1792844970
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1792842659
+   "ok": 1792844968
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1792842667
+   "ok": 1792844975
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1792842669
+   "ok": 1792844978
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1792842668
+   "ok": 1792844978
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792842670
+   "ok": 1792844979
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1792842669
+   "ok": 1792844979
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1792842671
+   "ok": 1792844983
   }
  },
  "heartbeat": "2026-10-24",
@@ -1909,6 +1909,31 @@
    "ts": 1792429134.6989515,
    "why": "новый трек, жанр по записи неясен"
   },
+  "a79c565c0460": {
+   "also": [],
+   "artist": "Буерак",
+   "fit": 4,
+   "id": "a79c565c0460",
+   "kind": "ep",
+   "link": "https://t.me/rodzvuk/17481",
+   "listen": {
+    "Spotify": "https://open.spotify.com/album/0GPXC0BPfEKsr5V7Kywy74",
+    "YouTube": "https://www.youtube.com/watch?v=cgDRjrXD4Rk",
+    "band.link": "https://band.link/buerak2016",
+    "Яндекс Музыка": "https://music.yandex.ru/album/44372305"
+   },
+   "major": false,
+   "msg_id": 135,
+   "release": "2016",
+   "russian": true,
+   "source": "Родной звук (TG)",
+   "status": "new",
+   "summary_en": "«Буерак» возвращают 2016 год и выпускают ностальгический мини-альбом, обращаясь к инди-року, который десять лет назад принес им популярность. Минималистичные аранжировки, запоминающиеся припевы и фирменная игра слов возвращают слушателей в середину десятых. «Ты думал чай остыл, а он состарился» Буерак - 2016 Откуда: Новосибирск, Россия Жанр: Post-Punk, Indie Rock 💿 Слушать: Spotify | Яндекс | Везде Смотреть клип Тур",
+   "summary_ru": "Buerak выпустили ностальгический мини-альбом «2016» с минималистичными аранжировками и запоминающимися припевами, вернувшись к инди-року, который принёс группе популярность десять лет назад. Группа из Новосибирска, жанр - пост-панк и инди-рок.",
+   "title": "«Буерак» возвращают 2016 год и выпускают ностальгический мини-альбом, обращаясь к инди-року, который десять лет назад принес им популярность",
+   "ts": 1792844982.3987906,
+   "why": "новый мини-альбом, пост-панк и инди-рок, российская группа"
+  },
   "add5be8f31ed": {
    "also": [],
    "artist": "Heidi Curtis",
@@ -3683,6 +3708,7 @@
   "a7438d7ebcb6": 1792167240.5355127,
   "a78420dc9d7a": 1792140455.961586,
   "a7928c587097": 1792494668.2631805,
+  "a79c565c0460": 1792844979.665226,
   "a7a7fc7ec88a": 1792140455.961586,
   "a8555c7aefb2": 1792745831.8373098,
   "a8b90069f2cd": 1792664263.9461608,
