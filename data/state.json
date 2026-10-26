@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793023055
+   "ok": 1793028988
   },
   "Bandcamp Daily": {
-   "count": 38,
+   "count": 37,
    "err": "",
-   "ok": 1793023079
+   "ok": 1793029011
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793023079
+   "ok": 1793029016
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793023030
+   "ok": 1793028972
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793023044
+   "ok": 1793028986
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793023047
+   "ok": 1793028987
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793023063
+   "err_ts": 1793028992
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793023063
+   "ok": 1793028991
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793023012
+   "ok": 1793028964
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793023020
+   "ok": 1793028964
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793023065
+   "ok": 1793028993
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793023079
+   "ok": 1793029011
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793023079
+   "ok": 1793029011
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793023078
+   "ok": 1793029003
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793023009
+   "ok": 1793028959
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793023046
+   "ok": 1793028986
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793023051
+   "ok": 1793028988
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793028986,
    "ok": 1793023045
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793023068
+   "ok": 1793028996
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793023083
+   "ok": 1793029020
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793023081
+   "ok": 1793029017
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793023088
+   "ok": 1793029021
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793023084
+   "ok": 1793029021
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793023089
+   "ok": 1793029022
   }
  },
  "heartbeat": "2026-10-26",
@@ -558,6 +559,26 @@
    "title": "Lou Doillon has shared her first new music in seven years",
    "ts": 1792580161.8491704,
    "why": "Новый сингл и анонс альбома, но звучание не из любимого списка"
+  },
+  "1e811999adf8": {
+   "also": [],
+   "artist": "The Weeknd",
+   "fit": 2,
+   "id": "1e811999adf8",
+   "kind": "single",
+   "link": "https://pitchfork.com/story/the-weeknd-debuts-hong-kong-in-hong-kong/",
+   "listen": {},
+   "major": false,
+   "msg_id": 143,
+   "release": "Hong Kong",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "Faye Wong features on the new song, premiered during his four-night run at Kai Tak Stadium",
+   "summary_ru": "The Weeknd впервые исполнил новую песню «Hong Kong» во время серии из четырёх концертов на стадионе Kai Tak в Гонконге. В треке участвует Фэй Вонг.",
+   "title": "The Weeknd Debuts “Hong Kong” in Hong Kong",
+   "ts": 1793029010.4678671,
+   "why": "мейнстрим R&B-поп, не любимый артист"
   },
   "2043ca86c43d": {
    "also": [],
@@ -1258,6 +1279,26 @@
    "title": "ATEEZ have shared new single ‘Drip’ ahead of EP ‘GOLDEN HOUR : Part.6’",
    "ts": 1792752851.398589,
    "why": "K-pop, мейнстрим-поп, не любимый артист"
+  },
+  "5161be51ff84": {
+   "also": [],
+   "artist": "Throwing Muses",
+   "fit": 3,
+   "id": "5161be51ff84",
+   "kind": "album",
+   "link": "https://pitchfork.com/story/throwing-muses-reissue-self-titled-debut-album-for-40th-anniversary/",
+   "listen": {},
+   "major": false,
+   "msg_id": 142,
+   "release": "Throwing Muses",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "Throwing Muses introduced 4AD’s first American signing to the world",
+   "summary_ru": "Throwing Muses переиздают свой дебютный одноимённый альбом к 40-летнему юбилею. Группа стала первым американским артистом, подписанным лейблом 4AD.",
+   "title": "Throwing Muses Reissue Self-Titled Debut Album for 40th Anniversary",
+   "ts": 1793029007.3560336,
+   "why": "переиздание 80-х инди-группы с 4AD, не новая музыка"
   },
   "51f27dae3254": {
    "also": [],
@@ -2309,6 +2350,26 @@
    "ts": 1792679950.1888564,
    "why": "новый сингл, пост-панк, но группа малоизвестна"
   },
+  "c2bd425a97fd": {
+   "also": [],
+   "artist": "Sun Araw",
+   "fit": 3,
+   "id": "c2bd425a97fd",
+   "kind": "album",
+   "link": "https://daily.bandcamp.com/album-of-the-day/sun-araw-rapid-response-review",
+   "listen": {},
+   "major": false,
+   "msg_id": 144,
+   "release": "Rapid Response",
+   "russian": false,
+   "source": "Bandcamp Daily",
+   "status": "new",
+   "summary_en": "The composer/producer emerges from the shadows with another beguiling LP. Read full story on the Bandcamp Daily .",
+   "summary_ru": "Bandcamp Daily выбрал новый альбом Sun Araw «Rapid Response» альбомом дня. Издание описывает его как очередную завораживающую пластинку композитора и продюсера, который вновь появился из тени. Полный текст доступен только на сайте издания.",
+   "title": "SUN ARAW, “Rapid Response”",
+   "ts": 1793029014.5999618,
+   "why": "экспериментальный психоделический звук, соседний жанр"
+  },
   "c49c93d616eb": {
    "also": [],
    "artist": "Cardi B",
@@ -2945,6 +3006,7 @@
   "072249041215": 1792743051.6506038,
   "0772f91cbec9": 1792140455.9615893,
   "0782e8e0aa73": 1792750455.4308333,
+  "079eecda863f": 1793029017.7369356,
   "07c24704ffee": 1792140448.2248955,
   "07cb58b1c7cd": 1792659598.5140214,
   "080148fa9533": 1792142256.046359,
@@ -2959,6 +3021,7 @@
   "09e91e17bdb5": 1792142237.7308555,
   "0a175cea454a": 1792447350.552838,
   "0a23054c8cc0": 1792140419.3187902,
+  "0a934b806ad3": 1793028976.1769118,
   "0aabe4fd61ec": 1792140446.1809072,
   "0b06dd790ff0": 1792762687.1238306,
   "0b0aa14fb51c": 1792877321.8523917,
@@ -3063,6 +3126,7 @@
   "1d621bd98241": 1792140448.2248864,
   "1d66948e8460": 1792140447.251955,
   "1d6f07b16dbf": 1792748074.0569143,
+  "1e811999adf8": 1793029007.908035,
   "1e846dbdf331": 1792755019.6427855,
   "1ebd567d2022": 1792140449.8447437,
   "1eee9f06cc55": 1792508233.9891453,
@@ -3136,6 +3200,7 @@
   "2c7f393eb9c1": 1792768189.779041,
   "2caf0e6c6233": 1792142237.7308605,
   "2d0d74d93414": 1792140449.844743,
+  "2d47c01ab3e0": 1793028996.9477026,
   "2d5fe814e4d0": 1792140459.2475772,
   "2da2727eeb07": 1792643560.5292554,
   "2db12c71e7ea": 1792140446.1809146,
@@ -3219,6 +3284,7 @@
   "38a737edc025": 1792413717.2022285,
   "38ac56e60c19": 1792424994.9504929,
   "3972c9e464ae": 1792140451.9265785,
+  "398163e28db8": 1793028988.780396,
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
@@ -3384,6 +3450,7 @@
   "5080e114c5a9": 1792399824.7527132,
   "508edc71da07": 1792140462.2817566,
   "50d26b78ca51": 1792953660.202691,
+  "5161be51ff84": 1793029003.2483103,
   "519458db5521": 1792684584.9816127,
   "51f27dae3254": 1792770689.1093802,
   "521cb72facdc": 1792416647.0615003,
@@ -3542,6 +3609,7 @@
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
   "6ceb5703e792": 1792765268.700614,
+  "6d3767b50123": 1793028961.5424044,
   "6d39a5881c80": 1792339702.5628843,
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
@@ -4026,6 +4094,7 @@
   "c299cadda15b": 1792140419.318787,
   "c2a380fb0467": 1792140454.941841,
   "c2a8f6dc9b26": 1792404596.1909275,
+  "c2bd425a97fd": 1793029011.5340433,
   "c2dff1919ab9": 1792399814.7457006,
   "c2eb773ca39b": 1792140446.3270478,
   "c379b324eefd": 1792140460.0458236,
@@ -4065,10 +4134,12 @@
   "c69ee1d6089b": 1792140455.9615862,
   "c6a384e5b608": 1792419549.265609,
   "c6bc6a1d21be": 1792703182.9157803,
+  "c6c90dbd5f21": 1793029000.0476341,
   "c727ff563cb3": 1792684620.1460028,
   "c73988041d57": 1792416645.6077752,
   "c78981df5105": 1792727910.0606818,
   "c79cc4d548ad": 1792162974.6287427,
+  "c800bd59ce17": 1793028982.9240665,
   "c83788df11cc": 1792160452.6291058,
   "c89b7e996f04": 1792140449.516548,
   "c89d98f8b618": 1792140455.071753,
@@ -4152,6 +4223,7 @@
   "d6826247bbc4": 1792140419.3187897,
   "d68ad288bdc5": 1792202416.5043957,
   "d699e149fdb7": 1792140455.0717523,
+  "d6b4a50d4b26": 1793028979.1153464,
   "d6de7b73c4ce": 1792142237.730858,
   "d6eab1e2a6c2": 1792140455.0717514,
   "d7fa34729006": 1792140460.9287436,
@@ -4162,6 +4234,7 @@
   "d89d77a038b4": 1792580177.3079207,
   "d8ccfca4c4e6": 1792679977.704332,
   "d8fe7164610a": 1792140449.516551,
+  "d9431e92890b": 1793029018.8354478,
   "d9a6be2ac275": 1792140455.0717518,
   "d9a7bdd59168": 1792140455.6358798,
   "d9e2fcb3252e": 1792743037.141179,
@@ -4223,8 +4296,10 @@
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
   "e3031933cc34": 1792689134.400368,
+  "e30ad7c0eb5e": 1793029015.049368,
   "e357815f3ef4": 1792595592.1446948,
   "e36b2397b7e7": 1792158581.4648004,
+  "e3841cf71d1a": 1793028959.7583032,
   "e38b8df65526": 1792752834.082932,
   "e38c455dd67d": 1792508207.8553078,
   "e3a8238c836a": 1792620902.3118548,
@@ -4249,6 +4324,7 @@
   "e57eb5a4b28b": 1792425024.900194,
   "e5971488affe": 1792543837.1574347,
   "e5c355b7500f": 1792768175.0299652,
+  "e5c9f9e5f5e4": 1793028972.356062,
   "e5f26787bbe3": 1792664300.3128536,
   "e622f479d05f": 1792656839.9825618,
   "e62bce1c7bb3": 1792487989.2660182,
