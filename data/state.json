@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793055381
+   "ok": 1793057330
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793055386
+   "ok": 1793057336
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793055387
+   "ok": 1793057337
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793055376
+   "ok": 1793057301
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793055378
+   "ok": 1793057302
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793055379
+   "ok": 1793057304
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793055381
+   "err_ts": 1793057330
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793055381
+   "ok": 1793057330
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793055370
+   "ok": 1793057296
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793055371
+   "ok": 1793057296
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793055383
+   "ok": 1793057332
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793055386
+   "ok": 1793057336
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793055386
+   "ok": 1793057336
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793055386
+   "ok": 1793057336
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793055370
+   "ok": 1793057296
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793055378
+   "ok": 1793057304
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793055381
+   "ok": 1793057329
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793055378
+   "ok": 1793057303
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793055386
+   "ok": 1793057335
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793055389
+   "ok": 1793057339
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793055388
+   "ok": 1793057338
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793055390
+   "ok": 1793057340
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793055390
+   "ok": 1793057339
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793055391
+   "ok": 1793057340
   }
  },
  "heartbeat": "2026-10-26",
@@ -538,6 +538,26 @@
    "title": "Wendy Eisenberg & more eaze Announce Debut Whait Album sympathy at home: Hear “Falling Down”",
    "ts": 1792517947.0370996,
    "why": "малоизвестный проект, звучание не ясно из записи"
+  },
+  "1a9ae5a7174e": {
+   "also": [],
+   "artist": "GloRilla, Sexyy Red",
+   "fit": 2,
+   "id": "1a9ae5a7174e",
+   "kind": "single",
+   "link": "https://readdork.com/news/glorilla-sexyy-red-jiggly-bow-bow-99a0959f02",
+   "listen": {},
+   "major": false,
+   "msg_id": 148,
+   "release": "Jiggly Bow Bow",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "GloRilla and Sexyy Red will release their latest collaboration, ‘Jiggly Bow Bow’, on 6th November.",
+   "summary_ru": "Глорилла и Секси Рэд выпустят совместный сингл «Jiggly Bow Bow» 6 ноября. В заголовке упоминаются и образы в костюмах бабушек.",
+   "title": "GloRilla and Sexyy Red are back with a new single and some granny disguises",
+   "ts": 1793057306.9615407,
+   "why": "хип-хоп, не любимые артисты, новый сингл"
   },
   "1a9ca8a43973": {
    "also": [],
@@ -1473,6 +1493,26 @@
    "ts": 1792158580.8653674,
    "why": "соул и R&B, далеко от жанров 3L"
   },
+  "5cb944a9bea1": {
+   "also": [],
+   "artist": "ENHYPEN",
+   "fit": 2,
+   "id": "5cb944a9bea1",
+   "kind": "single",
+   "link": "https://readdork.com/news/enhypen-the-sin-parallel-world-single-5a37391c01",
+   "listen": {},
+   "major": false,
+   "msg_id": 151,
+   "release": "THE SIN : PARALLEL WORLD",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "ENHYPEN will release ‘THE SIN : PARALLEL WORLD’ on 20th November, returning to the group’s ‘THE SIN’ narrative for its final instalment.",
+   "summary_ru": "ENHYPEN выпустят сингл «THE SIN : PARALLEL WORLD» 20 ноября. Это финальная часть истории «THE SIN» группы.",
+   "title": "ENHYPEN are heading into an alternate universe with new single ‘THE SIN : PARALLEL WORLD’",
+   "ts": 1793057324.7553291,
+   "why": "K-pop, мейнстрим-поп, вне жанров 3L"
+  },
   "5e7178d8c1ee": {
    "also": [],
    "artist": "Vayda",
@@ -2134,6 +2174,26 @@
    "ts": 1792844982.3987906,
    "why": "новый мини-альбом, пост-панк и инди-рок, российская группа"
   },
+  "ab3aa00856ee": {
+   "also": [],
+   "artist": "Son Lux",
+   "fit": 3,
+   "id": "ab3aa00856ee",
+   "kind": "single",
+   "link": "https://readdork.com/news/son-lux-endlessly-again-again-bluecoats-2b31b6914d",
+   "listen": {},
+   "major": false,
+   "msg_id": 150,
+   "release": "Endlessly",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Son Lux’s ‘Endlessly’ gets a new live brass-and-percussion arrangement from 125 members of Ohio drum corps The Bluecoats.",
+   "summary_ru": "Son Lux выпустили новую версию трека «Endlessly» с живой аранжировкой для духовых и ударных. Её исполнили 125 участников огайского драм-корпуса The Bluecoats.",
+   "title": "Son Lux have enlisted 125 musicians for a massive new version of ‘Endlessly’",
+   "ts": 1793057323.0003483,
+   "why": "соседний экспериментальный поп, новая версия трека"
+  },
   "add5be8f31ed": {
    "also": [],
    "artist": "Heidi Curtis",
@@ -2153,6 +2213,26 @@
    "title": "Heidi Curtis has released new single ‘Run’ ahead of her ‘Summon’ EP",
    "ts": 1792664278.0551856,
    "why": "Новый сингл, but стиль неизвестен, малоизвестный артист"
+  },
+  "ae0770c821d2": {
+   "also": [],
+   "artist": "Lazer Bullet",
+   "fit": 2,
+   "id": "ae0770c821d2",
+   "kind": "album",
+   "link": "https://readdork.com/news/lazer-bullet-40k-psychosis-angel-angel-shit-a6e012ceb0",
+   "listen": {},
+   "major": false,
+   "msg_id": 149,
+   "release": "40K Psychosis Angel",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Portland hardcore punk band Lazer Bullet will release their debut album ‘40K Psychosis Angel’ on 6th November via Convulse, led by new single ‘Angel Shit’.",
+   "summary_ru": "Портлендская хардкор-панк группа Lazer Bullet анонсировала дебютный альбом «40K Psychosis Angel», который выйдет 6 ноября на лейбле Convulse. Вместе с анонсом вышел новый сингл «Angel Shit».",
+   "title": "Portland hardcore band Lazer Bullet have announced their debut album and a filthy new single",
+   "ts": 1793057314.0913086,
+   "why": "хардкор-панк, далеко от жанров 3L"
   },
   "ae173403ba5b": {
    "also": [],
@@ -3161,6 +3241,7 @@
   "169c87879ee4": 1792140446.1809082,
   "16b7d5deb701": 1792140455.0717554,
   "16c859577fb8": 1792757302.6900477,
+  "178cfe49c8d2": 1793057309.6174543,
   "1798093617ec": 1792582357.4732208,
   "17e9fe3eb45a": 1792773192.5090897,
   "183c6447ba17": 1792140454.9418406,
@@ -3175,6 +3256,7 @@
   "1a2837f9350c": 1792140460.9287448,
   "1a599602974c": 1792664290.2948997,
   "1a8dd88cb908": 1792517943.933015,
+  "1a9ae5a7174e": 1793057304.7373648,
   "1a9ca8a43973": 1792158567.0555933,
   "1abba4f336d2": 1792582283.2054315,
   "1ac86fefef28": 1792140462.2817588,
@@ -3598,6 +3680,7 @@
   "5c2e6c3c1367": 1793048264.2444677,
   "5c769692addf": 1792557941.7593322,
   "5cabf6b4e702": 1792401934.2513602,
+  "5cb944a9bea1": 1793057323.4915462,
   "5cceba3c9e71": 1792140459.2475762,
   "5d99dec7968f": 1792760006.2763612,
   "5dc27bf1ca21": 1792140448.224894,
@@ -3867,6 +3950,7 @@
   "8b9537ee25c2": 1792429128.772528,
   "8bb3866c80a3": 1792734848.6874855,
   "8be1bd649d4e": 1792668770.4901855,
+  "8be41834658d": 1793057314.5611968,
   "8be47807c673": 1793011783.2173972,
   "8bec05ca39c8": 1792140446.1809072,
   "8c01738ecbe5": 1792140448.224891,
@@ -4037,6 +4121,7 @@
   "aa976d0dcb23": 1792140449.7097301,
   "aab2a006b165": 1792691502.452069,
   "ab17e645739a": 1792679912.8879662,
+  "ab3aa00856ee": 1793057320.3077612,
   "ab4602ddb947": 1793014172.1343734,
   "ab4fdf424071": 1792768214.861843,
   "abfb4c25d3bf": 1792620883.7903297,
@@ -4050,6 +4135,7 @@
   "ada7599cf7f8": 1792140451.9265778,
   "add5be8f31ed": 1792664276.7811468,
   "adf4ac1e2054": 1792140446.3270504,
+  "ae0770c821d2": 1793057312.614268,
   "ae173403ba5b": 1792752839.629208,
   "ae3d40572faf": 1792770692.26408,
   "ae5f1ca5bd81": 1792671181.6480582,
@@ -4284,6 +4370,7 @@
   "cffa59b9f1cb": 1792140455.071754,
   "d02d2ed947ff": 1792487977.3466525,
   "d075a44a3cd5": 1792140419.3187928,
+  "d0780d3167cc": 1793057317.4406536,
   "d0cd2c179a34": 1792140460.9287474,
   "d0ea8c12ae83": 1792140447.2519577,
   "d11eefaf32fc": 1792140449.709729,
@@ -4319,6 +4406,7 @@
   "d6b4a50d4b26": 1793028979.1153464,
   "d6de7b73c4ce": 1792142237.730858,
   "d6eab1e2a6c2": 1792140455.0717514,
+  "d6faeacdf4c9": 1793057307.494564,
   "d7fa34729006": 1792140460.9287436,
   "d8516f1c7b5e": 1792575309.8005059,
   "d86fc384d4ba": 1792338128.2548878,
@@ -4454,6 +4542,7 @@
   "eba784da422c": 1792140446.1809137,
   "ebb475562801": 1792487980.9764705,
   "ebc70a434a19": 1792757327.9411554,
+  "ebee8f8db8cd": 1793057325.1923747,
   "eca6af54de70": 1792620887.0254629,
   "ecb2b42e7823": 1792483706.1863785,
   "ecca7d0cf56c": 1792140448.224895,
