@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793045781
+   "ok": 1793048261
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793045790
+   "ok": 1793048270
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793045790
+   "ok": 1793048270
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793045772
+   "ok": 1793048256
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793045773
+   "ok": 1793048258
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793045780
+   "ok": 1793048259
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793045782
+   "err_ts": 1793048262
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793045782
+   "ok": 1793048262
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793045764
+   "ok": 1793048244
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793045764
+   "ok": 1793048245
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793045783
+   "ok": 1793048264
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793045789
+   "ok": 1793048270
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793045789
+   "ok": 1793048270
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793045786
+   "ok": 1793048270
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793045764
+   "ok": 1793048242
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793045779
+   "ok": 1793048259
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793045781
+   "ok": 1793048261
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793048258,
    "ok": 1793045778
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793045786
+   "ok": 1793048270
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793045792
+   "ok": 1793048273
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793045791
+   "ok": 1793048272
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793045793
+   "ok": 1793048274
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793045793
+   "ok": 1793048274
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793045797
+   "ok": 1793048275
   }
  },
  "heartbeat": "2026-10-26",
@@ -233,6 +234,26 @@
    "title": "Slate Announce New EP ‘The Grandfather Clock’",
    "ts": 1792674634.2113774,
    "why": "анонс нового EP в инди-рок жанре"
+  },
+  "06fc8f1fab9b": {
+   "also": [],
+   "artist": "evilgiane & Slimesito",
+   "fit": 2,
+   "id": "06fc8f1fab9b",
+   "kind": "album",
+   "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+   "listen": {},
+   "major": false,
+   "msg_id": 147,
+   "release": "EVILSLIME 2",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post evilgiane & Slimesito Announce New Album <em>EVILSLIME 2</em> Out Friday: Hear “Georgia State” appeared first on Stereogum .",
+   "summary_ru": "evilgiane и Slimesito анонсировали совместный альбом EVILSLIME 2, который выходит в пятницу. Вышел трек «Georgia State».",
+   "title": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+   "ts": 1793048243.6442504,
+   "why": "хип-хоп/рэп, не в жанрах 3L"
   },
   "09883f80b47f": {
    "also": [],
@@ -3047,6 +3068,7 @@
   "0695d8fe5478": 1792140448.2248847,
   "06b35e5c1641": 1792140449.7097294,
   "06edcd7a6d46": 1792575278.4042907,
+  "06fc8f1fab9b": 1793048242.4027574,
   "071e1c1e93ec": 1792790868.7689645,
   "072249041215": 1792743051.6506038,
   "0772f91cbec9": 1792140455.9615893,
@@ -3574,6 +3596,7 @@
   "5bc707844c94": 1792508242.4379385,
   "5bce1f8a4510": 1792691477.9287124,
   "5bf8eb3ee90a": 1792140447.2519531,
+  "5c2e6c3c1367": 1793048264.2444677,
   "5c769692addf": 1792557941.7593322,
   "5cabf6b4e702": 1792401934.2513602,
   "5cceba3c9e71": 1792140459.2475762,
