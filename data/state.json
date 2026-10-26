@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793009262
+   "ok": 1793011798
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1793009268
+   "ok": 1793011803
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793009268
+   "ok": 1793011803
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793009217
+   "ok": 1793011780
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793009232
+   "ok": 1793011787
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793009234
+   "ok": 1793011789
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793009262
+   "err_ts": 1793011798
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793009262
+   "ok": 1793011798
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793009204
+   "ok": 1793011772
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793009208
+   "ok": 1793011775
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793009264
+   "ok": 1793011800
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793009267
+   "ok": 1793011803
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793009267
+   "ok": 1793011803
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793009267
+   "ok": 1793011803
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793009203
+   "ok": 1793011771
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793009233
+   "ok": 1793011788
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793009261
+   "ok": 1793011797
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793011787,
    "ok": 1793009233
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793009267
+   "ok": 1793011802
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793009272
+   "ok": 1793011806
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793009269
+   "ok": 1793011804
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793009273
+   "ok": 1793011807
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793009273
+   "ok": 1793011806
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793009274
+   "ok": 1793011808
   }
  },
  "heartbeat": "2026-10-26",
@@ -153,6 +154,26 @@
    "title": "Ella Thompson – Triumph And Sadness",
    "ts": 1792505506.9408772,
    "why": "поп-соул и баллады, далеко от жанров 3L"
+  },
+  "023fed26c0cb": {
+   "also": [],
+   "artist": "Beth McCarthy",
+   "fit": 4,
+   "id": "023fed26c0cb",
+   "kind": "ep",
+   "link": "https://readdork.com/news/beth-mccarthy-the-origin-story-of-a-pretty-villain-ep-3a836d304a",
+   "listen": {},
+   "major": false,
+   "msg_id": 140,
+   "release": "The Origin Story of a Pretty Villain",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Beth McCarthy’s four-track EP ‘The Origin Story of a Pretty Villain’ arrives on 20th November, expanding the narrative behind her alter ego.",
+   "summary_ru": "Бет Маккарти выпускает мини-альбом из четырёх треков The Origin Story of a Pretty Villain 20 ноября. Пластинка расширяет историю её альтер-эго.",
+   "title": "Beth McCarthy is embracing her villainous side on new EP ‘The Origin Story of a Pretty Villain’",
+   "ts": 1793011792.9152255,
+   "why": "новый EP, инди-поп, но артист не в списке любимых"
   },
   "026f4406614f": {
    "also": [],
@@ -2868,6 +2889,7 @@
   "02103129a132": 1792679919.1286101,
   "021207a43263": 1792140460.045821,
   "023092091bb9": 1792505504.4008245,
+  "023fed26c0cb": 1793011790.099786,
   "0253f5b89e8e": 1792422148.3329163,
   "026f4406614f": 1792620912.5133727,
   "027201d988eb": 1792144554.365646,
@@ -3116,6 +3138,7 @@
   "30c767b31b93": 1792140449.5165484,
   "31134b4621b6": 1792703188.7671592,
   "3128c6ed83d6": 1792529035.3777864,
+  "31826350416f": 1793011793.5925248,
   "318b397810a2": 1792343409.0080278,
   "319b38ef4dd6": 1792425021.739633,
   "31a7393a5421": 1792512972.4273078,
@@ -3400,6 +3423,7 @@
   "5b0c33d33660": 1792605139.374739,
   "5b15cad29d11": 1792483699.979192,
   "5b8783d98819": 1792140455.028918,
+  "5b9a05231268": 1793011780.3123038,
   "5bc06264af51": 1792757299.177742,
   "5bc25d26d660": 1792140460.928744,
   "5bc707844c94": 1792508242.4379385,
@@ -3666,6 +3690,7 @@
   "8b9537ee25c2": 1792429128.772528,
   "8bb3866c80a3": 1792734848.6874855,
   "8be1bd649d4e": 1792668770.4901855,
+  "8be47807c673": 1793011783.2173972,
   "8bec05ca39c8": 1792140446.1809072,
   "8c01738ecbe5": 1792140448.224891,
   "8c2e0a67cd2f": 1792762703.870811,
@@ -4023,6 +4048,7 @@
   "c996c546aeee": 1792156055.8648312,
   "c9d9d4ecd707": 1792737326.3939404,
   "ca62ef7fb0de": 1792424992.9666033,
+  "ca90ab2ba7e0": 1793011772.1501582,
   "ca95f644b590": 1792404627.3754196,
   "cab2f2efdf89": 1792140455.6358762,
   "cb233ab8f34d": 1792757289.3297522,
@@ -4253,6 +4279,7 @@
   "f260c09421d5": 1792620899.1902475,
   "f26419ddedbd": 1792140449.7097266,
   "f27cf0b489e1": 1792140446.3270473,
+  "f2857fb1d325": 1793011789.0815005,
   "f28791f6cd57": 1792510440.7326968,
   "f28a6874497d": 1792140460.9287448,
   "f296bfcb7867": 1792140447.2519548,
