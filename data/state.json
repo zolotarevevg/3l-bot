@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793011798
+   "ok": 1793014202
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1793011803
+   "ok": 1793014208
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793011803
+   "ok": 1793014208
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793011780
+   "ok": 1793014189
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793011787
+   "ok": 1793014195
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793011789
+   "ok": 1793014197
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793011798
+   "err_ts": 1793014202
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793011798
+   "ok": 1793014202
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793011772
+   "ok": 1793014172
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793011775
+   "ok": 1793014178
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793011800
+   "ok": 1793014204
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793011803
+   "ok": 1793014208
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793011803
+   "ok": 1793014208
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793011803
+   "ok": 1793014208
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793011771
+   "ok": 1793014171
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793011788
+   "ok": 1793014196
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793011797
+   "ok": 1793014202
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793011787,
-   "ok": 1793009233
+   "err": "",
+   "ok": 1793014195
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793011802
+   "ok": 1793014208
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793011806
+   "ok": 1793014211
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793011804
+   "ok": 1793014210
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793011807
+   "ok": 1793014213
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793011806
+   "ok": 1793014212
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793011808
+   "ok": 1793014216
   }
  },
  "heartbeat": "2026-10-26",
@@ -194,6 +193,26 @@
    "title": "Austin post-hardcore band Porcelain have shared politically charged new single ‘DSD’",
    "ts": 1792620915.2180643,
    "why": "пост-хардкор, далеко от жанров 3L"
+  },
+  "0393ccd9a306": {
+   "also": [],
+   "artist": "Brothers Osborne",
+   "fit": 2,
+   "id": "0393ccd9a306",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/country-heroes-brothers-osbourne-share-new-album-watertown/",
+   "listen": {},
+   "major": false,
+   "msg_id": 141,
+   "release": "Watertown",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Brothers Oborne have shared new album ‘Watertown’ in full. Out now, it finds the country stars stripping away the excess and going back to their roots for a series of rock-infused odes. Speaking from the heart, the siblings’ deeply honest songwriting is honed by the ability to truly lay their… The post Country Heroes Brothers Osborne Share New Album ‘Watertown’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Кантри-дуэт Brothers Osborne выпустил новый альбом Watertown, он уже доступен целиком. По описанию, пластинка возвращает группу к корням: в ней больше рок-звучания и честной авторской лирики.",
+   "title": "Country Heroes Brothers Osborne Share New Album ‘Watertown’",
+   "ts": 1793014192.3958032,
+   "why": "кантри, не любимый артист"
   },
   "0449f6e5fa68": {
    "also": [],
@@ -2900,6 +2919,7 @@
   "031160f8560c": 1792422153.9425986,
   "038360609165": 1792140449.516551,
   "038a98c0496a": 1792732323.928334,
+  "0393ccd9a306": 1793014189.8602796,
   "03a99f1e8d20": 1792140455.961588,
   "03aa337b6e58": 1792598313.2244039,
   "03eba9fb9021": 1792750426.4952137,
@@ -3642,6 +3662,7 @@
   "82460c1eaac5": 1792748023.3798797,
   "829765279e3c": 1792140456.3847523,
   "82d4db8fa147": 1792582344.187398,
+  "82ed20c8ee1d": 1793014213.0276093,
   "831514a0216c": 1792140419.318791,
   "835b4da34eef": 1792573131.4566736,
   "836ca427c997": 1792784996.9077108,
@@ -3854,6 +3875,7 @@
   "aa976d0dcb23": 1792140449.7097301,
   "aab2a006b165": 1792691502.452069,
   "ab17e645739a": 1792679912.8879662,
+  "ab4602ddb947": 1793014172.1343734,
   "ab4fdf424071": 1792768214.861843,
   "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
@@ -4040,6 +4062,7 @@
   "c83788df11cc": 1792160452.6291058,
   "c89b7e996f04": 1792140449.516548,
   "c89d98f8b618": 1792140455.071753,
+  "c94bced0be17": 1793014197.659387,
   "c94f24568d96": 1792765256.368361,
   "c97e6b127a20": 1792140449.5165489,
   "c98418011c0f": 1792519703.6840823,
