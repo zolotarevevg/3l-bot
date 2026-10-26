@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793006228
+   "ok": 1793009262
   },
   "Bandcamp Daily": {
    "count": 38,
    "err": "",
-   "ok": 1793006233
+   "ok": 1793009268
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793006234
+   "ok": 1793009268
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793006223
+   "ok": 1793009217
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793006225
+   "ok": 1793009232
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793006227
+   "ok": 1793009234
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793006228
+   "err_ts": 1793009262
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793006228
+   "ok": 1793009262
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793006214
+   "ok": 1793009204
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793006216
+   "ok": 1793009208
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793006230
+   "ok": 1793009264
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793006233
+   "ok": 1793009267
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793006233
+   "ok": 1793009267
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793006233
+   "ok": 1793009267
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793006214
+   "ok": 1793009203
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793006226
+   "ok": 1793009233
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793006228
+   "ok": 1793009261
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793006226,
-   "ok": 1793002850
+   "err": "",
+   "ok": 1793009233
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793006233
+   "ok": 1793009267
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793006235
+   "ok": 1793009272
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793006235
+   "ok": 1793009269
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793006237
+   "ok": 1793009273
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793006236
+   "ok": 1793009273
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793006237
+   "ok": 1793009274
   }
  },
  "heartbeat": "2026-10-26",
@@ -779,6 +778,26 @@
    "title": "Lil Baby Recruits Future, Young Thug for New Album Fresh",
    "ts": 1792529037.2676094,
    "why": "хип-хоп, не любимый артист 3L"
+  },
+  "31d603d83801": {
+   "also": [],
+   "artist": "JYT",
+   "fit": 2,
+   "id": "31d603d83801",
+   "kind": "ep",
+   "link": "https://www.clashmusic.com/news/pop-all-stars-jyt-release-debut-ep-just-your-type/",
+   "listen": {},
+   "major": false,
+   "msg_id": 138,
+   "release": "Just Your Type",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Emerging pop force JYT have shared their debut EP ‘Just Your Type’ in full. Out now, the EP caps a momentous spell in which JYT have played a string of intimate shows, and released multiple viral singles. Amassing more than 550 million views across social platforms in the past 120… The post Pop All-Stars JYT Release Debut EP ‘Just Your Type’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Поп-проект JYT выпустил дебютный EP «Just Your Type» целиком. До этого группа сыграла серию камерных концертов и выпустила несколько вирусных синглов, которые набрали более 550 миллионов просмотров на соцплатформах за последние 120 дней.",
+   "title": "Pop All-Stars JYT Release Debut EP ‘Just Your Type’",
+   "ts": 1793009230.0980542,
+   "why": "мейнстрим-поп, вне жанров 3L, новых эмоций нет"
   },
   "330a6c7e1556": {
    "also": [
@@ -1439,6 +1458,26 @@
    "ts": 1792620911.9913068,
    "why": "новый сингл и анонс делюкс-альбома, инди-электроника"
   },
+  "68f318c94bd1": {
+   "also": [],
+   "artist": "EsDeeKid",
+   "fit": 2,
+   "id": "68f318c94bd1",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/esdeekid-shares-bandit-confirms-uk-tour/",
+   "listen": {},
+   "major": false,
+   "msg_id": 136,
+   "release": "BANDIT",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "EsDeeKid has shared his new single ‘BANDIT’. It’s been another huge year for EsDeeKid, with the U.g. icon making serious in-roads across North America. Performances at Rolling Loud saw crowds go wild for his sound, while a string of singles have underlined his creative status within the underground. Re-uniting with… The post EsDeeKid Shares ‘BANDIT’, Confirms UK Tour appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "EsDeeKid выпустил новый сингл BANDIT и объявил тур по Великобритании. В тексте также упоминаются выступления на Rolling Loud и рост популярности артиста в Северной Америке.",
+   "title": "EsDeeKid Shares ‘BANDIT’, Confirms UK Tour",
+   "ts": 1793009222.502851,
+   "why": "хип-хоп/рэп, не в жанрах 3L"
+  },
   "6b8b10122807": {
    "also": [],
    "artist": "Big Softy",
@@ -1670,6 +1709,26 @@
    "ts": 1792577670.3305762,
    "why": "инди-рок, новый сингл и анонс альбома"
   },
+  "8b7baac588c3": {
+   "also": [],
+   "artist": "XIAOJUN",
+   "fit": 2,
+   "id": "8b7baac588c3",
+   "kind": "ep",
+   "link": "https://readdork.com/news/xiaojun-hey-somebody-solo-debut-cff2520a42",
+   "listen": {},
+   "major": false,
+   "msg_id": 139,
+   "release": "Hey, Somebody",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "XIAOJUN’s first solo mini album arrives with a title-track video, five songs and versions in both Chinese and English.",
+   "summary_ru": "Сольный дебют Сяоцзюня из WayV - мини-альбом «Hey, Somebody» из пяти песен с видео на заглавный трек. Выпущен на китайском и английском языках.",
+   "title": "WayV’s XIAOJUN has made his solo debut with ‘Hey, Somebody’",
+   "ts": 1793009245.8775434,
+   "why": "K-pop idol, мейнстрим-поп, далеко от жанров 3L"
+  },
   "8b9537ee25c2": {
    "also": [],
    "artist": "Spirit Ghost",
@@ -1889,6 +1948,26 @@
    "title": "Matt Carmichael’s ‘Held In The Dark’ Is A Powerful Jazz Statement",
    "ts": 1792505497.7769437,
    "why": "джаз, не в жанрах 3L"
+  },
+  "a12bad004e16": {
+   "also": [],
+   "artist": "DJ Suzy",
+   "fit": 3,
+   "id": "a12bad004e16",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/dj-suzy-unveils-debut-full-length-kira-krash/",
+   "listen": {},
+   "major": false,
+   "msg_id": 137,
+   "release": "Kira Krash",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Stockholm-based artist DJ Suzy has released her debut album, ‘Kira Krash’. CLASH placed DJ Suzy in our list of Artists To Watch last year, after the release of her acclaimed 2024 project ‘Haunted Discs’. Named after her antagonist alter-ego, the 13-track ‘Kira Krash’ is an altogether fuller and more immersive experience inviting listeners into a… The post DJ Suzy Unveils Debut Full-Length ‘Kira Krash’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Стокгольмская артистка DJ Suzy выпустила дебютный полноформатный альбом «Kira Krash» из 13 треков, названный в честь её альтер-эго-антагониста. Ранее Clash включил её в список Artists To Watch после проекта «Haunted Discs» (2024).",
+   "title": "DJ Suzy Unveils Debut Full-Length ‘Kira Krash’",
+   "ts": 1793009226.7636938,
+   "why": "электроника, жанр в тексте не указан, дебютный альбом"
   },
   "a1c683db1f91": {
    "also": [],
@@ -2773,6 +2852,7 @@
   "000a2d83a90f": 1792668778.854347,
   "001ccef7d993": 1792140446.327047,
   "001f1eede82e": 1792707199.000006,
+  "00245cd66a80": 1793009217.8110826,
   "0075f9885681": 1792524750.0565996,
   "00cf68ed866d": 1792517972.206484,
   "010a3ef80891": 1792757324.7685926,
@@ -2868,6 +2948,7 @@
   "10327bcf26a9": 1792732318.2586508,
   "108dca2850ed": 1792158595.9177806,
   "10d23fe96bcd": 1792575293.4916205,
+  "10da66a9a9f1": 1793009246.3206768,
   "116f5fd6222e": 1792490268.9391212,
   "118099b3c52c": 1792140419.31879,
   "1190bdca8427": 1792492336.6984515,
@@ -2891,6 +2972,7 @@
   "13be515e46a6": 1792399806.0338573,
   "13d885cbec0a": 1792473359.6779761,
   "13eb4f70de50": 1792422138.3649497,
+  "141747fe01eb": 1793009237.575931,
   "1452d7b7b6a0": 1792686908.5958514,
   "1462713d87da": 1792664273.8909972,
   "14715da0d8f5": 1792142306.6505816,
@@ -3040,6 +3122,7 @@
   "31cb3ce91273": 1792140449.709728,
   "31d0efb8e267": 1792588207.8323843,
   "31d32a4b9fa5": 1792140448.2248914,
+  "31d603d83801": 1793009227.2344892,
   "31d65ae61c53": 1792512942.6867552,
   "322784ec836b": 1792140456.3847504,
   "3248cf69049e": 1792757292.7157557,
@@ -3220,6 +3303,7 @@
   "4c37a4315462": 1792684611.387654,
   "4c671b4757f4": 1792237202.7927878,
   "4c70f39495c5": 1792517961.1542182,
+  "4c818cf863cd": 1793009254.439842,
   "4cb400292c54": 1792140449.8447435,
   "4cc5ae38e986": 1792546490.5300224,
   "4ccbc066761f": 1792140460.928743,
@@ -3305,6 +3389,7 @@
   "59489360539e": 1792745858.6850185,
   "596fb8676db8": 1792677625.4422295,
   "5975e2515efb": 1792140460.0458274,
+  "598036c0f7ab": 1793009240.598505,
   "59adc6a30861": 1792140455.961589,
   "59af292e153d": 1792140455.961587,
   "5a0d77396342": 1792707208.1451068,
@@ -3336,6 +3421,7 @@
   "5f4649c81125": 1792727923.149833,
   "5f8252676042": 1792140419.66491,
   "5faea83a099d": 1792140447.2519577,
+  "5fb3d7696c26": 1793009252.023225,
   "5fbf2f967879": 1792582298.2390654,
   "5fcf8809b1a6": 1792679958.3298347,
   "604f481cfcf7": 1792140448.224885,
@@ -3381,6 +3467,7 @@
   "67ca62b347d8": 1792729997.0659816,
   "6834be2b7d46": 1792331407.3571088,
   "685784b10d06": 1792620908.6497743,
+  "68f318c94bd1": 1793009220.3081255,
   "68f957627714": 1792684590.2072012,
   "693056b7f5c2": 1792158569.604045,
   "696a961ff5be": 1792140449.8447514,
@@ -3575,6 +3662,7 @@
   "8b47fa9dd67f": 1792512960.8585916,
   "8b5000119d5c": 1792600473.4863582,
   "8b66ee660951": 1792443276.4357345,
+  "8b7baac588c3": 1793009243.1277936,
   "8b9537ee25c2": 1792429128.772528,
   "8bb3866c80a3": 1792734848.6874855,
   "8be1bd649d4e": 1792668770.4901855,
@@ -3671,6 +3759,7 @@
   "9d77ae8d7812": 1792140456.3847497,
   "9de1505a0e48": 1792590879.0948431,
   "9e3b839c0757": 1792590875.82778,
+  "9e41cac3295e": 1793009249.211429,
   "9e6850c5d75a": 1792752828.0822506,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
@@ -3692,6 +3781,7 @@
   "a06f36433034": 1793006214.4620893,
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
+  "a12bad004e16": 1793009223.062988,
   "a1356415039f": 1792584712.1633177,
   "a1a890b1992c": 1792575312.0914242,
   "a1b9ce14ff30": 1792146692.554182,
@@ -3763,6 +3853,7 @@
   "af9e1adfc03b": 1792773222.5983038,
   "afce16bf96e1": 1792140449.5165496,
   "b029ffc2ed44": 1792686896.3083942,
+  "b05c96799299": 1793009257.1395183,
   "b06b09597824": 1792750417.4515054,
   "b081adddb626": 1792406870.2139947,
   "b09779f9d707": 1792142237.730857,
@@ -4062,6 +4153,7 @@
   "e1928e55e12b": 1792140460.045822,
   "e1aa318b45e7": 1792745855.4120698,
   "e1f258b97a61": 1792664252.6949341,
+  "e22d69947a38": 1793009204.1138666,
   "e256a24985e1": 1792595610.845401,
   "e26be94ff5dc": 1792140455.9615912,
   "e28c1b62372d": 1792497224.4252322,
@@ -4079,6 +4171,7 @@
   "e407ecd1cff7": 1792588237.6362753,
   "e41058613fdd": 1792140449.5165455,
   "e41da7339017": 1792593104.3864765,
+  "e426a88a31b6": 1793009269.4628005,
   "e43c3be89515": 1792677611.2302487,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
@@ -4110,6 +4203,7 @@
   "e82f0b8a57c0": 1792146701.923784,
   "e849cf7e3746": 1792765260.110397,
   "e89ab1c5dd31": 1792140455.0289218,
+  "e8f6fecbc6e2": 1793009234.2189658,
   "e929bdd8f8e0": 1792486025.7565851,
   "e9c3a846ce3d": 1792740368.5752733,
   "e9c6c1b2844a": 1792755015.9322479,
