@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793041215
+   "ok": 1793043816
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793041221
+   "ok": 1793043821
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793041221
+   "ok": 1793043821
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793041210
+   "ok": 1793043811
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793041211
+   "ok": 1793043813
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793041213
+   "ok": 1793043814
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793041215
+   "err_ts": 1793043816
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793041215
+   "ok": 1793043816
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793041203
+   "ok": 1793043805
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793041203
+   "ok": 1793043806
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793041217
+   "ok": 1793043818
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793041221
+   "ok": 1793043820
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793041220
+   "ok": 1793043820
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793041220
+   "ok": 1793043820
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793041199
+   "ok": 1793043803
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793041212
+   "ok": 1793043813
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793041215
+   "ok": 1793043815
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793041211
+   "ok": 1793043813
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793041220
+   "ok": 1793043820
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793041223
+   "ok": 1793043824
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793041222
+   "ok": 1793043822
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793041224
+   "ok": 1793043825
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793041224
+   "ok": 1793043824
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793041229
+   "ok": 1793043826
   }
  },
  "heartbeat": "2026-10-26",
@@ -2194,6 +2194,26 @@
    "ts": 1792679974.7818675,
    "why": "возможна экспериментальная электроника, жанр не указан"
   },
+  "af1ff952ae5e": {
+   "also": [],
+   "artist": "The Flaming Lips",
+   "fit": 4,
+   "id": "af1ff952ae5e",
+   "kind": "album",
+   "link": "https://stereogum.com/2515626/the-flaming-lips-announce-first-post-steven-drozd-album-the-teardrop-throbs-hear-god-will-control-the-werewolves/music/",
+   "listen": {},
+   "major": true,
+   "msg_id": 146,
+   "release": "The Teardrop Throbs",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post The Flaming Lips Announce First Post-Steven Drozd Album <em>The Teardrop Throbs</em>: Hear “God Will Control The Werewolves” appeared first on Stereogum .",
+   "summary_ru": "The Flaming Lips анонсировали новый альбом The Teardrop Throbs, первый без Стивена Дроззда. Вышел трек God Will Control The Werewolves.",
+   "title": "The Flaming Lips Announce First Post-Steven Drozd Album The Teardrop Throbs: Hear “God Will Control The Werewolves”",
+   "ts": 1793043804.6387644,
+   "why": "анонс альбома известной инди-группы, первый без Дроззда"
+  },
   "b029ffc2ed44": {
    "also": [
     {
@@ -4009,6 +4029,7 @@
   "aea81a308773": 1792679971.9229736,
   "af0ff42e5b1c": 1792748070.8450563,
   "af1c183ec866": 1792770708.4556124,
+  "af1ff952ae5e": 1793043803.0379887,
   "af38d247ea14": 1792243087.9580936,
   "af9e1adfc03b": 1792773222.5983038,
   "afce16bf96e1": 1792140449.5165496,
