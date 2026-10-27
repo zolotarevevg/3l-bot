@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793124966
+   "ok": 1793128059
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793124975
+   "ok": 1793128068
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793124975
+   "ok": 1793128069
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793124954
+   "ok": 1793128054
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793124956
+   "ok": 1793128056
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793124958
+   "ok": 1793128058
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793124967
+   "err_ts": 1793128059
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793124966
+   "ok": 1793128059
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793124948
+   "ok": 1793128041
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793124949
+   "ok": 1793128041
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793124968
+   "ok": 1793128061
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793124975
+   "ok": 1793128068
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793124975
+   "ok": 1793128064
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793124971
+   "ok": 1793128064
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793124943
+   "ok": 1793128030
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793124957
+   "ok": 1793128057
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793124966
+   "ok": 1793128059
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793128056,
    "ok": 1793124956
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793124971
+   "ok": 1793128064
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793124978
+   "ok": 1793128071
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793124977
+   "ok": 1793128070
   },
   "Родной звук (TG)": {
-   "count": 9,
+   "count": 10,
    "err": "",
-   "ok": 1793124979
+   "ok": 1793128075
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793124979
+   "ok": 1793128072
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793124980
+   "ok": 1793128079
   }
  },
  "heartbeat": "2026-10-27",
@@ -3133,7 +3134,12 @@
    "why": "пост-панк-поп-панк, вне жанров 3L, без громкого имени"
   },
   "ebc70a434a19": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://t.me/brokendance/3382",
+     "source": "Сломанные пляски (TG)"
+    }
+   ],
    "artist": "Ксения Минаева",
    "fit": 4,
    "id": "ebc70a434a19",
@@ -3142,6 +3148,7 @@
    "listen": {
     "Spotify": "https://open.spotify.com/album/1APvpXS9b4yxmu4EtS1cgN",
     "VK Музыка": "https://vk.ru/audio_",
+    "YouTube": "https://youtu.be/BCLOtkexA3c",
     "band.link": "https://band.link/tainiigorodmoskva",
     "Яндекс Музыка": "https://music.yandex.ru/album/44398379"
    },
@@ -3243,6 +3250,26 @@
    "title": "claire rousay and zander raymond have announced collaborative album ‘something good’",
    "ts": 1792582352.8507178,
    "why": "экспериментальная электроника и джаз, вне жанров 3L"
+  },
+  "f509cb65b9bc": {
+   "also": [],
+   "artist": "St. Vincent",
+   "fit": 3,
+   "id": "f509cb65b9bc",
+   "kind": "video",
+   "link": "https://stereogum.com/2515743/st-vincent-plays-fallon-with-marc-ribot-hannah-cohen-ella-hunt/news/",
+   "listen": {},
+   "major": false,
+   "msg_id": 165,
+   "release": "",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post St. Vincent Plays <em>Fallon</em> With Marc Ribot, Hannah Cohen, & Ella Hunt appeared first on Stereogum .",
+   "summary_ru": "St. Vincent выступила в шоу Джимми Фэллона вместе с Марком Рибо, Ханной Коэн и Эллой Хант. В записи не указано, какой трек исполнялся и выходит ли новый релиз.",
+   "title": "St. Vincent Plays Fallon With Marc Ribot, Hannah Cohen, & Ella Hunt",
+   "ts": 1793128040.8736532,
+   "why": "известный инди-артист, но без нового релиза"
   },
   "f7f71bf130cd": {
    "also": [],
@@ -3624,6 +3651,7 @@
   "24598e6f0c06": 1792142237.7308564,
   "24c027f6363f": 1792497218.886947,
   "253410846421": 1792151154.5883605,
+  "254ec7e45d2a": 1793128033.5108755,
   "254f4c99f6ee": 1792748020.1306944,
   "2569be97aad3": 1792730002.6908572,
   "25806c492e25": 1792187905.6770828,
@@ -3931,6 +3959,7 @@
   "519458db5521": 1792684584.9816127,
   "51f27dae3254": 1792770689.1093802,
   "521cb72facdc": 1792416647.0615003,
+  "52290769abf6": 1793128030.078992,
   "522d43695e20": 1793023036.4736774,
   "52377e145082": 1792160469.6877298,
   "52b12e62549e": 1792160481.6299381,
@@ -4249,6 +4278,7 @@
   "8444dfbb9385": 1792140419.318789,
   "845a9903ce34": 1792140419.476235,
   "846fb894c5dd": 1792140446.3270485,
+  "84973a0db1b2": 1793128036.5742424,
   "849d354c5446": 1792144583.6977081,
   "84ebc6432c36": 1792486028.4578288,
   "84fe036a2bd2": 1792429145.3496408,
@@ -4327,6 +4357,7 @@
   "90dd647b017e": 1792770671.9388318,
   "911e2eab8ed1": 1792140449.5165522,
   "91422c082c9e": 1792705169.8072422,
+  "915f1c436e4b": 1793128075.928829,
   "91ae5eb9645b": 1792499765.2437646,
   "91d6ebfd34d5": 1792140455.0289183,
   "921e7c63d477": 1793116299.1211796,
@@ -4856,6 +4887,7 @@
   "e1869ead1454": 1792140449.8447478,
   "e1928e55e12b": 1792140460.045822,
   "e1aa318b45e7": 1792745855.4120698,
+  "e1bc8736def5": 1793128072.0765312,
   "e1f073460c82": 1793113295.9097314,
   "e1f258b97a61": 1792664252.6949341,
   "e22d69947a38": 1793009204.1138666,
@@ -4997,6 +5029,7 @@
   "f46aa2f3db6e": 1792140449.8447466,
   "f4a96dbc82aa": 1792512948.2513473,
   "f4da41fe8b18": 1792573125.7987974,
+  "f509cb65b9bc": 1793128038.045481,
   "f513d9fe4edc": 1792140449.516547,
   "f5b4ae464757": 1792309734.017719,
   "f5ecccd8442e": 1792140446.1809096,
