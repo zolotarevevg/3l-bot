@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793113287
+   "ok": 1793116310
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793113295
+   "ok": 1793116319
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793113303
+   "ok": 1793116320
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793113270
+   "ok": 1793116295
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793113280
+   "ok": 1793116303
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793113285
+   "ok": 1793116309
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793113287
+   "err_ts": 1793116310
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793113287
+   "ok": 1793116310
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793113261
+   "ok": 1793116280
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793113262
+   "ok": 1793116281
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793113289
+   "ok": 1793116312
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793113295
+   "ok": 1793116319
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793113295
+   "ok": 1793116319
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793113292
+   "ok": 1793116316
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793113258
+   "ok": 1793116270
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793113282
+   "ok": 1793116304
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793113287
+   "ok": 1793116310
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793116303,
    "ok": 1793113281
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793113292
+   "ok": 1793116316
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793113307
+   "ok": 1793116323
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793113304
+   "ok": 1793116321
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793113308
+   "ok": 1793116324
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793113307
+   "ok": 1793116324
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793113310
+   "ok": 1793116325
   }
  },
  "heartbeat": "2026-10-27",
@@ -1418,6 +1419,26 @@
    "title": "Jazzy Releases Debut Album ‘Peace & Patience’",
    "ts": 1792770691.7269247,
    "why": "клубный хаус-электроника, вне жанров 3L"
+  },
+  "52c2c4a5f816": {
+   "also": [],
+   "artist": "The Healing Power Of Horses",
+   "fit": 3,
+   "id": "52c2c4a5f816",
+   "kind": "ep",
+   "link": "https://stereogum.com/2515638/the-healing-power-of-horses-announce-new-ep-8725-hear-xstick_xstick/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 160,
+   "release": "8725",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post The Healing Power Of Horses Announce New EP <em>8725</em>: Hear “xstick_xstick” appeared first on Stereogum .",
+   "summary_ru": "The Healing Power Of Horses анонсировали новый EP 8725 и опубликовали трек xstick_xstick. Больше деталей в записи нет.",
+   "title": "The Healing Power Of Horses Announce New EP 8725: Hear “xstick_xstick”",
+   "ts": 1793116279.8883452,
+   "why": "малоизвестная группа, жанр по записи неясен"
   },
   "5481477a3d7e": {
    "also": [
@@ -3339,6 +3360,7 @@
   "0a6290fd8a6a": 1793110210.3360517,
   "0a934b806ad3": 1793028976.1769118,
   "0aabe4fd61ec": 1792140446.1809072,
+  "0acc2e056bac": 1793116304.4950824,
   "0b06dd790ff0": 1792762687.1238306,
   "0b0aa14fb51c": 1792877321.8523917,
   "0b2ddd3d26fa": 1793101070.030856,
@@ -3476,6 +3498,7 @@
   "2193169657c9": 1792140446.1809134,
   "21b10e9aa501": 1792762675.6494694,
   "21b5f8d0f370": 1792494660.5864563,
+  "21b732e0c251": 1793116273.8507464,
   "21b80d87092e": 1793023016.2050052,
   "21d435bacee5": 1792614459.3579214,
   "21f3b2cd1c8a": 1792440683.8495347,
@@ -3623,6 +3646,7 @@
   "38a689ac4d40": 1792416651.4927404,
   "38a737edc025": 1792413717.2022285,
   "38ac56e60c19": 1792424994.9504929,
+  "38cedecc5d65": 1793116316.4177752,
   "3972c9e464ae": 1792140451.9265785,
   "398163e28db8": 1793028988.780396,
   "398aeebe61e2": 1792140448.2248924,
@@ -3806,6 +3830,7 @@
   "522d43695e20": 1793023036.4736774,
   "52377e145082": 1792160469.6877298,
   "52b12e62549e": 1792160481.6299381,
+  "52c2c4a5f816": 1793116277.0244648,
   "52d2c2a41b32": 1793032281.7155175,
   "52f5fd0bc6f8": 1792140449.8447504,
   "52fc2b9edc40": 1792818685.6391878,
@@ -4193,6 +4218,7 @@
   "91422c082c9e": 1792705169.8072422,
   "91ae5eb9645b": 1792499765.2437646,
   "91d6ebfd34d5": 1792140455.0289183,
+  "921e7c63d477": 1793116299.1211796,
   "921ed22f6702": 1792740355.7027452,
   "926e91f55c9c": 1792169713.1484814,
   "929b08848d21": 1792140460.0458226,
@@ -4382,6 +4408,7 @@
   "b0b4dd2f31e0": 1792140447.2519543,
   "b0d1bd55b61b": 1792140419.3187873,
   "b10ef5270b4e": 1792684598.8092985,
+  "b120a618060f": 1793116295.9838321,
   "b137c78ba31c": 1792727929.024832,
   "b144aaccfa95": 1792748064.5554545,
   "b15d34616c10": 1792140460.9287446,
@@ -4491,6 +4518,7 @@
   "c157b1f54fef": 1792140460.928742,
   "c17ae30430f4": 1792849747.105903,
   "c1c70e5e58cd": 1792140455.6358776,
+  "c1cba164a324": 1793116270.8527167,
   "c1ee0c25a30d": 1792140455.0289285,
   "c1fd74c901f3": 1792582364.6117935,
   "c20bbe944bc5": 1792679916.1630077,
@@ -4795,6 +4823,7 @@
   "ecb2b42e7823": 1792483706.1863785,
   "ecca7d0cf56c": 1792140448.224895,
   "eccf533edf11": 1792167237.6133509,
+  "ed0e6aa94615": 1793116321.1157546,
   "ed1e85a55ca5": 1793079157.9042044,
   "ed2fe6f93d45": 1792580158.3805008,
   "ed3baed6d6aa": 1792140455.0717516,
