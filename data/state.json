@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793128059
+   "ok": 1793130521
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793128068
+   "ok": 1793130530
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793128069
+   "ok": 1793130530
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793128054
+   "ok": 1793130512
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793128056
+   "ok": 1793130514
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793128058
+   "ok": 1793130520
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793128059
+   "err_ts": 1793130521
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793128059
+   "ok": 1793130521
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793128041
+   "ok": 1793130507
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793128041
+   "ok": 1793130508
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793128061
+   "ok": 1793130523
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793128068
+   "ok": 1793130530
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793128064
+   "ok": 1793130530
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793128064
+   "ok": 1793130526
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793128030
+   "ok": 1793130505
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793128057
+   "ok": 1793130519
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793128059
+   "ok": 1793130521
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793128056,
-   "ok": 1793124956
+   "err": "",
+   "ok": 1793130518
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793128064
+   "ok": 1793130526
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793128071
+   "ok": 1793130532
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793128070
+   "ok": 1793130531
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793128075
+   "ok": 1793130533
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793128072
+   "ok": 1793130533
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793128079
+   "ok": 1793130534
   }
  },
  "heartbeat": "2026-10-27",
@@ -3164,6 +3163,26 @@
    "ts": 1792757330.369579,
    "why": "новый трек, инди-поп, русскоязычная артистка"
   },
+  "ec2d1dfb7c71": {
+   "also": [],
+   "artist": "Chvrches",
+   "fit": 4,
+   "id": "ec2d1dfb7c71",
+   "kind": "single",
+   "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 166,
+   "release": "Overthinker",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Chvrches – “Overthinker” appeared first on Stereogum .",
+   "summary_ru": "Chvrches выпустили новый сингл «Overthinker». Запись publikуется в рубрике New Music на Stereogum, подробностей о лейбле и альбоме в тексте нет.",
+   "title": "Chvrches – “Overthinker”",
+   "ts": 1793130507.3931491,
+   "why": "Новый сингл синти-поп группы, близкой к жанрам 3L"
+  },
   "ee0bd1bc4837": {
    "also": [
     {
@@ -3634,6 +3653,7 @@
   "223ce2176870": 1792515294.4774737,
   "224c16a35330": 1792580149.6238112,
   "2285d94f63ca": 1792140455.0289195,
+  "22a0efb303fe": 1793130514.32535,
   "22b798924489": 1792140454.9418402,
   "22f05a25215c": 1792508249.788675,
   "23252622723e": 1792144566.4577415,
@@ -4358,6 +4378,7 @@
   "911e2eab8ed1": 1792140449.5165522,
   "91422c082c9e": 1792705169.8072422,
   "915f1c436e4b": 1793128075.928829,
+  "9174ede8a45e": 1793130526.6867137,
   "91ae5eb9645b": 1792499765.2437646,
   "91d6ebfd34d5": 1792140455.0289183,
   "921e7c63d477": 1793116299.1211796,
@@ -4972,6 +4993,7 @@
   "ebc4e7fb249b": 1793119457.1854331,
   "ebc70a434a19": 1792757327.9411554,
   "ebee8f8db8cd": 1793057325.1923747,
+  "ec2d1dfb7c71": 1793130505.935498,
   "ec872ecdb412": 1793113292.271829,
   "eca6af54de70": 1792620887.0254629,
   "ecb2b42e7823": 1792483706.1863785,
