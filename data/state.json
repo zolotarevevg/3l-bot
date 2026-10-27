@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793116310
+   "ok": 1793119508
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793116319
+   "ok": 1793119517
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793116320
+   "ok": 1793119517
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793116295
+   "ok": 1793119443
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793116303
+   "ok": 1793119447
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793116309
+   "ok": 1793119449
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793116310
+   "err_ts": 1793119508
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793116310
+   "ok": 1793119508
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793116280
+   "ok": 1793119431
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793116281
+   "ok": 1793119432
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793116312
+   "ok": 1793119510
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793116319
+   "ok": 1793119516
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793116319
+   "ok": 1793119516
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793116316
+   "ok": 1793119513
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793116270
+   "ok": 1793119422
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793116304
+   "ok": 1793119448
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793116310
+   "ok": 1793119499
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793116303,
-   "ok": 1793113281
+   "err": "",
+   "ok": 1793119448
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793116316
+   "ok": 1793119513
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793116323
+   "ok": 1793119521
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793116321
+   "ok": 1793119519
   },
   "Родной звук (TG)": {
-   "count": 10,
+   "count": 11,
    "err": "",
-   "ok": 1793116324
+   "ok": 1793119523
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793116324
+   "ok": 1793119522
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793116325
+   "ok": 1793119526
   }
  },
  "heartbeat": "2026-10-27",
@@ -1421,7 +1420,12 @@
    "why": "клубный хаус-электроника, вне жанров 3L"
   },
   "52c2c4a5f816": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/the-healing-power-of-horses-8725-xstick-xstick-6fe9cef923",
+     "source": "Dork"
+    }
+   ],
    "artist": "The Healing Power Of Horses",
    "fit": 3,
    "id": "52c2c4a5f816",
@@ -1738,6 +1742,26 @@
    "title": "Westerman Announces New EP Reception: Hear “L/C”",
    "ts": 1792682258.5014818,
    "why": "инди-артист, новый EP и первый трек"
+  },
+  "6bc5cae5d68d": {
+   "also": [],
+   "artist": "Peter Gabriel",
+   "fit": 4,
+   "id": "6bc5cae5d68d",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/peter_gabriel_shares_new_song_who_are_we_talking_to",
+   "listen": {},
+   "major": false,
+   "msg_id": 163,
+   "release": "Who Are We Talking To?",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Peter Gabriel is releasing a new album, o/i, on November 27 via Real World. Now he has shared its latest single, “Who Are We Talking To?”",
+   "summary_ru": "Питер Гэбриел выпустил новый сингл «Who Are We Talking To?» с предстоящего альбома o/i, который выйдет 27 ноября на лейбле Real World. Это уже третий сингл с пластинки.",
+   "title": "Peter Gabriel Shares New Song “Who Are We Talking To?”",
+   "ts": 1793119501.0387833,
+   "why": "новый сингл и анонс альбома, но не инди-жанр 3L"
   },
   "7016723a5dea": {
    "also": [],
@@ -2150,6 +2174,26 @@
    "ts": 1792752830.5670772,
    "why": "новый сингл инди-группы, близкий к жанрам 3L"
   },
+  "9eec6f2b9d37": {
+   "also": [],
+   "artist": "Commitment",
+   "fit": 2,
+   "id": "9eec6f2b9d37",
+   "kind": "video",
+   "link": "https://readdork.com/news/commitment-std-send-the-deposit-video-ca4f90af8e",
+   "listen": {},
+   "major": false,
+   "msg_id": 162,
+   "release": "STD (Send The Deposit)",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Philadelphia hardcore band Commitment’s new video accompanies a track from their debut album ‘Fear Of’, out now via Get Better Records.",
+   "summary_ru": "Филадельфийская хардкор-группа Commitment выпустила клип на трек «STD (Send The Deposit)» с дебютного альбома «Fear Of», вышедшего на лейбле Get Better Records.",
+   "title": "Philadelphia hardcore band Commitment have shared a new video for ‘STD (Send The Deposit)’",
+   "ts": 1793119472.0084434,
+   "why": "хардкор, не любимый артист 3L"
+  },
   "9f62f37de7c7": {
    "also": [],
    "artist": "Shovel Dance Collective",
@@ -2405,7 +2449,12 @@
    "why": "анонс альбома известной инди-группы, первый без Дроззда"
   },
   "b0093ae695bb": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/factory-floor-one-trip-album-announcement-fa55344e44",
+     "source": "Dork"
+    }
+   ],
    "artist": "Factory Floor",
    "fit": 4,
    "id": "b0093ae695bb",
@@ -3059,6 +3108,26 @@
    "ts": 1792664269.2318585,
    "why": "новый сингл и анонс концерта, инди-группа"
   },
+  "ebc4e7fb249b": {
+   "also": [],
+   "artist": "Public Works",
+   "fit": 2,
+   "id": "ebc4e7fb249b",
+   "kind": "ep",
+   "link": "https://readdork.com/news/public-works-forklift-certified-boy-scout-139a4f1c10",
+   "listen": {},
+   "major": false,
+   "msg_id": 161,
+   "release": "Forklift Certified",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "New Jersey pop-punk project Public Works will release the Hopeless Records EP on 26th February 2027, with its first single streaming now.",
+   "summary_ru": "Нью-Джерсийский проект Public Works анонсировал EP Forklift Certified, который выйдет 26 февраля 2027 года на лейбле Hopeless Records. Первый сингл уже доступен для стриминга.",
+   "title": "New Jersey singer-songwriter Public Works has announced his new EP ‘Forklift Certified’",
+   "ts": 1793119459.8633387,
+   "why": "пост-панк-поп-панк, вне жанров 3L, без громкого имени"
+  },
   "ebc70a434a19": {
    "also": [],
    "artist": "Ксения Минаева",
@@ -3211,6 +3280,26 @@
    "ts": 1792620897.3886082,
    "why": "любимая группа вышла с новым живым альбомом"
   },
+  "fac47a1ef833": {
+   "also": [],
+   "artist": "Rachel Cribby",
+   "fit": 4,
+   "id": "fac47a1ef833",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/premiere_rachel_cribby_shares_new_single_frankenmuth_mi",
+   "listen": {},
+   "major": false,
+   "msg_id": 164,
+   "release": "Frankenmuth, MI",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Canadian indie singer/songwriter Rachel Cribby has a talent for shimmery alt pop melodicism and heart-on-sleeve singer/songwriter storytelling, woven together with a sardonic wit pulled straight from ‘90s indie touchstones. Cribby debuted with a 2018 EP, The Blue Red Green EP, and in 2020 she followed with a sophomore EP, Fragile/Fine. Next month, she is set to share her upcoming debut album, I Can’t Wait To Forget This Later, which she announced with the record’s lead single, “Rich Boy Luck.”",
+   "summary_ru": "Канадская инди-исполнительница Рэйчел Криббі выпустила новый сингл «Frankenmuth, MI». Дебютный альбом I Can't Wait To Forget This Later выйдет в следующем месяце, а лид-синглом к нему стал «Rich Boy Luck».",
+   "title": "Premiere: Rachel Cribby Shares New Single “Frankenmuth, MI”",
+   "ts": 1793119504.4933093,
+   "why": "Инди-поп с нового сингла и анонс дебютного альбома"
+  },
   "fad9333cf136": {
    "also": [
     {
@@ -3285,6 +3374,7 @@
   "00245cd66a80": 1793009217.8110826,
   "0075f9885681": 1792524750.0565996,
   "00cf68ed866d": 1792517972.206484,
+  "00e57e0aa9bb": 1793119475.4246316,
   "010a3ef80891": 1792757324.7685926,
   "010d74688fcd": 1792140449.7097287,
   "010e4a30c982": 1792140449.516552,
@@ -3348,6 +3438,7 @@
   "088b188de08f": 1793096037.095477,
   "08930dde7406": 1792140460.0458224,
   "09116be56fa6": 1792165233.7399683,
+  "093422c5270a": 1793119513.4971685,
   "096890b7e87f": 1793098768.46846,
   "0972ec576960": 1792140448.224892,
   "09883f80b47f": 1792768208.4869514,
@@ -3395,6 +3486,7 @@
   "108dca2850ed": 1792158595.9177806,
   "10d23fe96bcd": 1792575293.4916205,
   "10da66a9a9f1": 1793009246.3206768,
+  "110e46001679": 1793119427.7286375,
   "112d13450b08": 1793067458.6275024,
   "11329e7ea74a": 1793113308.2905715,
   "116f5fd6222e": 1792490268.9391212,
@@ -3586,6 +3678,7 @@
   "311e05ac56c5": 1793106872.0544724,
   "3128c6ed83d6": 1792529035.3777864,
   "31826350416f": 1793011793.5925248,
+  "31862f5e48fa": 1793119464.5097456,
   "318b397810a2": 1792343409.0080278,
   "319b38ef4dd6": 1792425021.739633,
   "31a7393a5421": 1792512972.4273078,
@@ -3623,6 +3716,7 @@
   "360164955324": 1792140455.9615898,
   "3646f9c90cd8": 1792768205.0424738,
   "36529816ec3a": 1792765227.525167,
+  "365e6a6760ef": 1793119488.137685,
   "366954fce984": 1792602871.4797435,
   "36b09dba770f": 1793106902.5121815,
   "36b5988e8268": 1792156035.7558544,
@@ -3943,6 +4037,7 @@
   "63749dc8dd87": 1792140446.1809075,
   "637df2591771": 1792580162.321164,
   "6382cf98c209": 1793101051.2525415,
+  "638d0433fc54": 1793119424.874407,
   "63a0c56a032d": 1792582341.4085298,
   "63e736abbad6": 1792151149.0594196,
   "64672d2d90b5": 1792146689.3993351,
@@ -3992,6 +4087,7 @@
   "6b891583dbe7": 1792671191.7447448,
   "6b8b10122807": 1792580174.278773,
   "6bc22bb6b657": 1792682255.320585,
+  "6bc5cae5d68d": 1793119499.749883,
   "6c02cdbec83d": 1792487962.0225365,
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
@@ -4086,6 +4182,7 @@
   "7c006d277346": 1792140455.6358821,
   "7c36035dffc8": 1792605145.6038854,
   "7c8acf263072": 1793032295.0793715,
+  "7c9189c1ff71": 1793119467.5363955,
   "7d65c438337f": 1792140455.0289216,
   "7db93ca61f13": 1792582357.4732285,
   "7df1bf3e67fe": 1792140448.2248952,
@@ -4123,6 +4220,7 @@
   "815f6d00a069": 1792332791.0701985,
   "8192277a3483": 1792424997.4105656,
   "81c6fce92d76": 1792140449.5165467,
+  "81d919e990c0": 1793119484.8464735,
   "81e3f8417f59": 1792140447.2519567,
   "81f26f9bedb6": 1792140455.9615898,
   "8216fa57e9c3": 1792140419.3187888,
@@ -4172,6 +4270,7 @@
   "89f40bc53adc": 1792140456.384752,
   "8a1541a9d297": 1792422140.4139302,
   "8a227d049bed": 1792577667.6337144,
+  "8a408e6752f7": 1793119519.6023667,
   "8a618176ff38": 1793098756.9630597,
   "8a807024f635": 1793096042.3126154,
   "8a8c5e253d03": 1792770675.0797424,
@@ -4181,6 +4280,7 @@
   "8b66ee660951": 1792443276.4357345,
   "8b7baac588c3": 1793009243.1277936,
   "8b9537ee25c2": 1792429128.772528,
+  "8b9d080ed4b3": 1793119453.344037,
   "8bb3866c80a3": 1792734848.6874855,
   "8be1bd649d4e": 1792668770.4901855,
   "8be41834658d": 1793057314.5611968,
@@ -4192,6 +4292,7 @@
   "8c6d212fb010": 1792490261.0778842,
   "8cc6c2138b72": 1792953667.7074373,
   "8cf4f6337609": 1792140449.5165527,
+  "8cf9fea1350c": 1793119449.9664996,
   "8d0521369b11": 1792917518.0353227,
   "8d07997f4563": 1793023047.4053433,
   "8d21ae1e7953": 1792580164.9990478,
@@ -4265,6 +4366,7 @@
   "99535c47c6bd": 1792140446.1809103,
   "99585ee436d1": 1792140419.4762278,
   "9974ec4b2351": 1792408646.2620907,
+  "99a3f6272085": 1793119491.8475072,
   "99b8b40666b2": 1792580181.8582687,
   "99c9b82bf452": 1792156053.0010424,
   "99ca80f6c202": 1792140448.2248926,
@@ -4296,6 +4398,7 @@
   "9e6850c5d75a": 1792752828.0822506,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
+  "9eec6f2b9d37": 1793119470.1306322,
   "9f04ca99ea73": 1792142259.7923665,
   "9f0aff8eb457": 1792406873.6734486,
   "9f206b920ab3": 1792413729.4807835,
@@ -4352,6 +4455,7 @@
   "a6b3b5ceeb4e": 1792575325.4105005,
   "a6e37b9cbe2e": 1793098759.6013181,
   "a70eedef66de": 1792140460.0458221,
+  "a7188e386807": 1793119472.6375623,
   "a7438d7ebcb6": 1792167240.5355127,
   "a78420dc9d7a": 1792140455.961586,
   "a7928c587097": 1792494668.2631805,
@@ -4597,6 +4701,7 @@
   "cc68be72536e": 1793035453.7857854,
   "cc6d35c6c3dd": 1792529028.0492203,
   "ccab8da42246": 1792140449.5165503,
+  "ccb800305f33": 1793119505.1438544,
   "ccf89f728ff9": 1792140419.66491,
   "ccfb8c581fea": 1792140446.18091,
   "cd1713d62859": 1792404581.0276642,
@@ -4683,6 +4788,8 @@
   "d9c58edf9bcf": 1793041199.8635693,
   "d9e2fcb3252e": 1792743037.141179,
   "d9f6140001ae": 1792836511.7867217,
+  "da30dd3538de": 1793119422.2750673,
+  "da3d9b722ea3": 1793119480.8823264,
   "da49791167ae": 1793103446.15862,
   "da94610050cb": 1792773206.547934,
   "da9d1c58b355": 1792140455.0717518,
@@ -4729,6 +4836,7 @@
   "e0ec73003004": 1792734860.7858434,
   "e0f75141e683": 1792140419.3187861,
   "e11c9ced58f9": 1792140455.9615917,
+  "e123c46b8016": 1793119443.2271948,
   "e1355601b294": 1792478069.0786424,
   "e1370b5fd45d": 1792580141.6037438,
   "e158f49ebb3f": 1792940259.3200576,
@@ -4784,6 +4892,7 @@
   "e62bce1c7bb3": 1792487989.2660182,
   "e64bfe4c2c75": 1792140449.8447442,
   "e67c156bd693": 1792515312.985797,
+  "e6defe15d0b1": 1793119495.3758433,
   "e6edcec16fd8": 1792140461.4665887,
   "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
@@ -4805,6 +4914,7 @@
   "ea5529352777": 1792140455.0717494,
   "ea6e10489857": 1792497209.2803423,
   "ea6f8ddee7c2": 1792140449.7097304,
+  "ea7e3f410513": 1793119478.2132251,
   "ea93bbaa3497": 1793067461.7998238,
   "eaa4bbe63f26": 1792750452.5662713,
   "eab83437a92c": 1792156046.6465232,
@@ -4816,6 +4926,7 @@
   "ebb475562801": 1792487980.9764705,
   "ebbf8185a798": 1793085170.8740032,
   "ebbfb715de74": 1793069894.2275267,
+  "ebc4e7fb249b": 1793119457.1854331,
   "ebc70a434a19": 1792757327.9411554,
   "ebee8f8db8cd": 1793057325.1923747,
   "ec872ecdb412": 1793113292.271829,
@@ -4842,6 +4953,7 @@
   "efc657e40fed": 1792582357.4732265,
   "efd5d3fe12c6": 1793101067.5991943,
   "efdf1404f9cc": 1793032306.9648721,
+  "eff932989ad0": 1793119523.2564116,
   "f002bf1dd72e": 1792593130.6215792,
   "f02471f00708": 1793110251.102331,
   "f03caad4341c": 1792512932.7272036,
@@ -4905,9 +5017,11 @@
   "f9edd2b79ecf": 1792703207.1909082,
   "faaab1470297": 1792140455.028921,
   "fab4d48cdb25": 1792381262.0103343,
+  "fac47a1ef833": 1793119501.7612114,
   "fad22ab91ba4": 1793110247.8105435,
   "fad9333cf136": 1792620892.6378245,
   "fae188466bd8": 1792140455.9615874,
+  "fb156cb99ebf": 1793119460.5704534,
   "fb5014dccd84": 1792940253.0453465,
   "fb56c47112c2": 1792140455.9615815,
   "fb715baab7b9": 1792674634.706975,
