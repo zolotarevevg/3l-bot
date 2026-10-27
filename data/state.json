@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793122215
+   "ok": 1793124966
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793122221
+   "ok": 1793124975
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793122222
+   "ok": 1793124975
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793122207
+   "ok": 1793124954
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793122208
+   "ok": 1793124956
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793122214
+   "ok": 1793124958
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793122216
+   "err_ts": 1793124967
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793122215
+   "ok": 1793124966
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793122197
+   "ok": 1793124948
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793122201
+   "ok": 1793124949
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793122217
+   "ok": 1793124968
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793122221
+   "ok": 1793124975
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793122221
+   "ok": 1793124975
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793122221
+   "ok": 1793124971
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793122193
+   "ok": 1793124943
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793122213
+   "ok": 1793124957
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793122215
+   "ok": 1793124966
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793122212
+   "ok": 1793124956
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793122221
+   "ok": 1793124971
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793122224
+   "ok": 1793124978
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793122223
+   "ok": 1793124977
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793122225
+   "ok": 1793124979
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793122224
+   "ok": 1793124979
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793122230
+   "ok": 1793124980
   }
  },
  "heartbeat": "2026-10-27",
@@ -2453,6 +2453,10 @@
     {
      "link": "https://readdork.com/news/factory-floor-one-trip-album-announcement-fa55344e44",
      "source": "Dork"
+    },
+    {
+     "link": "https://stereogum.com/2515714/factory-floor-announce-first-new-album-in-10-years-one-trip-hear-two-songs/music/",
+     "source": "Stereogum"
     }
    ],
    "artist": "Factory Floor",
@@ -3417,6 +3421,7 @@
   "05a2df10cba0": 1792727906.6156156,
   "05b820b582e5": 1792411097.326417,
   "05c74dc89c99": 1792140449.844748,
+  "05c95c60b65f": 1793124971.6988037,
   "05ecdda2dedc": 1792173631.7756095,
   "062db0339eb9": 1792768193.2685616,
   "0631a73a3f8c": 1792580181.858272,
@@ -3612,6 +3617,7 @@
   "23b491ed0b82": 1792140455.0717523,
   "23b64343ec2e": 1793101086.7717955,
   "23b6f2f12dba": 1792140447.2519567,
+  "23c74fd7516f": 1793124962.1644003,
   "23f4c5f747ef": 1793069897.2291517,
   "241748841404": 1792140455.0717545,
   "24441bd5f79e": 1792140455.6358824,
@@ -4470,6 +4476,7 @@
   "a8b90069f2cd": 1792664263.9461608,
   "a9558be2e824": 1792140449.844752,
   "a9a1a413c8fc": 1793069900.1496072,
+  "a9ec213ded68": 1793124943.8972585,
   "aa5a3d93093a": 1792440703.3610823,
   "aa8b54134cb2": 1792140446.1809144,
   "aa976d0dcb23": 1792140449.7097301,
@@ -5019,6 +5026,7 @@
   "f97ac7167f48": 1793088306.668876,
   "f9d890b2fcb3": 1792620895.995453,
   "f9edd2b79ecf": 1792703207.1909082,
+  "fa4364552533": 1793124958.5317624,
   "faaab1470297": 1792140455.028921,
   "fab4d48cdb25": 1792381262.0103343,
   "fac47a1ef833": 1793119501.7612114,
