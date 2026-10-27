@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793135257
+   "ok": 1793137517
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793135266
+   "ok": 1793137523
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793135266
+   "ok": 1793137523
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793135252
+   "ok": 1793137485
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793135253
+   "ok": 1793137487
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793135256
+   "ok": 1793137488
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793135257
+   "err_ts": 1793137517
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793135257
+   "ok": 1793137517
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793135246
+   "ok": 1793137473
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793135246
+   "ok": 1793137474
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793135259
+   "ok": 1793137519
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793135266
+   "ok": 1793137522
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793135266
+   "ok": 1793137522
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793135262
+   "ok": 1793137522
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793135241
+   "ok": 1793137463
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793135255
+   "ok": 1793137488
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793135257
+   "ok": 1793137513
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793135254
+   "ok": 1793137487
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793135262
+   "ok": 1793137522
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793135268
+   "ok": 1793137525
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793135268
+   "ok": 1793137524
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793135269
+   "ok": 1793137527
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793135269
+   "ok": 1793137526
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793135270
+   "ok": 1793137527
   }
  },
  "heartbeat": "2026-10-27",
@@ -918,6 +918,26 @@
    "title": "Skepta Shares ‘Pandora’s Box’, Confirms The Cause Takeover",
    "ts": 1792768191.012963,
    "why": "грайм/рэп, мимо вкуса 3L"
+  },
+  "2f4081e0ca44": {
+   "also": [],
+   "artist": "keshi",
+   "fit": 3,
+   "id": "2f4081e0ca44",
+   "kind": "single",
+   "link": "https://readdork.com/news/keshi-miss-me-single-e6bb9eec5c",
+   "listen": {},
+   "major": false,
+   "msg_id": 169,
+   "release": "MISS ME",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "keshi’s first new music since 2025, ‘MISS ME’ arrives with a visualiser and credits boylife, Nick Velez and Justin Tranter.",
+   "summary_ru": "Кеши выпустил новый сингл MISS ME, свой первый новый материал с 2025 года. Трек вышел с визуалайзером, над ним работали boylife, Nick Velez и Justin Tranter.",
+   "title": "Alt-R&B artist keshi has kicked off a new chapter with ‘MISS ME’",
+   "ts": 1793137507.645045,
+   "why": "Alt-R&B, соседний жанр, малоизвестный для архива"
   },
   "3128c6ed83d6": {
    "also": [],
@@ -1909,6 +1929,26 @@
    "ts": 1792703188.3050048,
    "why": "хип-хоп, не любимый артист 3L"
   },
+  "882da6b8f8ed": {
+   "also": [],
+   "artist": "Dove Cameron",
+   "fit": 2,
+   "id": "882da6b8f8ed",
+   "kind": "single",
+   "link": "https://readdork.com/news/dove-cameron-do-the-math-final-girl-8fb622fa01",
+   "listen": {},
+   "major": false,
+   "msg_id": 170,
+   "release": "do the math",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Dove Cameron’s new single ‘do the math’ is out now, with debut album ‘FINAL GIRL’ set for release on 6th November.",
+   "summary_ru": "Дав Кэмерон выпустила новый сингл do the math. Её дебютный альбом FINAL GIRL выйдет 6 ноября.",
+   "title": "Dove Cameron is counting down to debut album ‘FINAL GIRL’ with new single ‘do the math’",
+   "ts": 1793137512.0603418,
+   "why": "мейнстрим-поп, вне жанров 3L"
+  },
   "8a1541a9d297": {
    "also": [],
    "artist": "OK Go",
@@ -2319,6 +2359,26 @@
    "ts": 1793057323.0003483,
    "why": "соседний экспериментальный поп, новая версия трека"
   },
+  "acab821bcc01": {
+   "also": [],
+   "artist": "Eric Harm",
+   "fit": 4,
+   "id": "acab821bcc01",
+   "kind": "album",
+   "link": "https://readdork.com/news/eric-harm-all-the-wrong-moves-debut-solo-album-26a1eb1a9c",
+   "listen": {},
+   "major": false,
+   "msg_id": 168,
+   "release": "All The Wrong Moves",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Titus Andronicus drummer’s first solo album, produced by Patrick Stickles, arrives on 6th November.",
+   "summary_ru": "Барабанщик Titus Andronicus Эрик Харм анонсировал дебютный сольный альбом All The Wrong Moves. Продюсер - Патрик Стиклз, выход 6 ноября.",
+   "title": "Titus Andronicus drummer Eric Harm has announced his debut solo album ‘All The Wrong Moves’",
+   "ts": 1793137504.2806067,
+   "why": "анонс альбома, инди-рок близкий к Titus Andronicus"
+  },
   "add5be8f31ed": {
    "also": [],
    "artist": "Heidi Curtis",
@@ -2586,6 +2646,26 @@
    "title": "FUET! Bounce Back With New Single ‘It’s All A Show’",
    "ts": 1792169707.2205467,
    "why": "хардкор, не жанр 3L, новый сингл"
+  },
+  "b701cd8d36f3": {
+   "also": [],
+   "artist": "Stephen Steinbrink",
+   "fit": 3,
+   "id": "b701cd8d36f3",
+   "kind": "single",
+   "link": "https://stereogum.com/2515752/stephen-steinbrink-im-a-swimming-pool-in-a-split-mirror/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 167,
+   "release": "I'm A Swimming Pool",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Stephen Steinbrink – “I’m A Swimming Pool” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый трек Стивена Штайнбринка «I'm A Swimming Pool» в рубрике New Music. Больше деталей в записи нет.",
+   "title": "Stephen Steinbrink – “I’m A Swimming Pool”",
+   "ts": 1793137466.1796596,
+   "why": "новый трек малоизвестного артиста, жанр неясен"
   },
   "bad0c207d598": {
    "also": [
@@ -3723,6 +3803,7 @@
   "2efdfead27ce": 1792404623.5460773,
   "2f2ca8ed0dba": 1792765262.7263696,
   "2f38c4fe4173": 1792674656.5846965,
+  "2f4081e0ca44": 1793137504.8159766,
   "2f88a299e6cb": 1792140449.5165534,
   "2fbb999d28db": 1792595636.3501866,
   "2fe6f2b1fb03": 1792140455.0717504,
@@ -4212,6 +4293,7 @@
   "759679035db5": 1792177974.4335725,
   "759d71760200": 1792580146.8202639,
   "75e263cff6cd": 1792140456.3847508,
+  "7614eeaa2e56": 1793137470.1674488,
   "761513d062d8": 1792140455.9615877,
   "7616e2b960c9": 1792160449.239621,
   "7620d513c748": 1793101045.5974371,
@@ -4320,6 +4402,7 @@
   "87e91b7b92ec": 1792140455.028919,
   "87ec679f47d9": 1792490264.2915874,
   "8808f8e9a0bc": 1792140446.1809156,
+  "882da6b8f8ed": 1793137508.2125065,
   "883979854234": 1792140419.318793,
   "8894dc168e32": 1792140462.2817543,
   "88a6a7237438": 1792821144.8240077,
@@ -4376,6 +4459,7 @@
   "90622a89f112": 1792140455.0717528,
   "90852db80b8b": 1792350461.9935637,
   "90dd647b017e": 1792770671.9388318,
+  "911577dca3bf": 1793137498.451364,
   "911e2eab8ed1": 1792140449.5165522,
   "91422c082c9e": 1792705169.8072422,
   "915f1c436e4b": 1793128075.928829,
@@ -4541,6 +4625,7 @@
   "ab4fdf424071": 1792768214.861843,
   "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
+  "acab821bcc01": 1793137501.4543345,
   "acabb43d1aa3": 1792140456.384748,
   "acb106477ad4": 1792770669.0576847,
   "acf72b6c08c6": 1792148969.8518102,
@@ -4596,6 +4681,7 @@
   "b2627c63c8f9": 1792494639.6479814,
   "b26830ffea58": 1792553389.4700632,
   "b26a0c305fe1": 1792140448.2248852,
+  "b27f8842cd87": 1793137495.1878636,
   "b2912b8ccea4": 1792148941.4395857,
   "b29bec5ff01f": 1792703200.5835848,
   "b2d9f24e79cb": 1792760017.0096385,
@@ -4612,6 +4698,7 @@
   "b4b5f098b367": 1792620905.1703417,
   "b50932936454": 1793101049.5799546,
   "b54dc7cce185": 1792408639.112622,
+  "b5556f67efe4": 1793137513.843012,
   "b559c3cf24a5": 1793101043.3746274,
   "b56fc00fb5fa": 1792575299.3751597,
   "b5827bfee9d0": 1793032318.4004645,
@@ -4622,6 +4709,7 @@
   "b690a6decf0e": 1792775617.8388495,
   "b6bae459f1a8": 1792140455.6358774,
   "b6c162ccb736": 1792582357.4732273,
+  "b701cd8d36f3": 1793137463.6668653,
   "b729f7a91a76": 1792737333.4062328,
   "b74758bdad7b": 1792492313.3335397,
   "b754f3b9945d": 1792140451.9265769,
@@ -4667,6 +4755,7 @@
   "be4b471fd815": 1792584717.2085958,
   "be64c4cebb51": 1792689127.5544784,
   "be8fd4603cef": 1793113304.980571,
+  "beac5526cdcc": 1793137466.7868047,
   "bf133f3761d8": 1792490269.8426087,
   "bf1ca7f7dcc4": 1792750429.0619411,
   "bf3e427f3bc3": 1792397248.1169508,
@@ -4730,6 +4819,7 @@
   "c63fc5ef7d5f": 1792140449.5165498,
   "c64d2b5ef670": 1792140449.5165548,
   "c64e0e9bd89e": 1792140449.5165548,
+  "c6520263883c": 1793137488.8818686,
   "c66ba6ccaa43": 1792773216.7256842,
   "c6724e377520": 1792768171.8850412,
   "c67c09ea980b": 1792140460.0458233,
@@ -4901,6 +4991,7 @@
   "e0ec73003004": 1792734860.7858434,
   "e0f75141e683": 1792140419.3187861,
   "e11c9ced58f9": 1792140455.9615917,
+  "e11d4e9214cc": 1793137492.5599978,
   "e123c46b8016": 1793119443.2271948,
   "e1355601b294": 1792478069.0786424,
   "e1370b5fd45d": 1792580141.6037438,
