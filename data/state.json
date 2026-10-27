@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793093192
+   "ok": 1793096048
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793093198
+   "ok": 1793096054
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793093199
+   "ok": 1793096054
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793093184
+   "ok": 1793096031
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793093189
+   "ok": 1793096041
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793093191
+   "ok": 1793096046
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793093193
+   "err_ts": 1793096048
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793093193
+   "ok": 1793096048
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793093171
+   "ok": 1793096023
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793093171
+   "ok": 1793096026
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793093194
+   "ok": 1793096050
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793093198
+   "ok": 1793096053
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793093198
+   "ok": 1793096053
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793093197
+   "ok": 1793096053
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793093170
+   "ok": 1793096022
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793093190
+   "ok": 1793096042
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793093192
+   "ok": 1793096047
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793093189
+   "ok": 1793096041
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793093197
+   "ok": 1793096053
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793093201
+   "ok": 1793096056
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793093200
+   "ok": 1793096055
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793093202
+   "ok": 1793096058
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793093202
+   "ok": 1793096057
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793093203
+   "ok": 1793096058
   }
  },
  "heartbeat": "2026-10-27",
@@ -2698,6 +2698,26 @@
    "ts": 1792600461.4035573,
    "why": "новый сингл в жанрах 3L, малоизвестный артист"
   },
+  "d8d50d005740": {
+   "also": [],
+   "artist": "Glasvegas",
+   "fit": 4,
+   "id": "d8d50d005740",
+   "kind": "single",
+   "link": "https://www.nme.com/news/music/glasgvegas-interview-james-allen-deguello-airy-fairy-tour-3974321?utm_source=rss&utm_medium=rss&utm_campaign=glasgvegas-interview-james-allen-deguello-airy-fairy-tour",
+   "listen": {},
+   "major": true,
+   "msg_id": 152,
+   "release": "Degüello",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Glasvegas have returned with their first new music in six years, sharing the anthemic ‘Degüello’ from their “wiser” fifth album ‘Airy Fairy’. Check out all the details below along with our exclusive interview with frontman James Allan. Arriving on Friday April 2 before the Scottish indie veterans kick off an 11-date UK and Ireland tour, the “wiser” ‘Airy Fairy’ was written as a reaction to the frustrations experienced making 2021 predecessor ‘ Godspeed ‘. Capturing that sense of urgency is the epic launch single ‘Degüello’ (Spanish for ‘cutthroat’) – bittersweet in a classic Glasvegas spirit. “I first heard the word on an old film on TV, but I was using it more like a blanket expression for things that aren’t so good in my personality: my bad temper, a bad mood,” Allan told NME . “But the song is my elaborate plan of being something better. I’m setting off on a quest of trying to be a colourful rainbow…” He continued: “It’s a funny one, because this album seems to have everyone split on what their favourite songs are. Not only within the band, but also with our families, the record label and those who’ve heard the album. And several songs were floated as the first single, which I think is a good sign. “I think Rab [Allan, guitar] suggested ‘Degüello’ and he is the one we follow with decisions like this. He often chooses the live setlist. He fancies himself as a man who knows how to please an audience.” Asked what the song tells us about the rest of the record, Allen shared: “I’m pretty terrible when it comes to explaining where the lyrics and melodies come from. They seem to just find their way to me, and it was the same with this album. I think these songs were meant to be in this moment, on this album, and my duty is to weave them together and deliver them to the world, hoping that they connect to someone, somewhere. “I’d like our music to mean something to those who listen to it, and if even one person hears one song on this album and connects to it, then it is all worth it.” Check out the rest of our interview with Allan below, where the frontman also told us about finding happiness, what “airy fairy” means to him, the band’s legacy, and the current state of indie. NME : Hi James. How’s life these days? Where are the songs coming from? James Allan: “Hiya, life is really good. I’m living in Glasgow with my family and working on a lot of music. Feeling very lucky. “I think the songs come from the queue of thoughts that I carry around in my every day. It might not be the thing I’ve been thinking about the most but a thought that doesn’t stray too far. Then they seem to find their way into a song. A lot of times, someone might say something or I’ll see an image or hear a word that sounds sugary. I’d like to think these songs are just meant to be.” You’ve spoken of the frustrations of making last album ‘Godspeed’. How did they manifest and how did they inform your spirit and approach heading into this record? “There are some things I learned on th",
+   "summary_ru": "Glasvegas вернулись с первым новым материалом за шесть лет: ансамбль выпустил сингл «Degüello» с пятого альбома Airy Fairy, который выйдет 2 апреля. Перед выходом группа отправится в тур из 11 концертов по Великобритании и Ирландии.",
+   "title": "Glasgvegas return with the anthemic ‘Degüello’ and tell us about first album in six years, ‘Airy Fairy’",
+   "ts": 1793096025.4068785,
+   "why": "новый сингл и альбом инди-ветеранов нулевых"
+  },
   "dd3f21753fb0": {
    "also": [],
    "artist": "Disfear",
@@ -3161,6 +3181,7 @@
   "07cb58b1c7cd": 1792659598.5140214,
   "080148fa9533": 1792142256.046359,
   "08721f394527": 1792140449.8447485,
+  "088b188de08f": 1793096037.095477,
   "08930dde7406": 1792140460.0458224,
   "09116be56fa6": 1792165233.7399683,
   "0972ec576960": 1792140448.224892,
@@ -3397,6 +3418,7 @@
   "32cf6f6ea87b": 1792584674.2430356,
   "330a6c7e1556": 1792600420.1661782,
   "332cab8f75fc": 1793088299.2490263,
+  "337e73d54711": 1793096034.3622415,
   "33a5630dfe1f": 1792582304.1957128,
   "33cd4ff17de2": 1792140446.1809144,
   "33de0a385afa": 1792140455.0289197,
@@ -3952,6 +3974,7 @@
   "89f40bc53adc": 1792140456.384752,
   "8a1541a9d297": 1792422140.4139302,
   "8a227d049bed": 1792577667.6337144,
+  "8a807024f635": 1793096042.3126154,
   "8a8c5e253d03": 1792770675.0797424,
   "8b11ccb6e91a": 1792341719.9827135,
   "8b47fa9dd67f": 1792512960.8585916,
@@ -4070,6 +4093,7 @@
   "9f206b920ab3": 1792413729.4807835,
   "9f307390a3bd": 1792140449.70973,
   "9f62f37de7c7": 1792656835.1446323,
+  "9fb3120ba541": 1793096031.372419,
   "9fb7bf4b6ef1": 1792140448.2248917,
   "9fc236ec2ee8": 1792593151.1229913,
   "9fe9b851a3cb": 1792666562.5035055,
@@ -4429,6 +4453,7 @@
   "d889aaf06053": 1792338147.1760545,
   "d89d77a038b4": 1792580177.3079207,
   "d8ccfca4c4e6": 1792679977.704332,
+  "d8d50d005740": 1793096023.1451097,
   "d8fe7164610a": 1792140449.516551,
   "d9431e92890b": 1793029018.8354478,
   "d9a6be2ac275": 1792140455.0717518,
