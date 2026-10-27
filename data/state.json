@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793090936
+   "ok": 1793093192
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793090941
+   "ok": 1793093198
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793090941
+   "ok": 1793093199
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793090927
+   "ok": 1793093184
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793090929
+   "ok": 1793093189
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793090935
+   "ok": 1793093191
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793090936
+   "err_ts": 1793093193
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793090936
+   "ok": 1793093193
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793090922
+   "ok": 1793093171
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793090923
+   "ok": 1793093171
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793090937
+   "ok": 1793093194
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793090940
+   "ok": 1793093198
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793090940
+   "ok": 1793093198
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793090940
+   "ok": 1793093197
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793090922
+   "ok": 1793093170
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793090929
+   "ok": 1793093190
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793090936
+   "ok": 1793093192
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793090929,
-   "ok": 1793088291
+   "err": "",
+   "ok": 1793093189
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793090940
+   "ok": 1793093197
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793090943
+   "ok": 1793093201
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793090942
+   "ok": 1793093200
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793090944
+   "ok": 1793093202
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793090943
+   "ok": 1793093202
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793090945
+   "ok": 1793093203
   }
  },
  "heartbeat": "2026-10-27",
@@ -2300,6 +2299,10 @@
     {
      "link": "https://pitchfork.com/story/the-flaming-lips-reveal-a-album-the-teardrop-throbs/",
      "source": "Pitchfork News"
+    },
+    {
+     "link": "https://www.clashmusic.com/news/the-flaming-lips-announce-new-album-the-teardrop-throbs/",
+     "source": "Clash"
     }
    ],
    "artist": "The Flaming Lips",
@@ -4149,6 +4152,7 @@
   "ae173403ba5b": 1792752839.629208,
   "ae3d40572faf": 1792770692.26408,
   "ae5f1ca5bd81": 1792671181.6480582,
+  "ae7ada64d7c4": 1793093184.2654512,
   "ae8bd1ea10bb": 1792163006.5854099,
   "ae8fe55e1992": 1792777888.937337,
   "aea81a308773": 1792679971.9229736,
