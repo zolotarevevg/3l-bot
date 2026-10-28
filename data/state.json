@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793188223
+   "ok": 1793190609
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793188231
+   "ok": 1793190634
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793188231
+   "ok": 1793190634
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793188206
+   "ok": 1793190580
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793188211
+   "ok": 1793190587
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793188212
+   "ok": 1793190592
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793188223
+   "err_ts": 1793190613
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793188223
+   "ok": 1793190613
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793188194
+   "ok": 1793190562
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793188200
+   "ok": 1793190567
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793188225
+   "ok": 1793190615
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793188231
+   "ok": 1793190633
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793188231
+   "ok": 1793190633
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793188228
+   "ok": 1793190633
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793188194
+   "ok": 1793190562
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793188212
+   "ok": 1793190591
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793188222
+   "ok": 1793190609
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793188211,
-   "ok": 1793185447
+   "err": "",
+   "ok": 1793190591
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793188228
+   "ok": 1793190633
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793188235
+   "ok": 1793190638
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793188233
+   "ok": 1793190636
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793188241
+   "ok": 1793190640
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793188236
+   "ok": 1793190639
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793188242
+   "ok": 1793190641
   }
  },
  "heartbeat": "2026-10-28",
@@ -804,6 +803,26 @@
    "title": "Flora Hibberd has released her second album ‘Mammoth’",
    "ts": 1792411085.9913924,
    "why": "новый альбом, жанр в записи не указан"
+  },
+  "24b361939a3a": {
+   "also": [],
+   "artist": "heavyskint",
+   "fit": 4,
+   "id": "24b361939a3a",
+   "kind": "single",
+   "link": "https://readdork.com/news/heavyskint-headstone-single-cd9cd8e326",
+   "listen": {},
+   "major": false,
+   "msg_id": 181,
+   "release": "Headstone",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Glasgow quintet heavyskint have shared ‘Headstone’, a new single produced by Idlewild’s Rod Jones.",
+   "summary_ru": "Глазгомский квинтет heavyskint выпустил новый сингл «Headstone», продюсером которого выступил Род Джонс из Idlewild.",
+   "title": "Glasgow newcomers heavyskint have shared new single ‘Headstone’, produced by Idlewild’s Rod Jones",
+   "ts": 1793190595.8092752,
+   "why": "новый сингл инди-новичков из Глазго, продюсер Idlewild"
   },
   "253410846421": {
    "also": [],
@@ -1768,6 +1787,26 @@
    "title": "Lambrini Girls Share Double Single ‘The Basement’ + ‘Split’",
    "ts": 1792505491.3051677,
    "why": "панк, далёкий от жанров 3L"
+  },
+  "676f9fff4bc7": {
+   "also": [],
+   "artist": "Everything But The Girl",
+   "fit": 4,
+   "id": "676f9fff4bc7",
+   "kind": "single",
+   "link": "https://readdork.com/news/everything-but-the-girl-blue-reservoir-young-and-dumb-f8791d8853",
+   "listen": {},
+   "major": true,
+   "msg_id": 182,
+   "release": "Young and Dumb",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Tracey Thorn and Ben Watt’s eleventh studio album arrives in February, alongside new single ‘Young and Dumb’ and further intimate live dates.",
+   "summary_ru": "Everything But The Girl выпустили сингл «Young and Dumb» перед новым альбомом Blue Reservoir, который выйдет в феврале. Также анонсированы камерные живые концерты. Это одиннадцатый студийный альбом дуэта Трейси Торн и Бена Уотта.",
+   "title": "Everything But The Girl have shared ‘Young and Dumb’ ahead of their new album ‘Blue Reservoir’",
+   "ts": 1793190600.641692,
+   "why": "новый сингл и анонс альбома известной инди-группы"
   },
   "685784b10d06": {
    "also": [],
@@ -3729,6 +3768,7 @@
   "010e4a30c982": 1792140449.516552,
   "011b9f9ecda3": 1792140449.7097273,
   "011e32149a2d": 1792598304.9127445,
+  "0138438ada6b": 1793190587.7472665,
   "015e5f7450cc": 1792745838.2540324,
   "017689e5990b": 1792140461.4665873,
   "0199e5e62dc8": 1793035426.9141026,
@@ -3979,6 +4019,7 @@
   "241748841404": 1792140455.0717545,
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
+  "24b361939a3a": 1793190592.6304018,
   "24c027f6363f": 1792497218.886947,
   "253410846421": 1792151154.5883605,
   "254ec7e45d2a": 1793128033.5108755,
@@ -4009,6 +4050,7 @@
   "29f298d6e992": 1793167995.3592868,
   "2a1a413d0b45": 1792598289.8253508,
   "2a223c0091ca": 1792140455.0717492,
+  "2a70ddeb994f": 1793190583.209837,
   "2ab1acf5795f": 1792750413.5905566,
   "2ac6cfe269f3": 1792422106.1589015,
   "2afa8e117716": 1792140448.224893,
@@ -4371,6 +4413,7 @@
   "5b15cad29d11": 1792483699.979192,
   "5b8783d98819": 1792140455.028918,
   "5b9a05231268": 1793011780.3123038,
+  "5b9a54465eda": 1793190580.0785058,
   "5bc06264af51": 1792757299.177742,
   "5bc25d26d660": 1792140460.928744,
   "5bc707844c94": 1792508242.4379385,
@@ -4444,6 +4487,7 @@
   "667bb469c08d": 1793035450.9554324,
   "66c0ac97b729": 1792512935.726863,
   "66f38cdfd40b": 1793032315.2795055,
+  "676f9fff4bc7": 1793190599.1693876,
   "677c3d49b84f": 1792595642.7679071,
   "677cb8830c31": 1792588204.3411741,
   "67ca62b347d8": 1792729997.0659816,
@@ -4878,6 +4922,7 @@
   "aa8b54134cb2": 1792140446.1809144,
   "aa976d0dcb23": 1792140449.7097301,
   "aab2a006b165": 1792691502.452069,
+  "aae4b2c9ca08": 1793190605.3925457,
   "ab08411b8449": 1793132656.746765,
   "ab17e645739a": 1792679912.8879662,
   "ab3aa00856ee": 1793057320.3077612,
@@ -5047,6 +5092,7 @@
   "c1fd74c901f3": 1792582364.6117935,
   "c20bbe944bc5": 1792679916.1630077,
   "c21a2020aa01": 1792321839.846243,
+  "c249d2c72e78": 1793190636.0825276,
   "c299cadda15b": 1792140419.318787,
   "c2a380fb0467": 1792140454.941841,
   "c2a8f6dc9b26": 1792404596.1909275,
@@ -5169,6 +5215,7 @@
   "d25a928aa0df": 1792140447.2519505,
   "d2f593a9b87b": 1793113299.0273962,
   "d301e05295c7": 1792140455.9615839,
+  "d3116c614faa": 1793190596.4501712,
   "d333b84d164e": 1792682277.4035819,
   "d348c4297ea2": 1792770665.879305,
   "d3765b0001fb": 1792140455.0289202,
@@ -5431,10 +5478,12 @@
   "f75d23074d1a": 1792327572.7444234,
   "f76a4a368e82": 1792140446.1809144,
   "f77032706764": 1792757320.336966,
+  "f7ca69e41d64": 1793190562.9521356,
   "f7cc9b5a10b7": 1792425027.4257884,
   "f7f71bf130cd": 1793110199.5515742,
   "f80c23e5c4f2": 1792140446.1809046,
   "f8324baa0ff4": 1792156073.8070056,
+  "f85865a6d19b": 1793190609.8199177,
   "f882f73e3919": 1792140446.3270507,
   "f8843380c3ab": 1792607490.4558456,
   "f8973bf8bc59": 1792762697.9600704,
@@ -5484,6 +5533,7 @@
   "feb63a772433": 1792750409.5625513,
   "febd0470b7af": 1792171558.4127772,
   "ff057eb64b04": 1792698930.5437222,
+  "ff10ed1bd843": 1793190601.2115898,
   "ff2bf818309b": 1792140455.961585,
   "ff2f71dfc187": 1793101086.771793,
   "ff47b1f2c293": 1792394172.7264376,
