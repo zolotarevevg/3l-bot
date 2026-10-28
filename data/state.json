@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793165153
+   "ok": 1793167990
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793165162
+   "ok": 1793168004
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793165163
+   "ok": 1793168004
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793165149
+   "ok": 1793167985
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793165151
+   "ok": 1793167986
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793165152
+   "ok": 1793167989
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793165154
+   "err_ts": 1793167991
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793165154
+   "ok": 1793167990
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793165138
+   "ok": 1793167972
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793165138
+   "ok": 1793167973
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793165155
+   "ok": 1793167992
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793165162
+   "ok": 1793168004
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793165162
+   "ok": 1793168004
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793165162
+   "ok": 1793168003
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793165138
+   "ok": 1793167972
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793165152
+   "ok": 1793167987
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793165153
+   "ok": 1793167990
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793165151
+   "ok": 1793167987
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793165159
+   "ok": 1793167995
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793165165
+   "ok": 1793168007
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793165164
+   "ok": 1793168006
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793165166
+   "ok": 1793168009
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793165166
+   "ok": 1793168008
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793165167
+   "ok": 1793168010
   }
  },
  "heartbeat": "2026-10-28",
@@ -3248,6 +3248,10 @@
     {
      "link": "http://www.undertheradarmag.com/news/chvrches_share_new_song_overthinker",
      "source": "Under the Radar"
+    },
+    {
+     "link": "https://wrszw.net/chvrches-overthinker/",
+     "source": "out out - music done"
     }
    ],
    "artist": "Chvrches",
@@ -3783,6 +3787,7 @@
   "289305b4f40a": 1792411075.6856875,
   "2894c27e4922": 1792821148.8389127,
   "29aa4ef1cd6f": 1792140455.9615905,
+  "29f298d6e992": 1793167995.3592868,
   "2a1a413d0b45": 1792598289.8253508,
   "2a223c0091ca": 1792140455.0717492,
   "2ab1acf5795f": 1792750413.5905566,
@@ -4768,6 +4773,7 @@
   "bdce13a714b7": 1792425017.0447383,
   "bddbd5914a13": 1793153892.1965845,
   "bde722fb1fad": 1792664284.6944864,
+  "be06c8e47f91": 1793167999.0376086,
   "be238d5a9a8e": 1792152836.4937682,
   "be34867d852b": 1792582357.4731867,
   "be3ac7c5b64c": 1792140455.635881,
