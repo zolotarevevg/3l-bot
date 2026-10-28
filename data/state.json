@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793228267
+   "ok": 1793230587
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793228275
+   "ok": 1793230593
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793228275
+   "ok": 1793230593
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793228259
+   "ok": 1793230543
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793228261
+   "ok": 1793230545
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793228263
+   "ok": 1793230547
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793228268
+   "err_ts": 1793230587
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793228268
+   "ok": 1793230587
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793228245
+   "ok": 1793230531
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793228246
+   "ok": 1793230532
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793228269
+   "ok": 1793230589
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793228275
+   "ok": 1793230592
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793228275
+   "ok": 1793230592
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793228272
+   "ok": 1793230592
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793228245
+   "ok": 1793230531
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793228262
+   "ok": 1793230546
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793228264
+   "ok": 1793230587
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793228261
+   "ok": 1793230545
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793228272
+   "ok": 1793230592
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793228278
+   "ok": 1793230595
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793228277
+   "ok": 1793230594
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793228279
+   "ok": 1793230597
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793228278
+   "ok": 1793230596
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793228280
+   "ok": 1793230598
   }
  },
  "heartbeat": "2026-10-28",
@@ -407,6 +407,26 @@
    "title": "Giant Rooks have released new album ‘If Heaven Exists, This Might Be It’",
    "ts": 1792411088.6443648,
    "why": "новый инди-рок альбом, явно в жанрах 3L"
+  },
+  "10ff661c84ed": {
+   "also": [],
+   "artist": "Worldpeace DMT",
+   "fit": 4,
+   "id": "10ff661c84ed",
+   "kind": "video",
+   "link": "https://readdork.com/news/worldpeace-dmt-ivy-video-2027-north-american-tour-cffebc3512",
+   "listen": {},
+   "major": false,
+   "msg_id": 198,
+   "release": "Ivy",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The London duo’s new visual, directed by Alesh Compton, arrives alongside headline dates including New York’s Bowery Ballroom and Los Angeles’ Echoplex.",
+   "summary_ru": "Лондонский дуэт Worldpeace DMT выпустил новый клип на трек «Ivy» в режиме режиссёра Alesh Compton - также анонсирован североамериканский тур с концертами в Bowery Ballroom (Нью-Йорк) и Echoplex (Лос-Анджелес).",
+   "title": "London duo Worldpeace DMT have announced a North American tour and shared a new video for ‘Ivy’",
+   "ts": 1793230580.094441,
+   "why": "новое видео и тур, жанр близок инди-электронике"
   },
   "11ba36ce2a6d": {
    "also": [],
@@ -1794,7 +1814,12 @@
    "why": "поп-панк и пост-хардкор, не в жанрах 3L"
   },
   "584dc50d1747": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/guided-by-voices-speculation-and-gossip-album-9c0c83201f",
+     "source": "Dork"
+    }
+   ],
    "artist": "Guided By Voices",
    "fit": 4,
    "id": "584dc50d1747",
@@ -2097,6 +2122,26 @@
    "title": "Rotterdam quartet Elephant have shared their bittersweet new single ‘About You’",
    "ts": 1792580173.801815,
    "why": "новый инди-сингл, жанр близкий 3L"
+  },
+  "7786e9a269ba": {
+   "also": [],
+   "artist": "Skycabin",
+   "fit": 4,
+   "id": "7786e9a269ba",
+   "kind": "ep",
+   "link": "https://readdork.com/news/skycabin-covet-ep-title-track-video-d4b077bf3f",
+   "listen": {},
+   "major": false,
+   "msg_id": 196,
+   "release": "Covet",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "California duo Skycabin have released their five-track ‘Covet’ EP alongside a video for its personal title track.",
+   "summary_ru": "Калифорнийский электронный дуэт Skycabin выпустил EP «Covet» из пяти треков, вместе с видео на одноимённую заглавную песню. Темы релиза - желание и смещённость.",
+   "title": "California electronic duo Skycabin are exploring desire and displacement on new EP ‘Covet’",
+   "ts": 1793230560.7891207,
+   "why": "Инди-электроника, новый EP, но артист малоизвестен"
   },
   "78d4a7c771d1": {
    "also": [],
@@ -3487,6 +3532,26 @@
    "ts": 1792752836.4743843,
    "why": "соседний жанр, малоизвестная группа, но новый EP"
   },
+  "e3a12a1302b3": {
+   "also": [],
+   "artist": "Snoh Aalegra",
+   "fit": 2,
+   "id": "e3a12a1302b3",
+   "kind": "single",
+   "link": "https://readdork.com/news/snoh-aalegra-just-friends-legendary-love-fe671f479a",
+   "listen": {},
+   "major": false,
+   "msg_id": 197,
+   "release": "Just Friends",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Snoh Aalegra’s new single ‘Just Friends’ is out now, with her album ‘Legendary Love’ following on 13th November.",
+   "summary_ru": "Снох Аалегра выпустила новый сингл «Just Friends» - нежную балладу. Её альбом «Legendary Love» выйдет 13 ноября.",
+   "title": "Snoh Aalegra has released tender new ballad ‘Just Friends’ from her upcoming album ‘Legendary Love’",
+   "ts": 1793230567.1455147,
+   "why": "R&B, вне жанров 3L, нет связи с любимыми артистами"
+  },
   "e3cea3d4d6fc": {
    "also": [],
    "artist": "Giant Drag",
@@ -4024,6 +4089,7 @@
   "015e5f7450cc": 1792745838.2540324,
   "017689e5990b": 1792140461.4665873,
   "0199e5e62dc8": 1793035426.9141026,
+  "01b42e0fe045": 1793230567.7522619,
   "01caf8286699": 1792429166.2953134,
   "01d2c0bdbc0d": 1793023039.5536847,
   "01de2989b1e9": 1792674641.458071,
@@ -4132,6 +4198,7 @@
   "108dca2850ed": 1792158595.9177806,
   "10d23fe96bcd": 1792575293.4916205,
   "10da66a9a9f1": 1793009246.3206768,
+  "10ff661c84ed": 1793230577.775613,
   "110e46001679": 1793119427.7286375,
   "112d13450b08": 1793067458.6275024,
   "11329e7ea74a": 1793113308.2905715,
@@ -4279,6 +4346,7 @@
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
   "24b361939a3a": 1793190592.6304018,
+  "24bfaed9bf5b": 1793230580.630854,
   "24c027f6363f": 1792497218.886947,
   "253410846421": 1792151154.5883605,
   "254ec7e45d2a": 1793128033.5108755,
@@ -4318,6 +4386,7 @@
   "2afa8e117716": 1792140448.224893,
   "2b07f7d520ac": 1792757295.9080157,
   "2bc125031393": 1792140455.0717525,
+  "2bce5a147f7d": 1793230574.7150214,
   "2bd8983123f9": 1792510453.881489,
   "2c721adf56ae": 1793103428.6831038,
   "2c7c9985e497": 1793103425.4808462,
@@ -4778,6 +4847,7 @@
   "68aeb9bb95b0": 1793153895.202855,
   "68f318c94bd1": 1793009220.3081255,
   "68f957627714": 1792684590.2072012,
+  "690031b13144": 1793230583.3031704,
   "693056b7f5c2": 1792158569.604045,
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
@@ -4826,6 +4896,7 @@
   "6f543076563c": 1792140448.2248945,
   "6f6213a531a1": 1793032303.5120356,
   "6f6d28bcd809": 1792600453.3686483,
+  "6fcb48a98fd4": 1793230550.2745626,
   "6fe276ca97a7": 1792165188.7052171,
   "6ffaeb2538df": 1792262237.9721475,
   "7016723a5dea": 1792522280.288218,
@@ -4880,6 +4951,7 @@
   "76fe1bc4bc3c": 1793194520.233745,
   "7781174bb3ba": 1792140448.2248943,
   "77846013ebf5": 1792140446.180914,
+  "7786e9a269ba": 1793230559.4785864,
   "77ec5f9bf3e2": 1792140449.5165515,
   "7805bdacd0bf": 1792140446.1809084,
   "7807b3d69ce8": 1792593110.3183172,
@@ -5017,6 +5089,7 @@
   "8c01738ecbe5": 1792140448.224891,
   "8c2e0a67cd2f": 1792762703.870811,
   "8c363754de28": 1792162968.1204598,
+  "8c5af8f43171": 1793230547.215646,
   "8c6d212fb010": 1792490261.0778842,
   "8cc6c2138b72": 1792953667.7074373,
   "8cf4f6337609": 1792140449.5165527,
@@ -5026,6 +5099,7 @@
   "8d21ae1e7953": 1792580164.9990478,
   "8d2628e32746": 1792582357.4732227,
   "8d277f35b74d": 1793041224.8400517,
+  "8d3ff00893ce": 1793230556.4429224,
   "8d8aec2def93": 1792140448.224892,
   "8d9964c367b8": 1792140449.844752,
   "8db94539c8de": 1793032288.1692657,
@@ -5591,6 +5665,7 @@
   "dbe7c734baf3": 1792664258.3030195,
   "dc137e2eba14": 1793098779.5491116,
   "dc5bcf74c262": 1792757286.5535953,
+  "dc83cd442cd4": 1793230553.0564919,
   "dca07dca0e5d": 1793205002.1280732,
   "dcacabdd1522": 1792483691.139654,
   "dcbbe118675a": 1792623148.5752814,
@@ -5653,6 +5728,7 @@
   "e3841cf71d1a": 1793028959.7583032,
   "e38b8df65526": 1792752834.082932,
   "e38c455dd67d": 1792508207.8553078,
+  "e3a12a1302b3": 1793230564.3211224,
   "e3a8238c836a": 1792620902.3118548,
   "e3b8826d44f4": 1793188236.265585,
   "e3ba4fdd5cdf": 1792582313.1061494,
@@ -5665,6 +5741,7 @@
   "e43c3be89515": 1792677611.2302487,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
+  "e49043178e67": 1793230561.3587773,
   "e4aad33a03a1": 1792782942.2134178,
   "e4c8176b9eb6": 1792334830.8639565,
   "e4cde00cb514": 1792140419.6649094,
@@ -5837,6 +5914,7 @@
   "fbb73e408c35": 1792146698.0368562,
   "fbbef8e85667": 1792343416.4451923,
   "fbc9efe9f470": 1792140461.4665866,
+  "fbd0a340eb06": 1793230570.954372,
   "fbef5da50834": 1792773242.8482513,
   "fbfbbe61515f": 1792140451.9265761,
   "fc5a521d992c": 1792765242.954879,
