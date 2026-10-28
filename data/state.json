@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793194525
+   "ok": 1793197870
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793194537
+   "ok": 1793197879
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793194537
+   "ok": 1793197885
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793194492
+   "ok": 1793197836
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793194497
+   "ok": 1793197843
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793194498
+   "ok": 1793197845
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793194529
+   "err_ts": 1793197870
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793194528
+   "ok": 1793197870
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793194483
+   "ok": 1793197829
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793194487
+   "ok": 1793197830
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793194530
+   "ok": 1793197872
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793194537
+   "ok": 1793197878
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793194536
+   "ok": 1793197878
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793194533
+   "ok": 1793197876
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793194483
+   "ok": 1793197822
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793194497
+   "ok": 1793197844
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793194525
+   "ok": 1793197870
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793194497
+   "ok": 1793197843
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793194533
+   "ok": 1793197876
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793194540
+   "ok": 1793197891
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793194539
+   "ok": 1793197886
   },
   "Родной звук (TG)": {
-   "count": 12,
+   "count": 13,
    "err": "",
-   "ok": 1793194541
+   "ok": 1793197892
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793194540
+   "ok": 1793197891
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793194545
+   "ok": 1793197895
   }
  },
  "heartbeat": "2026-10-28",
@@ -529,6 +529,26 @@
    "ts": 1792664276.2702515,
    "why": "анонс нового альбома инди-поп исполнителя"
   },
+  "17a1d23913a9": {
+   "also": [],
+   "artist": "Pivot Gang",
+   "fit": 2,
+   "id": "17a1d23913a9",
+   "kind": "single",
+   "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 184,
+   "release": "Location",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Pivot Gang – “Location” appeared first on Stereogum .",
+   "summary_ru": "Pivot Gang выпустили новый сингл «Location». В записи упомянуты участники Saba, JLEAN, Joseph Chilliams и MFnMelo, а также другие артисты из рубрик.",
+   "title": "Pivot Gang – “Location”",
+   "ts": 1793197827.430078,
+   "why": "хип-хоп, не в жанрах 3L"
+  },
   "17e9fe3eb45a": {
    "also": [],
    "artist": "yeule",
@@ -668,6 +688,26 @@
    "title": "Zach Bryan Shares New EP Young Manhood & Other Donatable Organs Feat. Lana Del Rey & Turnpike Troubadours",
    "ts": 1792158568.7757282,
    "why": "кантри-фолк, мейнстрим; не в жанрах 3L"
+  },
+  "1b1bec80fa2d": {
+   "also": [],
+   "artist": "Spanish Horses",
+   "fit": 4,
+   "id": "1b1bec80fa2d",
+   "kind": "single",
+   "link": "https://readdork.com/news/spanish-horses-city-i-believe-small-notions-8f50be2ff0",
+   "listen": {},
+   "major": false,
+   "msg_id": 187,
+   "release": "City I Believe",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The London-via-Paris quintet’s third single is the final preview of their debut EP, due on 27th November via So Young Records.",
+   "summary_ru": "Лондонско-парижский квинтет Spanish Horses выпустил трек «City I Believe», третий сингл и последний превью перед дебютным EP, который выйдет 27 ноября на лейбле So Young Records.",
+   "title": "London-via-Paris newcomers Spanish Horses have shared ‘City I Believe’ ahead of their debut EP",
+   "ts": 1793197865.4771566,
+   "why": "новый сингл и анонс дебютного EP, инди-жанр"
   },
   "1bc3ceec0e73": {
    "also": [],
@@ -1218,6 +1258,26 @@
    "title": "My Wonderful Boyfriend Sign to New West and Release New Single “Chip City”",
    "ts": 1792725500.419369,
    "why": "малоизвестная инди-группа, звучание неизвестно из записи"
+  },
+  "3c0b2965a1e2": {
+   "also": [],
+   "artist": "Kevin Morby",
+   "fit": 3,
+   "id": "3c0b2965a1e2",
+   "kind": "single",
+   "link": "https://stereogum.com/2515801/kevin-morby-nursery-rhyme-feat-lonnie-holley/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 185,
+   "release": "Nursery Rhyme",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley) appeared first on Stereogum .",
+   "summary_ru": "Kevin Morby выпустил новый сингл «Nursery Rhyme» с участием Lonnie Holley. Запись опубликована в рубрике New Music на Stereogum.",
+   "title": "Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley)",
+   "ts": 1793197828.988349,
+   "why": "Фолк-рок, соседний жанр, малоизвестный для 3L звук"
   },
   "3eade16923ed": {
    "also": [],
@@ -3002,6 +3062,26 @@
    "ts": 1792580146.2129893,
    "why": "новый сингл инди-дуэта, близкий к дрим-попу"
   },
+  "c5e40c2a5478": {
+   "also": [],
+   "artist": "Josh Johnson",
+   "fit": 2,
+   "id": "c5e40c2a5478",
+   "kind": "review",
+   "link": "https://daily.bandcamp.com/album-of-the-day/josh-johnson-animative-review",
+   "listen": {},
+   "major": false,
+   "msg_id": 188,
+   "release": "Animative",
+   "russian": false,
+   "source": "Bandcamp Daily",
+   "status": "new",
+   "summary_en": "A dazzling showcase for jazz’s endless possibilities. Read full story on the Bandcamp Daily .",
+   "summary_ru": "Bandcamp Daily выбрал альбом Josh Johnson «Animative» альбомом дня. Издание называет его ярким showcase безграничных возможностей джаза.",
+   "title": "Josh Johnson, “Animative”",
+   "ts": 1793197884.6716647,
+   "why": "джаз, вне жанров 3L"
+  },
   "c634b8980841": {
    "also": [],
    "artist": "Noel Gallagher",
@@ -3777,6 +3857,26 @@
    "title": "Natalie Bergman Announces New EP I Killed A North American Songbird: Hear “White Oak”",
    "ts": 1792698933.6096907,
    "why": "соседний инди-фолк звук, новый EP, неизвестный 3L"
+  },
+  "fff38d138391": {
+   "also": [],
+   "artist": "Or Best Offer",
+   "fit": 4,
+   "id": "fff38d138391",
+   "kind": "album",
+   "link": "https://readdork.com/news/or-best-offer-it-will-appear-fast-strong-horse-22dbd52758",
+   "listen": {},
+   "major": false,
+   "msg_id": 186,
+   "release": "It Will Appear",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "New York duo Or Best Offer have signed to Good English Records, with second album ‘It Will Appear’ due in January.",
+   "summary_ru": "Нью-йоркский дуэт Or Best Offer подписал контракт с Good English Records и анонсировал второй альбом It Will Appear, выход намечен на январь. Вместе с анонсом группа выпустила трек Fast Strong Horse.",
+   "title": "New York duo Or Best Offer have announced second album ‘It Will Appear’ and shared ‘Fast Strong Horse’",
+   "ts": 1793197857.956909,
+   "why": "новый альбом и трек, инди-дуэт из Нью-Йорка"
   }
  },
  "playlists": {},
@@ -3957,6 +4057,7 @@
   "16c859577fb8": 1792757302.6900477,
   "178cfe49c8d2": 1793057309.6174543,
   "1798093617ec": 1792582357.4732208,
+  "17a1d23913a9": 1793197826.361102,
   "17e9fe3eb45a": 1792773192.5090897,
   "180557fd06c8": 1793146361.0068502,
   "182b5c560892": 1793101057.2333622,
@@ -3981,6 +4082,7 @@
   "1acc0ea358ca": 1793156758.7542498,
   "1adeb91bc752": 1792140446.1809092,
   "1ae1e58eac1b": 1792140455.9615843,
+  "1b1bec80fa2d": 1793197864.1769378,
   "1b3bbc857366": 1792582368.096183,
   "1b47a391be6a": 1792682270.390802,
   "1b8ebd38393f": 1792401953.9222965,
@@ -4209,6 +4311,7 @@
   "3bdc40419b84": 1792497233.6616488,
   "3be6e4dae643": 1792725498.7952363,
   "3be9a98fcc0a": 1792140449.8447514,
+  "3c0b2965a1e2": 1793197827.8659396,
   "3c295e6aed26": 1792140446.3270476,
   "3c9c4022f475": 1792582333.4680588,
   "3cc255ba7d28": 1792140449.5165544,
@@ -4229,6 +4332,7 @@
   "3f136aefa705": 1792140456.384752,
   "3f3f0aff7cac": 1792422117.1566305,
   "3f44a8b2e63c": 1792146706.4860857,
+  "3f46a570f024": 1793197858.3190536,
   "3f8439c7b1b7": 1792140446.3270478,
   "3f874448b1d3": 1792582319.4214797,
   "401357c7fb80": 1792595626.8481739,
@@ -4274,6 +4378,7 @@
   "44f4fab6681b": 1792748039.5188997,
   "451e0f45f3cf": 1792404592.9865537,
   "453ffefdb9af": 1792861111.8819263,
+  "455627629f0c": 1793197822.716074,
   "45cc953ad3e7": 1792664269.6911159,
   "45e68d9ca3ef": 1792700949.5098526,
   "45f8b1948724": 1792703194.8477395,
@@ -4463,10 +4568,12 @@
   "5e0198bf77a9": 1792582357.4732168,
   "5e3bc3d6bacf": 1792140455.635882,
   "5e7178d8c1ee": 1792757281.8151665,
+  "5e7dc3b29bb9": 1793197839.3056026,
   "5eac0c6d611e": 1792515323.031293,
   "5eb477ea38b7": 1793188233.2213266,
   "5ee1156c660c": 1792600422.2257273,
   "5f4649c81125": 1792727923.149833,
+  "5f8195108fd8": 1793197861.2557738,
   "5f8252676042": 1792140419.66491,
   "5faea83a099d": 1792140447.2519577,
   "5fb3d7696c26": 1793009252.023225,
@@ -4795,6 +4902,7 @@
   "921e7c63d477": 1793116299.1211796,
   "921ed22f6702": 1792740355.7027452,
   "926e91f55c9c": 1792169713.1484814,
+  "927a5a1bbc55": 1793197865.841436,
   "929b08848d21": 1792140460.0458226,
   "92a0f5a7afd7": 1792343422.496177,
   "92d938a1d506": 1793072081.685206,
@@ -4827,6 +4935,7 @@
   "96ab6eac469e": 1792148985.7453387,
   "972e97802e92": 1792307774.648558,
   "974f6ed2c236": 1792508245.4609227,
+  "9758c8699568": 1793197845.1989255,
   "97730b87c822": 1792703197.5852556,
   "97d2543aea4d": 1792140455.0717547,
   "98242af8d06a": 1792768223.0249166,
@@ -4925,6 +5034,7 @@
   "a46c9856d66d": 1792140446.3270497,
   "a46f89a11164": 1792582357.47322,
   "a4a23d33d9a0": 1792548700.4680188,
+  "a4dcb9fd6d1a": 1793197879.0668306,
   "a506fec108c4": 1792144557.5662146,
   "a508c9f13caa": 1793032323.6896892,
   "a533100a6026": 1792425012.2378073,
@@ -4933,6 +5043,7 @@
   "a5693ea21883": 1792140456.384751,
   "a57aa4f74d26": 1792595646.6859303,
   "a585cbc5f74f": 1792661849.837127,
+  "a5ade2a98aea": 1793197836.3079588,
   "a5ba6f22ce58": 1792661883.0974984,
   "a5f892537dc6": 1792425039.830182,
   "a630f2b7c320": 1792703192.2564087,
@@ -5084,6 +5195,7 @@
   "bc90c98cb385": 1792140455.0289185,
   "bc961d5f3279": 1792140455.0289197,
   "bcb2e6f30a36": 1792600426.009866,
+  "bcca938beca4": 1793197849.5622137,
   "bcd0408c723b": 1792140446.327049,
   "bcea6ed9d62d": 1792140455.6358807,
   "bd0534216a6e": 1792140455.9615872,
@@ -5162,6 +5274,7 @@
   "c5b0508c62e8": 1792140454.9418404,
   "c5d80d71f562": 1792140460.0458276,
   "c5dcf770bb75": 1792580144.9394844,
+  "c5e40c2a5478": 1793197881.9929311,
   "c60efb3df79c": 1792759991.2229214,
   "c634b8980841": 1792830489.9905524,
   "c63fc5ef7d5f": 1792140449.5165498,
@@ -5258,6 +5371,7 @@
   "d383ba083cc4": 1792426681.2487686,
   "d3ca17f4a685": 1792140446.18091,
   "d3ea5ef60592": 1792674617.6097536,
+  "d402a317ab1a": 1793197876.2221751,
   "d45e2d107714": 1793038131.0954566,
   "d491512e60f4": 1792140419.3187916,
   "d496557cefb4": 1793023074.7147512,
@@ -5332,6 +5446,7 @@
   "deb1f30892e6": 1792140419.4762268,
   "df2d09676e35": 1792582326.9854937,
   "df50b0fd8673": 1792413736.5080862,
+  "df61e59d99af": 1793197892.2779577,
   "dfae1e9146bd": 1792140419.3187928,
   "dfba096075f9": 1793113270.3635263,
   "dfe8c773d87e": 1792140449.7097282,
@@ -5431,6 +5546,7 @@
   "ea6f8ddee7c2": 1792140449.7097304,
   "ea7e3f410513": 1793119478.2132251,
   "ea93bbaa3497": 1793067461.7998238,
+  "ea9ac771498a": 1793197889.045014,
   "eaa4bbe63f26": 1792750452.5662713,
   "eab83437a92c": 1792156046.6465232,
   "eacaa76a9a24": 1792768168.6658034,
@@ -5516,6 +5632,7 @@
   "f765087a847a": 1793194498.628509,
   "f76a4a368e82": 1792140446.1809144,
   "f77032706764": 1792757320.336966,
+  "f7a7a8655b88": 1793197852.2318275,
   "f7ca69e41d64": 1793190562.9521356,
   "f7cc9b5a10b7": 1792425027.4257884,
   "f7f71bf130cd": 1793110199.5515742,
@@ -5579,6 +5696,8 @@
   "ff9f319d41f9": 1792631937.5906265,
   "ffa272aa2536": 1792140455.028928,
   "ffae539f8a50": 1792140419.6649108,
+  "fff38d138391": 1793197854.803869,
+  "fff6a1e51ea6": 1793197886.6767826,
   "fffe77950f93": 1792505498.479631
  },
  "sources_init": [
