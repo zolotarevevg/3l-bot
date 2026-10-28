@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793222757
+   "ok": 1793225519
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793222766
+   "ok": 1793225524
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793222766
+   "ok": 1793225525
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793222753
+   "ok": 1793225514
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793222755
+   "ok": 1793225516
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793222756
+   "ok": 1793225518
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793222757
+   "err_ts": 1793225519
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793222757
+   "ok": 1793225519
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793222742
+   "ok": 1793225509
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793222742
+   "ok": 1793225510
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793222759
+   "ok": 1793225521
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793222766
+   "ok": 1793225524
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793222766
+   "ok": 1793225524
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793222762
+   "ok": 1793225524
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793222741
+   "ok": 1793225502
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793222756
+   "ok": 1793225517
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793222757
+   "ok": 1793225519
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793222755
+   "ok": 1793225517
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793222762
+   "ok": 1793225524
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793222769
+   "ok": 1793225527
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793222767
+   "ok": 1793225526
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793222771
+   "ok": 1793225528
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793222770
+   "ok": 1793225528
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793222772
+   "ok": 1793225529
   }
  },
  "heartbeat": "2026-10-28",
@@ -2269,6 +2269,26 @@
    "ts": 1792577670.3305762,
    "why": "инди-рок, новый сингл и анонс альбома"
   },
+  "8b143ede4fb2": {
+   "also": [],
+   "artist": "Queens Of The Stone Age",
+   "fit": 2,
+   "id": "8b143ede4fb2",
+   "kind": "single",
+   "link": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 195,
+   "release": "Run Away From The Mob",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Queens Of The Stone Age – “Run Away From The Mob” appeared first on Stereogum .",
+   "summary_ru": "Queens Of The Stone Age выпустили новый трек «Run Away From The Mob», запись опубликована в рубрике New Music на Stereogum. Подробностей в записи нет.",
+   "title": "Queens Of The Stone Age – “Run Away From The Mob”",
+   "ts": 1793225505.7271519,
+   "why": "хард-рок, вне жанров 3L, не любимый артист"
+  },
   "8b7baac588c3": {
    "also": [],
    "artist": "XIAOJUN",
@@ -4354,6 +4374,7 @@
   "330a6c7e1556": 1792600420.1661782,
   "332cab8f75fc": 1793088299.2490263,
   "337e73d54711": 1793096034.3622415,
+  "3392146d2cef": 1793225506.4120543,
   "33a5630dfe1f": 1792582304.1957128,
   "33cd4ff17de2": 1792140446.1809144,
   "33de0a385afa": 1792140455.0289197,
@@ -4980,6 +5001,7 @@
   "8a8c5e253d03": 1792770675.0797424,
   "8a9981044a1d": 1793205033.8701468,
   "8b11ccb6e91a": 1792341719.9827135,
+  "8b143ede4fb2": 1793225502.8453312,
   "8b47fa9dd67f": 1792512960.8585916,
   "8b5000119d5c": 1792600473.4863582,
   "8b66ee660951": 1792443276.4357345,
