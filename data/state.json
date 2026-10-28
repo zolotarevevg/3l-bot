@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793182429
+   "ok": 1793185499
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793182435
+   "ok": 1793185505
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793182435
+   "ok": 1793185505
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793182404
+   "ok": 1793185441
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793182418
+   "ok": 1793185443
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793182428
+   "ok": 1793185449
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793182429
+   "err_ts": 1793185500
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793182429
+   "ok": 1793185500
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793182394
+   "ok": 1793185426
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793182399
+   "ok": 1793185429
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793182431
+   "ok": 1793185501
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793182435
+   "ok": 1793185504
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793182435
+   "ok": 1793185504
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793182434
+   "ok": 1793185504
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793182393
+   "ok": 1793185426
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793182419
+   "ok": 1793185448
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793182429
+   "ok": 1793185496
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793182418
+   "ok": 1793185447
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793182434
+   "ok": 1793185504
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793182438
+   "ok": 1793185506
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793182437
+   "ok": 1793185506
   },
   "Родной звук (TG)": {
-   "count": 10,
+   "count": 11,
    "err": "",
-   "ok": 1793182440
+   "ok": 1793185507
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793182439
+   "ok": 1793185507
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793182440
+   "ok": 1793185511
   }
  },
  "heartbeat": "2026-10-28",
@@ -320,7 +320,12 @@
    "why": "тяжелый хардкор-звук, не в жанрах 3L"
   },
   "0df48f6559f7": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/the-chats-half-cut-album-australian-tour-f7e7f624aa",
+     "source": "Dork"
+    }
+   ],
    "artist": "The Chats",
    "fit": 2,
    "id": "0df48f6559f7",
@@ -1089,6 +1094,26 @@
    "ts": 1792605166.1193907,
    "why": "хип-хоп, не любимый артист"
   },
+  "38deae3138df": {
+   "also": [],
+   "artist": "Enter Shikari",
+   "fit": 2,
+   "id": "38deae3138df",
+   "kind": "single",
+   "link": "https://readdork.com/news/enter-shikari-lightyears-new-single-b9a3ea2345",
+   "listen": {},
+   "major": false,
+   "msg_id": 178,
+   "release": "Lightyears",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Enter Shikari’s new single ‘Lightyears’ finds Rou Reynolds revisiting family footage, former selves and loved ones who are no longer here.",
+   "summary_ru": "Enter Shikari неожиданно выпустили сингл «Lightyears». Вокалист Ру Рейнольдс в треке обращается к семейным видео из детства, к своим прошлым «я» и близким, которых уже нет рядом.",
+   "title": "Enter Shikari have shared surprise single ‘Lightyears’, inspired by Rou Reynolds’ childhood home videos",
+   "ts": 1793185476.03095,
+   "why": "пост-хардкор и электроника, вне жанров 3L"
+  },
   "39fe00195106": {
    "also": [],
    "artist": "Darren Hayman",
@@ -1333,6 +1358,26 @@
    "title": "Tom Grennan has shared new single ‘Wrapped In Gold’, his first release for RCA Records",
    "ts": 1792750444.1202157,
    "why": "поп-рок мейнстрим, не в жанрах 3L"
+  },
+  "490077847249": {
+   "also": [],
+   "artist": "100%WET",
+   "fit": 4,
+   "id": "490077847249",
+   "kind": "single",
+   "link": "https://readdork.com/news/100wet-indigo-sanna-heinstedt-permanent-member-6cf6083218",
+   "listen": {},
+   "major": false,
+   "msg_id": 179,
+   "release": "Indigo",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Copenhagen’s 100%WET have released new single ‘Indigo’, with Sanna Heinstedt now officially a permanent member.",
+   "summary_ru": "Копенгагенская группа 100%WET выпустила новый сингл «Indigo». Санна Хейнстедт официально стала постоянным участником коллектива.",
+   "title": "100%WET have shared ‘Indigo’ and welcomed Sanna Heinstedt as a permanent member",
+   "ts": 1793185488.7893229,
+   "why": "новый сингл инди-группы, жанр близок 3L"
   },
   "4d3ee6bdddfa": {
    "also": [],
@@ -2354,6 +2399,26 @@
    "ts": 1793179199.312461,
    "why": "хард-рок, не любимый артист, но новый альбом"
   },
+  "a681845d9af2": {
+   "also": [],
+   "artist": "Sons of Cream",
+   "fit": 2,
+   "id": "a681845d9af2",
+   "kind": "album",
+   "link": "https://readdork.com/news/sons-of-cream-half-and-half-debut-album-ef3f7923a8",
+   "listen": {},
+   "major": false,
+   "msg_id": 176,
+   "release": "Half and Half",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Malcolm Bruce, Kofi Baker and Rob Johnson trio will release their first album in January, pairing six originals with six reworked Cream songs.",
+   "summary_ru": "Трио Sons of Cream (Malcolm Bruce, Kofi Baker и Rob Johnson, дети участников Cream) выпустит дебютный альбом Half and Half в январе. В нём шесть своих песен и шесть переработанных треков Cream.",
+   "title": "Sons of Cream are putting their own spin on their fathers' music with debut album ‘Half and Half’",
+   "ts": 1793185470.032508,
+   "why": "блюз-рок, далеко от жанров 3L"
+  },
   "a79c565c0460": {
    "also": [],
    "artist": "Буерак",
@@ -2972,6 +3037,26 @@
    "ts": 1792529029.6961572,
    "why": "анонс сольного дебюта участника Doves"
   },
+  "cec3f49dd3c3": {
+   "also": [],
+   "artist": "Amira Elfeky",
+   "fit": 4,
+   "id": "cec3f49dd3c3",
+   "kind": "single",
+   "link": "https://readdork.com/news/amira-elfeky-i-dont-want-to-fall-in-love-bdebc003d5",
+   "listen": {},
+   "major": false,
+   "msg_id": 177,
+   "release": "I don't want to fall in love",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Amira Elfeky’s new single arrives with an official video ahead of her album ‘It Was Only A Dream’.",
+   "summary_ru": "Амира Эльфеки выпустила новый сингл «I don't want to fall in love» с официальным клипом. Он предваряет её альбом «It Was Only A Dream».",
+   "title": "Amira Elfeky is resisting romance on new single ‘I don’t want to fall in love’",
+   "ts": 1793185472.9932342,
+   "why": "новый сингл и анонс альбома, инди-поп звучание"
+  },
   "d5e338dcc0c0": {
    "also": [],
    "artist": "DOSS",
@@ -3399,6 +3484,26 @@
    "ts": 1792478068.4334996,
    "why": "метalcore и прог-метал, вне жанров 3L"
   },
+  "f1603aec8733": {
+   "also": [],
+   "artist": "FanSandro",
+   "fit": 4,
+   "id": "f1603aec8733",
+   "kind": "single",
+   "link": "https://readdork.com/news/fansandro-tabacchi-jenny-shen-content-melancholy-b612ba1441",
+   "listen": {},
+   "major": false,
+   "msg_id": 175,
+   "release": "Tabacchi",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "FanSandro’s new single ‘Tabacchi’, featuring Jenny Shen, is the first track from their spring 2027 album ‘Content Melancholy’.",
+   "summary_ru": "Лондонский инди-дуэт FanSandro выпустил сингл «Tabacchi» с участием Дженни Шен. Трек открывает их альбом «Content Melancholy», который выйдет весной 2027 года.",
+   "title": "London-based indie duo FanSandro have teamed up with Jenny Shen for new single ‘Tabacchi’",
+   "ts": 1793185451.5649054,
+   "why": "новый инди-сингл и анонс альбома, жанр подходит"
+  },
   "f456a3944b59": {
    "also": [],
    "artist": "Claire Rousay & Zander Raymond",
@@ -3618,6 +3723,7 @@
   "02be0efacf15": 1792780264.722466,
   "02fc2c1a5ef0": 1792486032.712581,
   "031160f8560c": 1792422153.9425986,
+  "0346ab21fa05": 1793185494.5040824,
   "03754bf44ed3": 1793110203.2891803,
   "038360609165": 1792140449.516551,
   "038a98c0496a": 1792732323.928334,
@@ -3736,6 +3842,7 @@
   "139d4eb904d0": 1792492302.7914765,
   "13be515e46a6": 1792399806.0338573,
   "13c492dc89d3": 1793122193.427584,
+  "13cc3ecc37fd": 1793185492.0588267,
   "13d885cbec0a": 1792473359.6779761,
   "13eb4f70de50": 1792422138.3649497,
   "1410a3a686bf": 1793150713.7896206,
@@ -3829,6 +3936,7 @@
   "223ce2176870": 1792515294.4774737,
   "224a04e94bf4": 1793139710.6061816,
   "224c16a35330": 1792580149.6238112,
+  "2280ed18ec24": 1793185496.205458,
   "2285d94f63ca": 1792140455.0289195,
   "22a0efb303fe": 1793130514.32535,
   "22b798924489": 1792140454.9418402,
@@ -3854,6 +3962,7 @@
   "25806c492e25": 1792187905.6770828,
   "26024080e4af": 1792140455.961591,
   "262a03135c9f": 1792140448.2248929,
+  "262fbd040319": 1793185476.4049525,
   "26490473e361": 1792413726.2807765,
   "26630b4164e4": 1792862863.1798747,
   "26a49991fc34": 1792140455.0717552,
@@ -3866,6 +3975,7 @@
   "27cef85f9b8f": 1792768178.6201923,
   "27dde81aa9a8": 1792404611.80304,
   "27f4a4b71ab7": 1792590866.5926363,
+  "2833e2426ddc": 1793185457.825564,
   "284d60fb998b": 1792173605.5963154,
   "289305b4f40a": 1792411075.6856875,
   "2894c27e4922": 1792821148.8389127,
@@ -3914,6 +4024,7 @@
   "31134b4621b6": 1792703188.7671592,
   "311e05ac56c5": 1793106872.0544724,
   "3128c6ed83d6": 1792529035.3777864,
+  "31691a2bbe33": 1793185463.688092,
   "31826350416f": 1793011793.5925248,
   "31862f5e48fa": 1793119464.5097456,
   "318b397810a2": 1792343409.0080278,
@@ -3978,6 +4089,7 @@
   "38a737edc025": 1792413717.2022285,
   "38ac56e60c19": 1792424994.9504929,
   "38cedecc5d65": 1793116316.4177752,
+  "38deae3138df": 1793185473.3658438,
   "3972c9e464ae": 1792140451.9265785,
   "398163e28db8": 1793028988.780396,
   "398aeebe61e2": 1792140448.2248924,
@@ -4098,6 +4210,7 @@
   "48ba04323394": 1792492319.6077063,
   "48cf32bce9d7": 1792584706.3512123,
   "48d8b622a58b": 1792431203.437895,
+  "490077847249": 1793185485.6164606,
   "4901ea46dd1d": 1793090929.750761,
   "4910a2bbcb17": 1792593127.4770179,
   "497827820914": 1792140419.6649098,
@@ -4307,6 +4420,7 @@
   "67ca62b347d8": 1792729997.0659816,
   "6834be2b7d46": 1792331407.3571088,
   "685784b10d06": 1792620908.6497743,
+  "685f132dce9a": 1793185426.6270351,
   "68aeb9bb95b0": 1793153895.202855,
   "68f318c94bd1": 1793009220.3081255,
   "68f957627714": 1792684590.2072012,
@@ -4317,6 +4431,7 @@
   "69a48811974b": 1792757273.048859,
   "69b9f521aa2d": 1792140454.9418392,
   "69cd93a1f20f": 1792431197.1887515,
+  "6a05f40fc534": 1793185481.556153,
   "6a53158cc1cb": 1792768225.1907177,
   "6a548b98ecab": 1792913158.808052,
   "6a62e9a663d5": 1792790871.0148082,
@@ -4460,6 +4575,7 @@
   "80b45d0fb75e": 1792422109.462642,
   "80c82416b54f": 1792505519.5982354,
   "80e430b5673b": 1792582301.0651362,
+  "8123ed6d8700": 1793185452.026718,
   "81524a5f9308": 1792140455.0717483,
   "815f6d00a069": 1792332791.0701985,
   "8192277a3483": 1792424997.4105656,
@@ -4574,6 +4690,7 @@
   "929b08848d21": 1792140460.0458226,
   "92a0f5a7afd7": 1792343422.496177,
   "92d938a1d506": 1793072081.685206,
+  "92dc222f025d": 1793185478.832892,
   "935c2d46b9c3": 1792671172.6864974,
   "936c38fe9477": 1792413707.2937703,
   "9374070308b4": 1793110231.4483862,
@@ -4655,6 +4772,7 @@
   "9f04ca99ea73": 1792142259.7923665,
   "9f0aff8eb457": 1792406873.6734486,
   "9f206b920ab3": 1792413729.4807835,
+  "9f2eaebe95d2": 1793185507.9978104,
   "9f307390a3bd": 1792140449.70973,
   "9f62f37de7c7": 1792656835.1446323,
   "9fb3120ba541": 1793096031.372419,
@@ -4685,6 +4803,7 @@
   "a2fd038b8b14": 1792671194.6615784,
   "a308499f2b6e": 1792180119.1027365,
   "a313d4bfcad0": 1792140451.9265773,
+  "a38e6bf042bf": 1793185454.9643693,
   "a3bf28b512a5": 1792595620.8779018,
   "a3d2d3276947": 1792696666.0956395,
   "a3d4fb841682": 1792167214.670259,
@@ -4707,6 +4826,7 @@
   "a5ba6f22ce58": 1792661883.0974984,
   "a5f892537dc6": 1792425039.830182,
   "a630f2b7c320": 1792703192.2564087,
+  "a681845d9af2": 1793185468.6911283,
   "a6b3b5ceeb4e": 1792575325.4105005,
   "a6e37b9cbe2e": 1793098759.6013181,
   "a70eedef66de": 1792140460.0458221,
@@ -4990,6 +5110,7 @@
   "ce536cb785d7": 1792768231.9298265,
   "ce5a4bbc1bf4": 1793101036.5033722,
   "ce654c3bacdf": 1792620897.8801079,
+  "cec3f49dd3c3": 1793185470.405385,
   "cee53ff01fed": 1793035440.5043952,
   "cf06a4a9b303": 1792580190.0545037,
   "cf4dc640805c": 1792686893.9321146,
@@ -5040,6 +5161,7 @@
   "d68ad288bdc5": 1792202416.5043957,
   "d699e149fdb7": 1792140455.0717523,
   "d6b4a50d4b26": 1793028979.1153464,
+  "d6c2e13a7b79": 1793185443.1914825,
   "d6de7b73c4ce": 1792142237.730858,
   "d6eab1e2a6c2": 1792140455.0717514,
   "d6faeacdf4c9": 1793057307.494564,
@@ -5172,6 +5294,7 @@
   "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
   "e7921996e27c": 1792750436.4603963,
+  "e7a85f2c19b8": 1793185460.7331948,
   "e7c7ad285c7e": 1792140455.6358824,
   "e7e30fd766f3": 1792140449.8447475,
   "e7e51417fd39": 1792748076.795763,
@@ -5241,6 +5364,7 @@
   "f0d393044f5e": 1792580181.8582711,
   "f0f750fbac1e": 1792140455.635877,
   "f10b80743638": 1792582310.058419,
+  "f1603aec8733": 1793185449.0724084,
   "f18b60af7be7": 1793106887.4463055,
   "f19de1a9a3f3": 1792522303.0382776,
   "f19f1cc40b21": 1792734852.0287235,
@@ -5321,6 +5445,7 @@
   "fd65f9e97e46": 1792140455.9615855,
   "fd76788bec20": 1792664300.3128524,
   "fd947dc02a74": 1793023033.3136957,
+  "fdfefa2b329d": 1793185489.1394098,
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
   "feb63a772433": 1792750409.5625513,
