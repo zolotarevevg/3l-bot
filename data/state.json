@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793185499
+   "ok": 1793188223
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793185505
+   "ok": 1793188231
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793185505
+   "ok": 1793188231
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793185441
+   "ok": 1793188206
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793185443
+   "ok": 1793188211
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793185449
+   "ok": 1793188212
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793185500
+   "err_ts": 1793188223
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793185500
+   "ok": 1793188223
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793185426
+   "ok": 1793188194
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793185429
+   "ok": 1793188200
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793185501
+   "ok": 1793188225
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793185504
+   "ok": 1793188231
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793185504
+   "ok": 1793188231
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793185504
+   "ok": 1793188228
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793185426
+   "ok": 1793188194
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793185448
+   "ok": 1793188212
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793185496
+   "ok": 1793188222
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793188211,
    "ok": 1793185447
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793185504
+   "ok": 1793188228
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793185506
+   "ok": 1793188235
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793185506
+   "ok": 1793188233
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793185507
+   "ok": 1793188241
   },
   "Сломанные пляски (TG)": {
-   "count": 17,
+   "count": 15,
    "err": "",
-   "ok": 1793185507
+   "ok": 1793188236
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793185511
+   "ok": 1793188242
   }
  },
  "heartbeat": "2026-10-28",
@@ -1722,6 +1723,26 @@
    "title": "Mae Muller and Jodie Harsh have teamed up on new single ‘Hallucination’",
    "ts": 1792413723.1097443,
    "why": "мейнстрим-поп, не любимый артист, жанр ближе к поп-танцу"
+  },
+  "64cebb8b23de": {
+   "also": [],
+   "artist": "Everything But The Girl",
+   "fit": 5,
+   "id": "64cebb8b23de",
+   "kind": "album",
+   "link": "https://www.nme.com/news/music/everything-but-the-girl-interview-new-album-blue-reservoir-young-and-dumb-tour-moth-club-3974409?utm_source=rss&utm_medium=rss&utm_campaign=everything-but-the-girl-interview-new-album-blue-reservoir-young-and-dumb-tour-moth-club",
+   "listen": {},
+   "major": true,
+   "msg_id": 180,
+   "release": "Blue Reservoir",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Everything But The Girl have announced details of their new album ‘Blue Reservoir’, inspired by their residency shows at London’s legendary Moth Club. Check out new single ‘Young And Dumb’ below, along with our interview with the duo. READ MORE: Everything But The Girl – ‘Fuse’ review: how reunion albums should be done The indie-electronica icons surprised the world back in 2023 when they returned with the acclaimed ‘Fuse ‘, their first new album in 24 years. The married couple – formed of singer Tracey Thorn and multi-instrumentalist Ben Watt, who previously released 10 albums before they downed tools as a musical unit in 2000 – shocked fans even more, when they then chose to finally return to the stage, performing intimate, stripped-back residency shows at the 300-capacity Moth Club in Hackney. It was the unique alchemy and atmosphere of those gigs that inspired the duo’s 12th album ‘Blue Reservoir’, which is announced today (Wednesday October 28) with launch single ‘Young And Dumb’. “Out of all the songs on the record, this felt like a good and immediate one,” Thorn told NME . “It’s a good, clear way of people grasping what we’re doing. The first thing you hear is a Spanish guitar playing on its own and you go, ‘OK, this isn’t ‘Fuse’.’ We wanted to make it a statement of intent. “The lyric is very direct. It’s about being in the place and time we’re in now, and having that feeling of wishing that you could go back in time but you can’t so you try to live your life with the same energy and passion that you had when you were young. That came out of the Moth gigs: us just accepting who we are, what we’re good at, where we’re at in our lives, what we’re able to do. We’re not doing big world tours but we can do this. We’re making a virtue out of that, really.” Watt agreed that this Latin-tinged vibe was “a really comfortable sound to go back to”. “Maybe ‘Fuse’ was a reinterpretation of something we pioneering in the ‘90s, but what we’re doing here is reconnecting with things we pioneered in the early ‘80s, in a way: that blend of folk, jazz, Brazilian, that little melting pot we put together in the early days,” he shared. “It felt really comfortable going back into that, it felt like us. It didn’t feel like we were putting on someone else’s hat.” Everything But The Girl, 2023. Credit: Edward Bishop Check out the rest of our interview with Thorn and Watt below, where they told us about returning to the music industry, their search for the modern, grappling with life and time on ‘Blue Reservoir’, and why we need to club venues like Moth Club “surviving and thriving”. NME : Hello Everything But The Girl. It’s been three years since we last spoke to announce ‘Fuse ’. How was it getting back in the trenches after 24 years? Tracey Thorn: “It was amazing because we didn’t anticipate it for a long time. It came quite quickly and then before we knew it, we had a record. ‘Fuse’ was three years ago now, and even since then we’ve moved on somewhere else new. H",
+   "summary_ru": "Everything But The Girl анонсировали 12-й альбом «Blue Reservoir», вдохновлённый резидентурой в лондонском клубе Moth Club. Вместе с анонсом вышел сингл «Young And Dumb». Альбом выходит после «Fuse» (2023), первого за 24 года.",
+   "title": "Everything But The Girl tell us about reflective new album ‘Blue Reservoir’ – inspired by the magic of Moth Club",
+   "ts": 1793188196.067138,
+   "why": "любимый дуэт 3L, новый альбом и сингл"
   },
   "659a24ab17a9": {
    "also": [
@@ -3397,6 +3418,10 @@
     {
      "link": "https://wrszw.net/chvrches-overthinker/",
      "source": "out out - music done"
+    },
+    {
+     "link": "https://readdork.com/news/chvrches-overthinker-single-release-771f816c1a",
+     "source": "Dork"
     }
    ],
    "artist": "Chvrches",
@@ -3977,6 +4002,7 @@
   "27f4a4b71ab7": 1792590866.5926363,
   "2833e2426ddc": 1793185457.825564,
   "284d60fb998b": 1792173605.5963154,
+  "286dbd12d9c7": 1793188212.970155,
   "289305b4f40a": 1792411075.6856875,
   "2894c27e4922": 1792821148.8389127,
   "29aa4ef1cd6f": 1792140455.9615905,
@@ -4021,6 +4047,7 @@
   "301dd5e03000": 1792664300.3128512,
   "30c767b31b93": 1792140449.5165484,
   "30ce4d9700fb": 1793182422.5555942,
+  "310134f1d2c2": 1793188196.691748,
   "31134b4621b6": 1792703188.7671592,
   "311e05ac56c5": 1793106872.0544724,
   "3128c6ed83d6": 1792529035.3777864,
@@ -4364,6 +4391,7 @@
   "5e3bc3d6bacf": 1792140455.635882,
   "5e7178d8c1ee": 1792757281.8151665,
   "5eac0c6d611e": 1792515323.031293,
+  "5eb477ea38b7": 1793188233.2213266,
   "5ee1156c660c": 1792600422.2257273,
   "5f4649c81125": 1792727923.149833,
   "5f8252676042": 1792140419.66491,
@@ -4399,6 +4427,7 @@
   "6471894e50da": 1792859119.4288044,
   "647e6ed5ab0f": 1792140455.961584,
   "64bbe29b3058": 1792140455.0717542,
+  "64cebb8b23de": 1793188194.380089,
   "64e4d36d287f": 1793101054.4070241,
   "64f2e390d8a6": 1792494624.348612,
   "6509abfead3f": 1793106906.4656599,
@@ -4504,6 +4533,7 @@
   "74cc71b33f91": 1793074570.840606,
   "74d58debea5a": 1792140455.0289288,
   "74e1d096a751": 1792140455.0717535,
+  "74eb5a634283": 1793188217.609328,
   "7537ab40d39e": 1792404605.3771222,
   "756a17119932": 1792140455.96159,
   "757525a9a28d": 1792679939.2190511,
@@ -4791,6 +4821,7 @@
   "a0e0c122a4d3": 1792140455.635876,
   "a12bad004e16": 1793009223.062988,
   "a1356415039f": 1792584712.1633177,
+  "a17704296b0a": 1793188228.1691058,
   "a1a890b1992c": 1792575312.0914242,
   "a1b9ce14ff30": 1792146692.554182,
   "a1c683db1f91": 1792429132.0168471,
@@ -5210,6 +5241,7 @@
   "dd99eb344c18": 1792140446.3270469,
   "ddc0afc72080": 1792541005.8304975,
   "ddc929d6b8c2": 1792519742.135303,
+  "de0a3a1dbf2a": 1793188206.503894,
   "de36877aa974": 1792140419.3187916,
   "de6914895c6d": 1792140460.0458202,
   "de7fe97380c2": 1792582357.4732182,
@@ -5259,6 +5291,7 @@
   "e38b8df65526": 1792752834.082932,
   "e38c455dd67d": 1792508207.8553078,
   "e3a8238c836a": 1792620902.3118548,
+  "e3b8826d44f4": 1793188236.265585,
   "e3ba4fdd5cdf": 1792582313.1061494,
   "e3cea3d4d6fc": 1792684588.2078166,
   "e3f7a31a1d4c": 1792411071.9854484,
