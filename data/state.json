@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793175653
+   "ok": 1793179202
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793175659
+   "ok": 1793179207
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793175659
+   "ok": 1793179208
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793175643
+   "ok": 1793179191
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793175645
+   "ok": 1793179193
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793175649
+   "ok": 1793179201
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793175654
+   "err_ts": 1793179202
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793175654
+   "ok": 1793179202
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793175635
+   "ok": 1793179179
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793175636
+   "ok": 1793179179
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793175655
+   "ok": 1793179204
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793175658
+   "ok": 1793179207
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793175658
+   "ok": 1793179207
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793175658
+   "ok": 1793179207
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793175635
+   "ok": 1793179179
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793175645
+   "ok": 1793179200
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793175650
+   "ok": 1793179202
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793175645,
-   "ok": 1793172304
+   "err": "",
+   "ok": 1793179193
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793175658
+   "ok": 1793179207
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793175661
+   "ok": 1793179210
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793175660
+   "ok": 1793179209
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793175662
+   "ok": 1793179211
   },
   "Сломанные пляски (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1793175662
+   "ok": 1793179210
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793175663
+   "ok": 1793179212
   }
  },
  "heartbeat": "2026-10-28",
@@ -2315,6 +2314,26 @@
    "ts": 1792429134.6989515,
    "why": "новый трек, жанр по записи неясен"
   },
+  "a1d2fd463890": {
+   "also": [],
+   "artist": "Queens Of The Stone Age",
+   "fit": 2,
+   "id": "a1d2fd463890",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
+   "listen": {},
+   "major": false,
+   "msg_id": 172,
+   "release": "Perfecth",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "John Homme and co's ninth album marks a move away from their signature blunt riffs and opens the door to a mood far more reflective and wistful The post Queens Of The Stone Age – Perfecth appeared first on musicOMH .",
+   "summary_ru": "Рецензия на девятый альбом Queens Of The Stone Age \"Perfecth\". По словам издания, Джон Ом и группа уходят от фирменных тяжелых риффов к более задумчивому и меланхоличному настроению.",
+   "title": "Queens Of The Stone Age – Perfecth",
+   "ts": 1793179199.312461,
+   "why": "хард-рок, не любимый артист, но новый альбом"
+  },
   "a79c565c0460": {
    "also": [],
    "artist": "Буерак",
@@ -3465,6 +3484,26 @@
    "ts": 1792620895.344637,
    "why": "R&B вне жанров 3L, близко к мейнстрим-поп"
   },
+  "fcbeb14549d5": {
+   "also": [],
+   "artist": "Disgusting Sisters",
+   "fit": 3,
+   "id": "fcbeb14549d5",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
+   "listen": {},
+   "major": false,
+   "msg_id": 171,
+   "release": "Skin & Blisters",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "The Hopkins sisters' debut is full of sass, humour and energy. Is this sonic sugar rush the missing link between Kate Nash and Billie Eilish? The post Disgusting Sisters – Skin & Blisters appeared first on musicOMH .",
+   "summary_ru": "Рецензия musicOMH на дебютный альбом Skin & Blisters сестер Хопкинс под названием Disgusting Sisters. По словам автора, пластинка полна задора, юмора и энергии, а рецензент проводит параллель с Kate Nash и Billie Eilish.",
+   "title": "Disgusting Sisters – Skin & Blisters",
+   "ts": 1793179196.362102,
+   "why": "Дебютный альбом, соседний жанр, но без явных признаков любимого артиста"
+  },
   "febd0470b7af": {
    "also": [],
    "artist": "SOB x RBE",
@@ -4592,6 +4631,7 @@
   "a1a890b1992c": 1792575312.0914242,
   "a1b9ce14ff30": 1792146692.554182,
   "a1c683db1f91": 1792429132.0168471,
+  "a1d2fd463890": 1793179196.9444022,
   "a21305e9132c": 1792140455.0717502,
   "a2250ca0ad50": 1792140446.180915,
   "a236f66efb81": 1792140446.1809092,
@@ -5227,6 +5267,7 @@
   "fc88cbf0bb1b": 1792765252.6941996,
   "fcb7c6b0cfd8": 1792486031.3206658,
   "fcba5b1f882e": 1792760018.179531,
+  "fcbeb14549d5": 1793179193.6823359,
   "fccdeb149b4f": 1793150710.8924403,
   "fcd5f12f7a3c": 1792689139.551725,
   "fd5f5cb2f5b5": 1792512916.162363,
