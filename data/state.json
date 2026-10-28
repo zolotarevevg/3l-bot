@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793208310
+   "ok": 1793211287
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793208320
+   "ok": 1793211299
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793208320
+   "ok": 1793211299
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793208299
+   "ok": 1793211277
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793208307
+   "ok": 1793211282
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793208309
+   "ok": 1793211284
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793208311
+   "err_ts": 1793211287
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793208311
+   "ok": 1793211287
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793208290
+   "ok": 1793211266
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793208294
+   "ok": 1793211266
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793208313
+   "ok": 1793211288
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793208320
+   "ok": 1793211299
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793208320
+   "ok": 1793211299
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793208317
+   "ok": 1793211291
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793208287
+   "ok": 1793211250
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793208308
+   "ok": 1793211283
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793208310
+   "ok": 1793211286
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793208307
+   "ok": 1793211282
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793208316
+   "ok": 1793211291
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793208322
+   "ok": 1793211301
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793208321
+   "ok": 1793211300
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793208323
+   "ok": 1793211302
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793208323
+   "ok": 1793211302
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793208324
+   "ok": 1793211303
   }
  },
  "heartbeat": "2026-10-28",
@@ -364,6 +364,10 @@
     {
      "link": "https://readdork.com/news/the-chats-half-cut-album-australian-tour-f7e7f624aa",
      "source": "Dork"
+    },
+    {
+     "link": "https://stereogum.com/2515818/the-chats-announce-new-album-half-cut-hear-off-it/music/",
+     "source": "Stereogum"
     }
    ],
    "artist": "The Chats",
@@ -889,6 +893,26 @@
    "ts": 1792411085.9913924,
    "why": "новый альбом, жанр в записи не указан"
   },
+  "23ab5fbc5214": {
+   "also": [],
+   "artist": "Barrie",
+   "fit": 3,
+   "id": "23ab5fbc5214",
+   "kind": "single",
+   "link": "https://stereogum.com/2515819/barrie-gloria/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 192,
+   "release": "Gloria",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Barrie – “Gloria” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый сингл Barrie «Gloria» в рубрике New Music. Больше деталей в записи нет.",
+   "title": "Barrie – “Gloria”",
+   "ts": 1793211253.4501972,
+   "why": "новый сингл, жанр по записи не ясен"
+  },
   "24b361939a3a": {
    "also": [],
    "artist": "heavyskint",
@@ -1292,7 +1316,8 @@
    "release": "Nursery Rhyme",
    "russian": false,
    "source": "Stereogum",
-   "status": "new",
+   "status": "error",
+   "status_line": "Нужна · с ошибками, можно повторить",
    "summary_en": "The post Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley) appeared first on Stereogum .",
    "summary_ru": "Kevin Morby выпустил новый сингл «Nursery Rhyme» с участием Lonnie Holley. Запись опубликована в рубрике New Music на Stereogum.",
    "title": "Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley)",
@@ -1767,6 +1792,26 @@
    "title": "Stand Atlantic have released their fifth album ‘GODBREATH’ alongside new single ‘SO COOL’",
    "ts": 1792752824.880721,
    "why": "поп-панк и пост-хардкор, не в жанрах 3L"
+  },
+  "584dc50d1747": {
+   "also": [],
+   "artist": "Guided By Voices",
+   "fit": 4,
+   "id": "584dc50d1747",
+   "kind": "album",
+   "link": "https://stereogum.com/2515829/guided-by-voices-announce-45th-album-speculation-and-gossip/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 194,
+   "release": "Speculation And Gossip",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Guided By Voices Announce 45th Album <em>Speculation And Gossip</em> appeared first on Stereogum .",
+   "summary_ru": "Guided By Voices анонсировали свой 45-й альбом «Speculation And Gossip». В записи нет подробностей о дате выхода и лейбле.",
+   "title": "Guided By Voices Announce 45th Album Speculation And Gossip",
+   "ts": 1793211265.963211,
+   "why": "Анонс нового альбома инди-рок группы нулевых"
   },
   "58977be833e1": {
    "also": [],
@@ -2503,6 +2548,26 @@
    "title": "Matt Carmichael’s ‘Held In The Dark’ Is A Powerful Jazz Statement",
    "ts": 1792505497.7769437,
    "why": "джаз, не в жанрах 3L"
+  },
+  "a0fb4e852bbc": {
+   "also": [],
+   "artist": "Boldy James & Real Bad Man",
+   "fit": 2,
+   "id": "a0fb4e852bbc",
+   "kind": "album",
+   "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 193,
+   "release": "Strobelight",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Boldy James & Real Bad Man Release New Album <em>Strobelight</em> appeared first on Stereogum .",
+   "summary_ru": "Вышел новый альбом Strobelight, над которым работали Boldy James и Real Bad Man. Других подробностей в записи нет.",
+   "title": "Boldy James & Real Bad Man Release New Album Strobelight",
+   "ts": 1793211263.3055959,
+   "why": "хип-хоп, вне жанров 3L"
   },
   "a12bad004e16": {
    "also": [],
@@ -4149,6 +4214,7 @@
   "1f7aca6c3335": 1792517947.7068393,
   "1f84c8a07ba1": 1793205017.373517,
   "1f85cd65f7cb": 1792682259.115081,
+  "1fb2db2e956e": 1793211277.833291,
   "1fcf807a79bb": 1792661865.4209087,
   "2008852bbe08": 1792140455.9615865,
   "200d5236483c": 1792646047.2057033,
@@ -4182,6 +4248,7 @@
   "2332685efb39": 1792140449.7097278,
   "23617083d539": 1792411083.2442558,
   "236edaeb5971": 1792668773.5299575,
+  "23ab5fbc5214": 1793211250.8729966,
   "23b491ed0b82": 1792140455.0717523,
   "23b64343ec2e": 1793101086.7717955,
   "23b6f2f12dba": 1792140447.2519567,
@@ -4376,6 +4443,7 @@
   "3f3f0aff7cac": 1792422117.1566305,
   "3f44a8b2e63c": 1792146706.4860857,
   "3f46a570f024": 1793197858.3190536,
+  "3f71fd089465": 1793211291.7265656,
   "3f8439c7b1b7": 1792140446.3270478,
   "3f874448b1d3": 1792582319.4214797,
   "401357c7fb80": 1792595626.8481739,
@@ -4400,6 +4468,7 @@
   "42735e6d8d5d": 1793045786.6589262,
   "42ac00b68f5e": 1792140419.3187935,
   "42b19b2c4292": 1792394162.9122472,
+  "42b37d202a4f": 1793211256.8127153,
   "42db33201c97": 1792419522.009265,
   "42e296c212a7": 1792677632.7247596,
   "430f0f7ef803": 1792780275.8388228,
@@ -4558,6 +4627,7 @@
   "55da789a2292": 1792602864.0676343,
   "55f2b6c35e12": 1793032332.8383532,
   "55fb93099503": 1792140447.251956,
+  "56caf9fa7619": 1793211253.8323162,
   "56f2b400c544": 1792140446.1809154,
   "57353c4efd59": 1792842649.8388956,
   "574bb6f99175": 1792755041.806441,
@@ -4569,6 +4639,7 @@
   "57fc3445bdd8": 1792228457.4859502,
   "582655e58227": 1792173600.5714204,
   "583ec426e020": 1792752822.6748762,
+  "584dc50d1747": 1793211263.669217,
   "585653a4d97d": 1792600449.5720272,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
@@ -5061,6 +5132,7 @@
   "a06f36433034": 1793006214.4620893,
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
+  "a0fb4e852bbc": 1793211259.9000304,
   "a12bad004e16": 1793009223.062988,
   "a1356415039f": 1792584712.1633177,
   "a17704296b0a": 1793188228.1691058,
@@ -5662,6 +5734,7 @@
   "f18b60af7be7": 1793106887.4463055,
   "f19de1a9a3f3": 1792522303.0382776,
   "f19f1cc40b21": 1792734852.0287235,
+  "f1a176b889f2": 1793211295.140664,
   "f1e7a941e7f9": 1792140455.96159,
   "f1fa40e98212": 1792140446.180908,
   "f20cb86303b8": 1792703213.5297656,
@@ -5787,6 +5860,6 @@
   "см. слушал (TG)",
   "Clash"
  ],
- "tg_done": 56044714,
- "tg_offset": 56044714
+ "tg_done": 56044715,
+ "tg_offset": 56044715
 }
