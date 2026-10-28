@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793197870
+   "ok": 1793201442
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793197879
+   "ok": 1793201448
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793197885
+   "ok": 1793201449
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793197836
+   "ok": 1793201430
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793197843
+   "ok": 1793201438
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793197845
+   "ok": 1793201441
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793197870
+   "err_ts": 1793201443
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793197870
+   "ok": 1793201443
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793197829
+   "ok": 1793201420
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793197830
+   "ok": 1793201424
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793197872
+   "ok": 1793201444
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793197878
+   "ok": 1793201448
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793197878
+   "ok": 1793201448
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793197876
+   "ok": 1793201448
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793197822
+   "ok": 1793201414
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793197844
+   "ok": 1793201440
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793197870
+   "ok": 1793201442
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793197843
+   "ok": 1793201438
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793197876
+   "ok": 1793201447
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793197891
+   "ok": 1793201451
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793197886
+   "ok": 1793201450
   },
   "Родной звук (TG)": {
-   "count": 13,
+   "count": 11,
    "err": "",
-   "ok": 1793197892
+   "ok": 1793201452
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793197891
+   "ok": 1793201451
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793197895
+   "ok": 1793201454
   }
  },
  "heartbeat": "2026-10-28",
@@ -3482,6 +3482,26 @@
    "ts": 1792750438.8777783,
    "why": "новый сингл инди-группы, близкий к инди-поп звучанию"
   },
+  "e996067c43b9": {
+   "also": [],
+   "artist": "Tindersticks",
+   "fit": 4,
+   "id": "e996067c43b9",
+   "kind": "album",
+   "link": "https://stereogum.com/2515804/tindersticks-announce-new-album-dog-roses-hear-loving-leaving/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 189,
+   "release": "Dog Roses",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Tindersticks Announce New Album <em>Dog Roses</em>: Hear “Loving, Leaving” appeared first on Stereogum .",
+   "summary_ru": "Tindersticks анонсировали новый альбом Dog Roses и опубликовали трек Loving, Leaving. Подробностей о дате выхода и лейбле в записи нет.",
+   "title": "Tindersticks Announce New Album Dog Roses: Hear “Loving, Leaving”",
+   "ts": 1793201420.15789,
+   "why": "анонс нового альбома британской инди-группы"
+  },
   "eba415144f44": {
    "also": [],
    "artist": "Alphabet",
@@ -4368,6 +4388,7 @@
   "437e9e762bdf": 1792140419.3187883,
   "43d3de236d1c": 1792140447.2519557,
   "440e1f504b06": 1793098749.4489121,
+  "442f7aab855a": 1793201420.9320297,
   "445063a728a0": 1792679944.8095715,
   "4464a9a86618": 1793146363.8390317,
   "446c37bffae3": 1792422113.9901989,
@@ -4464,6 +4485,7 @@
   "4f3956b946c6": 1792659612.7369926,
   "4f5c07183d59": 1792748042.3901868,
   "4f60061fa94c": 1792140446.1809068,
+  "4f639b0b1a81": 1793201430.5670779,
   "4fb516e2a4f2": 1792140446.3270483,
   "4fc96a763b32": 1792752848.976044,
   "4fd7768f4c70": 1792780260.0034132,
@@ -4750,6 +4772,7 @@
   "7abe29b56b91": 1792140460.9287455,
   "7ac639564248": 1792659638.5494733,
   "7af72c2d298e": 1792582323.9984736,
+  "7b07a96a4850": 1793201414.126968,
   "7b39442a6078": 1792785001.355564,
   "7c006d277346": 1792140455.6358821,
   "7c36035dffc8": 1792605145.6038854,
@@ -4811,6 +4834,7 @@
   "840f36fc9aa4": 1792517975.2035751,
   "842bed8c6aea": 1792223386.951102,
   "8444dfbb9385": 1792140419.318789,
+  "84488fef6659": 1793201452.3271668,
   "845a9903ce34": 1792140419.476235,
   "846fb894c5dd": 1792140446.3270485,
   "84973a0db1b2": 1793128036.5742424,
@@ -5444,6 +5468,7 @@
   "de7fe97380c2": 1792582357.4732182,
   "dea5dd2af40b": 1792422159.7898874,
   "deb1f30892e6": 1792140419.4762268,
+  "deff74112748": 1793201433.3546443,
   "df2d09676e35": 1792582326.9854937,
   "df50b0fd8673": 1792413736.5080862,
   "df61e59d99af": 1793197892.2779577,
@@ -5537,6 +5562,7 @@
   "e89ab1c5dd31": 1792140455.0289218,
   "e8f6fecbc6e2": 1793009234.2189658,
   "e929bdd8f8e0": 1792486025.7565851,
+  "e996067c43b9": 1793201417.2264032,
   "e9c3a846ce3d": 1792740368.5752733,
   "e9c6c1b2844a": 1792755015.9322479,
   "e9fe32bd4a9b": 1792140462.281756,
