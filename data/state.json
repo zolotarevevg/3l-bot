@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793292843
+   "ok": 1793295882
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793292851
+   "ok": 1793295891
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,27 +16,28 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "",
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.brooklynvegan.com', port=443): Read timed out. (read timeout=25)",
+   "err_ts": 1793295916,
    "ok": 1793292851
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793292825
+   "ok": 1793295869
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793292830
+   "ok": 1793295876
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793292835
+   "ok": 1793295881
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793292843
+   "err_ts": 1793295883
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793292843
+   "ok": 1793295883
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793292813
+   "ok": 1793295854
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793292814
+   "ok": 1793295855
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793292845
+   "ok": 1793295884
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793292851
+   "ok": 1793295891
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793292851
+   "ok": 1793295891
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793292848
+   "ok": 1793295887
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793292800
+   "ok": 1793295848
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793292834
+   "ok": 1793295881
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793292839
+   "ok": 1793295882
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793292833,
-   "ok": 1793289538
+   "err": "",
+   "ok": 1793295880
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793292848
+   "ok": 1793295887
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793292855
+   "ok": 1793295918
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793292853
+   "ok": 1793295917
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793292856
+   "ok": 1793295919
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793292855
+   "ok": 1793295918
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793292857
+   "ok": 1793295920
   }
  },
  "heartbeat": "2026-10-29",
@@ -1254,6 +1254,26 @@
    "ts": 1793278860.029977,
    "why": "шугейз, новый альбом, но не в списке любимых"
   },
+  "32f17bd41422": {
+   "also": [],
+   "artist": "Bathing Suits",
+   "fit": 4,
+   "id": "32f17bd41422",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/bathing-suits-raise-the-temperature-with-do-ya/",
+   "listen": {},
+   "major": false,
+   "msg_id": 217,
+   "release": "Do Ya?",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Bathing Suits rip it up on new single ‘Do Ya?’. The breakout group were forged in the white heat of Leeds’ DIY community, a scene that is really leaving its mark nationally in 2026. Earlier this year the band’s debut EP ‘KILL BATHING SUITS’ won admiring glances, with lead singer… The post Bathing Suits Raise The Temperature With ‘Do Ya?’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Группа Bathing Suits выпустила новый сингл «Do Ya?». Коллектив из Лидса, выросший в DIY-сцене, earlier в этом году выпустил дебютный EP KILL BATHING SUITS.",
+   "title": "Bathing Suits Raise The Temperature With ‘Do Ya?’",
+   "ts": 1793295874.9618642,
+   "why": "новый сингл, инди-группа из Лидса"
+  },
   "330a6c7e1556": {
    "also": [
     {
@@ -2223,6 +2243,26 @@
    "title": "EsDeeKid Shares ‘BANDIT’, Confirms UK Tour",
    "ts": 1793009222.502851,
    "why": "хип-хоп/рэп, не в жанрах 3L"
+  },
+  "6aa419cb4a3b": {
+   "also": [],
+   "artist": "Graham Hill",
+   "fit": 4,
+   "id": "6aa419cb4a3b",
+   "kind": "album",
+   "link": "https://stereogum.com/2515989/beach-house-drummer-graham-hill-announces-debut-solo-album-taking-in-stars-hear-monster-in-my-head/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 216,
+   "release": "Taking In Stars",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Beach House Drummer Graham Hill Announces Debut Solo Album <em>Taking In Stars</em>: Hear “Monster In My Head” appeared first on Stereogum .",
+   "summary_ru": "Барабанщик Beach House Грэм Хилл анонсировал свой дебютный сольный альбом Taking In Stars и выпустил трек Monster In My Head. Подробностей о лейбле и дате выхода в записи нет.",
+   "title": "Beach House Drummer Graham Hill Announces Debut Solo Album Taking In Stars: Hear “Monster In My Head”",
+   "ts": 1793295854.3570235,
+   "why": "анонс дебюта участника дрим-попа, близкого Beach House"
   },
   "6b8b10122807": {
    "also": [],
@@ -4826,6 +4866,7 @@
   "32a070286773": 1793269297.096179,
   "32b9a8afc72c": 1792689113.3207986,
   "32cf6f6ea87b": 1792584674.2430356,
+  "32f17bd41422": 1793295873.1213784,
   "330a6c7e1556": 1792600420.1661782,
   "332cab8f75fc": 1793088299.2490263,
   "337e73d54711": 1793096034.3622415,
@@ -4850,6 +4891,7 @@
   "35ac8a3e9935": 1792140462.2817574,
   "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
+  "363a3157a06f": 1793295887.8693511,
   "3646f9c90cd8": 1792768205.0424738,
   "36529816ec3a": 1792765227.525167,
   "365e6a6760ef": 1793119488.137685,
@@ -5271,6 +5313,7 @@
   "6a62e9a663d5": 1792790871.0148082,
   "6a8aaa8bb9ed": 1792600456.4931808,
   "6a9fc3f24711": 1792140446.3270493,
+  "6aa419cb4a3b": 1793295851.6424706,
   "6addf40e5c43": 1792140449.5165477,
   "6adf74921ba7": 1792140448.2248957,
   "6b272f4e94b0": 1792610211.0221338,
@@ -5588,6 +5631,7 @@
   "9758c8699568": 1793197845.1989255,
   "97730b87c822": 1792703197.5852556,
   "97d2543aea4d": 1792140455.0717547,
+  "97d37c06ded3": 1793295869.8816788,
   "98242af8d06a": 1792768223.0249166,
   "98289903348d": 1792140419.3187919,
   "986b95625780": 1792593107.5179732,
@@ -5690,6 +5734,7 @@
   "a46c9856d66d": 1792140446.3270497,
   "a46f89a11164": 1792582357.47322,
   "a4a23d33d9a0": 1792548700.4680188,
+  "a4bd0ab14766": 1793295848.3561518,
   "a4dcb9fd6d1a": 1793197879.0668306,
   "a506fec108c4": 1792144557.5662146,
   "a508c9f13caa": 1793032323.6896892,
@@ -6097,6 +6142,7 @@
   "daa95b9bcfa8": 1793023081.0062008,
   "daae5aeac297": 1792600446.8716428,
   "dac56a35f737": 1792169731.4102747,
+  "dada766d0c01": 1793295876.6909928,
   "dafbadd8b0f8": 1792399821.4335585,
   "db043522e1d2": 1792327581.376946,
   "db11a3f46399": 1792140449.8447473,
