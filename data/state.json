@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793269304
+   "ok": 1793272580
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793269310
+   "ok": 1793272586
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793269310
+   "ok": 1793272586
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793269282
+   "ok": 1793272542
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793269289
+   "ok": 1793272549
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793269302
+   "ok": 1793272550
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793269304
+   "err_ts": 1793272581
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793269304
+   "ok": 1793272581
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793269277
+   "ok": 1793272535
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793269278
+   "ok": 1793272537
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793269306
+   "ok": 1793272583
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793269310
+   "ok": 1793272586
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793269310
+   "ok": 1793272586
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793269309
+   "ok": 1793272586
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793269277
+   "ok": 1793272535
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793269290
+   "ok": 1793272550
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793269304
+   "ok": 1793272580
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793269290,
-   "ok": 1793265940
+   "err": "",
+   "ok": 1793272549
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793269309
+   "ok": 1793272585
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793269315
+   "ok": 1793272589
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793269312
+   "ok": 1793272588
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793269316
+   "ok": 1793272590
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793269316
+   "ok": 1793272589
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793269317
+   "ok": 1793272591
   }
  },
  "heartbeat": "2026-10-29",
@@ -1114,6 +1113,26 @@
    "ts": 1792768191.012963,
    "why": "грайм/рэп, мимо вкуса 3L"
   },
+  "2cd10df29ac5": {
+   "also": [],
+   "artist": "McGrath",
+   "fit": 3,
+   "id": "2cd10df29ac5",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/rising-irish-star-mcgrath-shares-new-single-the-parrot/",
+   "listen": {},
+   "major": false,
+   "msg_id": 203,
+   "release": "The Parrot",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Rising Irish songwriter McGrath has shared his new single ‘The Parrot’ in full. The Belfast-based artist will release his debut EP ‘SÁSTA’ on January 22nd, following sessions with acclaimed producer Rob Kirwan (Hozier, PJ Harvey, U2). Set to play an intimate headline run this winter – including a show at London’s… The post Rising Irish Star McGrath Shares New Single ‘The Parrot’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Ирландский исполнитель Макграт из Белфаста выпустил сингл «The Parrot». 22 января выйдет его дебютный EP SÁSTA, записанный с продюсером Робом Кирваном (Hozier, PJ Harvey, U2).",
+   "title": "Rising Irish Star McGrath Shares New Single ‘The Parrot’",
+   "ts": 1793272545.5456192,
+   "why": "Сольный сонграйтер, жанр не ясен из текста"
+  },
   "2f4081e0ca44": {
    "also": [],
    "artist": "keshi",
@@ -1153,6 +1172,26 @@
    "title": "Lil Baby Recruits Future, Young Thug for New Album Fresh",
    "ts": 1792529037.2676094,
    "why": "хип-хоп, не любимый артист 3L"
+  },
+  "3160a17a6f2a": {
+   "also": [],
+   "artist": "Robocobra Quartet",
+   "fit": 2,
+   "id": "3160a17a6f2a",
+   "kind": "single",
+   "link": "https://readdork.com/news/robocobra-quartet-nothing-hundred-pieces-single-d7f15e0361",
+   "listen": {},
+   "major": false,
+   "msg_id": 205,
+   "release": "Nothing",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Robocobra Quartet’s new single ‘Nothing’ previews their five-hour, 100-song album ‘Hundred Pieces’, due on 13th November.",
+   "summary_ru": "Ирландский экспериментальный коллектив Robocobra Quartet выпустил сингл «Nothing», который анонсирует их пятичасовой альбом «Hundred Pieces» из 100 треков. Релиз запланирован на 13 ноября.",
+   "title": "Irish experimental collective Robocobra Quartet have shared ‘Nothing’ from their forthcoming five-hour, 100-track album",
+   "ts": 1793272561.0030124,
+   "why": "экспериментальный коллектив, далеко от жанров 3L"
   },
   "31d603d83801": {
    "also": [],
@@ -3673,6 +3712,26 @@
    "ts": 1792677612.6251478,
    "why": "новый трек фронтмена The Killers"
   },
+  "e44054a866ff": {
+   "also": [],
+   "artist": "Crownshift",
+   "fit": 2,
+   "id": "e44054a866ff",
+   "kind": "album",
+   "link": "https://readdork.com/news/crownshift-the-shadows-we-buried-in-the-dead-of-night-49f5b566f4",
+   "listen": {},
+   "major": false,
+   "msg_id": 204,
+   "release": "The Shadows We Buried",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Finnish metal quartet’s second album arrives via Nuclear Blast on 29th January 2027, with first single ‘In The Dead Of Night’ streaming now.",
+   "summary_ru": "Финская метал-группа Crownshift анонсировала второй альбом The Shadows We Buried, который выйдет на Nuclear Blast 29 января 2027 года. Вместе с анонсом доступен для прослушивания первый сингл In The Dead Of Night.",
+   "title": "Finnish metal supergroup Crownshift have announced second album ‘The Shadows We Buried’ alongside new single",
+   "ts": 1793272555.4517834,
+   "why": "хард-метал, не в жанрах 3L"
+  },
   "e522bf3e1268": {
    "also": [],
    "artist": "Ruby Gill",
@@ -3984,6 +4043,26 @@
    "ts": 1793240425.0981264,
    "why": "пост-панк, новый альбом и сингл, но не любимый артист"
   },
+  "f5b0dff55287": {
+   "also": [],
+   "artist": "EVILLE",
+   "fit": 2,
+   "id": "f5b0dff55287",
+   "kind": "ep",
+   "link": "https://readdork.com/news/eville-bratpocalypse-ep-slay-uk-tour-f29db0f4f1",
+   "listen": {},
+   "major": false,
+   "msg_id": 206,
+   "release": "BRATPOCALYPSE",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "EVILLE’s new EP arrives on 19th February 2027, with new single ‘SLAY’ out now and a five-date UK headline tour following alongside it.",
+   "summary_ru": "Брайтонское трио EVILLE анонсировало EP BRATPOCALYPSE, который выйдет 19 февраля 2027 года. Вместе с анонсом вышел сингл SLAY, а следом пройдет пятидневный хедлайнерский тур по Великобритании.",
+   "title": "Brighton brat-metal trio EVILLE have announced new EP ‘BRATPOCALYPSE’ alongside single ‘SLAY’",
+   "ts": 1793272571.4684749,
+   "why": "брат-метал, жанр далек от 3L"
+  },
   "f7f71bf130cd": {
    "also": [],
    "artist": "Trinket",
@@ -4265,6 +4344,7 @@
   "0dcfb6b96df3": 1792140446.180909,
   "0df095a8d387": 1792142237.7308536,
   "0df48f6559f7": 1793182407.7954786,
+  "0dfb99f24a80": 1793272561.540503,
   "0e1856637269": 1792411086.3589056,
   "0e24bf5a5820": 1792140449.8447468,
   "0e47828ccca1": 1792940229.1130912,
@@ -4331,11 +4411,13 @@
   "15dc730ffb58": 1792316950.3860185,
   "168763a582b0": 1792422143.4614165,
   "169c87879ee4": 1792140446.1809082,
+  "16b7d0a8425a": 1793272572.0160525,
   "16b7d5deb701": 1792140455.0717554,
   "16c859577fb8": 1792757302.6900477,
   "178cfe49c8d2": 1793057309.6174543,
   "1798093617ec": 1792582357.4732208,
   "17a1d23913a9": 1793197826.361102,
+  "17b63e8ba700": 1793272535.539316,
   "17e9fe3eb45a": 1792773192.5090897,
   "180557fd06c8": 1793146361.0068502,
   "182b5c560892": 1793101057.2333622,
@@ -4478,6 +4560,7 @@
   "2c7c9985e497": 1793103425.4808462,
   "2c7f393eb9c1": 1792768189.779041,
   "2caf0e6c6233": 1792142237.7308605,
+  "2cd10df29ac5": 1793272542.7162652,
   "2d0d74d93414": 1792140449.844743,
   "2d47c01ab3e0": 1793028996.9477026,
   "2d5fe814e4d0": 1792140459.2475772,
@@ -4512,6 +4595,7 @@
   "31134b4621b6": 1792703188.7671592,
   "311e05ac56c5": 1793106872.0544724,
   "3128c6ed83d6": 1792529035.3777864,
+  "3160a17a6f2a": 1793272559.4953194,
   "31691a2bbe33": 1793185463.688092,
   "31826350416f": 1793011793.5925248,
   "31862f5e48fa": 1793119464.5097456,
@@ -4733,6 +4817,7 @@
   "4ba24c824ff9": 1792140460.0458252,
   "4ba938e14e24": 1793217805.6066408,
   "4bbf73eb976c": 1793269290.729501,
+  "4bca4aad85e8": 1793272575.1500897,
   "4bddafaf6ece": 1793165159.0068724,
   "4be0a6ba5462": 1792492292.2950537,
   "4c0d756a398a": 1792140419.3187897,
@@ -5324,6 +5409,7 @@
   "9f206b920ab3": 1792413729.4807835,
   "9f2eaebe95d2": 1793185507.9978104,
   "9f307390a3bd": 1792140449.70973,
+  "9f61c4acee28": 1793272546.2184758,
   "9f62f37de7c7": 1792656835.1446323,
   "9fb3120ba541": 1793096031.372419,
   "9fb7bf4b6ef1": 1792140448.2248917,
@@ -5585,6 +5671,7 @@
   "c2bd425a97fd": 1793029011.5340433,
   "c2dff1919ab9": 1792399814.7457006,
   "c2eb773ca39b": 1792140446.3270478,
+  "c3641a1e29d5": 1793272550.7513683,
   "c379b324eefd": 1792140460.0458236,
   "c37aa336bbb3": 1792752842.9789276,
   "c38b868b3723": 1792140455.0289168,
@@ -5788,6 +5875,7 @@
   "de7fe97380c2": 1792582357.4732182,
   "dea5dd2af40b": 1792422159.7898874,
   "deb1f30892e6": 1792140419.4762268,
+  "dee89ea944ca": 1793272564.3602817,
   "deff74112748": 1793201433.3546443,
   "df2d09676e35": 1792582326.9854937,
   "df50b0fd8673": 1792413736.5080862,
@@ -5796,6 +5884,7 @@
   "dfba096075f9": 1793113270.3635263,
   "dfe8c773d87e": 1792140449.7097282,
   "dff397453995": 1792140449.7097275,
+  "e0061ec12746": 1793272578.5970533,
   "e00b2da31894": 1792383609.199037,
   "e02dc6e2a336": 1792140446.1809142,
   "e03f37534103": 1792595623.5849202,
@@ -5846,6 +5935,7 @@
   "e41da7339017": 1792593104.3864765,
   "e426a88a31b6": 1793009269.4628005,
   "e43c3be89515": 1792677611.2302487,
+  "e44054a866ff": 1793272553.6737134,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
   "e49043178e67": 1793230561.3587773,
@@ -5974,6 +6064,7 @@
   "f509cb65b9bc": 1793128038.045481,
   "f513d9fe4edc": 1792140449.516547,
   "f5281cb9489e": 1793240423.419321,
+  "f5b0dff55287": 1793272568.0709612,
   "f5b4ae464757": 1792309734.017719,
   "f5ecccd8442e": 1792140446.1809096,
   "f5f31ee24982": 1792167243.2886531,
@@ -5995,6 +6086,7 @@
   "f8843380c3ab": 1792607490.4558456,
   "f8973bf8bc59": 1792762697.9600704,
   "f8acb2f36088": 1793194507.7393863,
+  "f8c447c867ae": 1793272555.9764917,
   "f8caa2cfa6c7": 1792458443.8479784,
   "f8f22d32b496": 1792422147.1035094,
   "f8f3dca1ddb3": 1792140449.5165517,
