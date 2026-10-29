@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793305005
+   "ok": 1793307944
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793305011
+   "ok": 1793307950
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793305011
+   "ok": 1793307950
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793305000
+   "ok": 1793307939
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793305002
+   "ok": 1793307940
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793305003
+   "ok": 1793307942
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793305005
+   "err_ts": 1793307945
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793305005
+   "ok": 1793307945
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793304989
+   "ok": 1793307933
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793304989
+   "ok": 1793307933
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793305007
+   "ok": 1793307946
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793305010
+   "ok": 1793307949
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793305010
+   "ok": 1793307949
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793305010
+   "ok": 1793307949
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793304989
+   "ok": 1793307933
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793305002
+   "ok": 1793307941
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793305004
+   "ok": 1793307942
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793305002
+   "ok": 1793307940
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793305010
+   "ok": 1793307949
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793305013
+   "ok": 1793307951
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793305012
+   "ok": 1793307951
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793305014
+   "ok": 1793307952
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793305014
+   "ok": 1793307952
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793305015
+   "ok": 1793307953
   }
  },
  "heartbeat": "2026-10-29",
@@ -3281,7 +3281,12 @@
    "why": "новый сингл, инди-электроника и дрим-поп, не любимый артист"
   },
   "b4d51795ee97": {
-   "also": [],
+   "also": [
+    {
+     "link": "http://www.undertheradarmag.com/news/flower_face_announces_new_album_kill_the_muse_out_february_5th_via_nettwerk",
+     "source": "Under the Radar"
+    }
+   ],
    "artist": "Flower Face",
    "fit": 4,
    "id": "b4d51795ee97",
@@ -5066,6 +5071,7 @@
   "49849074169a": 1792246358.0255156,
   "49c71930e262": 1793222762.824435,
   "49d34a449b5d": 1792668763.224391,
+  "49d41414e0d4": 1793307942.8358788,
   "49f58f0ed6f7": 1793062346.56337,
   "49f97ed38bf6": 1792595639.813323,
   "49ff6130e324": 1792140460.0458262,
