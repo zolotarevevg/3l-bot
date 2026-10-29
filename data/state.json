@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793289540
+   "ok": 1793292843
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793289549
+   "ok": 1793292851
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793289556
+   "ok": 1793292851
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793289533
+   "ok": 1793292825
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793289538
+   "ok": 1793292830
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793289539
+   "ok": 1793292835
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793289541
+   "err_ts": 1793292843
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793289541
+   "ok": 1793292843
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793289525
+   "ok": 1793292813
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793289528
+   "ok": 1793292814
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793289542
+   "ok": 1793292845
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793289548
+   "ok": 1793292851
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793289548
+   "ok": 1793292851
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793289545
+   "ok": 1793292848
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793289522
+   "ok": 1793292800
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793289539
+   "ok": 1793292834
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793289540
+   "ok": 1793292839
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793292833,
    "ok": 1793289538
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793289545
+   "ok": 1793292848
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793289560
+   "ok": 1793292855
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793289557
+   "ok": 1793292853
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793289566
+   "ok": 1793292856
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793289565
+   "ok": 1793292855
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793289569
+   "ok": 1793292857
   }
  },
  "heartbeat": "2026-10-29",
@@ -1604,6 +1605,26 @@
    "ts": 1792419527.5654926,
    "why": "мейнстрим-поп, концертный обзор без нового релиза"
   },
+  "45c44995916e": {
+   "also": [],
+   "artist": "Bryan Adams",
+   "fit": 2,
+   "id": "45c44995916e",
+   "kind": "single",
+   "link": "https://stereogum.com/2515960/bryan-adams-donald-trump-diss-track-epstein-files/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 214,
+   "release": "",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Bryan Adams Drops Another Trump Diss Track And This One Mentions The Epstein Files appeared first on Stereogum .",
+   "summary_ru": "Брайан Адамс выпустил новый трек, направленный против Дональда Трампа, в котором упоминаются файлы Эпштейна. Это уже очередная его антитрамповская песня.",
+   "title": "Bryan Adams Drops Another Trump Diss Track And This One Mentions The Epstein Files",
+   "ts": 1793292813.1170306,
+   "why": "мейнстрим-рок, политический трек, не в жанрах 3L"
+  },
   "47a959a6b4ab": {
    "also": [],
    "artist": "The Big Moon",
@@ -1863,6 +1884,26 @@
    "title": "Cloud Nothings are paying homage to heavy rock with their new album, ‘What Kind of Hell Did You Survive?’",
    "ts": 1792595610.2598193,
    "why": "новый альбом инди-рок группы, близкий жанр"
+  },
+  "548b0ddcca4a": {
+   "also": [],
+   "artist": "May Payne",
+   "fit": 4,
+   "id": "548b0ddcca4a",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/premiere_may_payne_shares_new_single_solid_ground",
+   "listen": {},
+   "major": false,
+   "msg_id": 215,
+   "release": "Solid Ground",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "London-based indie singer/songwriter May Payne has been on the rise on her local live circuit over the past few years, evoking moments of sweeping catharsis onstage. In turn, she set out to capture that same deep emotive weight on her upcoming EP, Keeper. After debuting with her 2023 EP, Sane, and releasing her sophomore EP, High Demand, the following year, Payne retreated to a secluded Welsh cottage to record Keeper.",
+   "summary_ru": "Лондонская инди-исполнительница Мэй Пэйн выпустила новый сингл «Solid Ground», который войдёт в её предстоящий EP Keeper. Для записи EP она уехала в уединённый коттедж в Уэльсе.",
+   "title": "Premiere: May Payne Shares New Single “Solid Ground”",
+   "ts": 1793292842.288955,
+   "why": "инди-исполнительница, новый сингл и анонс EP"
   },
   "54afe85db117": {
    "also": [
@@ -4730,6 +4771,7 @@
   "2d0d74d93414": 1792140449.844743,
   "2d47c01ab3e0": 1793028996.9477026,
   "2d5fe814e4d0": 1792140459.2475772,
+  "2d67b560074b": 1793292853.342929,
   "2d97d6d7f7f2": 1793101021.7718077,
   "2da2727eeb07": 1792643560.5292554,
   "2db12c71e7ea": 1792140446.1809146,
@@ -4762,6 +4804,7 @@
   "311e05ac56c5": 1793106872.0544724,
   "3128c6ed83d6": 1792529035.3777864,
   "3160a17a6f2a": 1793272559.4953194,
+  "316588a5efa1": 1793292825.7444928,
   "31691a2bbe33": 1793185463.688092,
   "31826350416f": 1793011793.5925248,
   "31862f5e48fa": 1793119464.5097456,
@@ -4933,6 +4976,7 @@
   "451e0f45f3cf": 1792404592.9865537,
   "453ffefdb9af": 1792861111.8819263,
   "455627629f0c": 1793197822.716074,
+  "45c44995916e": 1793292809.957455,
   "45cc953ad3e7": 1792664269.6911159,
   "45e68d9ca3ef": 1792700949.5098526,
   "45f8b1948724": 1792703194.8477395,
@@ -5050,6 +5094,7 @@
   "52f5fd0bc6f8": 1792140449.8447504,
   "52fc2b9edc40": 1792818685.6391878,
   "52fe06d941d6": 1792140449.51655,
+  "530d6f307cb2": 1793292803.8227222,
   "534d39f0f093": 1793103448.7078958,
   "537ada880110": 1793289563.8447607,
   "5388de7d4eca": 1792413723.4630873,
@@ -5060,10 +5105,12 @@
   "540adfee391a": 1792555752.1734598,
   "5411019fd26e": 1792567579.3377168,
   "5481477a3d7e": 1792595608.0459225,
+  "548b0ddcca4a": 1793292839.669886,
   "549bcff9845c": 1792668789.7981806,
   "54aef5424943": 1792140455.961583,
   "54aefc573cc2": 1792859098.189948,
   "54afe85db117": 1792492316.3400936,
+  "54c385229b20": 1793292835.5648713,
   "54c3d4c56840": 1792140449.84475,
   "54f33345c231": 1792497236.6745937,
   "5508a72ffbed": 1792505477.734797,
@@ -5292,6 +5339,7 @@
   "7403be02e9eb": 1792830506.7481964,
   "7418382b35bb": 1792140447.2519574,
   "7444ec11d643": 1792140449.8447502,
+  "744f0d13593d": 1793292830.9186318,
   "74778f5828ac": 1792821141.9760711,
   "747d60507178": 1792664300.312854,
   "74cc71b33f91": 1793074570.840606,
@@ -5737,6 +5785,7 @@
   "b16258fa1eba": 1792309756.0748625,
   "b16332a25b50": 1792696687.5210617,
   "b16a5c56932b": 1792703170.5689373,
+  "b170768a7d51": 1793292848.4045055,
   "b18fa19f8b24": 1792169692.9804842,
   "b19823a2c166": 1793275338.7487352,
   "b198aa2b788a": 1793023051.9468699,
@@ -6227,6 +6276,7 @@
   "ef6938d92007": 1792390459.402517,
   "ef75b26814a5": 1793032291.680679,
   "ef8ac49ef671": 1792140449.8447492,
+  "efa1ebec11d5": 1793292800.0498178,
   "efc657e40fed": 1792582357.4732265,
   "efd5d3fe12c6": 1793101067.5991943,
   "efdf1404f9cc": 1793032306.9648721,
@@ -6285,6 +6335,7 @@
   "f7ca69e41d64": 1793190562.9521356,
   "f7cc9b5a10b7": 1792425027.4257884,
   "f7f71bf130cd": 1793110199.5515742,
+  "f8011c1a0bb3": 1793292807.0370576,
   "f80c23e5c4f2": 1792140446.1809046,
   "f8324baa0ff4": 1792156073.8070056,
   "f85865a6d19b": 1793190609.8199177,
