@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793265943
+   "ok": 1793269304
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793265948
+   "ok": 1793269310
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793265949
+   "ok": 1793269310
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793265938
+   "ok": 1793269282
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793265940
+   "ok": 1793269289
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793265942
+   "ok": 1793269302
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793265944
+   "err_ts": 1793269304
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793265943
+   "ok": 1793269304
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793265927
+   "ok": 1793269277
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793265927
+   "ok": 1793269278
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793265945
+   "ok": 1793269306
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793265948
+   "ok": 1793269310
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793265948
+   "ok": 1793269310
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793265948
+   "ok": 1793269309
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793265926
+   "ok": 1793269277
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793265941
+   "ok": 1793269290
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793265943
+   "ok": 1793269304
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793269290,
    "ok": 1793265940
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793265948
+   "ok": 1793269309
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793265954
+   "ok": 1793269315
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793265950
+   "ok": 1793269312
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793265956
+   "ok": 1793269316
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793265955
+   "ok": 1793269316
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793265957
+   "ok": 1793269317
   }
  },
  "heartbeat": "2026-10-29",
@@ -1673,6 +1674,26 @@
    "title": "ATEEZ have shared new single ‘Drip’ ahead of EP ‘GOLDEN HOUR : Part.6’",
    "ts": 1792752851.398589,
    "why": "K-pop, мейнстрим-поп, не любимый артист"
+  },
+  "503087aeddbe": {
+   "also": [],
+   "artist": "Ben Hauke",
+   "fit": 3,
+   "id": "503087aeddbe",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/ben-hauke-stays-true-to-himself-on-future-bruk/",
+   "listen": {},
+   "major": false,
+   "msg_id": 202,
+   "release": "Future Bruk",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "London producer Ben Hauke has shared new album ‘Future Bruk’ in full. CLASH has followed Ben’s work for a long time now, and he’s a producer with a tendency to think outside the box. Initially emerging with a fusion of broken beat, house, and jazz-adjacent elasticity, he’s since refined and… The post Ben Hauke Stays True To Himself On ‘Future Bruk’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Лондонский продюсер Бен Хоук выпустил новый альбом Future Bruk полностью. По описанию, его музыка сочетает брокен-бит, хаус и джазовую гибкость ритма.",
+   "title": "Ben Hauke Stays True To Himself On ‘Future Bruk’",
+   "ts": 1793269285.3607705,
+   "why": "Электроника на стыке брокен-бита и хауса, соседний жанр"
   },
   "5161be51ff84": {
    "also": [],
@@ -4374,6 +4395,7 @@
   "2043ca86c43d": 1792530976.3543844,
   "204f128ed171": 1792140448.2248952,
   "20e15adbcf6c": 1792625109.7727883,
+  "20fe7f379da6": 1793269294.0205712,
   "2132cb7b53af": 1792156032.01266,
   "213b94bb11f0": 1792443258.3728712,
   "213ce197186c": 1792458440.4909623,
@@ -4468,6 +4490,7 @@
   "2e62ab4b5514": 1792582357.4732254,
   "2e7d01277e39": 1792140419.3187907,
   "2e7d2d2bb842": 1793262582.4886398,
+  "2e924bc6803a": 1793269299.6413019,
   "2eac6fc0f112": 1792140456.3847518,
   "2eba3b0759dc": 1792677664.7420664,
   "2ef8fa22a2e2": 1792140455.0289195,
@@ -4504,6 +4527,7 @@
   "322784ec836b": 1792140456.3847504,
   "3248cf69049e": 1792757292.7157557,
   "325c0a023b27": 1792411065.409499,
+  "32a070286773": 1793269297.096179,
   "32b9a8afc72c": 1792689113.3207986,
   "32cf6f6ea87b": 1792584674.2430356,
   "330a6c7e1556": 1792600420.1661782,
@@ -4708,6 +4732,7 @@
   "4b83f3977353": 1792140447.2519555,
   "4ba24c824ff9": 1792140460.0458252,
   "4ba938e14e24": 1793217805.6066408,
+  "4bbf73eb976c": 1793269290.729501,
   "4bddafaf6ece": 1793165159.0068724,
   "4be0a6ba5462": 1792492292.2950537,
   "4c0d756a398a": 1792140419.3187897,
@@ -4745,6 +4770,7 @@
   "4fc96a763b32": 1792752848.976044,
   "4fd7768f4c70": 1792780260.0034132,
   "4fdb7591c6cc": 1792413693.1458669,
+  "503087aeddbe": 1793269282.702036,
   "503f6fa21f9f": 1792140447.2519507,
   "507dccca9d6b": 1792580181.8582704,
   "5080e114c5a9": 1792399824.7527132,
@@ -5097,6 +5123,7 @@
   "82d4db8fa147": 1792582344.187398,
   "82ed20c8ee1d": 1793014213.0276093,
   "831514a0216c": 1792140419.318791,
+  "8341f0d8d8a8": 1793269285.8408723,
   "835b4da34eef": 1792573131.4566736,
   "836ca427c997": 1792784996.9077108,
   "8396c64e6662": 1792140455.961587,
@@ -5546,6 +5573,7 @@
   "c17ae30430f4": 1792849747.105903,
   "c1c70e5e58cd": 1792140455.6358776,
   "c1cba164a324": 1793116270.8527167,
+  "c1eb886556eb": 1793269313.482209,
   "c1ee0c25a30d": 1792140455.0289285,
   "c1fd74c901f3": 1792582364.6117935,
   "c20bbe944bc5": 1792679916.1630077,
@@ -5604,6 +5632,7 @@
   "c79cc4d548ad": 1792162974.6287427,
   "c7bddda2f5f3": 1793240443.721931,
   "c800bd59ce17": 1793028982.9240665,
+  "c812b6da4baf": 1793269312.0102952,
   "c83788df11cc": 1792160452.6291058,
   "c89b7e996f04": 1792140449.516548,
   "c89d98f8b618": 1792140455.071753,
