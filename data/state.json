@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793272580
+   "ok": 1793275363
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793272586
+   "ok": 1793275369
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793272586
+   "ok": 1793275369
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793272542
+   "ok": 1793275353
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793272549
+   "ok": 1793275360
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793272550
+   "ok": 1793275362
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793272581
+   "err_ts": 1793275363
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793272581
+   "ok": 1793275363
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793272535
+   "ok": 1793275338
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793272537
+   "ok": 1793275345
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793272583
+   "ok": 1793275365
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793272586
+   "ok": 1793275369
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793272586
+   "ok": 1793275368
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793272586
+   "ok": 1793275368
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793272535
+   "ok": 1793275338
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793272550
+   "ok": 1793275361
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793272580
+   "ok": 1793275363
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793272549
+   "ok": 1793275361
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793272585
+   "ok": 1793275368
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793272589
+   "ok": 1793275371
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793272588
+   "ok": 1793275370
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793272590
+   "ok": 1793275372
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793272589
+   "ok": 1793275372
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793272591
+   "ok": 1793275373
   }
  },
  "heartbeat": "2026-10-29",
@@ -3963,6 +3963,26 @@
    "ts": 1792478068.4334996,
    "why": "метalcore и прог-метал, вне жанров 3L"
   },
+  "f0b3500b2b33": {
+   "also": [],
+   "artist": "The Snuts",
+   "fit": 4,
+   "id": "f0b3500b2b33",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/reviews/the-snuts-joy-in-short-moments/",
+   "listen": {},
+   "major": false,
+   "msg_id": 207,
+   "release": "Joy In Short Moments",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "The Snuts’ new record ‘Joy In Short Moments’ marks the Scottish band’s fourth studio album, and it follows the huge commercial success of their opening trilogy, all of which peaked in the UK Top 10. It’s easy to see why; the band are constantly catchy and often relatable. There’s no… The post The Snuts – Joy In Short Moments appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Clash опубликовал рецензию на четвертый студийный альбом шотландской группы The Snuts «Joy In Short Moments». Предыдущие три альбома группы попали в топ-10 британского чарта.",
+   "title": "The Snuts – Joy In Short Moments",
+   "ts": 1793275359.0802622,
+   "why": "инди-рок в жанрах 3L, новый альбом, рецензия"
+  },
   "f1603aec8733": {
    "also": [],
    "artist": "FanSandro",
@@ -4320,6 +4340,7 @@
   "09e91e17bdb5": 1792142237.7308555,
   "0a175cea454a": 1792447350.552838,
   "0a23054c8cc0": 1792140419.3187902,
+  "0a537b9bfc98": 1793275341.4909816,
   "0a6290fd8a6a": 1793110210.3360517,
   "0a934b806ad3": 1793028976.1769118,
   "0aabe4fd61ec": 1792140446.1809072,
@@ -5545,6 +5566,7 @@
   "b16332a25b50": 1792696687.5210617,
   "b16a5c56932b": 1792703170.5689373,
   "b18fa19f8b24": 1792169692.9804842,
+  "b19823a2c166": 1793275338.7487352,
   "b198aa2b788a": 1793023051.9468699,
   "b1aed9b305dd": 1792140419.6649106,
   "b1c1030d0039": 1792140446.1809149,
@@ -5962,6 +5984,7 @@
   "e67c156bd693": 1792515312.985797,
   "e6defe15d0b1": 1793119495.3758433,
   "e6edcec16fd8": 1792140461.4665887,
+  "e74442003b7f": 1793275353.621661,
   "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
   "e7921996e27c": 1792750436.4603963,
@@ -6033,6 +6056,7 @@
   "f0498cc5ac29": 1792762666.3420427,
   "f05dc6d2a0b3": 1792426641.387894,
   "f079f6a977f9": 1792140455.9615886,
+  "f0b3500b2b33": 1793275356.5604665,
   "f0ca5bb9c05f": 1792140419.318792,
   "f0d393044f5e": 1792580181.8582711,
   "f0f750fbac1e": 1792140455.635877,
