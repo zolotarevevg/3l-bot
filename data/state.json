@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793275363
+   "ok": 1793278876
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793275369
+   "ok": 1793278884
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,27 +16,28 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "",
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.brooklynvegan.com', port=443): Read timed out. (read timeout=25)",
+   "err_ts": 1793278910,
    "ok": 1793275369
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793275353
+   "ok": 1793278853
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793275360
+   "ok": 1793278862
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793275362
+   "ok": 1793278864
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793275363
+   "err_ts": 1793278879
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793275363
+   "ok": 1793278879
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793275338
+   "ok": 1793278831
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793275345
+   "ok": 1793278840
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793275365
+   "ok": 1793278881
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793275369
+   "ok": 1793278884
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793275368
+   "ok": 1793278884
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793275368
+   "ok": 1793278884
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793275338
+   "ok": 1793278831
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793275361
+   "ok": 1793278863
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793275363
+   "ok": 1793278870
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793275361
+   "ok": 1793278862
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793275368
+   "ok": 1793278884
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793275371
+   "ok": 1793278914
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793275370
+   "ok": 1793278911
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793275372
+   "ok": 1793278915
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793275372
+   "ok": 1793278914
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793275373
+   "ok": 1793278919
   }
  },
  "heartbeat": "2026-10-29",
@@ -1093,6 +1094,26 @@
    "ts": 1792750416.7302237,
    "why": "новый сингл, электронный поп-рок, малоизвестный артист"
   },
+  "2adb4af0bc80": {
+   "also": [],
+   "artist": "Big Red",
+   "fit": 3,
+   "id": "2adb4af0bc80",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/reviews/big-red-big-sur/",
+   "listen": {},
+   "major": false,
+   "msg_id": 208,
+   "release": "Big Sur",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Big Red offer crackling fire-like ambiance across their ‘Big Sur’ album. With poisonous lyricism it felt like peeling off a fragile label, a deep confession only surfacing at one’s breaking point. Desperation trails across the album, and the emotional urgency in the instruments and vocals create an unforgettable listening experience. … The post Big Red – Big Sur appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Clash опубликовал рецензию на альбом Big Red «Big Sur». Автор отмечает потрескивающую, словно огонь, атмосферу, исповедальную лирику и эмоциональную срочность в инструментах и вокале.",
+   "title": "Big Red – Big Sur",
+   "ts": 1793278855.5121937,
+   "why": "рок-звучание, соседний жанр, малоизвестная группа"
+  },
   "2c7f393eb9c1": {
    "also": [],
    "artist": "Skepta",
@@ -1212,6 +1233,26 @@
    "title": "Pop All-Stars JYT Release Debut EP ‘Just Your Type’",
    "ts": 1793009230.0980542,
    "why": "мейнстрим-поп, вне жанров 3L, новых эмоций нет"
+  },
+  "323325b188c0": {
+   "also": [],
+   "artist": "DIIV",
+   "fit": 4,
+   "id": "323325b188c0",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/reviews/diiv-zirp/",
+   "listen": {},
+   "major": false,
+   "msg_id": 209,
+   "release": "ZIRP!",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "DIIV are back with more infectious shoegaze on their fifth album ‘ZIRP!’. The Brooklyn-born band continue their brilliant run, following 2019 hit ‘Deceiver’ and their critically-acclaimed 2024 record ‘Frog In Boiling Water’. Lead single and opening track ‘The Fountain’ wastes no time as heavy effects surround the refrain: “There’s poison… The post DIIV – ZIRP! appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Бруклинская группа DIIV выпустила пятый альбом ZIRP! с шугейзовым звучанием. Ведущий сингл и открывающий трек - The Fountain, предыдущие альбомы - Deceiver (2019) и Frog In Boiling Water (2024).",
+   "title": "DIIV – ZIRP!",
+   "ts": 1793278860.029977,
+   "why": "шугейз, новый альбом, но не в списке любимых"
   },
   "330a6c7e1556": {
    "also": [
@@ -2859,6 +2900,29 @@
    "ts": 1793057323.0003483,
    "why": "соседний экспериментальный поп, новая версия трека"
   },
+  "abb4371134a7": {
+   "also": [],
+   "artist": "Amy Winehouse",
+   "fit": 2,
+   "id": "abb4371134a7",
+   "kind": "album",
+   "link": "https://t.me/rodzvuk/17519",
+   "listen": {
+    "Spotify": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV",
+    "Яндекс Музыка": "https://music.yandex.ru/album/2501365"
+   },
+   "major": false,
+   "msg_id": 210,
+   "release": "Back to Black",
+   "russian": false,
+   "source": "Родной звук (TG)",
+   "status": "new",
+   "summary_en": "20 лет альбому Back To Black Эми Уайнхаус Одному из величайших альбомов 21 века. Back to Black — второй и последний студийный альбом британской певицы Эми Уайнхаус , выпущенный 27 октября 2006 года. Написанный под влиянием болезненного расставания с Блейком Филдер-Сивилом, альбом исследует темы разбитого сердца, измены, вины и трагедии в отношениях. Музыкально пластинка вдохновлена девичьими поп- и соул-группами 1960-х годов в сочетании с современным R&B и нео-соулом, над чем певица работала с продюсерами Марком Ронсоном и Салаамом Реми . В альбом вошли такие культовые синглы, как «Rehab», «You Know I'm No Good» и «Back to Black». Релиз принёс Уайнхаус всемирное признание и пять премий «Грэмми» на одной церемонии 2008 года. Зафиксировав статус Эми как культурной иконы и дав мощный толчок популярности британского соула, «Back to Black» вошёл в списки величайших альбомов всех времён и был внесён в Библиотеку Конгресса США. В честь 20-летия альбома вышло специальное 3-х дисковое переиздание. 💿 Слушать: Spotify | Яндекс | Apple",
+   "summary_ru": "К 20-летию альбома Эми Уайнхаус Back to Black вышло специальное 3-дисковое переиздание. Пластинка, записанная с Марком Ронсоном и Салаамом Реми, принесла певице всемирное признание и пять «Грэмми» в 2008 году.",
+   "title": "20 лет альбому Back To Black Эми Уайнхаус",
+   "ts": 1793278918.8482027,
+   "why": "соул и R&B вне жанров 3L, юбилейное переиздание"
+  },
   "acab821bcc01": {
    "also": [],
    "artist": "Eric Harm",
@@ -4276,6 +4340,7 @@
   "01dff0a9f417": 1792140448.224893,
   "02103129a132": 1792679919.1286101,
   "021207a43263": 1792140460.045821,
+  "0223eff1c973": 1793278870.7665348,
   "023092091bb9": 1792505504.4008245,
   "023fed26c0cb": 1793011790.099786,
   "0253f5b89e8e": 1792422148.3329163,
@@ -4387,6 +4452,7 @@
   "110e46001679": 1793119427.7286375,
   "112d13450b08": 1793067458.6275024,
   "11329e7ea74a": 1793113308.2905715,
+  "1136757ed994": 1793278864.0800195,
   "116f5fd6222e": 1792490268.9391212,
   "118099b3c52c": 1792140419.31879,
   "1190bdca8427": 1792492336.6984515,
@@ -4447,6 +4513,7 @@
   "1870ba42ad82": 1792492326.4260542,
   "1938e5f6d74d": 1792140460.0458217,
   "199cf08d08b7": 1792140446.1809065,
+  "199e9f740def": 1793278866.9139147,
   "19b1931d5970": 1793182394.1923587,
   "19e0330a1098": 1792508253.0522387,
   "19edf5ac1d5d": 1792750439.3828816,
@@ -4523,6 +4590,7 @@
   "23252622723e": 1792144566.4577415,
   "233013bde44e": 1793103439.8940904,
   "2332685efb39": 1792140449.7097278,
+  "23385055fc0f": 1793278835.9471056,
   "23617083d539": 1792411083.2442558,
   "236edaeb5971": 1792668773.5299575,
   "23ab5fbc5214": 1793211250.8729966,
@@ -4572,6 +4640,7 @@
   "2a70ddeb994f": 1793190583.209837,
   "2ab1acf5795f": 1792750413.5905566,
   "2ac6cfe269f3": 1792422106.1589015,
+  "2adb4af0bc80": 1793278853.139163,
   "2afa8e117716": 1792140448.224893,
   "2b07f7d520ac": 1792757295.9080157,
   "2bc125031393": 1792140455.0717525,
@@ -4630,6 +4699,7 @@
   "31d603d83801": 1793009227.2344892,
   "31d65ae61c53": 1792512942.6867552,
   "322784ec836b": 1792140456.3847504,
+  "323325b188c0": 1793278856.0383322,
   "3248cf69049e": 1792757292.7157557,
   "325c0a023b27": 1792411065.409499,
   "32a070286773": 1793269297.096179,
@@ -5074,6 +5144,7 @@
   "6b8b10122807": 1792580174.278773,
   "6bc22bb6b657": 1792682255.320585,
   "6bc5cae5d68d": 1793119499.749883,
+  "6bea6a140366": 1793278831.3879406,
   "6c02cdbec83d": 1792487962.0225365,
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
@@ -5444,6 +5515,7 @@
   "a03f1cac9ea7": 1792684603.6028697,
   "a045afcf837d": 1792505495.1621578,
   "a06f36433034": 1793006214.4620893,
+  "a08890ecf72b": 1793278876.8230402,
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
   "a0fb4e852bbc": 1793211259.9000304,
@@ -5508,6 +5580,7 @@
   "aa5a3d93093a": 1792440703.3610823,
   "aa8b54134cb2": 1792140446.1809144,
   "aa976d0dcb23": 1792140449.7097301,
+  "aaa8f1b207ff": 1793278911.2844963,
   "aab2a006b165": 1792691502.452069,
   "aae4b2c9ca08": 1793190605.3925457,
   "ab08411b8449": 1793132656.746765,
@@ -5515,6 +5588,7 @@
   "ab3aa00856ee": 1793057320.3077612,
   "ab4602ddb947": 1793014172.1343734,
   "ab4fdf424071": 1792768214.861843,
+  "abb4371134a7": 1793278915.3852406,
   "abfb4c25d3bf": 1792620883.7903297,
   "aca8d85dbe01": 1792494665.6587026,
   "acab821bcc01": 1793137501.4543345,
