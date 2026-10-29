@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793237028
+   "ok": 1793240425
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793237049
+   "ok": 1793240450
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793237049
+   "ok": 1793240450
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793237023
+   "ok": 1793240418
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793237025
+   "ok": 1793240420
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793237027
+   "ok": 1793240422
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793237029
+   "err_ts": 1793240426
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793237029
+   "ok": 1793240426
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793237017
+   "ok": 1793240414
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793237018
+   "ok": 1793240414
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793237030
+   "ok": 1793240428
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793237048
+   "ok": 1793240450
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793237048
+   "ok": 1793240450
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793237048
+   "ok": 1793240449
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793237017
+   "ok": 1793240413
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793237027
+   "ok": 1793240421
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793237028
+   "ok": 1793240423
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793237026
+   "ok": 1793240421
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793237033
+   "ok": 1793240431
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793237051
+   "ok": 1793240452
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793237050
+   "ok": 1793240451
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793237052
+   "ok": 1793240454
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793237051
+   "ok": 1793240453
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793237052
+   "ok": 1793240454
   }
  },
  "heartbeat": "2026-10-29",
@@ -3923,6 +3923,26 @@
    "ts": 1793128040.8736532,
    "why": "известный инди-артист, но без нового релиза"
   },
+  "f5281cb9489e": {
+   "also": [],
+   "artist": "Clinic",
+   "fit": 4,
+   "id": "f5281cb9489e",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/clinic_share_new_song_wild_in_the_streets",
+   "listen": {},
+   "major": false,
+   "msg_id": 200,
+   "release": "Wild in the Streets",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Liverpool post-punks Clinic are releasing a new album, Wild in the Streets, this Friday via their longtime label Domino. Now they have shared its third single, title track “Wild in the Streets.”",
+   "summary_ru": "Ливерпульская группа Clinic выпускает новый альбом Wild in the Streets в пятницу на лейбле Domino. Вышел третий сингл, заглавный трек «Wild in the Streets».",
+   "title": "Clinic Share New Song “Wild in the Streets”",
+   "ts": 1793240425.0981264,
+   "why": "пост-панк, новый альбом и сингл, но не любимый артист"
+  },
   "f7f71bf130cd": {
    "also": [],
    "artist": "Trinket",
@@ -4196,6 +4216,7 @@
   "0d2988520714": 1793098736.1640549,
   "0d47cbbba3fc": 1792508216.5903573,
   "0d4eba75b4f2": 1792140419.3187907,
+  "0d6278c737c2": 1793240440.7250726,
   "0d858d64b8c6": 1792140455.0717509,
   "0d8e37dc4345": 1792422156.8566613,
   "0d9eaf309aa9": 1792668764.4888906,
@@ -4211,6 +4232,7 @@
   "0edde9d1bc4a": 1792426684.5101395,
   "0f0f3ecf4d8e": 1792679931.109047,
   "0f2bdfaf2912": 1792745870.570222,
+  "0f8184e9ce3a": 1793240446.7156048,
   "0fec224297bb": 1792140419.31879,
   "0fff843c3f27": 1792431206.560036,
   "10153f064c36": 1792925434.5094998,
@@ -4794,6 +4816,7 @@
   "5cb944a9bea1": 1793057323.4915462,
   "5cceba3c9e71": 1792140459.2475762,
   "5d3ea1095a40": 1793101033.4338644,
+  "5d676a8bd493": 1793240434.9559362,
   "5d99dec7968f": 1792760006.2763612,
   "5dc27bf1ca21": 1792140448.224894,
   "5de0201ee840": 1792140449.8447459,
@@ -4809,6 +4832,7 @@
   "5f4649c81125": 1792727923.149833,
   "5f8195108fd8": 1793197861.2557738,
   "5f8252676042": 1792140419.66491,
+  "5f9ba7a522e9": 1793240431.7131114,
   "5faea83a099d": 1792140447.2519577,
   "5fb3d7696c26": 1793009252.023225,
   "5fbf2f967879": 1792582298.2390654,
@@ -5551,6 +5575,7 @@
   "c73988041d57": 1792416645.6077752,
   "c78981df5105": 1792727910.0606818,
   "c79cc4d548ad": 1792162974.6287427,
+  "c7bddda2f5f3": 1793240443.721931,
   "c800bd59ce17": 1793028982.9240665,
   "c83788df11cc": 1792160452.6291058,
   "c89b7e996f04": 1792140449.516548,
@@ -5892,6 +5917,7 @@
   "f4da41fe8b18": 1792573125.7987974,
   "f509cb65b9bc": 1793128038.045481,
   "f513d9fe4edc": 1792140449.516547,
+  "f5281cb9489e": 1793240423.419321,
   "f5b4ae464757": 1792309734.017719,
   "f5ecccd8442e": 1792140446.1809096,
   "f5f31ee24982": 1792167243.2886531,
