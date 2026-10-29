@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793232721
+   "ok": 1793237028
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793232730
+   "ok": 1793237049
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793232730
+   "ok": 1793237049
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793232717
+   "ok": 1793237023
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793232719
+   "ok": 1793237025
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793232720
+   "ok": 1793237027
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793232725
+   "err_ts": 1793237029
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793232725
+   "ok": 1793237029
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793232712
+   "ok": 1793237017
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793232712
+   "ok": 1793237018
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793232727
+   "ok": 1793237030
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793232730
+   "ok": 1793237048
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793232730
+   "ok": 1793237048
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793232730
+   "ok": 1793237048
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793232711
+   "ok": 1793237017
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793232720
+   "ok": 1793237027
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793232721
+   "ok": 1793237028
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793232719
+   "ok": 1793237026
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793232730
+   "ok": 1793237033
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793232733
+   "ok": 1793237051
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793232732
+   "ok": 1793237050
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793232734
+   "ok": 1793237052
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793232734
+   "ok": 1793237051
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793232735
+   "ok": 1793237052
   }
  },
  "heartbeat": "2026-10-29",
@@ -792,6 +792,26 @@
    "title": "South Yorkshire singer-songwriter Sam Scherdel has shared new single ‘Kyoto Snow’",
    "ts": 1793110238.3622382,
    "why": "соседний жанр, малоизвестный сольный сонграйтер"
+  },
+  "1e70e046ad90": {
+   "also": [],
+   "artist": "Always You",
+   "fit": 5,
+   "id": "1e70e046ad90",
+   "kind": "single",
+   "link": "https://wrszw.net/always-you-eye-to-eye/",
+   "listen": {},
+   "major": false,
+   "msg_id": 199,
+   "release": "Eye To Eye",
+   "russian": false,
+   "source": "out out - music done",
+   "status": "new",
+   "summary_en": "Los Angelesを拠点にする双子、ChristophとAnton HochheimのデュオAlways Youが、新曲「Eye To Eye」をビデオとともに公開しました。11月13日にHit The North Recordsから出るアルバム『 Against The World 』の先行シングルで、プロデュースはWild NothingのJack Tatum。いつもは軽やかで前向きなソフィスティ・ポップを鳴らすふたりですが、今回は少し様子が違います。きらめくシンセに、駆け足のブレイクビーツ。その上で描かれるのは、怒りに変わる一歩手前の、くすぶった恨みです。張りつめているのに、どこか浮遊感もある。そんな一曲です。 怒りをテーマに曲を書くことは普段は避けている、と本人たち。でもこの曲は、はっきりそれを狙ったものだそうです。見下すような言葉が積み重なり、壁がじわじわ迫ってくる。落ち着こうとしても、うまくいかない。救いがあるとすれば別れの瞬間だけで、それも実行には移せない空想のなか。沈んだ空気をまといながら、攻撃的なビートがその落ち着かない頭の中をぐいぐい前へ押し出していきます。Skellyotが監督したビデオでは、死神に扮したAntonが、もうひとりを寂れたショッピングモールで追いかけ回します。撮影中は本当に警備員から逃げっぱなしで、裏口や隠し通路を抜けながらのゲリラ撮影。そのすぐ後ろを、モールで唯一開いていた店で買った光るホイールのオレンジのローラースケートで、Skellyotがついてきていたそうです。",
+   "summary_ru": "Лос-анджелесский дуэт близнецов Christoph и Anton Hochheim выпустил новый сингл «Eye To Eye» с видео, режиссёр Skellyot. Трек будет первым синглом с альбома Against The World, который выйдет 13 ноября на Hit The North Records, продюсер - Jack Tatum из Wild Nothing.",
+   "title": "Always You – Eye To Eye",
+   "ts": 1793237035.4863534,
+   "why": "новый сингл и анонс альбома, дрим-поп, любимые соседи по звучанию"
   },
   "1e811999adf8": {
    "also": [],
@@ -4292,6 +4312,7 @@
   "1d66948e8460": 1792140447.251955,
   "1d6f07b16dbf": 1792748074.0569143,
   "1dc1f01ffbf4": 1793110235.1060972,
+  "1e70e046ad90": 1793237033.87164,
   "1e811999adf8": 1793029007.908035,
   "1e846dbdf331": 1792755019.6427855,
   "1ebd567d2022": 1792140449.8447437,
@@ -4563,6 +4584,7 @@
   "42b37d202a4f": 1793211256.8127153,
   "42db33201c97": 1792419522.009265,
   "42e296c212a7": 1792677632.7247596,
+  "430584c02f7f": 1793237045.4729252,
   "430f0f7ef803": 1792780275.8388228,
   "431c95f9c1cd": 1792140455.6358795,
   "4341c65dffd8": 1792169696.0349832,
@@ -4816,6 +4838,7 @@
   "63a0c56a032d": 1792582341.4085298,
   "63d225a72ea9": 1793208290.9605546,
   "63e736abbad6": 1792151149.0594196,
+  "645c5a26a256": 1793237042.111216,
   "64672d2d90b5": 1792146689.3993351,
   "6471894e50da": 1792859119.4288044,
   "647e6ed5ab0f": 1792140455.961584,
@@ -5008,6 +5031,7 @@
   "80b45d0fb75e": 1792422109.462642,
   "80c82416b54f": 1792505519.5982354,
   "80e430b5673b": 1792582301.0651362,
+  "8121f68a57f1": 1793237036.0303054,
   "8123ed6d8700": 1793185452.026718,
   "81524a5f9308": 1792140455.0717483,
   "815f6d00a069": 1792332791.0701985,
@@ -5204,6 +5228,7 @@
   "9c3d06bccd88": 1792543834.4118776,
   "9c465fc8509f": 1793110193.959539,
   "9c46d7216df4": 1792743048.0543845,
+  "9c9675892c4e": 1793237039.177139,
   "9c9dafd824f8": 1792519700.5345464,
   "9d224dc8d486": 1792729987.9453351,
   "9d42010b171c": 1792413708.665486,
