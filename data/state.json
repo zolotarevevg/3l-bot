@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793259447
+   "ok": 1793262598
   },
   "Bandcamp Daily": {
    "count": 37,
    "err": "",
-   "ok": 1793259453
+   "ok": 1793262604
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793259453
+   "ok": 1793262604
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793259442
+   "ok": 1793262590
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793259444
+   "ok": 1793262592
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793259445
+   "ok": 1793262597
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793259448
+   "err_ts": 1793262599
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793259448
+   "ok": 1793262599
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793259431
+   "ok": 1793262579
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793259431
+   "ok": 1793262582
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793259450
+   "ok": 1793262600
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793259452
+   "ok": 1793262604
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793259452
+   "ok": 1793262604
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793259452
+   "ok": 1793262603
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793259430
+   "ok": 1793262579
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793259444
+   "ok": 1793262596
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793259447
+   "ok": 1793262598
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793259444
+   "ok": 1793262592
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793259452
+   "ok": 1793262603
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793259456
+   "ok": 1793262606
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793259455
+   "ok": 1793262605
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793259458
+   "ok": 1793262608
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793259457
+   "ok": 1793262607
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793259458
+   "ok": 1793262609
   }
  },
  "heartbeat": "2026-10-29",
@@ -1523,6 +1523,26 @@
    "title": "Tyla Brings Neon Spectacle And Popiano Sounds To London’s O2 Academy Brixton",
    "ts": 1792419527.5654926,
    "why": "мейнстрим-поп, концертный обзор без нового релиза"
+  },
+  "47a959a6b4ab": {
+   "also": [],
+   "artist": "The Big Moon",
+   "fit": 4,
+   "id": "47a959a6b4ab",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
+   "listen": {},
+   "major": false,
+   "msg_id": 201,
+   "release": "Forever",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "The follow-up to 2022's Here Is Everything concentrates on enjoying itself while delivering a comforting hug in uncertain times The post The Big Moon – Forever appeared first on musicOMH .",
+   "summary_ru": "Рецензия на альбом Forever британской группы The Big Moon, продолжение Here Is Everything (2022). По описанию, пластинка делает ставку на удовольствие от музыки и даёт слушателю своего рода утешение в неспокойные времена.",
+   "title": "The Big Moon – Forever",
+   "ts": 1793262595.149043,
+   "why": "Инди-рок, новый альбом, но группа не в любимых"
   },
   "4842969e6b84": {
    "also": [
@@ -4447,6 +4467,7 @@
   "2e4ad4974528": 1792698950.064075,
   "2e62ab4b5514": 1792582357.4732254,
   "2e7d01277e39": 1792140419.3187907,
+  "2e7d2d2bb842": 1793262582.4886398,
   "2eac6fc0f112": 1792140456.3847518,
   "2eba3b0759dc": 1792677664.7420664,
   "2ef8fa22a2e2": 1792140455.0289195,
@@ -4474,6 +4495,7 @@
   "318b397810a2": 1792343409.0080278,
   "319b38ef4dd6": 1792425021.739633,
   "31a7393a5421": 1792512972.4273078,
+  "31b61af21bcb": 1793262579.43894,
   "31cb3ce91273": 1792140449.709728,
   "31d0efb8e267": 1792588207.8323843,
   "31d32a4b9fa5": 1792140448.2248914,
@@ -4650,6 +4672,7 @@
   "476d2314c4ac": 1792750403.2417152,
   "478169686255": 1792140419.318792,
   "47948fc6a68f": 1792748050.6904366,
+  "47a959a6b4ab": 1793262592.740171,
   "47b71a328d55": 1792505474.8297544,
   "47ba9ffaee92": 1792140447.2519526,
   "47d8cc881efd": 1792140448.2248948,
