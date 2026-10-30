@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793375373
+   "ok": 1793378076
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793375379
+   "ok": 1793378084
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793375379
+   "ok": 1793378084
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793375359
+   "ok": 1793378062
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793375361
+   "ok": 1793378070
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793375362
+   "ok": 1793378072
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793375374
+   "err_ts": 1793378076
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793375374
+   "ok": 1793378076
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793375340
+   "ok": 1793378045
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793375348
+   "ok": 1793378046
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793375376
+   "ok": 1793378078
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793375379
+   "ok": 1793378084
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793375379
+   "ok": 1793378083
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793375378
+   "ok": 1793378081
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793375327
+   "ok": 1793378045
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793375361
+   "ok": 1793378072
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793375364
+   "ok": 1793378073
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793375361,
-   "ok": 1793368815
+   "err": "",
+   "ok": 1793378070
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793375378
+   "ok": 1793378081
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793375384
+   "ok": 1793378086
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793375380
+   "ok": 1793378085
   },
   "Родной звук (TG)": {
-   "count": 10,
+   "count": 11,
    "err": "",
-   "ok": 1793375385
+   "ok": 1793378087
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793375385
+   "ok": 1793378086
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793375389
+   "ok": 1793378090
   }
  },
  "heartbeat": "2026-10-30",
@@ -1799,6 +1798,26 @@
    "title": "Tom Grennan has shared new single ‘Wrapped In Gold’, his first release for RCA Records",
    "ts": 1792750444.1202157,
    "why": "поп-рок мейнстрим, не в жанрах 3L"
+  },
+  "489f190e9670": {
+   "also": [],
+   "artist": "The Big Moon",
+   "fit": 4,
+   "id": "489f190e9670",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/the_big_moon_you_remind_me_that_im_dying_and_that_its_good_to_be_alive",
+   "listen": {},
+   "major": false,
+   "msg_id": 237,
+   "release": "You Remind Me That I'm Dying",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "The Big Moon share “You Remind Me That I’m Dying”, a song from an album written towards a happy ending that didn’t exist yet.",
+   "summary_ru": "The Big Moon выпустили песню «You Remind Me That I'm Dying» - она взята из нового альбома, написанного в расчёте на счастливый финал, которого ещё не существовало. Группа по-прежнему в инди-роке с энергичным звучанием.",
+   "title": "The Big Moon “You Remind Me That I’m Dying” (and that it’s good to be alive)",
+   "ts": 1793378075.4361496,
+   "why": "инди-рок, новый сингл с анонсом альбома"
   },
   "490077847249": {
    "also": [],
@@ -5128,6 +5147,7 @@
   "1ca80366ece2": 1792401945.6989021,
   "1cb6b8a29133": 1792140455.9615846,
   "1cd5498964cf": 1792773210.1520832,
+  "1cef9e28b697": 1793378062.7526016,
   "1d10e77e1d80": 1793349405.1656435,
   "1d29f39c8ced": 1793106897.0019038,
   "1d621bd98241": 1792140448.2248864,
@@ -5280,6 +5300,7 @@
   "2fee18337610": 1792140456.384751,
   "2ffd0602b2be": 1792582329.9149673,
   "3018ad36e166": 1792140462.281757,
+  "301a8606baed": 1793378087.0659142,
   "301dd5e03000": 1792664300.3128512,
   "30c767b31b93": 1792140449.5165484,
   "30ce4d9700fb": 1793182422.5555942,
@@ -5322,6 +5343,7 @@
   "33d542215790": 1793243793.9920514,
   "33de0a385afa": 1792140455.0289197,
   "33e83047c902": 1792773226.291024,
+  "33f3fbe0e4de": 1793378070.2234724,
   "340518293301": 1792173603.7228317,
   "341df12a5566": 1792140455.9615912,
   "34369501961e": 1792140446.1809082,
@@ -5510,6 +5532,7 @@
   "48703afb4d77": 1792600483.4242177,
   "48764be2d5a4": 1792140455.9615915,
   "488fbcadb1ce": 1792140448.2248912,
+  "489f190e9670": 1793378073.8805833,
   "48ba04323394": 1792492319.6077063,
   "48cf32bce9d7": 1792584706.3512123,
   "48d8b622a58b": 1792431203.437895,
@@ -5695,6 +5718,7 @@
   "5d3ea1095a40": 1793101033.4338644,
   "5d676a8bd493": 1793240434.9559362,
   "5d99dec7968f": 1792760006.2763612,
+  "5da65cb8cd5a": 1793378065.702359,
   "5dc27bf1ca21": 1792140448.224894,
   "5de0201ee840": 1792140449.8447459,
   "5de1aaaf29fd": 1792140456.3847513,
@@ -6973,6 +6997,7 @@
   "fa4364552533": 1793124958.5317624,
   "faaab1470297": 1792140455.028921,
   "fab4d48cdb25": 1792381262.0103343,
+  "fac1ce6cb0a5": 1793378081.2773418,
   "fac47a1ef833": 1793119501.7612114,
   "fad22ab91ba4": 1793110247.8105435,
   "fad9333cf136": 1792620892.6378245,
