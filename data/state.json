@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793383868
+   "ok": 1793387459
   },
   "Bandcamp Daily": {
-   "count": 36,
+   "count": 35,
    "err": "",
-   "ok": 1793383876
+   "ok": 1793387465
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793383877
+   "ok": 1793387468
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793383863
+   "ok": 1793387451
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793383864
+   "ok": 1793387452
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793383866
+   "ok": 1793387454
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793383868
+   "err_ts": 1793387460
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793383868
+   "ok": 1793387460
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793383855
+   "ok": 1793387445
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793383858
+   "ok": 1793387445
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793383870
+   "ok": 1793387462
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793383876
+   "ok": 1793387464
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793383876
+   "ok": 1793387464
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793383873
+   "ok": 1793387464
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793383846
+   "ok": 1793387432
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793383866
+   "ok": 1793387454
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793383867
+   "ok": 1793387456
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793383865
+   "ok": 1793387453
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793383873
+   "ok": 1793387464
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793383878
+   "ok": 1793387470
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793383878
+   "ok": 1793387469
   },
   "Родной звук (TG)": {
-   "count": 8,
+   "count": 9,
    "err": "",
-   "ok": 1793383879
+   "ok": 1793387471
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793383879
+   "ok": 1793387471
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793383880
+   "ok": 1793387475
   }
  },
  "heartbeat": "2026-10-30",
@@ -892,6 +892,26 @@
    "title": "The Weeknd Debuts “Hong Kong” in Hong Kong",
    "ts": 1793029010.4678671,
    "why": "мейнстрим R&B-поп, не любимый артист"
+  },
+  "1ebade5c74d0": {
+   "also": [],
+   "artist": "bloodsports",
+   "fit": 3,
+   "id": "1ebade5c74d0",
+   "kind": "single",
+   "link": "https://stereogum.com/2516011/bloodsports-ten-thousand-feet/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 240,
+   "release": "Ten Thousand Feet",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post bloodsports – “Ten Thousand Feet” appeared first on Stereogum .",
+   "summary_ru": "Группа bloodsports выпустила новый трек «Ten Thousand Feet», о котором рассказал Stereogum в рубрике New Music. Подробностей о релизе в записи нет.",
+   "title": "bloodsports – “Ten Thousand Feet”",
+   "ts": 1793387441.9337485,
+   "why": "новый сингл, жанр по записи не ясен"
   },
   "2043ca86c43d": {
    "also": [],
@@ -5200,6 +5220,7 @@
   "1e70e046ad90": 1793237033.87164,
   "1e811999adf8": 1793029007.908035,
   "1e846dbdf331": 1792755019.6427855,
+  "1ebade5c74d0": 1793387439.5792248,
   "1ebd567d2022": 1792140449.8447437,
   "1eee9f06cc55": 1792508233.9891453,
   "1f3145e50fac": 1792140449.516549,
@@ -5487,6 +5508,7 @@
   "3f71fd089465": 1793211291.7265656,
   "3f8439c7b1b7": 1792140446.3270478,
   "3f874448b1d3": 1792582319.4214797,
+  "3fe67b99eb69": 1793387456.1110513,
   "401357c7fb80": 1792595626.8481739,
   "403047fe5cca": 1793368818.9475834,
   "4085dee4ef7f": 1792605143.1262877,
@@ -5886,6 +5908,7 @@
   "6e6dbb97461c": 1792140456.3847506,
   "6e80ca584d4e": 1793002851.4980717,
   "6ea463529840": 1792404602.2193522,
+  "6eaae98f6de9": 1793387465.1996002,
   "6ebd51c5a2f6": 1792140448.224894,
   "6ebe9547123b": 1792397233.7440054,
   "6eccfd961eb8": 1792533238.24276,
@@ -5974,6 +5997,7 @@
   "7807b3d69ce8": 1792593110.3183172,
   "7824af675775": 1792582357.4732282,
   "78282ff4dcc2": 1792140447.251952,
+  "786bb28916bd": 1793387442.5436134,
   "78d4a7c771d1": 1792770697.9170432,
   "79306a7a3192": 1792588224.4116888,
   "797745e6bcf9": 1792582346.9407291,
@@ -6334,6 +6358,7 @@
   "a5ba6f22ce58": 1792661883.0974984,
   "a5f892537dc6": 1792425039.830182,
   "a630f2b7c320": 1792703192.2564087,
+  "a6727c910eaf": 1793387471.9501176,
   "a681845d9af2": 1793185468.6911283,
   "a698f847d3f5": 1793318184.6763883,
   "a6b3b5ceeb4e": 1792575325.4105005,
@@ -6887,6 +6912,7 @@
   "e622f479d05f": 1792656839.9825618,
   "e62bce1c7bb3": 1792487989.2660182,
   "e64bfe4c2c75": 1792140449.8447442,
+  "e66eba996fd9": 1793387436.4417472,
   "e67c156bd693": 1792515312.985797,
   "e67cb87b7b22": 1793333921.841067,
   "e6defe15d0b1": 1793119495.3758433,
@@ -7077,6 +7103,7 @@
   "fd5f5cb2f5b5": 1792512916.162363,
   "fd65f9e97e46": 1792140455.9615855,
   "fd76788bec20": 1792664300.3128524,
+  "fd7cfee1dcb0": 1793387432.8344715,
   "fd947dc02a74": 1793023033.3136957,
   "fdebad9b986b": 1793324737.7610576,
   "fdf20b302208": 1793365176.5083,
