@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793361737
+   "ok": 1793365180
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793361751
+   "ok": 1793365189
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793361752
+   "ok": 1793365189
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793361713
+   "ok": 1793365155
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793361721
+   "ok": 1793365163
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793361723
+   "ok": 1793365168
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793361738
+   "err_ts": 1793365184
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793361738
+   "ok": 1793365184
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793361693
+   "ok": 1793365147
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793361700
+   "ok": 1793365151
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793361739
+   "ok": 1793365185
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793361751
+   "ok": 1793365188
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793361751
+   "ok": 1793365188
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793361751
+   "ok": 1793365188
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793361693
+   "ok": 1793365147
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793361722
+   "ok": 1793365168
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793361737
+   "ok": 1793365180
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793361722
+   "ok": 1793365167
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793361742
+   "ok": 1793365188
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793361757
+   "ok": 1793365191
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793361753
+   "ok": 1793365190
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793361758
+   "ok": 1793365192
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793361757
+   "ok": 1793365191
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793361761
+   "ok": 1793365196
   }
  },
  "heartbeat": "2026-10-30",
@@ -293,6 +293,26 @@
    "title": "Kesha has dug into the ‘Animal’ archives for her long-lost ‘Backstabber’ video",
    "ts": 1793101086.220317,
    "why": "мейнстрим-поп, старый клип, не новый релиз"
+  },
+  "05794511de04": {
+   "also": [],
+   "artist": "Sampa The Great",
+   "fit": 2,
+   "id": "05794511de04",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/reviews/sampa-the-great-nu-zamrock/",
+   "listen": {},
+   "major": false,
+   "msg_id": 231,
+   "release": "Nu Zamrock",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Instilled with an unwavering confidence nourished by a rich lineage, Sampa The Great signals an anointed rebirth on her third album, ‘Nu Zamrock’. Sampa’s intense and fearless flow punches through a meld of hip-hop, rock, soul, funk, and Kalindula rhythms. Sampa lambasts suffocating industry standards on the nimble ‘Simon Says’,… The post Sampa The Great – Nu Zamrock appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Рецензия Clash на третий альбом Сампы Зе Грейт «Nu Zamrock». Она сочетает хип-хоп, рок, соул, фанк и ритмы калиндулы, в треке «Simon Says» критикует индустриальные стандарты.",
+   "title": "Sampa The Great – Nu Zamrock",
+   "ts": 1793365161.0943117,
+   "why": "хип-хоп с роком, рецензия, не в жанрах 3L"
   },
   "06e2d2d08431": {
    "also": [],
@@ -3159,6 +3179,26 @@
    "ts": 1793185470.032508,
    "why": "блюз-рок, далеко от жанров 3L"
   },
+  "a6ec0f72bfe8": {
+   "also": [],
+   "artist": "Body Horror",
+   "fit": 4,
+   "id": "a6ec0f72bfe8",
+   "kind": "ep",
+   "link": "https://readdork.com/news/body-horror-at-the-nepo-ep-release-8d80f6847d",
+   "listen": {},
+   "major": false,
+   "msg_id": 232,
+   "release": "At The Nepo",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The four-track debut, produced by Syd Kemp, is out now, with European dates following in 2027.",
+   "summary_ru": "Лондонская пост-панк группа Body Horror выпустила дебютный EP «At The Nepo» из четырёх треков, продюсер Syd Kemp. Европейские концерты группы запланированы на 2027 год.",
+   "title": "London post-punk outfit Body Horror have shared their debut EP ‘At The Nepo’",
+   "ts": 1793365170.9544034,
+   "why": "Пост-панк из жанров 3L, новый дебютный релиз"
+  },
   "a79c565c0460": {
    "also": [],
    "artist": "Буерак",
@@ -4691,6 +4731,26 @@
    "ts": 1793179196.362102,
    "why": "Дебютный альбом, соседний жанр, но без явных признаков любимого артиста"
   },
+  "fdf20b302208": {
+   "also": [],
+   "artist": "Maple's Pet Dinosaur",
+   "fit": 4,
+   "id": "fdf20b302208",
+   "kind": "ep",
+   "link": "https://readdork.com/news/maples-pet-dinosaur-childs-play-ep-f681a3dbd4",
+   "listen": {},
+   "major": false,
+   "msg_id": 233,
+   "release": "Child's Play",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Australian artist’s five-track debut arrives alongside new single ‘Ice Cream Truck’.",
+   "summary_ru": "16-летняя австралийская артистка Maple's Pet Dinosaur выпустила дебютный EP «Child's Play» из пяти треков. Вместе с ним вышел новый сингл «Ice Cream Truck».",
+   "title": "16-year-old Australian artist Maple’s Pet Dinosaur has shared her debut EP ‘Child’s Play’",
+   "ts": 1793365179.1108825,
+   "why": "Новый дебютный EP, потенциально инди-поп, жанр уточнить"
+  },
   "febd0470b7af": {
    "also": [],
    "artist": "SOB x RBE",
@@ -4807,6 +4867,7 @@
   "04829c171fcb": 1792620877.9015398,
   "048b9c3740eb": 1792140455.635878,
   "04dd1100da82": 1792580152.6002626,
+  "05794511de04": 1793365158.809702,
   "0598a5437ecb": 1792140455.0717537,
   "059e088393a3": 1792140448.2248957,
   "05a2df10cba0": 1792727906.6156156,
@@ -5740,6 +5801,7 @@
   "7614eeaa2e56": 1793137470.1674488,
   "761513d062d8": 1792140455.9615877,
   "7616e2b960c9": 1792160449.239621,
+  "761d3814de1e": 1793365173.776618,
   "7620d513c748": 1793101045.5974371,
   "767256e28148": 1793289525.7286572,
   "76890fc49f20": 1793101072.7612333,
@@ -5819,6 +5881,7 @@
   "8123ed6d8700": 1793185452.026718,
   "81524a5f9308": 1792140455.0717483,
   "815f6d00a069": 1792332791.0701985,
+  "817fb6da0848": 1793365147.4987211,
   "8192277a3483": 1792424997.4105656,
   "81c6fce92d76": 1792140449.5165467,
   "81d919e990c0": 1793119484.8464735,
@@ -5865,6 +5928,7 @@
   "87e91b7b92ec": 1792140455.028919,
   "87ec679f47d9": 1792490264.2915874,
   "8808f8e9a0bc": 1792140446.1809156,
+  "88270d0866e4": 1793365192.12509,
   "882da6b8f8ed": 1793137508.2125065,
   "883979854234": 1792140419.318793,
   "8894dc168e32": 1792140462.2817543,
@@ -5959,6 +6023,7 @@
   "93d92df0ce81": 1792404614.7149212,
   "942a6eb0d8f6": 1792494643.066955,
   "94321d2f2f49": 1793194483.8096924,
+  "948b2d1aa05e": 1793365163.7508101,
   "948eae092ca3": 1792140455.6358817,
   "9498add16dcb": 1792140449.844742,
   "94ab1a1d63b0": 1792244944.5369136,
@@ -6111,6 +6176,7 @@
   "a698f847d3f5": 1793318184.6763883,
   "a6b3b5ceeb4e": 1792575325.4105005,
   "a6e37b9cbe2e": 1793098759.6013181,
+  "a6ec0f72bfe8": 1793365168.7211385,
   "a70eedef66de": 1792140460.0458221,
   "a7188e386807": 1793119472.6375623,
   "a7314ab49214": 1793289549.1239796,
@@ -6311,6 +6377,7 @@
   "bfb486b529e0": 1793298429.231431,
   "bfe1d8d55b5d": 1792426662.8748226,
   "c0269e23ab90": 1792620921.5496461,
+  "c043b0f9a18e": 1793365155.998514,
   "c0462cfc0a95": 1792167249.1019454,
   "c04bd49dfb88": 1793214861.9184613,
   "c0884d6be1ad": 1792677654.144983,
@@ -6471,6 +6538,7 @@
   "d2f593a9b87b": 1793113299.0273962,
   "d301e05295c7": 1792140455.9615839,
   "d3116c614faa": 1793190596.4501712,
+  "d31c1ba607f1": 1793365171.3082855,
   "d333b84d164e": 1792682277.4035819,
   "d348c4297ea2": 1792770665.879305,
   "d3765b0001fb": 1792140455.0289202,
@@ -6786,6 +6854,7 @@
   "f8324baa0ff4": 1792156073.8070056,
   "f84d145cd795": 1793315577.4043097,
   "f85865a6d19b": 1793190609.8199177,
+  "f8738932e23c": 1793365180.7924173,
   "f882f73e3919": 1792140446.3270507,
   "f8843380c3ab": 1792607490.4558456,
   "f8973bf8bc59": 1792762697.9600704,
@@ -6837,6 +6906,7 @@
   "fd76788bec20": 1792664300.3128524,
   "fd947dc02a74": 1793023033.3136957,
   "fdebad9b986b": 1793324737.7610576,
+  "fdf20b302208": 1793365176.5083,
   "fdfefa2b329d": 1793185489.1394098,
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
