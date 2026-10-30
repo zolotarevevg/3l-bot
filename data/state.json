@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793346352
+   "ok": 1793349413
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793346360
+   "ok": 1793349420
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793346360
+   "ok": 1793349420
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793346339
+   "ok": 1793349399
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793346340
+   "ok": 1793349400
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793346350
+   "ok": 1793349412
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793346352
+   "err_ts": 1793349413
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793346352
+   "ok": 1793349413
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793346334
+   "ok": 1793349388
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793346334
+   "ok": 1793349389
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793346353
+   "ok": 1793349417
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793346359
+   "ok": 1793349420
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793346359
+   "ok": 1793349420
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793346359
+   "ok": 1793349420
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793346334
+   "ok": 1793349388
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793346350
+   "ok": 1793349405
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793346351
+   "ok": 1793349412
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793346341
+   "ok": 1793349400
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793346356
+   "ok": 1793349420
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793346362
+   "ok": 1793349424
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793346361
+   "ok": 1793349421
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793346363
+   "ok": 1793349425
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793346363
+   "ok": 1793349425
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793346364
+   "ok": 1793349426
   }
  },
  "heartbeat": "2026-10-30",
@@ -153,6 +153,26 @@
    "title": "Big Red have shared new single ‘Man Bites Dog’",
    "ts": 1793194507.1627443,
    "why": "новый сингл и дебютник, инди-рок, не любимый артист"
+  },
+  "01eae813ac4a": {
+   "also": [],
+   "artist": "Carcass",
+   "fit": 2,
+   "id": "01eae813ac4a",
+   "kind": "review",
+   "link": "https://thequietus.com/opinion-and-essays/anniversary/carcas-necroticism-descanting-the-insalubrious-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 221,
+   "release": "Necroticism: Descanting the Insalubrious",
+   "russian": false,
+   "source": "The Quietus",
+   "status": "new",
+   "summary_en": "Keith Kahn-Harris looks back at a landmark release full of surprises and possibilities To push back a genre label is, all too often, a reliably generic move by artists desperately seeking to differentiate themselves from other artists who sound much the same. Occasionally though, pushing back against genre label is a more subversive move, the mark of an artist pushing against anything that would close off their creative development. Such is the case with Carcass. It didn’t take them long at the start of their career to reject the grindcore label, they are currently rebelling against the extreme metal label, and on Necroticism: Descanting The Insalubrious they were reluctant to be labelled as death metal, preferring ‘progressive’. And however much one might... The post Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35 appeared first on The Quietus .",
+   "summary_ru": "Кит Кан-Харрис в статье к 35-летию разбирает альбом Carcass Necroticism: Descanting the Insalubrious, в котором группа отошла от ярлыка грайндкора и предпочла называть свою музыку прогрессивной, а не дэт-металом. Текст представляет собой ретроспективу, а не новый релиз.",
+   "title": "Gutted, Hashed and Deboned: Necroticism: Descanting the Insalubrious By Carcass At 35",
+   "ts": 1793349411.3760438,
+   "why": "Ретроспектива дэт-метала, не новая музыка"
   },
   "023092091bb9": {
    "also": [],
@@ -4573,6 +4593,7 @@
   "01d2c0bdbc0d": 1793023039.5536847,
   "01de2989b1e9": 1792674641.458071,
   "01dff0a9f417": 1792140448.224893,
+  "01eae813ac4a": 1793349408.3078766,
   "02103129a132": 1792679919.1286101,
   "021207a43263": 1792140460.045821,
   "0223eff1c973": 1793278870.7665348,
@@ -4784,6 +4805,7 @@
   "1ca80366ece2": 1792401945.6989021,
   "1cb6b8a29133": 1792140455.9615846,
   "1cd5498964cf": 1792773210.1520832,
+  "1d10e77e1d80": 1793349405.1656435,
   "1d29f39c8ced": 1793106897.0019038,
   "1d621bd98241": 1792140448.2248864,
   "1d66948e8460": 1792140447.251955,
@@ -5721,6 +5743,7 @@
   "948eae092ca3": 1792140455.6358817,
   "9498add16dcb": 1792140449.844742,
   "94ab1a1d63b0": 1792244944.5369136,
+  "94dd51b5e994": 1793349421.7051873,
   "9551669cc07e": 1793103442.8948598,
   "9567a211abc7": 1792677602.5091481,
   "95a25e775aa1": 1793182419.62457,
@@ -5843,6 +5866,7 @@
   "a457d8d571fc": 1792752812.6860633,
   "a45e92626498": 1792140455.6358793,
   "a4611497a496": 1793315574.4473255,
+  "a465e14d9508": 1793349400.5388145,
   "a46c9856d66d": 1792140446.3270497,
   "a46f89a11164": 1792582357.47322,
   "a4a23d33d9a0": 1792548700.4680188,
