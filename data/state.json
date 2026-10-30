@@ -2,14 +2,13 @@
  "health": {
   "Aquarium Drunkard": {
    "count": 15,
-   "err": "ConnectTimeout: HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443)",
-   "err_ts": 1793342949,
-   "ok": 1793339734
+   "err": "",
+   "ok": 1793346352
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793342963
+   "ok": 1793346360
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -18,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793342963
+   "ok": 1793346360
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793342915
+   "ok": 1793346339
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793342917
+   "ok": 1793346340
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793342923
+   "ok": 1793346350
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793342949
+   "err_ts": 1793346352
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793342949
+   "ok": 1793346352
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793342910
+   "ok": 1793346334
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793342910
+   "ok": 1793346334
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793342951
+   "ok": 1793346353
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793342962
+   "ok": 1793346359
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793342962
+   "ok": 1793346359
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793342962
+   "ok": 1793346359
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793342910
+   "ok": 1793346334
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793342918
+   "ok": 1793346350
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793342924
+   "ok": 1793346351
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793342918
+   "ok": 1793346341
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793342954
+   "ok": 1793346356
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793342965
+   "ok": 1793346362
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793342964
+   "ok": 1793346361
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793342966
+   "ok": 1793346363
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793342966
+   "ok": 1793346363
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793342967
+   "ok": 1793346364
   }
  },
  "heartbeat": "2026-10-30",
@@ -1551,7 +1550,12 @@
    "why": "Новый сингл инди-поп артистки, анонс дебютного альбома"
   },
   "408c7cfc13a8": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://www.musicomh.com/reviews/albums/shabazz-palaces-its-a-style-sport",
+     "source": "musicOMH"
+    }
+   ],
    "artist": "Shabazz Palaces",
    "fit": 2,
    "id": "408c7cfc13a8",
@@ -6199,6 +6203,7 @@
   "d0d78514d87b": 1793318159.6646905,
   "d0ea8c12ae83": 1792140447.2519577,
   "d11eefaf32fc": 1792140449.709729,
+  "d12187b8585a": 1793346341.151878,
   "d13b7871e1a9": 1792524776.488978,
   "d1674c94105e": 1792730000.2184896,
   "d1707b58d43e": 1792140448.2248914,
@@ -6454,6 +6459,7 @@
   "ef75b26814a5": 1793032291.680679,
   "ef8ac49ef671": 1792140449.8447492,
   "efa1ebec11d5": 1793292800.0498178,
+  "efaafe3deae0": 1793346356.8822343,
   "efc657e40fed": 1792582357.4732265,
   "efd5d3fe12c6": 1793101067.5991943,
   "efdf1404f9cc": 1793032306.9648721,
@@ -6529,6 +6535,7 @@
   "f8f3dca1ddb3": 1792140449.5165517,
   "f8fa769ac659": 1792140448.224884,
   "f90cb3bbff53": 1792515297.6279485,
+  "f90edbbc81a5": 1793346344.1434894,
   "f919b724b2e9": 1792654055.6043355,
   "f949ca1673a8": 1792140447.251955,
   "f94a6fce957c": 1792703203.7278001,
