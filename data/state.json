@@ -2,13 +2,14 @@
  "health": {
   "Aquarium Drunkard": {
    "count": 15,
-   "err": "",
+   "err": "ConnectTimeout: HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443)",
+   "err_ts": 1793342949,
    "ok": 1793339734
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793339739
+   "ok": 1793342963
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +18,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793339740
+   "ok": 1793342963
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793339729
+   "ok": 1793342915
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793339731
+   "ok": 1793342917
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793339732
+   "ok": 1793342923
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793339734
+   "err_ts": 1793342949
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793339734
+   "ok": 1793342949
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793339725
+   "ok": 1793342910
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793339725
+   "ok": 1793342910
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793339736
+   "ok": 1793342951
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793339739
+   "ok": 1793342962
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793339739
+   "ok": 1793342962
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793339739
+   "ok": 1793342962
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793339725
+   "ok": 1793342910
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793339732
+   "ok": 1793342918
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793339734
+   "ok": 1793342924
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793339731
+   "ok": 1793342918
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793339739
+   "ok": 1793342954
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793339742
+   "ok": 1793342965
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793339742
+   "ok": 1793342964
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793339744
+   "ok": 1793342966
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793339743
+   "ok": 1793342966
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793339745
+   "ok": 1793342967
   }
  },
  "heartbeat": "2026-10-30",
@@ -2267,6 +2268,26 @@
    "title": "EsDeeKid Shares ‘BANDIT’, Confirms UK Tour",
    "ts": 1793009222.502851,
    "why": "хип-хоп/рэп, не в жанрах 3L"
+  },
+  "691384086237": {
+   "also": [],
+   "artist": "Andy Stott",
+   "fit": 3,
+   "id": "691384086237",
+   "kind": "review",
+   "link": "https://thequietus.com/quietus-reviews/andy-stott-late-loop-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 220,
+   "release": "Late Loop",
+   "russian": false,
+   "source": "The Quietus",
+   "status": "new",
+   "summary_en": "Andy Stott Late Loop The British electronic music producer proves himself, once again, a consummate perfectionist – but it's the subtle imperfections that make his music really sing It didn’t take Andy Stott long to find himself drawn towards the frayed edges, to wear and imperfections. Less concerned with gleaming dancefloor patterns than the accumulation of hiss and grit, he made his name with slower tempos, tracks that went a little wonky, marked by age and rust. A sound in love with the ‘stuff’ of sound, the sense it had a physical surface that got under your fingernails, that carried the marks of time. On Late Loop it settles to a stillness, a richly emotive minimalism under the slow shroud of attic dust. It’s... The post Andy Stott – Late Loop appeared first on The Quietus .",
+   "summary_ru": "Рецензия The Quietus на новый альбом британского электронного продюсера Andy Stott Late Loop. Автор отмечает минималистичное, эмоциональное звучание с шумами и шероховатостями, которые, по его мнению, и делают музыку живой.",
+   "title": "Andy Stott – Late Loop",
+   "ts": 1793342921.8330457,
+   "why": "новый альбом, но электроника ближе к соседнему жанру"
   },
   "6aa419cb4a3b": {
    "also": [],
@@ -5377,6 +5398,7 @@
   "68f318c94bd1": 1793009220.3081255,
   "68f957627714": 1792684590.2072012,
   "690031b13144": 1793230583.3031704,
+  "691384086237": 1793342918.8431845,
   "693056b7f5c2": 1792158569.604045,
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
@@ -6125,9 +6147,11 @@
   "ca62ef7fb0de": 1792424992.9666033,
   "ca90ab2ba7e0": 1793011772.1501582,
   "ca95f644b590": 1792404627.3754196,
+  "caa15d17ff80": 1793342954.6184318,
   "cab2f2efdf89": 1792140455.6358762,
   "cb233ab8f34d": 1792757289.3297522,
   "cb991e68c9e1": 1792140455.0289192,
+  "cbdef70800a7": 1793342959.261145,
   "cbe4da5d4916": 1792140446.1809065,
   "cc00ee94d99e": 1792140446.1809146,
   "cc0ef863a426": 1792948113.017146,
