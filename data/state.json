@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793356074
+   "ok": 1793358865
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793356079
+   "ok": 1793358883
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793356080
+   "ok": 1793358883
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793356049
+   "ok": 1793358810
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793356057
+   "ok": 1793358818
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793356060
+   "ok": 1793358820
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793356074
+   "err_ts": 1793358866
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793356074
+   "ok": 1793358866
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793356033
+   "ok": 1793358799
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793356037
+   "ok": 1793358802
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793356076
+   "ok": 1793358869
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793356079
+   "ok": 1793358883
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793356079
+   "ok": 1793358882
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793356079
+   "ok": 1793358881
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793356033
+   "ok": 1793358799
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793356060
+   "ok": 1793358819
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793356074
+   "ok": 1793358865
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793356058
+   "ok": 1793358819
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793356079
+   "ok": 1793358872
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793356085
+   "ok": 1793358885
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793356081
+   "ok": 1793358884
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793356090
+   "ok": 1793358890
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793356089
+   "ok": 1793358890
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793356093
+   "ok": 1793358891
   }
  },
  "heartbeat": "2026-10-30",
@@ -692,6 +692,26 @@
    "title": "Haute & Freddy have shared ‘Film Noir’ and covered Peter Gabriel's ‘In Your Eyes’",
    "ts": 1792750442.1879685,
    "why": "новый сингл, инди-поп, не любимый артист"
+  },
+  "1a6a011f7b3f": {
+   "also": [],
+   "artist": "Bleech 9:3",
+   "fit": 4,
+   "id": "1a6a011f7b3f",
+   "kind": "single",
+   "link": "https://readdork.com/news/bleech-9-3-the-cure-lullaby-cover-b9d47b26c8",
+   "listen": {},
+   "major": false,
+   "msg_id": 225,
+   "release": "Lullaby",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Bleech 9:3 have shared their version of The Cure’s ‘Lullaby’, alongside a lyric video, ahead of their sold-out UK and Irish tour.",
+   "summary_ru": "Bleech 9:3 выпустили кавер на «Lullaby» группы The Cure с лирик-видео перед дебютным альбомом Bleed. Группа также анонсировала распроданный тур по Великобритании и Ирландии.",
+   "title": "Bleech 9:3 have released their cover of The Cure’s ‘Lullaby’ ahead of debut album ‘Bleed’",
+   "ts": 1793358827.6039448,
+   "why": "новый кавер Cure и анонс дебютника, близко к постпанку"
   },
   "1a8dd88cb908": {
    "also": [],
@@ -1382,6 +1402,26 @@
    "title": "Doechii – “Catwoman”",
    "ts": 1792602852.6219513,
    "why": "хип-хоп/R&B, не в жанрах 3L"
+  },
+  "369e71077abf": {
+   "also": [],
+   "artist": "John Errol",
+   "fit": 3,
+   "id": "369e71077abf",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/john-errols-damage-is-a-powerful-listen/",
+   "listen": {},
+   "major": false,
+   "msg_id": 224,
+   "release": "Damage",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "West Coast songwriter John Errol has shared his new album ‘Damage’. The LA based artist has always used music as a means of expression, channelling his emotions and experiences in the process. At first he studied classical piano, before segueing into jazz; this framework merges with the alt rock of… The post John Errol’s ‘Damage’ Is A Powerful Listen appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Лос-анджелесский автор песен Джон Эррол выпустил новый альбом Damage. Он начинал с классического фортепиано, затем перешёл к джазу, а его музыка сочетает эти корни с альт-роком.",
+   "title": "John Errol’s ‘Damage’ Is A Powerful Listen",
+   "ts": 1793358816.2845254,
+   "why": "новый альбом, но альт-рок с джазом вне жанров 3L"
   },
   "374936cc2ccf": {
    "also": [],
@@ -2108,6 +2148,26 @@
    "ts": 1792158580.8653674,
    "why": "соул и R&B, далеко от жанров 3L"
   },
+  "599f8369509d": {
+   "also": [],
+   "artist": "Harry Fowler",
+   "fit": 4,
+   "id": "599f8369509d",
+   "kind": "album",
+   "link": "https://readdork.com/news/harry-fowler-blankets-solo-album-6d873facb2",
+   "listen": {},
+   "major": false,
+   "msg_id": 228,
+   "release": "Blankets",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Harry Fowler’s solo album ‘Blankets’ arrives on Friday 30th October, led by debut single ‘Perfect Colours’.",
+   "summary_ru": "Харри Фаулер, фронтмен Wunderhorse, выпускает сольный альбом Blankets 30 октября, ведущий сингл - Perfect Colours. В альбом вошли песни, которые он писал начиная с подросткового возраста.",
+   "title": "Wunderhorse’s Harry Fowler has shared his solo album ‘Blankets’, featuring songs written since his teens",
+   "ts": 1793358854.4243622,
+   "why": "новый сольный альбом инди-рок артиста"
+  },
   "59cf2cc7a1e7": {
    "also": [],
    "artist": "Boys Noize",
@@ -2209,7 +2269,12 @@
    "why": "мейнстрим-поп, не любимый артист, жанр ближе к поп-танцу"
   },
   "639a220a3f5a": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/skye-newman-survival-single-03cbafdc7c",
+     "source": "Dork"
+    }
+   ],
    "artist": "Skye Newman",
    "fit": 4,
    "id": "639a220a3f5a",
@@ -2432,6 +2497,26 @@
    "title": "Peter Gabriel Shares New Song “Who Are We Talking To?”",
    "ts": 1793119501.0387833,
    "why": "новый сингл и анонс альбома, но не инди-жанр 3L"
+  },
+  "6d5bb765827d": {
+   "also": [],
+   "artist": "Bess Atwell",
+   "fit": 3,
+   "id": "6d5bb765827d",
+   "kind": "single",
+   "link": "https://readdork.com/news/bess-atwell-cut-a-figure-glass-08428276e7",
+   "listen": {},
+   "major": false,
+   "msg_id": 226,
+   "release": "Glass",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Bess Atwell’s fourth album, ‘Cut A Figure’, arrives on 5th February via Nettwerk, with new single and video ‘Glass’ out now.",
+   "summary_ru": "Bess Atwell выпустила сингл и видео «Glass», эмоциональный центр её четвёртого альбома «Cut A Figure», который выйдет 5 февраля на лейбле Nettwerk. Сингл уже доступен.",
+   "title": "Bess Atwell has shared ‘Glass’, the emotional centre of her forthcoming album ‘Cut A Figure’",
+   "ts": 1793358829.6375763,
+   "why": "малоизвестный фолк-поп, соседний жанр; есть анонс альбома"
   },
   "7016723a5dea": {
    "also": [],
@@ -4481,6 +4566,26 @@
    "ts": 1792620897.3886082,
    "why": "любимая группа вышла с новым живым альбомом"
   },
+  "fa10b4c4866d": {
+   "also": [],
+   "artist": "Currents",
+   "fit": 2,
+   "id": "fa10b4c4866d",
+   "kind": "album",
+   "link": "https://readdork.com/news/currents-rise-records-our-fates-lie-in-tandem-retributioner-db6342e693",
+   "listen": {},
+   "major": false,
+   "msg_id": 227,
+   "release": "Our Fates Lie in Tandem",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Currents will release their fourth album, ‘Our Fates Lie in Tandem’, in February 2027, led by new single ‘Retributioner’.",
+   "summary_ru": "Коннектикутская metalcore-группа Currents подписала контракт с Rise Records и анонсировала четвёртый альбом Our Fates Lie in Tandem, который выйдет в феврале 2027 года. Первым синглом стал трек Retributioner.",
+   "title": "Connecticut metalcore band Currents have signed to Rise Records and announced their new album ‘Our Fates Lie in Tandem’",
+   "ts": 1793358840.830223,
+   "why": "metalcore, жанр вне вкуса 3L"
+  },
   "fac47a1ef833": {
    "also": [],
    "artist": "Rachel Cribby",
@@ -4825,9 +4930,11 @@
   "19edf5ac1d5d": 1792750439.3828816,
   "19f06b4eeb8c": 1792251658.0496576,
   "1a1ec73c93cb": 1792664287.4882174,
+  "1a2309bde9e4": 1793358830.1711292,
   "1a2837f9350c": 1792140460.9287448,
   "1a3f99d6c86a": 1793122197.5758924,
   "1a599602974c": 1792664290.2948997,
+  "1a6a011f7b3f": 1793358824.9003499,
   "1a8dd88cb908": 1792517943.933015,
   "1a9ae5a7174e": 1793057304.7373648,
   "1a9ca8a43973": 1792158567.0555933,
@@ -4860,6 +4967,7 @@
   "1ebd567d2022": 1792140449.8447437,
   "1eee9f06cc55": 1792508233.9891453,
   "1f3145e50fac": 1792140449.516549,
+  "1f4b8740c5d8": 1793358864.1394947,
   "1f70bf6007bd": 1792140455.9615905,
   "1f7aca6c3335": 1792517947.7068393,
   "1f84c8a07ba1": 1793205017.373517,
@@ -4877,6 +4985,8 @@
   "2132cb7b53af": 1792156032.01266,
   "213b94bb11f0": 1792443258.3728712,
   "213ce197186c": 1792458440.4909623,
+  "21462899c336": 1793358864.1394966,
+  "21522cf27788": 1793358879.1067502,
   "216e8859b167": 1792494654.2874107,
   "2193169657c9": 1792140446.1809134,
   "21b10e9aa501": 1792762675.6494694,
@@ -4920,6 +5030,7 @@
   "2569be97aad3": 1792730002.6908572,
   "258047375ee2": 1793194517.9005816,
   "25806c492e25": 1792187905.6770828,
+  "258e09f0c0a3": 1793358864.1394925,
   "26024080e4af": 1792140455.961591,
   "261e22613c97": 1793194500.7389238,
   "262a03135c9f": 1792140448.2248929,
@@ -4976,6 +5087,7 @@
   "2e7d01277e39": 1792140419.3187907,
   "2e7d2d2bb842": 1793262582.4886398,
   "2e924bc6803a": 1793269299.6413019,
+  "2e926201cf3c": 1793358864.1394954,
   "2eac6fc0f112": 1792140456.3847518,
   "2eba3b0759dc": 1792677664.7420664,
   "2ef8fa22a2e2": 1792140455.0289195,
@@ -5051,6 +5163,8 @@
   "36529816ec3a": 1792765227.525167,
   "365e6a6760ef": 1793119488.137685,
   "366954fce984": 1792602871.4797435,
+  "368a1d1b8d86": 1793358841.3356407,
+  "369e71077abf": 1793358813.6916468,
   "36b09dba770f": 1793106902.5121815,
   "36b5988e8268": 1792156035.7558544,
   "36b9b2aac1d0": 1792541002.3197086,
@@ -5245,6 +5359,7 @@
   "4c0d756a398a": 1792140419.3187897,
   "4c213bbd29b9": 1792502539.441338,
   "4c37a4315462": 1792684611.387654,
+  "4c61dca91c6b": 1793358864.1394958,
   "4c671b4757f4": 1792237202.7927878,
   "4c70f39495c5": 1792517961.1542182,
   "4c818cf863cd": 1793009254.439842,
@@ -5277,6 +5392,7 @@
   "4f5c07183d59": 1792748042.3901868,
   "4f60061fa94c": 1792140446.1809068,
   "4f639b0b1a81": 1793201430.5670779,
+  "4fa746625970": 1793358864.1394968,
   "4fb516e2a4f2": 1792140446.3270483,
   "4fc96a763b32": 1792752848.976044,
   "4fd7768f4c70": 1792780260.0034132,
@@ -5346,6 +5462,7 @@
   "57fc3445bdd8": 1792228457.4859502,
   "582655e58227": 1792173600.5714204,
   "583ec426e020": 1792752822.6748762,
+  "58426c4fccca": 1793358854.921807,
   "584dc50d1747": 1793211263.669217,
   "585653a4d97d": 1792600449.5720272,
   "588bbc82e4ec": 1792140447.2519581,
@@ -5360,6 +5477,7 @@
   "596fb8676db8": 1792677625.4422295,
   "5975e2515efb": 1792140460.0458274,
   "598036c0f7ab": 1793009240.598505,
+  "599f8369509d": 1793358851.6190388,
   "59adc6a30861": 1792140455.961589,
   "59af292e153d": 1792140455.961587,
   "59cf2cc7a1e7": 1793282914.8544884,
@@ -5505,6 +5623,7 @@
   "6ceb5703e792": 1792765268.700614,
   "6d3767b50123": 1793028961.5424044,
   "6d39a5881c80": 1792339702.5628843,
+  "6d5bb765827d": 1793358828.195084,
   "6e1fb6a87de8": 1793035465.2534149,
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
@@ -5533,6 +5652,7 @@
   "7048051c6fff": 1792408662.4360516,
   "709b95069b59": 1792142237.730859,
   "70cc05c79f2a": 1792140449.8447452,
+  "70f091d4f74d": 1793358872.9228923,
   "70f3122669e3": 1792748045.675898,
   "712ca75043ce": 1793327477.5802727,
   "712e7bb84c2a": 1792140455.961588,
@@ -5579,6 +5699,7 @@
   "7620d513c748": 1793101045.5974371,
   "767256e28148": 1793289525.7286572,
   "76890fc49f20": 1793101072.7612333,
+  "768b2ef7fb21": 1793358836.6319149,
   "7693b82982c0": 1792140455.635875,
   "769ead3218c6": 1792140447.2519543,
   "76b84124645a": 1792607492.4593935,
@@ -5609,6 +5730,7 @@
   "7b39442a6078": 1792785001.355564,
   "7b6158eecd27": 1793243782.7489743,
   "7c006d277346": 1792140455.6358821,
+  "7c2860a2738f": 1793358799.551235,
   "7c36035dffc8": 1792605145.6038854,
   "7c8acf263072": 1793032295.0793715,
   "7c9189c1ff71": 1793119467.5363955,
@@ -5625,6 +5747,7 @@
   "7e9f5e0d6aa9": 1792988507.0195827,
   "7e9faa5885fd": 1792664278.5046082,
   "7eea023c73b7": 1792397222.6336875,
+  "7eec166d7687": 1793358848.3104622,
   "7efe20e624ff": 1792945982.8320758,
   "7f0c1c7c664a": 1792140461.4665883,
   "7f2aaa41a6c9": 1792512952.429844,
@@ -5668,6 +5791,7 @@
   "835b4da34eef": 1792573131.4566736,
   "836ca427c997": 1792784996.9077108,
   "8396c64e6662": 1792140455.961587,
+  "83b0b37ecbaf": 1793358833.3265486,
   "83e1545a354c": 1792750433.574672,
   "840f36fc9aa4": 1792517975.2035751,
   "842bed8c6aea": 1792223386.951102,
@@ -5776,6 +5900,7 @@
   "91e50bddd185": 1793194514.4802563,
   "921e7c63d477": 1793116299.1211796,
   "921ed22f6702": 1792740355.7027452,
+  "924580c3d529": 1793358810.9343977,
   "926e91f55c9c": 1792169713.1484814,
   "927a5a1bbc55": 1793197865.841436,
   "929b08848d21": 1792140460.0458226,
@@ -5866,6 +5991,7 @@
   "9e6850c5d75a": 1792752828.0822506,
   "9e9ff462928e": 1792140446.3270493,
   "9ec12dcc7353": 1792140460.045824,
+  "9ed7bb6c74f7": 1793358820.3617482,
   "9eec6f2b9d37": 1793119470.1306322,
   "9f04ca99ea73": 1792142259.7923665,
   "9f0aff8eb457": 1792406873.6734486,
@@ -6091,6 +6217,7 @@
   "b9d2eaeff83a": 1792216588.8571377,
   "b9e6ec5954c5": 1792140449.8447447,
   "b9ebd6f801b1": 1792492309.6645746,
+  "b9f789f124d3": 1793358885.9000351,
   "ba12bebb94cb": 1792165220.2133727,
   "ba932da34c59": 1792577660.6593142,
   "babac65f9ee5": 1792336195.3161216,
@@ -6108,6 +6235,7 @@
   "bcca938beca4": 1793197849.5622137,
   "bcd0408c723b": 1792140446.327049,
   "bcea6ed9d62d": 1792140455.6358807,
+  "bcebc5e23afc": 1793358864.1394973,
   "bd0534216a6e": 1792140455.9615872,
   "bd0e580cecc1": 1792140447.2519572,
   "bd3ee064e3cb": 1792140455.6358786,
@@ -6181,6 +6309,7 @@
   "c46ae93a17a2": 1792431200.2513068,
   "c49c93d616eb": 1792431209.9066129,
   "c4e6bd3c0c70": 1792140448.224896,
+  "c538b98904ad": 1793358861.3932054,
   "c53eaa794e97": 1792343397.1827364,
   "c555218c0eaf": 1792775654.9615405,
   "c55cb98dadea": 1792140460.928746,
@@ -6340,6 +6469,7 @@
   "d9f6140001ae": 1792836511.7867217,
   "da30dd3538de": 1793119422.2750673,
   "da3d9b722ea3": 1793119480.8823264,
+  "da443c66eaa5": 1793358846.9502583,
   "da49791167ae": 1793103446.15862,
   "da94610050cb": 1792773206.547934,
   "da9d1c58b355": 1792140455.0717518,
@@ -6447,6 +6577,7 @@
   "e458854f0988": 1792140449.844749,
   "e479980f6cc7": 1793286361.5239165,
   "e49043178e67": 1793230561.3587773,
+  "e49098d74058": 1793358876.2056308,
   "e4aad33a03a1": 1792782942.2134178,
   "e4c8176b9eb6": 1792334830.8639565,
   "e4cde00cb514": 1792140419.6649094,
@@ -6490,6 +6621,7 @@
   "e9c3a846ce3d": 1792740368.5752733,
   "e9c6c1b2844a": 1792755015.9322479,
   "e9fe32bd4a9b": 1792140462.281756,
+  "ea02082fbf95": 1793358844.0052698,
   "ea0f232a3cda": 1792140446.180907,
   "ea5529352777": 1792140455.0717494,
   "ea6e10489857": 1792497209.2803423,
@@ -6530,6 +6662,7 @@
   "eec53405f494": 1793101078.6659098,
   "eee8b8c0b7d3": 1792598292.2264707,
   "eef3628279ba": 1792478065.7128956,
+  "ef22a79fc744": 1793358858.2380476,
   "ef38147ac1ca": 1793135241.8531191,
   "ef4ad44e8683": 1792140455.0289283,
   "ef6938d92007": 1792390459.402517,
@@ -6620,6 +6753,7 @@
   "f97ac7167f48": 1793088306.668876,
   "f9d890b2fcb3": 1792620895.995453,
   "f9edd2b79ecf": 1792703207.1909082,
+  "fa10b4c4866d": 1793358839.4364066,
   "fa4364552533": 1793124958.5317624,
   "faaab1470297": 1792140455.028921,
   "fab4d48cdb25": 1792381262.0103343,
