@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793378076
+   "ok": 1793381026
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793378084
+   "ok": 1793381032
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793378084
+   "ok": 1793381032
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793378062
+   "ok": 1793381012
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793378070
+   "ok": 1793381017
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793378072
+   "ok": 1793381025
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793378076
+   "err_ts": 1793381027
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793378076
+   "ok": 1793381027
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793378045
+   "ok": 1793381004
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793378046
+   "ok": 1793381007
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793378078
+   "ok": 1793381028
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793378084
+   "ok": 1793381031
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793378083
+   "ok": 1793381031
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793378081
+   "ok": 1793381031
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793378045
+   "ok": 1793380999
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793378072
+   "ok": 1793381024
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793378073
+   "ok": 1793381026
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793378070
+   "ok": 1793381024
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793378081
+   "ok": 1793381031
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793378086
+   "ok": 1793381034
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793378085
+   "ok": 1793381034
   },
   "Родной звук (TG)": {
-   "count": 11,
+   "count": 8,
    "err": "",
-   "ok": 1793378087
+   "ok": 1793381036
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793378086
+   "ok": 1793381035
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793378090
+   "ok": 1793381040
   }
  },
  "heartbeat": "2026-10-30",
@@ -2558,6 +2558,26 @@
    "ts": 1793358829.6375763,
    "why": "малоизвестный фолк-поп, соседний жанр; есть анонс альбома"
   },
+  "6f18c78a0e75": {
+   "also": [],
+   "artist": "The Heavy North",
+   "fit": 2,
+   "id": "6f18c78a0e75",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/the-heavy-north-open-a-new-chapter-with-latest-single-alive/",
+   "listen": {},
+   "major": false,
+   "msg_id": 239,
+   "release": "Alive",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "The Heavy North are bouncing back with their latest single, ‘Alive.’ A wholehearted embrace of blues-rock nostalgia, the Liverpool outfit put forward a gripping, heart-on-sleeve listen that connects far and wide. From beginning to end, the track centres itself on rich, autumnal acoustics, reflecting on themes of love, infatuation and… The post The Heavy North Open A New Chapter With Latest Single, ‘Alive’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Ливерпульская группа The Heavy North выпустила новый сингл «Alive». Трек построен на блюз-рок-ностальгии и осенней акустике, а тексты посвящены любви и влюблённости. Заметка Clash обрывается, поэтому лейбл и подробности неизвестны.",
+   "title": "The Heavy North Open A New Chapter With Latest Single, ‘Alive’",
+   "ts": 1793381015.1721687,
+   "why": "блюз-рок вне жанров 3L, новый сингл неизвестного артиста"
+  },
   "7016723a5dea": {
    "also": [],
    "artist": "Bicep",
@@ -2933,6 +2953,26 @@
    "title": "Fontaines D.C. — Dopamine Chamber",
    "ts": 1792169715.7223,
    "why": "пост-панк группы, новый альбом, рецензия"
+  },
+  "961683979140": {
+   "also": [],
+   "artist": "Olivia Rodrigo",
+   "fit": 2,
+   "id": "961683979140",
+   "kind": "review",
+   "link": "https://stereogum.com/2516108/5-thoughts-on-olivia-rodrigos-unraveled-tour/reviews/concert-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 238,
+   "release": "",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post 5 Thoughts On Olivia Rodrigo’s Unraveled Tour appeared first on Stereogum .",
+   "summary_ru": "Рецензия на концерт Олив Родриго в рамках тура Unraveled: автор делится пятью впечатлениями о шоу. Текста записи недостаточно для подробностей о программе.",
+   "title": "5 Thoughts On Olivia Rodrigo’s Unraveled Tour",
+   "ts": 1793381001.508811,
+   "why": "мейнстрим-поп, концертный обзор без нового релиза"
   },
   "974f6ed2c236": {
    "also": [],
@@ -4988,6 +5028,7 @@
   "096890b7e87f": 1793098768.46846,
   "0972ec576960": 1792140448.224892,
   "09883f80b47f": 1792768208.4869514,
+  "0988a428b863": 1793381020.365635,
   "0997e8477041": 1792595617.2528396,
   "09cccf170394": 1792140459.2475755,
   "09d61d027a83": 1792762681.7538242,
@@ -5515,6 +5556,7 @@
   "4716bec7e5fa": 1793098724.8715715,
   "4717282a2862": 1792140455.9615858,
   "4726ac85138a": 1792151138.4797187,
+  "473c66bac382": 1793381004.575902,
   "475045be92c2": 1792140449.5165505,
   "47508a1b5497": 1792752831.1696427,
   "476d2314c4ac": 1792750403.2417152,
@@ -5714,6 +5756,7 @@
   "5c93fe045077": 1793324732.1855474,
   "5cabf6b4e702": 1792401934.2513602,
   "5cb944a9bea1": 1793057323.4915462,
+  "5cc64a0bd8b8": 1793381017.2761037,
   "5cceba3c9e71": 1792140459.2475762,
   "5d3ea1095a40": 1793101033.4338644,
   "5d676a8bd493": 1793240434.9559362,
@@ -5848,6 +5891,7 @@
   "6eee94deb890": 1792416648.2779644,
   "6ef206eb780e": 1793286345.1918888,
   "6f0dbb3d3a8b": 1792140446.1809132,
+  "6f18c78a0e75": 1793381012.4822435,
   "6f27a40fcc6f": 1793204987.8394842,
   "6f27b9f0cf39": 1792140455.635882,
   "6f2aac0117aa": 1792773229.8975785,
@@ -6146,6 +6190,7 @@
   "95a7c11f3935": 1792755031.8013034,
   "95c507915430": 1792140448.224895,
   "95c92b80ddbc": 1792691508.5665064,
+  "961683979140": 1793380999.707375,
   "961a8b84f529": 1792140419.318788,
   "962fdfe11801": 1792140448.2248914,
   "963062bba48c": 1792140451.9265785,
@@ -6260,6 +6305,7 @@
   "a3d4fb841682": 1792167214.670259,
   "a3efa12afac7": 1792426675.610756,
   "a3f4ae4cd417": 1792140455.0289216,
+  "a40cae09d8a2": 1793381002.0489678,
   "a431ae935142": 1792140449.5165486,
   "a457d8d571fc": 1792752812.6860633,
   "a45e92626498": 1792140455.6358793,
@@ -6914,6 +6960,7 @@
   "efdf1404f9cc": 1793032306.9648721,
   "eff932989ad0": 1793119523.2564116,
   "f002bf1dd72e": 1792593130.6215792,
+  "f0077ca1e46a": 1793381036.1821012,
   "f02471f00708": 1793110251.102331,
   "f03caad4341c": 1792512932.7272036,
   "f0498cc5ac29": 1792762666.3420427,
