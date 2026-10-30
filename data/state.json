@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793327472
+   "ok": 1793330631
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793327491
+   "ok": 1793330649
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793327491
+   "ok": 1793330649
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793327466
+   "ok": 1793330624
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793327467
+   "ok": 1793330625
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793327471
+   "ok": 1793330627
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793327472
+   "err_ts": 1793330632
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793327472
+   "ok": 1793330632
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793327453
+   "ok": 1793330612
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793327454
+   "ok": 1793330613
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793327474
+   "ok": 1793330634
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793327491
+   "ok": 1793330648
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793327491
+   "ok": 1793330648
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793327490
+   "ok": 1793330648
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793327453
+   "ok": 1793330612
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793327470
+   "ok": 1793330626
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793327472
+   "ok": 1793330628
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793327470
+   "ok": 1793330626
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793327477
+   "ok": 1793330635
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793327494
+   "ok": 1793330651
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793327493
+   "ok": 1793330650
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793327495
+   "ok": 1793330653
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793327494
+   "ok": 1793330652
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793327495
+   "ok": 1793330653
   }
  },
  "heartbeat": "2026-10-30",
@@ -1464,7 +1464,12 @@
    "why": "малоизвестная инди-группа, звучание неизвестно из записи"
   },
   "3c0b2965a1e2": {
-   "also": [],
+   "also": [
+    {
+     "link": "http://www.undertheradarmag.com/news/kevin_morby_tackles_gun_violence_in_new_song_nursery_rhyme_feat_lonnie_holley",
+     "source": "Under the Radar"
+    }
+   ],
    "artist": "Kevin Morby",
    "fit": 3,
    "id": "3c0b2965a1e2",
@@ -4721,6 +4726,7 @@
   "183c6447ba17": 1792140454.9418406,
   "186cfe3c3af3": 1792526797.237889,
   "1870ba42ad82": 1792492326.4260542,
+  "191541e5195d": 1793330642.1600025,
   "1938e5f6d74d": 1792140460.0458217,
   "199cf08d08b7": 1792140446.1809065,
   "199e9f740def": 1793278866.9139147,
@@ -4810,6 +4816,7 @@
   "23b6f2f12dba": 1792140447.2519567,
   "23c74fd7516f": 1793124962.1644003,
   "23f4c5f747ef": 1793069897.2291517,
+  "23f981b3faf4": 1793330635.8492846,
   "241748841404": 1792140455.0717545,
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
@@ -4983,6 +4990,7 @@
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
   "39d423d7f6ef": 1792140447.2519522,
+  "39f008a96166": 1793330628.5840404,
   "39fe00195106": 1792570309.7251508,
   "3a2609c967ab": 1792765224.506886,
   "3a295d1ab3af": 1792508213.7042525,
@@ -5864,6 +5872,7 @@
   "acab821bcc01": 1793137501.4543345,
   "acabb43d1aa3": 1792140456.384748,
   "acb106477ad4": 1792770669.0576847,
+  "aceb38d138bd": 1793330638.8731155,
   "acf72b6c08c6": 1792148969.8518102,
   "ad30869d0f20": 1792416644.3908706,
   "ad837da2cf60": 1792140449.5165474,
@@ -5949,6 +5958,7 @@
   "b56fc00fb5fa": 1792575299.3751597,
   "b5827bfee9d0": 1793032318.4004645,
   "b5b16ec68cfd": 1792140455.0289187,
+  "b5b8977d438a": 1793330645.3243577,
   "b5bc8c4d9a0e": 1792169705.1837678,
   "b67478d11822": 1792584709.4909456,
   "b68191dae77c": 1792453401.7144582,
