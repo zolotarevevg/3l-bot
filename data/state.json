@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793372257
+   "ok": 1793375373
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793372263
+   "ok": 1793375379
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793372268
+   "ok": 1793375379
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793372223
+   "ok": 1793375359
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793372229
+   "ok": 1793375361
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793372255
+   "ok": 1793375362
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793372257
+   "err_ts": 1793375374
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793372257
+   "ok": 1793375374
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793372208
+   "ok": 1793375340
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793372211
+   "ok": 1793375348
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793372259
+   "ok": 1793375376
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793372262
+   "ok": 1793375379
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793372262
+   "ok": 1793375379
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793372262
+   "ok": 1793375378
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793372202
+   "ok": 1793375327
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793372255
+   "ok": 1793375361
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793372257
+   "ok": 1793375364
   },
   "musicOMH": {
    "count": 20,
-   "err": "ReadTimeout: HTTPSConnectionPool(host='www.musicomh.com', port=443): Read timed out. (read timeout=25)",
-   "err_ts": 1793372254,
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793375361,
    "ok": 1793368815
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793372262
+   "ok": 1793375378
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793372270
+   "ok": 1793375384
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793372269
+   "ok": 1793375380
   },
   "Родной звук (TG)": {
-   "count": 9,
+   "count": 10,
    "err": "",
-   "ok": 1793372271
+   "ok": 1793375385
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793372270
+   "ok": 1793375385
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793372274
+   "ok": 1793375389
   }
  },
  "heartbeat": "2026-10-30",
@@ -2579,6 +2579,26 @@
    "ts": 1792580173.801815,
    "why": "новый инди-сингл, жанр близкий 3L"
   },
+  "73337ced442a": {
+   "also": [],
+   "artist": "fanclubwallet",
+   "fit": 3,
+   "id": "73337ced442a",
+   "kind": "single",
+   "link": "https://stereogum.com/2516129/fanclubwallet-creep-o/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 235,
+   "release": "Creep-O",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post fanclubwallet – “Creep-O” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый трек fanclubwallet «Creep-O» в рубрике New Music. Подробностей о лейбле и составе в записи нет.",
+   "title": "fanclubwallet – “Creep-O”",
+   "ts": 1793375337.1612158,
+   "why": "новый трек, но жанр и звучание неизвестны из записи"
+  },
   "7786e9a269ba": {
    "also": [],
    "artist": "Skycabin",
@@ -2684,6 +2704,26 @@
    "title": "Группа Hospital представила новый альбом.",
    "ts": 1792165240.1688073,
    "why": "новый альбом, инди-рок и нью-вейв, малоизвестная группа"
+  },
+  "8353e43536bf": {
+   "also": [],
+   "artist": "Fire-Toolz",
+   "fit": 2,
+   "id": "8353e43536bf",
+   "kind": "single",
+   "link": "https://stereogum.com/2516134/fire-toolz-cluster-around-my-opening/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 236,
+   "release": "Cluster Around My Opening!",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Fire-Toolz – “Cluster Around My Opening!” appeared first on Stereogum .",
+   "summary_ru": "Fire-Toolz выпустила новый трек «Cluster Around My Opening!», о котором написал Stereogum в рубрике New Music. Больше деталей в записи нет.",
+   "title": "Fire-Toolz – “Cluster Around My Opening!”",
+   "ts": 1793375340.127174,
+   "why": "экспериментальный поп, далеко от жанров 3L"
   },
   "87ab40cb988d": {
    "also": [],
@@ -3966,6 +4006,26 @@
    "ts": 1792600461.4035573,
    "why": "новый сингл в жанрах 3L, малоизвестный артист"
   },
+  "d7ce74398c8d": {
+   "also": [],
+   "artist": "Benny The Butcher",
+   "fit": 2,
+   "id": "d7ce74398c8d",
+   "kind": "single",
+   "link": "https://stereogum.com/2516124/benny-the-butcher-elevate/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 234,
+   "release": "Elevate",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Benny The Butcher – “Elevate” appeared first on Stereogum .",
+   "summary_ru": "Бенни Зе Бучер выпустил новый трек «Elevate». Материал опубликован в рубрике New Music.",
+   "title": "Benny The Butcher – “Elevate”",
+   "ts": 1793375333.828414,
+   "why": "хип-хоп, вне жанров 3L"
+  },
   "d8d50d005740": {
    "also": [],
    "artist": "Glasvegas",
@@ -5136,6 +5196,7 @@
   "241748841404": 1792140455.0717545,
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
+  "245c69f06d91": 1793375370.3731778,
   "24b361939a3a": 1793190592.6304018,
   "24bfaed9bf5b": 1793230580.630854,
   "24c027f6363f": 1792497218.886947,
@@ -5170,6 +5231,7 @@
   "28894f15b65c": 1793318169.1093063,
   "289305b4f40a": 1792411075.6856875,
   "2894c27e4922": 1792821148.8389127,
+  "298c02e6dfbc": 1793375385.8990054,
   "29aa4ef1cd6f": 1792140455.9615905,
   "29f298d6e992": 1793167995.3592868,
   "2a1a413d0b45": 1792598289.8253508,
@@ -5230,6 +5292,7 @@
   "316588a5efa1": 1793292825.7444928,
   "31691a2bbe33": 1793185463.688092,
   "31826350416f": 1793011793.5925248,
+  "3182a7a7138c": 1793375340.8044271,
   "31862f5e48fa": 1793119464.5097456,
   "318b397810a2": 1792343409.0080278,
   "319b38ef4dd6": 1792425021.739633,
@@ -5311,6 +5374,7 @@
   "398163e28db8": 1793028988.780396,
   "398aeebe61e2": 1792140448.2248924,
   "39a12e1d4171": 1792140460.9287472,
+  "39a62d28e245": 1793375380.8293211,
   "39d423d7f6ef": 1792140447.2519522,
   "39f008a96166": 1793330628.5840404,
   "39fe00195106": 1792570309.7251508,
@@ -5373,6 +5437,7 @@
   "416fc1bb126c": 1792343400.2228136,
   "418f3cc4e7d3": 1792249728.8038208,
   "41908efc3ba9": 1792148989.020137,
+  "41a67cc81569": 1793375344.2302425,
   "41c1843aa8f7": 1792156070.780966,
   "41c63a492cd1": 1792921589.3162982,
   "41f7a5cb3a9f": 1792745841.5240855,
@@ -5796,6 +5861,7 @@
   "7314856bf775": 1792142252.217261,
   "731703f74350": 1792169709.3684802,
   "731d13d9ee50": 1792140449.5165515,
+  "73337ced442a": 1793375334.3576982,
   "73cd5cde67e2": 1792140456.3847492,
   "73deacb6c18c": 1792140449.8447487,
   "73e7b0156ff4": 1792140448.224893,
@@ -5914,6 +5980,7 @@
   "82ed20c8ee1d": 1793014213.0276093,
   "831514a0216c": 1792140419.318791,
   "8341f0d8d8a8": 1793269285.8408723,
+  "8353e43536bf": 1793375337.608949,
   "835b4da34eef": 1792573131.4566736,
   "836ca427c997": 1792784996.9077108,
   "8396c64e6662": 1792140455.961587,
@@ -6498,6 +6565,7 @@
   "cb233ab8f34d": 1792757289.3297522,
   "cb5b794dae71": 1793361713.849827,
   "cb991e68c9e1": 1792140455.0289192,
+  "cbd9807542db": 1793375364.0409236,
   "cbdef70800a7": 1793342959.261145,
   "cbe4da5d4916": 1792140446.1809065,
   "cc00ee94d99e": 1792140446.1809146,
@@ -6593,6 +6661,7 @@
   "d6de7b73c4ce": 1792142237.730858,
   "d6eab1e2a6c2": 1792140455.0717514,
   "d6faeacdf4c9": 1793057307.494564,
+  "d7ce74398c8d": 1793375327.692781,
   "d7fa34729006": 1792140460.9287436,
   "d8215b5bc862": 1793333919.1494505,
   "d8516f1c7b5e": 1792575309.8005059,
@@ -6656,6 +6725,7 @@
   "dea5dd2af40b": 1792422159.7898874,
   "deb1f30892e6": 1792140419.4762268,
   "dee89ea944ca": 1793272564.3602817,
+  "def44c8d338d": 1793375381.9813018,
   "deff74112748": 1793201433.3546443,
   "df2d09676e35": 1792582326.9854937,
   "df50b0fd8673": 1792413736.5080862,
