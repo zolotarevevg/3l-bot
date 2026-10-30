@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793358865
+   "ok": 1793361737
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1793358883
+   "ok": 1793361751
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793358883
+   "ok": 1793361752
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793358810
+   "ok": 1793361713
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793358818
+   "ok": 1793361721
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793358820
+   "ok": 1793361723
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793358866
+   "err_ts": 1793361738
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793358866
+   "ok": 1793361738
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793358799
+   "ok": 1793361693
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793358802
+   "ok": 1793361700
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793358869
+   "ok": 1793361739
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793358883
+   "ok": 1793361751
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793358882
+   "ok": 1793361751
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793358881
+   "ok": 1793361751
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793358799
+   "ok": 1793361693
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793358819
+   "ok": 1793361722
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793358865
+   "ok": 1793361737
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793358819
+   "ok": 1793361722
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793358872
+   "ok": 1793361742
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793358885
+   "ok": 1793361757
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793358884
+   "ok": 1793361753
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793358890
+   "ok": 1793361758
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793358890
+   "ok": 1793361757
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793358891
+   "ok": 1793361761
   }
  },
  "heartbeat": "2026-10-30",
@@ -3805,6 +3805,26 @@
    "ts": 1792156058.5868042,
    "why": "новый альбом, синти-поп и дрим-поп в духе 3L"
   },
+  "c9d0bd739642": {
+   "also": [],
+   "artist": "Crown The Empire",
+   "fit": 2,
+   "id": "c9d0bd739642",
+   "kind": "single",
+   "link": "https://readdork.com/news/crown-the-empire-violet-video-online-game-acbfa2fcf3",
+   "listen": {},
+   "major": false,
+   "msg_id": 230,
+   "release": "Violet",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Crown The Empire’s new single ‘Violet’ arrives via Rise Records alongside an official video and ‘Violent Violet’, a browser game set inside its eerie house.",
+   "summary_ru": "Crown The Empire выпустили новый сингл Violet на лейбле Rise Records вместе с официальным клипом и браузерной игрой Violent Violet, действие которой происходит в их зловещем доме.",
+   "title": "Crown The Empire have released new single ‘Violet’ with a music video and online game",
+   "ts": 1793361732.8189788,
+   "why": "post-hardcore/metalcore, вне жанров 3L"
+  },
   "ca62ef7fb0de": {
    "also": [],
    "artist": "Hot Chip",
@@ -3824,6 +3844,26 @@
    "title": "Hot Chip Announce New Album A Long Way From Kansas: Hear “Random Violence”",
    "ts": 1792424994.3344622,
    "why": "любимый артист Hot Chip, анонс нового альбома"
+  },
+  "cb5b794dae71": {
+   "also": [],
+   "artist": "Meryl Streek",
+   "fit": 2,
+   "id": "cb5b794dae71",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/features/meryl-streek-presents-lessons-they-dont-teach-you-at-school/",
+   "listen": {},
+   "major": false,
+   "msg_id": 229,
+   "release": "Lessons They Don't Teach You At School",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Irish artist Meryl Streek is a force to be reckoned with. A one-man punk band from Dublin, his righteous lyrics act as a rallying cry for those pushed to society’s fringes. A searing live performer, Meryl Streek’s new album ‘Lessons They Don’t Teach You At School’ is out now, and… The post Meryl Streek Presents: Lessons They Don’t Teach You At School appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Ирландский исполнитель Мерил Стрик, одиночный панк-проект из Дублина, выпустил новый альбом Lessons They Don't Teach You At School. Материал в статье Clash подан как подборка и интервью, подробностей о лейбле и участниках нет.",
+   "title": "Meryl Streek Presents: Lessons They Don’t Teach You At School",
+   "ts": 1793361716.4636202,
+   "why": "панк, далеко от жанров 3L"
   },
   "cc6d35c6c3dd": {
    "also": [],
@@ -4993,6 +5033,7 @@
   "21b5f8d0f370": 1792494660.5864563,
   "21b732e0c251": 1793116273.8507464,
   "21b80d87092e": 1793023016.2050052,
+  "21d009cdd02b": 1793361745.5872495,
   "21d435bacee5": 1792614459.3579214,
   "21f3b2cd1c8a": 1792440683.8495347,
   "21f9dac8dfee": 1792580155.3225443,
@@ -5271,6 +5312,7 @@
   "42db33201c97": 1792419522.009265,
   "42e296c212a7": 1792677632.7247596,
   "430584c02f7f": 1793237045.4729252,
+  "43061dfd430d": 1793361693.702857,
   "430f0f7ef803": 1792780275.8388228,
   "431c95f9c1cd": 1792140455.6358795,
   "4341c65dffd8": 1792169696.0349832,
@@ -5415,6 +5457,7 @@
   "52b12e62549e": 1792160481.6299381,
   "52c2c4a5f816": 1793116277.0244648,
   "52d2c2a41b32": 1793032281.7155175,
+  "52e3a1911bd1": 1793361753.3255076,
   "52f5fd0bc6f8": 1792140449.8447504,
   "52fc2b9edc40": 1792818685.6391878,
   "52fe06d941d6": 1792140449.51655,
@@ -5617,6 +5660,7 @@
   "6bc5cae5d68d": 1793119499.749883,
   "6bea6a140366": 1793278831.3879406,
   "6c02cdbec83d": 1792487962.0225365,
+  "6c81c4a1faf0": 1793361723.3581347,
   "6c93b0e065ac": 1792620915.8321068,
   "6c94b9488f69": 1792429163.1891952,
   "6c9eb0ca49ab": 1793321268.2050514,
@@ -6010,6 +6054,7 @@
   "a031360a81a7": 1792668767.4823153,
   "a03691f3b3cd": 1792775641.4877872,
   "a03f1cac9ea7": 1792684603.6028697,
+  "a040e37af3ae": 1793361717.0072026,
   "a045afcf837d": 1792505495.1621578,
   "a06f36433034": 1793006214.4620893,
   "a08890ecf72b": 1793278876.8230402,
@@ -6128,6 +6173,7 @@
   "af903e199fd3": 1793150707.5868697,
   "af9e1adfc03b": 1792773222.5983038,
   "afce16bf96e1": 1792140449.5165496,
+  "afe3a58c41a1": 1793361748.655677,
   "b0093ae695bb": 1793103458.079409,
   "b029ffc2ed44": 1792686896.3083942,
   "b05c96799299": 1793009257.1395183,
@@ -6228,6 +6274,7 @@
   "bb3963289efd": 1792140446.3270488,
   "bb92164e8cae": 1792140419.4762352,
   "bbb12be67ff0": 1792677609.5075011,
+  "bbc510aa1beb": 1793361758.2108498,
   "bc4de10ba01d": 1792140455.028921,
   "bc90c98cb385": 1792140455.0289185,
   "bc961d5f3279": 1792140455.0289197,
@@ -6352,6 +6399,8 @@
   "c993a94fc012": 1792557951.917994,
   "c9967130fdec": 1792422132.949832,
   "c996c546aeee": 1792156055.8648312,
+  "c9d0bd739642": 1793361727.1255088,
+  "c9d91dee894f": 1793361742.6089926,
   "c9d9d4ecd707": 1792737326.3939404,
   "ca62ef7fb0de": 1792424992.9666033,
   "ca90ab2ba7e0": 1793011772.1501582,
@@ -6359,11 +6408,13 @@
   "caa15d17ff80": 1793342954.6184318,
   "cab2f2efdf89": 1792140455.6358762,
   "cb233ab8f34d": 1792757289.3297522,
+  "cb5b794dae71": 1793361713.849827,
   "cb991e68c9e1": 1792140455.0289192,
   "cbdef70800a7": 1793342959.261145,
   "cbe4da5d4916": 1792140446.1809065,
   "cc00ee94d99e": 1792140446.1809146,
   "cc0ef863a426": 1792948113.017146,
+  "cc11af67b7bc": 1793361733.279215,
   "cc539cc5afa1": 1792748086.9151695,
   "cc68be72536e": 1793035453.7857854,
   "cc6d35c6c3dd": 1792529028.0492203,
