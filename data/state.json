@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793434821
+   "ok": 1793437564
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793434826
+   "ok": 1793437569
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793434827
+   "ok": 1793437569
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793434816
+   "ok": 1793437557
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793434818
+   "ok": 1793437558
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793434819
+   "ok": 1793437563
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793434821
+   "err_ts": 1793437564
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793434821
+   "ok": 1793437564
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793434810
+   "ok": 1793437544
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793434811
+   "ok": 1793437547
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793434823
+   "ok": 1793437566
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793434826
+   "ok": 1793437568
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793434826
+   "ok": 1793437568
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793434826
+   "ok": 1793437568
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793434810
+   "ok": 1793437544
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793434819
+   "ok": 1793437559
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793434820
+   "ok": 1793437564
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793434818
+   "ok": 1793437559
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793434826
+   "ok": 1793437568
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793434830
+   "ok": 1793437571
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793434828
+   "ok": 1793437570
   },
   "Родной звук (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1793434832
+   "ok": 1793437572
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793434831
+   "ok": 1793437571
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793434833
+   "ok": 1793437572
   }
  },
  "heartbeat": "2026-10-31",
@@ -2740,6 +2740,26 @@
    "ts": 1792757311.841098,
    "why": "новый трек, но жанр в записи не указан"
   },
+  "7f0cc442ac8d": {
+   "also": [],
+   "artist": "Boris & Sunn O)))",
+   "fit": 2,
+   "id": "7f0cc442ac8d",
+   "kind": "review",
+   "link": "https://thequietus.com/opinion-and-essays/anniversary/sunn-o-boris-altar-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 241,
+   "release": "Altar",
+   "russian": false,
+   "source": "The Quietus",
+   "status": "new",
+   "summary_en": "Where do you go, what do you do, after you have created a riff for the ages? For Keith Kahn-Harris, that's the question that Boris & Sunn O)))'s Altar seems to ask By any objective standard, the riff that dominates 'Etna', the opener to the Boris / Sunn O))) collaboration Altar, should be as celebrated as 'Walk', 'Whole Lotta Love' or 'Symptom Of The Universe'. As a song, there is little else to it but the riff – an extended intro that builds and locks into an audaciously simple chord sequence, eventually giving way to a lavishly elongated breakdown into a squall of guitar noise. It's 9 minutes and 50 seconds of metallic perfection, the apotheosis of focused guitar power, without... The post Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O))) appeared first on The Quietus .",
+   "summary_ru": "Юбилейная ретроспектива The Quietus о альбоме Altar, совместной работе Boris и Sunn O))). Автор разбирает риф открывающего трека 'Etna' длиной почти 10 минут.",
+   "title": "Sacrificial Riffology: Reconsidering Altar by Boris & Sunn O)))",
+   "ts": 1793437562.6879125,
+   "why": "дум-метал и дроун, вне жанров 3L, ретроспектива"
+  },
   "80b15b35029e": {
    "also": [],
    "artist": "Hospital",
@@ -4997,6 +5017,7 @@
   "02be0efacf15": 1792780264.722466,
   "02fc2c1a5ef0": 1792486032.712581,
   "031160f8560c": 1792422153.9425986,
+  "0318354548c1": 1793437544.6917856,
   "0346ab21fa05": 1793185494.5040824,
   "03754bf44ed3": 1793110203.2891803,
   "038360609165": 1792140449.516551,
@@ -6046,6 +6067,7 @@
   "7eec166d7687": 1793358848.3104622,
   "7efe20e624ff": 1792945982.8320758,
   "7f0c1c7c664a": 1792140461.4665883,
+  "7f0cc442ac8d": 1793437559.9408822,
   "7f2aaa41a6c9": 1792512952.429844,
   "7f531aae291a": 1793318156.4731765,
   "7f5f620284ee": 1792519745.2865176,
