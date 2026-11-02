@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793598076
+   "ok": 1793602205
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793598081
+   "ok": 1793602210
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793598081
+   "ok": 1793602210
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793598072
+   "ok": 1793602194
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793598074
+   "ok": 1793602195
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793598075
+   "ok": 1793602204
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793598076
+   "err_ts": 1793602205
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793598076
+   "ok": 1793602205
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793598066
+   "ok": 1793602183
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793598067
+   "ok": 1793602183
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793598078
+   "ok": 1793602207
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793598081
+   "ok": 1793602210
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793598081
+   "ok": 1793602210
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793598081
+   "ok": 1793602210
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793598066
+   "ok": 1793602183
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793598075
+   "ok": 1793602196
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793598076
+   "ok": 1793602205
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793598074,
-   "ok": 1793594313
+   "err": "",
+   "ok": 1793602195
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793598081
+   "ok": 1793602210
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793598083
+   "ok": 1793602215
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793598082
+   "ok": 1793602211
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793598084
+   "ok": 1793602216
   },
   "Сломанные пляски (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1793598084
+   "ok": 1793602216
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793598085
+   "ok": 1793602217
   }
  },
  "heartbeat": "2026-11-02",
@@ -448,6 +447,26 @@
    "title": "Giant Rooks have released new album ‘If Heaven Exists, This Might Be It’",
    "ts": 1792411088.6443648,
    "why": "новый инди-рок альбом, явно в жанрах 3L"
+  },
+  "0f230e7ed0a5": {
+   "also": [],
+   "artist": "The Last Path",
+   "fit": 2,
+   "id": "0f230e7ed0a5",
+   "kind": "album",
+   "link": "https://thequietus.com/quietus-reviews/the-last-path-blunt-synopsis-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 243,
+   "release": "Blunt Synopsis",
+   "russian": false,
+   "source": "The Quietus",
+   "status": "new",
+   "summary_en": "The Last Path Blunt Synopsis Formerly known as Bad Amputee, trio from the north-east of England take things slow. Real slow Blunt Synopsis by The Last Path When the sort of music The Last Path play really lands, the secret to it doing so is in how it just teeters on the absolute precipice of unsalvageable dourness. Guitars that sound innately metallic, not as in the genre but evocative of a large amount of lead ingots plummeting from the sky onto rural limestone. Vocals that draw out nigh on every vowel sound, not for melismatic or otherwise showy reasons but just to figuratively look you in the eye and say, “I’ll finish singing this line when I’m ready, thanks”. Blunt Synopsis is the second album... The post The Last Path – Blunt Synopsis appeared first on The Quietus .",
+   "summary_ru": "Трио из северо-востока Англии, ранее известное как Bad Amputee, выпустило второй альбом Blunt Synopsis. Музыка медленная и тяжелая, с металлизированными гитарами и растянутым вокалом.",
+   "title": "The Last Path – Blunt Synopsis",
+   "ts": 1793602203.379943,
+   "why": "тяжелый медленный звук, вне жанров 3L"
   },
   "10ff661c84ed": {
    "also": [],
@@ -5140,6 +5159,7 @@
   "0ed6b841b05d": 1792413711.9912553,
   "0edde9d1bc4a": 1792426684.5101395,
   "0f0f3ecf4d8e": 1792679931.109047,
+  "0f230e7ed0a5": 1793602200.8070457,
   "0f2bdfaf2912": 1792745870.570222,
   "0f8184e9ce3a": 1793240446.7156048,
   "0fec224297bb": 1792140419.31879,
@@ -5717,6 +5737,7 @@
   "4dda1ff8b743": 1792620921.5496478,
   "4ddc7c7d921a": 1792140449.8447464,
   "4de7c372af4f": 1793282892.8865678,
+  "4df40d52e0aa": 1793602196.8082285,
   "4e3bd443ca29": 1792419545.0536368,
   "4e5592d669c1": 1793427939.9848967,
   "4e6b645be47f": 1792140448.2248857,
@@ -6855,6 +6876,7 @@
   "d6de7b73c4ce": 1792142237.730858,
   "d6eab1e2a6c2": 1792140455.0717514,
   "d6faeacdf4c9": 1793057307.494564,
+  "d70caad0d30f": 1793602211.7865937,
   "d7ce74398c8d": 1793375327.692781,
   "d7fa34729006": 1792140460.9287436,
   "d8215b5bc862": 1793333919.1494505,
