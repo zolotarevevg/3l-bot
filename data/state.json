@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793637959
+   "ok": 1793641377
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793637972
+   "ok": 1793641383
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,27 +16,28 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "",
+   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.brooklynvegan.com/feed/",
+   "err_ts": 1793641383,
    "ok": 1793637972
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793637941
+   "ok": 1793641368
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793637946
+   "ok": 1793641375
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793637948
+   "ok": 1793641377
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793637959
+   "err_ts": 1793641378
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793637959
+   "ok": 1793641378
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,84 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793637936
+   "ok": 1793641356
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793637936
+   "ok": 1793641363
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793637961
+   "ok": 1793641379
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793637971
+   "ok": 1793641382
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793637971
+   "ok": 1793641382
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793637964
+   "ok": 1793641382
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793637927
+   "ok": 1793641346
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793637947
+   "ok": 1793641376
   },
   "Under the Radar": {
    "count": 40,
-   "err": "",
+   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.undertheradarmag.com/site/rss",
+   "err_ts": 1793641377,
    "ok": 1793637959
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793641375,
    "ok": 1793637946
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793637964
+   "ok": 1793641382
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793637975
+   "ok": 1793641385
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793637973
+   "ok": 1793641384
   },
   "Родной звук (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793637976
+   "ok": 1793641389
   },
   "Сломанные пляски (TG)": {
-   "count": 15,
+   "count": 16,
    "err": "",
-   "ok": 1793637976
+   "ok": 1793641385
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793637980
+   "ok": 1793641389
   }
  },
  "heartbeat": "2026-11-02",
@@ -567,6 +570,26 @@
    "title": "Fleetwood Mac have named their Apple TV documentary The Chain",
    "ts": 1792679938.8764956,
    "why": "классика рока, вне жанров 3L, без нового релиза"
+  },
+  "12a321506ac0": {
+   "also": [],
+   "artist": "Oso Oso",
+   "fit": 3,
+   "id": "12a321506ac0",
+   "kind": "single",
+   "link": "https://stereogum.com/2516332/oso-oso-the-facts/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 254,
+   "release": "the facts",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Oso Oso – “the facts” appeared first on Stereogum .",
+   "summary_ru": "Oso Oso выпустили новый трек «the facts». Других подробностей в записи нет.",
+   "title": "Oso Oso – “the facts”",
+   "ts": 1793641349.5468044,
+   "why": "Эмо-поп-панк, соседний жанр, новый трек"
   },
   "12d8d9b53d9e": {
    "also": [],
@@ -1602,6 +1625,26 @@
    "title": "Darren Hayman – I’m Your Team",
    "ts": 1792570311.1852093,
    "why": "инди-артист, синт-звучание DX7, новый альбом"
+  },
+  "3a888264a602": {
+   "also": [],
+   "artist": "Olivia Rodrigo",
+   "fit": 2,
+   "id": "3a888264a602",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/olivia-rodrigo-confirms-festive-single-take-me-home-4-christmas/",
+   "listen": {},
+   "major": false,
+   "msg_id": 256,
+   "release": "Take Me Home (4 Christmas)",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Olivia Rodrigo has confirmed plans for a new festive single called ”Take Me Home (4 Christmas)’. The American star hasn’t put a foot wrong this year, with her album ‘you seem pretty sad for a girl so in love’ topping the charts in 17 different countries. A massive international success,… The post Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Олivia Rodrigo подтвердила планы выпустить праздничный сингл «Take Me Home (4 Christmas)». Её альбом you seem pretty sad for a girl so in love возглавил чарты в 17 странах.",
+   "title": "Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’",
+   "ts": 1793641374.4219139,
+   "why": "мейнстрим-поп, не любимый артист"
   },
   "3adae3a8ebc4": {
    "also": [],
@@ -3573,6 +3616,26 @@
    "ts": 1792844982.3987906,
    "why": "новый мини-альбом, пост-панк и инди-рок, российская группа"
   },
+  "a87babc686db": {
+   "also": [],
+   "artist": "Computerwife",
+   "fit": 3,
+   "id": "a87babc686db",
+   "kind": "single",
+   "link": "https://stereogum.com/2516335/computerwife-hammered-born-from-a-wish/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 255,
+   "release": "Hammered",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Computerwife – “Hammered” appeared first on Stereogum .",
+   "summary_ru": "Новый сингл Computerwife «Hammered», опубликованный в рубрике New Music на Stereogum. Текст записи не содержит подробностей о лейбле, дате выхода и составе участников.",
+   "title": "Computerwife – “Hammered”",
+   "ts": 1793641352.8233006,
+   "why": "новый трек малоизвестного артиста, жанр по записи не ясен"
+  },
   "aa3f44d7fa53": {
    "also": [],
    "artist": "The Itch",
@@ -5293,6 +5356,7 @@
   "059e088393a3": 1792140448.2248957,
   "05a2df10cba0": 1792727906.6156156,
   "05b820b582e5": 1792411097.326417,
+  "05c691fece9f": 1793641353.208445,
   "05c74dc89c99": 1792140449.844748,
   "05c95c60b65f": 1793124971.6988037,
   "05ecdda2dedc": 1792173631.7756095,
@@ -5407,6 +5471,7 @@
   "126a0a5d79e3": 1792140460.0458257,
   "127c5593c948": 1792140447.2519565,
   "12927fbd15d3": 1793324734.763236,
+  "12a321506ac0": 1793641346.6282923,
   "12a43a124eb2": 1793622390.1495998,
   "12b3ba08a6f9": 1792140455.028919,
   "12cfc583aa5e": 1792487986.0171812,
@@ -5426,6 +5491,7 @@
   "13cc3ecc37fd": 1793185492.0588267,
   "13d885cbec0a": 1792473359.6779761,
   "13eb4f70de50": 1792422138.3649497,
+  "13f8f1f08b86": 1793641359.6159897,
   "1410a3a686bf": 1793150713.7896206,
   "141747fe01eb": 1793009237.575931,
   "1452d7b7b6a0": 1792686908.5958514,
@@ -5771,6 +5837,7 @@
   "3a2609c967ab": 1792765224.506886,
   "3a295d1ab3af": 1792508213.7042525,
   "3a7eac2b6df5": 1792575303.1896214,
+  "3a888264a602": 1793641371.7760255,
   "3a8f3e1d461c": 1793289557.1890552,
   "3a94b912af68": 1793098762.5491734,
   "3a9d16105d88": 1792411062.3888013,
@@ -6039,6 +6106,7 @@
   "54c385229b20": 1793292835.5648713,
   "54c3d4c56840": 1792140449.84475,
   "54f33345c231": 1792497236.6745937,
+  "54fa53c3d795": 1793641356.4566832,
   "5508a72ffbed": 1792505477.734797,
   "5513d3e4b246": 1792422151.1009116,
   "55252b204d3c": 1793032327.034652,
@@ -6279,6 +6347,7 @@
   "71b092a01d68": 1792743055.1323977,
   "71bb16cce879": 1793298422.5510082,
   "71ec6f7a58c4": 1792668758.0212698,
+  "72225bb5f3a0": 1793641368.8612874,
   "722402c1ca0a": 1792580170.7398224,
   "723aa4a02dfa": 1793627027.3801365,
   "725f1b9c2b1a": 1792140448.2248943,
@@ -6736,6 +6805,7 @@
   "a7b28dba2f9a": 1793159510.2059329,
   "a7bd3c7c6983": 1793045793.5458443,
   "a8555c7aefb2": 1792745831.8373098,
+  "a87babc686db": 1793641349.9526782,
   "a8b90069f2cd": 1792664263.9461608,
   "a93c8c6300a4": 1793611675.1963925,
   "a9558be2e824": 1792140449.844752,
@@ -6975,6 +7045,7 @@
   "c2ea0fe95fb9": 1793615461.7668467,
   "c2eb773ca39b": 1792140446.3270478,
   "c32a39bbc68d": 1793618809.4327757,
+  "c33505646b14": 1793641385.8335407,
   "c3641a1e29d5": 1793272550.7513683,
   "c379b324eefd": 1792140460.0458236,
   "c37aa336bbb3": 1792752842.9789276,
