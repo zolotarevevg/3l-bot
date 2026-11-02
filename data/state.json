@@ -2,13 +2,14 @@
  "health": {
   "Aquarium Drunkard": {
    "count": 15,
-   "err": "",
+   "err": "ConnectTimeout: HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443)",
+   "err_ts": 1793644748,
    "ok": 1793641377
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793641383
+   "ok": 1793644754
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -16,28 +17,27 @@
   },
   "BrooklynVegan": {
    "count": 15,
-   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.brooklynvegan.com/feed/",
-   "err_ts": 1793641383,
-   "ok": 1793637972
+   "err": "",
+   "ok": 1793644755
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793641368
+   "ok": 1793644707
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793641375
+   "ok": 1793644712
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793641377
+   "ok": 1793644718
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793641378
+   "err_ts": 1793644748
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793641378
+   "ok": 1793644748
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,84 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793641356
+   "ok": 1793644697
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793641363
+   "ok": 1793644697
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793641379
+   "ok": 1793644750
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793641382
+   "ok": 1793644754
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793641382
+   "ok": 1793644754
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793641382
+   "ok": 1793644753
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793641346
+   "ok": 1793644689
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793641376
+   "ok": 1793644717
   },
   "Under the Radar": {
    "count": 40,
-   "err": "HTTPError: 415 Client Error: Unsupported Media Type for url: https://www.undertheradarmag.com/site/rss",
-   "err_ts": 1793641377,
-   "ok": 1793637959
+   "err": "",
+   "ok": 1793644719
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793641375,
-   "ok": 1793637946
+   "err": "",
+   "ok": 1793644717
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793641382
+   "ok": 1793644753
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793641385
+   "ok": 1793644757
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793641384
+   "ok": 1793644756
   },
   "Родной звук (TG)": {
-   "count": 7,
+   "count": 8,
    "err": "",
-   "ok": 1793641389
+   "ok": 1793644758
   },
   "Сломанные пляски (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1793641385
+   "ok": 1793644758
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793641389
+   "ok": 1793644763
   }
  },
  "heartbeat": "2026-11-02",
@@ -3056,6 +3054,26 @@
    "ts": 1792703188.3050048,
    "why": "хип-хоп, не любимый артист 3L"
   },
+  "87c76a10135d": {
+   "also": [],
+   "artist": "The Who",
+   "fit": 2,
+   "id": "87c76a10135d",
+   "kind": "album",
+   "link": "http://www.undertheradarmag.com/reviews/whos_next_uhqr_vinyl",
+   "listen": {},
+   "major": false,
+   "msg_id": 257,
+   "release": "Who's Next",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "In 1971, The Who managed to follow their most celebrated album at the time (1969’s Tommy) and one of rock’s finest live releases (1970’s Live at Leeds) with Who’s Next, long regarded as one of the greatest albums of all time.",
+   "summary_ru": "Under the Radar пишет о виниловом издании Who's Next в формате UHQR. Альбом вышел в 1971 году после Tommy и Live at Leeds и считается одним из лучших альбомов в истории рока.",
+   "title": "Who’s Next (UHQR Vinyl)",
+   "ts": 1793644722.6125274,
+   "why": "классический рок-альбом, переиздание, вне жанров 3L"
+  },
   "882da6b8f8ed": {
    "also": [],
    "artist": "Dove Cameron",
@@ -5375,6 +5393,7 @@
   "07760b108619": 1793615438.015797,
   "0782e8e0aa73": 1792750455.4308333,
   "079eecda863f": 1793029017.7369356,
+  "07c1af3f3f04": 1793644758.7305386,
   "07c24704ffee": 1792140448.2248955,
   "07cb58b1c7cd": 1792659598.5140214,
   "080148fa9533": 1792142256.046359,
@@ -5383,6 +5402,7 @@
   "088b188de08f": 1793096037.095477,
   "08930dde7406": 1792140460.0458224,
   "08af66144c93": 1793615456.1646073,
+  "08db8630dd3d": 1793644689.8303754,
   "09116be56fa6": 1792165233.7399683,
   "093422c5270a": 1793119513.4971685,
   "096890b7e87f": 1793098768.46846,
@@ -5892,6 +5912,7 @@
   "408c7cfc13a8": 1792505516.23249,
   "40c54c028cfd": 1792140455.961589,
   "40d8774339f4": 1793286324.6249626,
+  "4113ea3525f0": 1793644692.9917314,
   "41168a9c98db": 1792447316.253138,
   "4133a07be2e7": 1792759987.927572,
   "4135134bf89d": 1793417312.5518498,
@@ -6525,6 +6546,7 @@
   "871478767671": 1792251654.5845404,
   "87322b1f8cc9": 1792140460.9287438,
   "87ab40cb988d": 1792703186.23031,
+  "87c76a10135d": 1793644719.7754688,
   "87e91b7b92ec": 1792140455.028919,
   "87ec679f47d9": 1792490264.2915874,
   "8808f8e9a0bc": 1792140446.1809156,
@@ -6537,6 +6559,7 @@
   "88faaa4a6b10": 1793634120.1716795,
   "89009fd01325": 1792140448.2248948,
   "8950a972e297": 1793032312.1334405,
+  "89606841db21": 1793644707.996816,
   "897b20d9e3ed": 1793289560.625173,
   "898005892f3e": 1792140446.1809058,
   "899f6ab7e260": 1792140460.0458245,
@@ -6584,6 +6607,7 @@
   "8d57eb784afc": 1793618821.3367205,
   "8d8aec2def93": 1792140448.224892,
   "8d9964c367b8": 1792140449.844752,
+  "8dad01dd8df2": 1793644695.782602,
   "8db94539c8de": 1793032288.1692657,
   "8e67d038b1f5": 1793289533.5683293,
   "8e6e6ef4f35b": 1792598275.9102778,
@@ -7239,6 +7263,7 @@
   "d8ccfca4c4e6": 1792679977.704332,
   "d8d50d005740": 1793096023.1451097,
   "d8fe7164610a": 1792140449.516551,
+  "d9303004b351": 1793644712.962684,
   "d9431e92890b": 1793029018.8354478,
   "d97b04b644b0": 1793618847.714705,
   "d9a6be2ac275": 1792140455.0717518,
