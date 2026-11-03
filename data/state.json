@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793700954
+   "ok": 1793704552
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793700978
+   "ok": 1793704559
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793700978
+   "ok": 1793704559
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793700928
+   "ok": 1793704528
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793700935
+   "ok": 1793704543
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793700937
+   "ok": 1793704548
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793700955
+   "err_ts": 1793704553
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793700955
+   "ok": 1793704552
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793700913
+   "ok": 1793704510
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793700916
+   "ok": 1793704513
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793700957
+   "ok": 1793704554
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793700977
+   "ok": 1793704558
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793700977
+   "ok": 1793704558
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793700977
+   "ok": 1793704558
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793700911
+   "ok": 1793704510
   },
   "The Quietus": {
    "count": 32,
-   "err": "HTTPError: 503 Server Error: Service Unavailable for url: https://thequietus.com/feed/",
-   "err_ts": 1793700936,
-   "ok": 1793697170
+   "err": "",
+   "ok": 1793704544
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793700954
+   "ok": 1793704549
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793700936
+   "ok": 1793704543
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793700960
+   "ok": 1793704558
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793700980
+   "ok": 1793704563
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793700979
+   "ok": 1793704560
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793700983
+   "ok": 1793704564
   },
   "Сломанные пляски (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1793700982
+   "ok": 1793704563
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793700984
+   "ok": 1793704565
   }
  },
  "heartbeat": "2026-11-03",
@@ -419,6 +418,26 @@
    "title": "One Step Closer Announce New Album Zero: Hear Two Tracks",
    "ts": 1792508213.1999466,
    "why": "тяжелый хардкор-звук, не в жанрах 3L"
+  },
+  "0df30aa03a09": {
+   "also": [],
+   "artist": "Pen Pin",
+   "fit": 4,
+   "id": "0df30aa03a09",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/rhythms-cinematic-shadows-as-pen-pins-vampire-lands/",
+   "listen": {},
+   "major": false,
+   "msg_id": 265,
+   "release": "Vampire",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "As far as seasonal soundtracks go, few arrivals capture the moody, atmospheric thrill of October quite like Pen Pin’s latest release. Aptly titled ‘Vampire,‘ the new single and accompanying visual arrive as a deliciously dark treat, perfectly tailored for the eerie nights upon us. Jeni Magaña and Emily Moore bring… The post Rhythms & Cinematic Shadows As Pen Pin’s ‘Vampire’ Lands appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Pen Pin выпустили новый сингл «Vampire» с видеоклипом. В записи участвуют Jeni Magaña и Emily Moore. Clash описывает трек как мрачный, атмосферный материал к октябрьским вечерам.",
+   "title": "Rhythms & Cinematic Shadows As Pen Pin’s ‘Vampire’ Lands",
+   "ts": 1793704540.7379262,
+   "why": "новый сингл дрим-попа с видео, жанр близок 3L"
   },
   "0df48f6559f7": {
    "also": [
@@ -2799,6 +2818,26 @@
    "ts": 1793358829.6375763,
    "why": "малоизвестный фолк-поп, соседний жанр; есть анонс альбома"
   },
+  "6dc649b9004b": {
+   "also": [],
+   "artist": "Her New Knife",
+   "fit": 4,
+   "id": "6dc649b9004b",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/her-new-knife-conjure-crunching-trip-hop-percussion-on-lyre/",
+   "listen": {},
+   "major": false,
+   "msg_id": 264,
+   "release": "lyre",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Her New Knife have shared new song ‘lyre’. The Philadelphia group seem to open out questions with every release, merging jagged post-punk with layers of ethereal shoegaze noise. The four-piece tap in to new levels of intensity on ‘lyre’, opening up a fresh chapter in the process. A crisp, clipped… The post Her New Knife Conjure Crunching Trip-Hop Percussion On ‘lyre’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Филадельфийская группа Her New Knife выпустила новую песню «lyre», в которой сочетаются угловатый пост-панк и шугейз, а ударные звучат в духе трип-хопа. По описанию, трек открывает новую главу в творчестве группы.",
+   "title": "Her New Knife Conjure Crunching Trip-Hop Percussion On ‘lyre’",
+   "ts": 1793704535.1081467,
+   "why": "пост-панк и шугейз, новый сингл, неизвестная группа"
+  },
   "6f18c78a0e75": {
    "also": [],
    "artist": "The Heavy North",
@@ -4515,6 +4554,26 @@
    "ts": 1793185472.9932342,
    "why": "новый сингл и анонс альбома, инди-поп звучание"
   },
+  "d3d68cf9b8eb": {
+   "also": [],
+   "artist": "Kate Voegele",
+   "fit": 3,
+   "id": "d3d68cf9b8eb",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/kate-voegele-sings-from-the-other-side-of-a-bad-experience-on-bad-taste/",
+   "listen": {},
+   "major": false,
+   "msg_id": 263,
+   "release": "Bad Taste",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "‘Bad Taste’ flips the script on a former struggle by embracing full emotional independence. Kate Voegele channels the cheeky satisfaction of leaving toxic power dynamics behind, turning her current happiness into the ultimate statement of liberation. The handclaps set the rhythm at the start and serve as a percussive hook… The post Kate Voegele Sings From The Other Side Of A Bad Experience On ‘Bad Taste’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Кейт Вёгил выпустила трек «Bad Taste» о выходе из токсичных отношений и обретении эмоциональной независимости. В начале звучат хлопки, которые задают ритм и служат перкуссионным хуком.",
+   "title": "Kate Voegele Sings From The Other Side Of A Bad Experience On ‘Bad Taste’",
+   "ts": 1793704531.9143157,
+   "why": "новый сингл, но поп-рок ближе к мейнстриму"
+  },
   "d5e338dcc0c0": {
    "also": [],
    "artist": "DOSS",
@@ -5549,6 +5608,7 @@
   "0d9eaf309aa9": 1792668764.4888906,
   "0dcfb6b96df3": 1792140446.180909,
   "0df095a8d387": 1792142237.7308536,
+  "0df30aa03a09": 1793704538.0081823,
   "0df48f6559f7": 1793182407.7954786,
   "0dfb99f24a80": 1793272561.540503,
   "0e1856637269": 1792411086.3589056,
@@ -6451,6 +6511,7 @@
   "6d39a5881c80": 1792339702.5628843,
   "6d5bb765827d": 1793358828.195084,
   "6d8ab11f58b6": 1793700937.365961,
+  "6dc649b9004b": 1793704532.5792603,
   "6e1fb6a87de8": 1793035465.2534149,
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
@@ -6479,6 +6540,7 @@
   "6ffaeb2538df": 1792262237.9721475,
   "7016723a5dea": 1792522280.288218,
   "7048051c6fff": 1792408662.4360516,
+  "705c430911b8": 1793704544.7071853,
   "709b95069b59": 1792142237.730859,
   "70cc05c79f2a": 1792140449.8447452,
   "70f091d4f74d": 1793358872.9228923,
@@ -6537,6 +6599,7 @@
   "7693b82982c0": 1792140455.635875,
   "769ead3218c6": 1792140447.2519543,
   "76b84124645a": 1792607492.4593935,
+  "76bae6a209fe": 1793704560.6988103,
   "76e68338c7fe": 1792140419.3187904,
   "76fe1bc4bc3c": 1793194520.233745,
   "7781174bb3ba": 1792140448.2248943,
@@ -6670,6 +6733,7 @@
   "8709c58ae66f": 1792567575.7955592,
   "871478767671": 1792251654.5845404,
   "87322b1f8cc9": 1792140460.9287438,
+  "879e59b58f97": 1793704549.5309834,
   "87ab40cb988d": 1792703186.23031,
   "87c76a10135d": 1793644719.7754688,
   "87e91b7b92ec": 1792140455.028919,
@@ -7015,6 +7079,7 @@
   "aea81a308773": 1792679971.9229736,
   "aec24799a02f": 1793615459.0465333,
   "aed2f45d8830": 1793452998.8810651,
+  "aeed3b7b9600": 1793704535.6795483,
   "af015dfd7089": 1793106894.0218103,
   "af0ff42e5b1c": 1792748070.8450563,
   "af1c183ec866": 1792770708.4556124,
@@ -7359,6 +7424,7 @@
   "d3765b0001fb": 1792140455.0289202,
   "d383ba083cc4": 1792426681.2487686,
   "d3ca17f4a685": 1792140446.18091,
+  "d3d68cf9b8eb": 1793704528.818512,
   "d3ea5ef60592": 1792674617.6097536,
   "d402a317ab1a": 1793197876.2221751,
   "d4378b4a466e": 1793333906.1423495,
@@ -7564,6 +7630,7 @@
   "e7e30fd766f3": 1792140449.8447475,
   "e7e51417fd39": 1792748076.795763,
   "e7ff8077ee33": 1792684623.331554,
+  "e809747ff03f": 1793704510.7553244,
   "e81739940b07": 1792140449.5165465,
   "e81ccca703ab": 1793693760.6489944,
   "e82f0b8a57c0": 1792146701.923784,
