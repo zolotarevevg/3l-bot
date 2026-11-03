@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793661935
+   "ok": 1793664316
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793661950
+   "ok": 1793664329
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793661951
+   "ok": 1793664329
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793661930
+   "ok": 1793664312
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793661932
+   "ok": 1793664313
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793661934
+   "ok": 1793664315
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793661936
+   "err_ts": 1793664316
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793661936
+   "ok": 1793664316
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,86 +54,85 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793661919
+   "ok": 1793664294
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793661920
+   "ok": 1793664294
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793661938
+   "ok": 1793664318
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793661950
+   "ok": 1793664329
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793661950
+   "ok": 1793664329
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793661950
+   "ok": 1793664329
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793661916
+   "ok": 1793664293
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793661933
+   "ok": 1793664314
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793661935
+   "ok": 1793664315
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793661933,
-   "ok": 1793659653
+   "err": "",
+   "ok": 1793664314
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793661941
+   "ok": 1793664321
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793661953
+   "ok": 1793664331
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793661952
+   "ok": 1793664330
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793661954
+   "ok": 1793664332
   },
   "Сломанные пляски (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1793661954
+   "ok": 1793664332
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793661955
+   "ok": 1793664332
   }
  },
- "heartbeat": "2026-11-02",
+ "heartbeat": "2026-11-03",
  "items": {
   "004314a09ba5": {
    "also": [],
@@ -3344,6 +3343,26 @@
    "ts": 1792508248.2297764,
    "why": "Новый сингл постпанк-группы, близкой к жанрам 3L"
   },
+  "9819e65972de": {
+   "also": [],
+   "artist": "WHY?",
+   "fit": 4,
+   "id": "9819e65972de",
+   "kind": "video",
+   "link": "https://wrszw.net/why-feat-melody-english-what-a-punim/",
+   "listen": {},
+   "major": false,
+   "msg_id": 260,
+   "release": "What a Punim",
+   "russian": false,
+   "source": "out out - music done",
+   "status": "new",
+   "summary_en": "Yoni WolfによるWHY?が、10月30日に自身のレーベルWaterlinesからリリースした9作目のアルバム『 Oh Golly / Yes Lord 』から、Melody Englishを迎えた「What a Punim」をビデオとともに届けてくれました。最近の失恋から少しずつ回復していく日々を描いた2枚組で、片面ではコップに半分も残っていると前向きに、もう片面では半分しかないと後ろ向きに。そんな陰と陽を行き来する作品です。PhantogramのSarah BarthelやDoseone、kitty rayといった顔ぶれも参加しています。 タイトルの「Punim」はイディッシュ語で「顔」のこと。「まあ、なんてかわいいお顔」と愛おしむときの決まり文句です。夜はハイになって『Jeopardy!』を眺めて、そんな自分でもまあいいか、と思えるように過ごしている。ただ自分の人生をそれなりに受け入れようとしているだけ。そんな気の抜けた独り言に、Melody Englishのオートチューンのかかった声や語りがふわりと割って入り、自問自答の殻をやさしく破っていきます。皮肉と誠実さのあいだを揺れ動く、いかにもWHY?らしい会話のような一曲です。",
+   "summary_ru": "Yoni Wolf выпустил клип на «What a Punim» с Melody English с 9-го альбома Oh Golly / Yes Lord, вышедшего 30 октября на его лейбле Waterlines. В альбоме также участвуют Sarah Barthel из Phantogram, Doseone и kitty ray.",
+   "title": "WHY? feat. Melody English – “What a Punim”",
+   "ts": 1793664326.1863635,
+   "why": "инди-рок и арт-поп, новый клип на альбом"
+  },
   "99c9b82bf452": {
    "also": [],
    "artist": "Good Health Good Wealth",
@@ -5667,6 +5686,7 @@
   "21522cf27788": 1793358879.1067502,
   "216e8859b167": 1792494654.2874107,
   "2193169657c9": 1792140446.1809134,
+  "21a3d1242edf": 1793664321.633602,
   "21b10e9aa501": 1792762675.6494694,
   "21b5f8d0f370": 1792494660.5864563,
   "21b732e0c251": 1793116273.8507464,
@@ -6738,6 +6758,7 @@
   "97730b87c822": 1792703197.5852556,
   "97d2543aea4d": 1792140455.0717547,
   "97d37c06ded3": 1793295869.8816788,
+  "9819e65972de": 1793664324.7796962,
   "98242af8d06a": 1792768223.0249166,
   "98289903348d": 1792140419.3187919,
   "985852ed9fc0": 1793607394.4420948,
@@ -7437,6 +7458,7 @@
   "e3a8238c836a": 1792620902.3118548,
   "e3b8826d44f4": 1793188236.265585,
   "e3ba4fdd5cdf": 1792582313.1061494,
+  "e3ce8128ad66": 1793664326.5461407,
   "e3cea3d4d6fc": 1792684588.2078166,
   "e3f7a31a1d4c": 1792411071.9854484,
   "e407ecd1cff7": 1792588237.6362753,
