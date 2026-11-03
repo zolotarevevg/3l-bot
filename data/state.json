@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793726340
+   "ok": 1793729339
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793726347
+   "ok": 1793729348
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793726350
+   "ok": 1793729351
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793726323
+   "ok": 1793729328
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793726329
+   "ok": 1793729336
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793726338
+   "ok": 1793729338
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793726340
+   "err_ts": 1793729343
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793726340
+   "ok": 1793729343
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793726309
+   "ok": 1793729323
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793726312
+   "ok": 1793729323
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793726343
+   "ok": 1793729345
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793726346
+   "ok": 1793729348
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793726346
+   "ok": 1793729348
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793726346
+   "ok": 1793729348
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793726303
+   "ok": 1793729310
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793726337
+   "ok": 1793729337
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793726339
+   "ok": 1793729339
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793726335
+   "ok": 1793729337
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793726346
+   "ok": 1793729348
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793726354
+   "ok": 1793729353
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793726351
+   "ok": 1793729352
   },
   "Родной звук (TG)": {
-   "count": 7,
+   "count": 8,
    "err": "",
-   "ok": 1793726355
+   "ok": 1793729354
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793726354
+   "ok": 1793729353
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793726362
+   "ok": 1793729358
   }
  },
  "heartbeat": "2026-11-03",
@@ -353,6 +353,26 @@
    "title": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
    "ts": 1793048243.6442504,
    "why": "хип-хоп/рэп, не в жанрах 3L"
+  },
+  "077044752840": {
+   "also": [],
+   "artist": "Willi Carlisle",
+   "fit": 2,
+   "id": "077044752840",
+   "kind": "review",
+   "link": "https://stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week/",
+   "listen": {},
+   "major": false,
+   "msg_id": 271,
+   "release": "The Universal Bubba",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "“It’s a record that should sound like getting drunk at the civil war re-enactment, cruising for tail at the cattle auction, dropping acid at the square dance.” That’s Willi Carlisle, in song-by-song notes accompanying his new The Universal Bubba , explaining his intentions for the project. Out this Friday, it’s the most ambitious work yet from the Arkansas country-rocker and “big tent folksinger” — a double album co-produced by Americana superstar Tyler Childers, meant to celebrate and subvert Southern culture in all its glory. It works like it’s supposed to. The post Album Of The Week: Willi Carlisle <em>The Universal Bubba</em> appeared first on Stereogum .",
+   "summary_ru": "Вилли Карлайл выпускает двойной альбом The Universal Bubba, соспродюсером которого выступил Тайлер Чайлдерс. Stereogum называет его самой амбициозной работой музыканта из Арканзаса, посвящённой южной культуре. Релиз выходит в пятницу - рецензия Album Of The Week.",
+   "title": "Album Of The Week: Willi Carlisle The Universal Bubba",
+   "ts": 1793729319.2367365,
+   "why": "кантри-рок и фолк, вне жанров 3L"
   },
   "09883f80b47f": {
    "also": [],
@@ -4358,6 +4378,26 @@
    "ts": 1792679950.1888564,
    "why": "новый сингл, пост-панк, но группа малоизвестна"
   },
+  "c19a71dad547": {
+   "also": [],
+   "artist": "Anna McClellan",
+   "fit": 4,
+   "id": "c19a71dad547",
+   "kind": "single",
+   "link": "https://stereogum.com/2516337/anna-mcclellan-anywhere-feat-gloorp/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 270,
+   "release": "Anywhere",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Anna McClellan – “Anywhere” (Feat. Gloorp) appeared first on Stereogum .",
+   "summary_ru": "Анна Макклеллан выпустила сингл «Anywhere» с участием Gloorp. Рубрика New Music издания Stereogum.",
+   "title": "Anna McClellan – “Anywhere” (Feat. Gloorp)",
+   "ts": 1793729315.7157514,
+   "why": "Новый сингл инди-артистки, жанр близок к 3L"
+  },
   "c2bd425a97fd": {
    "also": [],
    "artist": "Sun Araw",
@@ -5654,6 +5694,7 @@
   "071e1c1e93ec": 1792790868.7689645,
   "072249041215": 1792743051.6506038,
   "07511f7182fd": 1793243785.7776473,
+  "077044752840": 1793729316.5005,
   "0772f91cbec9": 1792140455.9615893,
   "07760b108619": 1793615438.015797,
   "0782e8e0aa73": 1792750455.4308333,
@@ -5821,6 +5862,7 @@
   "191541e5195d": 1793330642.1600025,
   "1938e5f6d74d": 1792140460.0458217,
   "1963d9f0d76b": 1793627009.4267206,
+  "1985595087f1": 1793729310.747979,
   "199cf08d08b7": 1792140446.1809065,
   "199e9f740def": 1793278866.9139147,
   "19b1931d5970": 1793182394.1923587,
@@ -5845,6 +5887,7 @@
   "1adeb91bc752": 1792140446.1809092,
   "1ae1e58eac1b": 1792140455.9615843,
   "1b1bec80fa2d": 1793197864.1769378,
+  "1b2cca9d4f5a": 1793729348.5428858,
   "1b3bbc857366": 1792582368.096183,
   "1b47a391be6a": 1792682270.390802,
   "1b8ebd38393f": 1792401953.9222965,
@@ -6229,6 +6272,7 @@
   "4247fe36e0e7": 1793356063.7907853,
   "4262feb0fc33": 1793637941.5688574,
   "42735e6d8d5d": 1793045786.6589262,
+  "428fcc6d2f0e": 1793729332.4303925,
   "42ac00b68f5e": 1792140419.3187935,
   "42b19b2c4292": 1792394162.9122472,
   "42b37d202a4f": 1793211256.8127153,
@@ -6457,6 +6501,7 @@
   "583ec426e020": 1792752822.6748762,
   "58426c4fccca": 1793358854.921807,
   "584dc50d1747": 1793211263.669217,
+  "5854f584cfbf": 1793729319.8238297,
   "585653a4d97d": 1792600449.5720272,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
@@ -6545,6 +6590,7 @@
   "61f7810b8d7e": 1792700952.165485,
   "62141bc1e1f4": 1793722513.9482038,
   "62298557e6dd": 1792782952.8928416,
+  "624128b72a00": 1793729328.3799422,
   "6249244c9f2a": 1793356060.9406886,
   "625726d5472f": 1792582357.4732234,
   "6333527152f9": 1792620880.984596,
@@ -6606,6 +6652,7 @@
   "69b9f521aa2d": 1792140454.9418392,
   "69cd93a1f20f": 1792431197.1887515,
   "6a05f40fc534": 1793185481.556153,
+  "6a52ef99fd0e": 1793729354.6238272,
   "6a53158cc1cb": 1792768225.1907177,
   "6a548b98ecab": 1792913158.808052,
   "6a62e9a663d5": 1792790871.0148082,
@@ -7115,6 +7162,7 @@
   "a2fd038b8b14": 1792671194.6615784,
   "a308499f2b6e": 1792180119.1027365,
   "a313d4bfcad0": 1792140451.9265773,
+  "a381a857edb4": 1793729339.7065272,
   "a386b60e9139": 1793208292.4554064,
   "a38e6bf042bf": 1793185454.9643693,
   "a3bf28b512a5": 1792595620.8779018,
@@ -7399,6 +7447,7 @@
   "c157b1f54fef": 1792140460.928742,
   "c15fe31e8a28": 1793634114.26996,
   "c17ae30430f4": 1792849747.105903,
+  "c19a71dad547": 1793729314.599778,
   "c1c70e5e58cd": 1792140455.6358776,
   "c1cba164a324": 1793116270.8527167,
   "c1e56902e397": 1793634111.6769347,
