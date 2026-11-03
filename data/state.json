@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793685053
+   "ok": 1793689138
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793685059
+   "ok": 1793689144
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793685059
+   "ok": 1793689144
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793685047
+   "ok": 1793689129
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793685048
+   "ok": 1793689130
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793685052
+   "ok": 1793689137
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793685054
+   "err_ts": 1793689139
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793685054
+   "ok": 1793689139
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793685037
+   "ok": 1793689124
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793685037
+   "ok": 1793689124
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793685056
+   "ok": 1793689140
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793685059
+   "ok": 1793689144
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793685059
+   "ok": 1793689144
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793685059
+   "ok": 1793689143
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793685037
+   "ok": 1793689123
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793685050
+   "ok": 1793689132
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793685053
+   "ok": 1793689138
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793685049
+   "ok": 1793689131
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793685059
+   "ok": 1793689143
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793685061
+   "ok": 1793689147
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793685061
+   "ok": 1793689146
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793685063
+   "ok": 1793689148
   },
   "Сломанные пляски (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1793685062
+   "ok": 1793689147
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793685063
+   "ok": 1793689149
   }
  },
  "heartbeat": "2026-11-03",
@@ -4414,6 +4414,26 @@
    "ts": 1793637970.4261496,
    "why": "новый сингл, инди-электроника, танцевальное звучание"
   },
+  "cace25d61f45": {
+   "also": [],
+   "artist": "Marta Salogni & Stefano Pilia",
+   "fit": 3,
+   "id": "cace25d61f45",
+   "kind": "album",
+   "link": "https://thequietus.com/quietus-reviews/marta-salogni-stefano-pilia-phren-review/",
+   "listen": {},
+   "major": false,
+   "msg_id": 261,
+   "release": "Phren",
+   "russian": false,
+   "source": "The Quietus",
+   "status": "new",
+   "summary_en": "Marta Salogni & Stefano Pilia Phren Spooky sounds from two Italian masters of modern electro-acoustic composition Phren by Marta Salogni & Stefano Pilia Marta Salogni and Stefano Pilia’s Phren is music of accretion. Inputs are fed through Pilia’s chain of filters and tape echo and on into Salogni’s Revox reel-to-reel tape machine for further manipulation and modulation, the signals absorbing new layers and mutations as they go. According to the release notes, that initial input is often Pilia’s guitar, but the pair’s plastic approach to sound makes that far from obvious. They telescope the act of mediation, mottling, shading and bending signals as they pass from sound source to ears. ‘Sopra l’acque scavate’ opens with distorted notes sparking like a frosty firework display. The more... The post Marta Salogni & Stefano Pilia – Phren appeared first on The Quietus .",
+   "summary_ru": "Марта Салоньи и Стефано Пилия выпустили альбом Phren: электроакустическая музыка, где сигналы гитары Пилии проходят через фильтры, ленточное эхо и магнитофон Revox Салоньи. Открывает альбом трек «Sopra l'acque scavate» с искажёнными нотами.",
+   "title": "Marta Salogni & Stefano Pilia – Phren",
+   "ts": 1793689133.5451775,
+   "why": "экспериментальная электроакустика, далеко от инди-жанров 3L"
+  },
   "cb5b794dae71": {
    "also": [],
    "artist": "Meryl Streek",
@@ -7225,6 +7245,7 @@
   "ca95f644b590": 1792404627.3754196,
   "caa15d17ff80": 1793342954.6184318,
   "cab2f2efdf89": 1792140455.6358762,
+  "cace25d61f45": 1793689132.2058082,
   "cb1889af02b1": 1793659691.118661,
   "cb233ab8f34d": 1792757289.3297522,
   "cb5b794dae71": 1793361713.849827,
