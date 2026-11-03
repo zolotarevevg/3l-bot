@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793741227
+   "ok": 1793744312
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793741233
+   "ok": 1793744328
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793741233
+   "ok": 1793744328
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793741212
+   "ok": 1793744297
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793741214
+   "ok": 1793744298
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793741226
+   "ok": 1793744304
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793741228
+   "err_ts": 1793744312
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793741227
+   "ok": 1793744312
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793741207
+   "ok": 1793744277
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793741207
+   "ok": 1793744277
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793741230
+   "ok": 1793744314
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793741232
+   "ok": 1793744328
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793741232
+   "ok": 1793744328
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793741232
+   "ok": 1793744327
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793741206
+   "ok": 1793744275
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793741225
+   "ok": 1793744304
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793741227
+   "ok": 1793744311
   },
   "musicOMH": {
    "count": 20,
    "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793741214,
+   "err_ts": 1793744298,
    "ok": 1793738696
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793741232
+   "ok": 1793744316
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793741235
+   "ok": 1793744331
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793741234
+   "ok": 1793744330
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793741237
+   "ok": 1793744332
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793741236
+   "ok": 1793744331
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793741237
+   "ok": 1793744333
   }
  },
  "heartbeat": "2026-11-03",
@@ -2034,6 +2034,26 @@
    "title": "East London shoegazers Roscoe Roscoe have announced their debut album ‘One Day I’ll Return To You With Loving Arms’",
    "ts": 1793615431.5502915,
    "why": "шугейз, дебютный альбом, анонс нового релиза"
+  },
+  "481354eee48b": {
+   "also": [],
+   "artist": "Dutch Uncles",
+   "fit": 5,
+   "id": "481354eee48b",
+   "kind": "album",
+   "link": "https://wrszw.net/dutch-uncles-no-note-2/",
+   "listen": {},
+   "major": false,
+   "msg_id": 272,
+   "release": "Polygon Hotel",
+   "russian": false,
+   "source": "out out - music done",
+   "status": "new",
+   "summary_en": "マンチェスターのアート・ポップ・バンド Dutch Uncles が、2023年の『True Entertainment』以来となるニュー・アルバム『 Polygon Hotel 』を2027年初めに Memphis Industries からリリースする。そのあいだにはベーシストでありメイン・コンポーザーでもある Robin Richards がソロ・デビュー作『Taproots』を発表していたが、バンドとしても新たな一歩を踏み出していて、長年のコラボレーターだったマルチ奏者の Henry Broadhead とギタリストの Neil Wright が正式メンバーに加わり、6人組となって初めてのアルバムになる。 プロデュースはバンド自身が手がけ、ミックスには Geese や Lime Hotel との仕事で知られる Felix Davis を迎えている。「Outset I」で幕を開け、途中に「Outset II」を挟みながら「Chosen」で締めくくられる全11曲の構成からも、ひとつのホテルの中をあちこち巡っていくような、遊び心と構築美が同居したアルバムになりそうな予感がする。変拍子や細やかなアレンジを軽やかなポップに落とし込んできた彼らが、6人編成でどこまで音を広げてくるのか楽しみだ。 先行シングルの「No Note」は、XTC や Tears For Fears の遺伝子を感じさせる、マリンバがたっぷり鳴り響く賑やかで凝ったアレンジの一曲。メロディもあちこちへと思いがけない方向に転がっていく。ヴォーカルの Duncan Wallis によれば、スマホを眺めて無駄にしてしまう時間、とくにソーシャル・メディアに人生の多くを注ぎ込み、それが最悪の人たちに握られてしまったことへの後悔を歌った3分間の哀歌なのだそうだ。それなのに歌詞を書くのにかかったのはたった5分だったというのが、なんとも皮肉で彼ららしい。Patrick King が監督し、Miles Buckle が悪夢のような90年代風 CGI アニメーションを手がけたビデオもあわせて公開されている。",
+   "summary_ru": "Манчестерская арт-поп группа Dutch Uncles выпустит новый альбом Polygon Hotel на Memphis Industries в начале 2027 года, первый с шестиместным составом; вышел также сингл No Note с видео режиссёра Patrick King. Альбом спродюсирован группой, микс сделал Felix Davis (Geese, Lime Hotel), 11 треков.",
+   "title": "6人組になって初めてのアルバムは、遊び心と構築美が詰まったホテル。マンチェスターのDutch Uncles、セルフ・プロデュースのニュー・アルバム『Polygon Hotel』をMemphis Industriesからリリース、先行シングル「No Note」を公開",
+   "ts": 1793744324.3755903,
+   "why": "любимые соседи по звучанию, новый альбом и сингл"
   },
   "4842969e6b84": {
    "also": [
@@ -5613,6 +5633,7 @@
  },
  "playlists": {},
  "seen": {
+  "000035178b3f": 1793744325.06819,
   "000a2d83a90f": 1792668778.854347,
   "001ccef7d993": 1792140446.327047,
   "001f1eede82e": 1792707199.000006,
@@ -5665,6 +5686,7 @@
   "03aa337b6e58": 1792598313.2244039,
   "03bddbd046f3": 1793372208.7026796,
   "03eba9fb9021": 1792750426.4952137,
+  "0420311594fd": 1793744319.6105757,
   "04259c4730f9": 1793700950.0935943,
   "04420f0110cc": 1792140447.251953,
   "0449f6e5fa68": 1792674632.2852583,
@@ -6319,6 +6341,7 @@
   "464983b4fd82": 1792582353.4627175,
   "464b7309cbc2": 1792429148.3064673,
   "466de0caf3ca": 1792388341.7862463,
+  "46a73b18c68a": 1793744307.6376371,
   "46d46fbf3615": 1792582335.9986992,
   "46eaf615b470": 1792140448.224891,
   "4711d5ec7834": 1792768186.9160845,
@@ -6341,6 +6364,7 @@
   "47f3c6e48cfd": 1792140459.2475774,
   "4807d2106827": 1793615430.0746646,
   "48096a74fc03": 1792517956.4290605,
+  "481354eee48b": 1793744322.689079,
   "4816a04c2fdd": 1793634064.878909,
   "48359343d040": 1792584703.4402354,
   "4842969e6b84": 1792750442.7013862,
@@ -7028,6 +7052,7 @@
   "93c1adba3264": 1793659664.3815475,
   "93d6c526dcef": 1792148972.9182477,
   "93d92df0ce81": 1792404614.7149212,
+  "93e5021ebc25": 1793744316.765145,
   "942a6eb0d8f6": 1792494643.066955,
   "94321d2f2f49": 1793194483.8096924,
   "9458bfc30cc6": 1793726335.7582057,
@@ -8050,6 +8075,7 @@
   "fdfefa2b329d": 1793185489.1394098,
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
+  "fe8dc64e00ed": 1793744304.6797194,
   "feb63a772433": 1792750409.5625513,
   "febd0470b7af": 1792171558.4127772,
   "fedccc365d94": 1793630689.8967168,
