@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793704552
+   "ok": 1793707533
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793704559
+   "ok": 1793707539
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793704559
+   "ok": 1793707540
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793704528
+   "ok": 1793707515
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793704543
+   "ok": 1793707525
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793704548
+   "ok": 1793707526
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793704553
+   "err_ts": 1793707534
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793704552
+   "ok": 1793707533
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793704510
+   "ok": 1793707499
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793704513
+   "ok": 1793707502
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793704554
+   "ok": 1793707535
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793704558
+   "ok": 1793707539
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793704558
+   "ok": 1793707539
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793704558
+   "ok": 1793707539
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793704510
+   "ok": 1793707499
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793704544
+   "ok": 1793707526
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793704549
+   "ok": 1793707533
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793704543
+   "ok": 1793707525
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793704558
+   "ok": 1793707539
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793704563
+   "ok": 1793707542
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793704560
+   "ok": 1793707541
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793704564
+   "ok": 1793707546
   },
   "Сломанные пляски (TG)": {
-   "count": 12,
+   "count": 7,
    "err": "",
-   "ok": 1793704563
+   "ok": 1793707542
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793704565
+   "ok": 1793707546
   }
  },
  "heartbeat": "2026-11-03",
@@ -2819,7 +2819,12 @@
    "why": "малоизвестный фолк-поп, соседний жанр; есть анонс альбома"
   },
   "6dc649b9004b": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/her-new-knife-lyre-single-video-875e276c08",
+     "source": "Dork"
+    }
+   ],
    "artist": "Her New Knife",
    "fit": 4,
    "id": "6dc649b9004b",
@@ -3021,6 +3026,26 @@
    "title": "Bruiser Wolf & Conductor Williams – “Ain’t Got Time”",
    "ts": 1792785003.8840468,
    "why": "хип-хоп, не в жанрах 3L"
+  },
+  "7cddf1130190": {
+   "also": [],
+   "artist": "Purple Pilgrims",
+   "fit": 5,
+   "id": "7cddf1130190",
+   "kind": "single",
+   "link": "https://readdork.com/news/purple-pilgrims-look-to-the-moon-single-video-b1fbec7021",
+   "listen": {},
+   "major": false,
+   "msg_id": 266,
+   "release": "Look to the Moon",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The New Zealand sister duo’s latest single arrives with a Britt Walton-directed video ahead of their third album, ‘Given to the Night’.",
+   "summary_ru": "Новозеландский дуэт сестёр Purple Pilgrims выпустил новый сингл «Look to the Moon» с видео в режиссуре Britt Walton. Трек предваряет третий альбом Given to the Night.",
+   "title": "New Zealand dream-pop duo Purple Pilgrims have shared new single ‘Look to the Moon’",
+   "ts": 1793707531.5217729,
+   "why": "новый сингл дрим-попа, анонс альбома"
   },
   "7e1b781f7714": {
    "also": [],
@@ -6620,6 +6645,7 @@
   "79e966b950b5": 1792140462.2817593,
   "7a77af3e4fc0": 1792438318.93171,
   "7a7952b4ca9c": 1792140419.664911,
+  "7a7e9f4f1a19": 1793707499.9452577,
   "7a88037d3c2f": 1792140455.9615881,
   "7aa12c6268e9": 1792162976.276501,
   "7abe29b56b91": 1792140460.9287455,
@@ -6636,6 +6662,7 @@
   "7c8acf263072": 1793032295.0793715,
   "7c9189c1ff71": 1793119467.5363955,
   "7cbb02306931": 1793549748.68558,
+  "7cddf1130190": 1793707530.2915144,
   "7cf23e551034": 1793615422.3645172,
   "7d3b23c6dc92": 1793194541.4904234,
   "7d65c438337f": 1792140455.0289216,
@@ -6689,6 +6716,7 @@
   "81e3f8417f59": 1792140447.2519567,
   "81f26f9bedb6": 1792140455.9615898,
   "8216fa57e9c3": 1792140419.3187888,
+  "8238f50bb5e4": 1793707520.8333242,
   "82460c1eaac5": 1792748023.3798797,
   "8260cc142906": 1793462288.2257895,
   "829765279e3c": 1792140456.3847523,
@@ -6733,6 +6761,7 @@
   "8709c58ae66f": 1792567575.7955592,
   "871478767671": 1792251654.5845404,
   "87322b1f8cc9": 1792140460.9287438,
+  "8787bc08a862": 1793707515.1192255,
   "879e59b58f97": 1793704549.5309834,
   "87ab40cb988d": 1792703186.23031,
   "87c76a10135d": 1793644719.7754688,
@@ -6872,6 +6901,7 @@
   "972e97802e92": 1792307774.648558,
   "973980c755a9": 1793315581.188678,
   "974f6ed2c236": 1792508245.4609227,
+  "9751f4599cdd": 1793707517.7585506,
   "9758c8699568": 1793197845.1989255,
   "97730b87c822": 1792703197.5852556,
   "97d2543aea4d": 1792140455.0717547,
@@ -7298,6 +7328,7 @@
   "c58f30273a18": 1793023059.53174,
   "c594f0d5dd7d": 1793622398.9291906,
   "c59c074bb3ea": 1792140446.180913,
+  "c59dbcaecdcf": 1793707542.4428856,
   "c5abad382776": 1792140449.5165534,
   "c5b0508c62e8": 1792140454.9418404,
   "c5d80d71f562": 1792140460.0458276,
@@ -7798,6 +7829,7 @@
   "fad22ab91ba4": 1793110247.8105435,
   "fad9333cf136": 1792620892.6378245,
   "fae188466bd8": 1792140455.9615874,
+  "fb131ae73400": 1793707526.9699922,
   "fb156cb99ebf": 1793119460.5704534,
   "fb210ead97bd": 1793315559.2059593,
   "fb5014dccd84": 1792940253.0453465,
