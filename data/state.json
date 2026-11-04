@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793794164
+   "ok": 1793798296
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793794171
+   "ok": 1793798306
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793794171
+   "ok": 1793798307
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793794130
+   "ok": 1793798278
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793794137
+   "ok": 1793798285
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793794139
+   "ok": 1793798290
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793794164
+   "err_ts": 1793798299
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793794164
+   "ok": 1793798299
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793794117
+   "ok": 1793798264
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793794117
+   "ok": 1793798267
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793794165
+   "ok": 1793798300
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793794170
+   "ok": 1793798306
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793794170
+   "ok": 1793798306
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793794170
+   "ok": 1793798306
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793794117
+   "ok": 1793798264
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793794138
+   "ok": 1793798289
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793794163
+   "ok": 1793798295
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793794137
+   "ok": 1793798289
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793794170
+   "ok": 1793798303
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793794173
+   "ok": 1793798309
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793794172
+   "ok": 1793798308
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793794173
+   "ok": 1793798310
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793794173
+   "ok": 1793798309
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793794174
+   "ok": 1793798310
   }
  },
  "heartbeat": "2026-11-04",
@@ -4518,6 +4518,26 @@
    "ts": 1792595591.5757027,
    "why": "инди-рок нулевых, новый альбом и трек"
   },
+  "bc7ee0b4cd6e": {
+   "also": [],
+   "artist": "Noel Gallagher",
+   "fit": 3,
+   "id": "bc7ee0b4cd6e",
+   "kind": "news",
+   "link": "https://www.nme.com/news/music/noel-gallagher-first-solo-performance-since-oasis-reunion-goldie-london-jazz-festival-3974962?utm_source=rss&utm_medium=rss&utm_campaign=noel-gallagher-first-solo-performance-since-oasis-reunion-goldie-london-jazz-festival",
+   "listen": {},
+   "major": true,
+   "msg_id": 288,
+   "release": "",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Noel Gallagher has joined the line-up for Goldie ‘s shows at EFG London Jazz Festival – marking his first solo performance since the Oasis reunion last year. READ MORE: Oasis: Don’t Look Back In Anger review: an emotional, irreverent reliving of rock’s unlikeliest reunion Goldie is set to host two ‘Dare To Dream’ performances at this year’s festival, which will see him perform alongside an orchestra, a choir and a variety of special guests. Both performances take place on Saturday November 14 at 5pm and 8pm, and so far the line-up includes French-Senegalese artist anaiis, jazz drummer and producer Yussef Dayes , jazz singers Natalie Williams and Cleveland Watkiss, and Skunk Anansie ’s Skin . Taking to social media, Goldie confirmed that Noel Gallagher will also be performing on the night, in what will be his first solo performance since playing at Y Not festival in 2024 with the High Flying Birds, ahead of Oasis making their long-awaited return the following summer. View this post on Instagram The pair have known each other for decades, with Gallagher recording guitars for Goldie’s 1998 song ‘Temper Temper’ from ‘Saturnz Return’. “Me and Noel Gallagher do it again,” Goldie said in a clip on Instagram, pulling Gallagher’s name out of his rolodex. “30 years, that’s what we’ve got between us. We’re here, going to Royal Festival Hall to do it all over again.” Speaking to NME about the shows, Goldie shared: “They said this music would only last five years, 35 years later I’m still here ready to do another iconic show ‘Dare To Dream’ at the Royal Festival Hall. “This time I have Noel Gallagher, Skin, Anaiis, Yussef Dayes and many more incredible guests plus my live band and an orchestra. New and classic material, it’s a very very special show. Two shows, One Dream.” More names are set to be announced soon, and you can visit here for tickets . View this post on Instagram Goldie is one of many names set to perform across London later this month as part of the 34th edition of EFG London Jazz Festival. The annual event will run between November 13 and 22, and take place at over 70 venues across the city, ranging from Royal Albert Hall through to intimate grassroots spaces. Kicking off the event is Jazz Voice which is held at Southbank Centre’s Royal Festival Hall on November 13 and will see artists including Lizz Wright, Emma Smith, Marvin Muoneké, Liv Warfield and Rita Wilson pay homage to the visionaries we lost in 2016, including Prince and Leonard Cohen . That same night, a performance will be held at the Barbican to celebrate what would have been John Coltrane ’s 100th birthday, and a separate show will be held at EartH, remembering Miles Davis who also would have turned 100 this year. Other shows celebrating their respective careers will be held at the British Airways Arc, Abney Park Chapel, Ninety One Brick Lane and more throughout the month. Check out the full list of performances here , which also includes sets from Asha Puthli , Church of Sound, ",
+   "summary_ru": "Ноэл Галлахер присоединился к программе шоу Goldie «Dare To Dream» на EFG London Jazz Festival 14 ноября в Royal Festival Hall. Это будет его первое сольное выступление после воссоединения Oasis. Также в лайнапе Skin, anaiis и Yussef Dayes.",
+   "title": "Noel Gallagher for first solo performance since Oasis reunion as he joins line-up for Goldie’s EFG London Jazz Festival",
+   "ts": 1793798266.1098025,
+   "why": "Первый сольный концерт Галлагера после воссоединения Oasis, но без нового релиза"
+  },
   "bde722fb1fad": {
    "also": [],
    "artist": "Marsy",
@@ -6327,6 +6347,7 @@
   "27f48bb5f0ab": 1793718942.943271,
   "27f4a4b71ab7": 1792590866.5926363,
   "2833e2426ddc": 1793185457.825564,
+  "283ea8e3097a": 1793798296.0592551,
   "284d60fb998b": 1792173605.5963154,
   "286dbd12d9c7": 1793188212.970155,
   "28894f15b65c": 1793318169.1093063,
@@ -6358,6 +6379,7 @@
   "2c7f393eb9c1": 1792768189.779041,
   "2caf0e6c6233": 1792142237.7308605,
   "2cd10df29ac5": 1793272542.7162652,
+  "2cddaf6fece6": 1793798278.3180728,
   "2d0d74d93414": 1792140449.844743,
   "2d21ab8402cb": 1793395183.6897173,
   "2d47c01ab3e0": 1793028996.9477026,
@@ -6388,6 +6410,7 @@
   "2fe9030313a2": 1792140419.3187876,
   "2fee18337610": 1792140456.384751,
   "2ffd0602b2be": 1792582329.9149673,
+  "2ffdcc49712d": 1793798285.8991346,
   "3018ad36e166": 1792140462.281757,
   "301a8606baed": 1793378087.0659142,
   "301dd5e03000": 1792664300.3128512,
@@ -6724,6 +6747,7 @@
   "4de7c372af4f": 1793282892.8865678,
   "4ded1df51121": 1793779121.5038774,
   "4df40d52e0aa": 1793602196.8082285,
+  "4e3783dd43da": 1793798290.3635502,
   "4e3bd443ca29": 1792419545.0536368,
   "4e5592d669c1": 1793427939.9848967,
   "4e6b645be47f": 1792140448.2248857,
@@ -7727,6 +7751,7 @@
   "bbc510aa1beb": 1793361758.2108498,
   "bc4de10ba01d": 1792140455.028921,
   "bc5043d7542a": 1793726347.0626483,
+  "bc7ee0b4cd6e": 1793798264.4718783,
   "bc90c98cb385": 1792140455.0289185,
   "bc961d5f3279": 1792140455.0289197,
   "bcb2e6f30a36": 1792600426.009866,
@@ -7984,6 +8009,7 @@
   "d5e338dcc0c0": 1792600459.658764,
   "d607e42cc84a": 1793098753.8576586,
   "d65394fb65ea": 1792167258.7184207,
+  "d65b1b027c24": 1793798281.2256777,
   "d65f1da04baf": 1793208299.0134735,
   "d6826247bbc4": 1792140419.3187897,
   "d68ad288bdc5": 1792202416.5043957,
@@ -8165,6 +8191,7 @@
   "e5c355b7500f": 1792768175.0299652,
   "e5c9f9e5f5e4": 1793028972.356062,
   "e5f26787bbe3": 1792664300.3128536,
+  "e5f6388528aa": 1793798303.34762,
   "e61d47612d7f": 1793101063.9627614,
   "e622f479d05f": 1792656839.9825618,
   "e62bce1c7bb3": 1792487989.2660182,
