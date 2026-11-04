@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793790796
+   "ok": 1793794164
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793790809
+   "ok": 1793794171
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793790809
+   "ok": 1793794171
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793790740
+   "ok": 1793794130
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793790748
+   "ok": 1793794137
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793790752
+   "ok": 1793794139
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793790797
+   "err_ts": 1793794164
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793790797
+   "ok": 1793794164
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793790727
+   "ok": 1793794117
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793790729
+   "ok": 1793794117
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793790798
+   "ok": 1793794165
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793790808
+   "ok": 1793794170
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793790808
+   "ok": 1793794170
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793790808
+   "ok": 1793794170
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793790727
+   "ok": 1793794117
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793790749
+   "ok": 1793794138
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793790796
+   "ok": 1793794163
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793790748
+   "ok": 1793794137
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793790808
+   "ok": 1793794170
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793790813
+   "ok": 1793794173
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793790810
+   "ok": 1793794172
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793790818
+   "ok": 1793794173
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793790817
+   "ok": 1793794173
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793790818
+   "ok": 1793794174
   }
  },
  "heartbeat": "2026-11-04",
@@ -3032,6 +3032,26 @@
    "ts": 1792522283.1874523,
    "why": "анонс альбома, но электроника клубного толка, соседний жанр"
   },
+  "7175ba614ac4": {
+   "also": [],
+   "artist": "Mira Disconnect",
+   "fit": 2,
+   "id": "7175ba614ac4",
+   "kind": "single",
+   "link": "https://readdork.com/news/mira-disconnect-decoherence-entangled-ep-be35b697ec",
+   "listen": {},
+   "major": false,
+   "msg_id": 286,
+   "release": "Decoherence",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Mira Disconnect complete their three-track EP ‘Entangled’ with ‘Decoherence’, a new single that brings quantum physics and occult mysticism together.",
+   "summary_ru": "Британская пост-хардкор группа Mira Disconnect выпустила сингл «Decoherence», который завершает трёхтрековый EP «Entangled». В песне соединены квантовая физика и оккультная мистика.",
+   "title": "UK post-hardcore newcomers Mira Disconnect have shared ‘Decoherence’, a song where science meets occult mysticism",
+   "ts": 1793794153.0451431,
+   "why": "пост-хардкор, далёк от жанров 3L, новички"
+  },
   "722402c1ca0a": {
    "also": [],
    "artist": "Elephant",
@@ -3071,6 +3091,26 @@
    "title": "fanclubwallet – “Creep-O”",
    "ts": 1793375337.1612158,
    "why": "новый трек, но жанр и звучание неизвестны из записи"
+  },
+  "76be031fe580": {
+   "also": [],
+   "artist": "Kynsy",
+   "fit": 4,
+   "id": "76be031fe580",
+   "kind": "single",
+   "link": "https://readdork.com/news/kynsy-eleanor-new-single-36a38ad8fc",
+   "listen": {},
+   "major": false,
+   "msg_id": 287,
+   "release": "eleanor",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Ciara Lindsey’s latest track is the first taste of what follows her 2024 EP ‘Utopia’.",
+   "summary_ru": "Дублинская артистка Кинси (Киара Линдси) выпустила новый трек «eleanor», навеянный безрассудной любовной историей из сериала «Skins» начала 2000-х. Это первый материал после EP «Utopia» 2024 года, поэтому трек предваряет её следующий релиз.",
+   "title": "Dublin-born artist Kynsy has returned with ‘eleanor’, inspired by the reckless romance of early-2000s ‘Skins’",
+   "ts": 1793794159.2269826,
+   "why": "новый сингл, жанр вероятно инди-поп"
   },
   "7786e9a269ba": {
    "also": [],
@@ -3266,6 +3306,26 @@
    "title": "Группа Hospital представила новый альбом.",
    "ts": 1792165240.1688073,
    "why": "новый альбом, инди-рок и нью-вейв, малоизвестная группа"
+  },
+  "821d561736b6": {
+   "also": [],
+   "artist": "prom",
+   "fit": 2,
+   "id": "821d561736b6",
+   "kind": "single",
+   "link": "https://readdork.com/news/prom-borderline-church-road-records-63937fe51d",
+   "listen": {},
+   "major": false,
+   "msg_id": 284,
+   "release": "Borderline",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Brighton emotional-hardcore trio prom have marked their Church Road Records signing with a new video single, ‘Borderline’.",
+   "summary_ru": "Брайтонское эмо-хардкор-трио prom подписало контракт с лейблом Church Road Records и выпустило новый сингл «Borderline» в виде видеоклипа.",
+   "title": "Brighton emotional-hardcore trio prom have signed to Church Road Records and shared new single ‘Borderline’",
+   "ts": 1793794147.0222256,
+   "why": "эмо-хардкор, далеко от жанров 3L"
   },
   "8322b921af89": {
    "also": [
@@ -3586,6 +3646,26 @@
    "title": "5 Thoughts On Olivia Rodrigo’s Unraveled Tour",
    "ts": 1793381001.508811,
    "why": "мейнстрим-поп, концертный обзор без нового релиза"
+  },
+  "9720288f7f59": {
+   "also": [],
+   "artist": "USA Nails",
+   "fit": 3,
+   "id": "9720288f7f59",
+   "kind": "single",
+   "link": "https://readdork.com/news/usa-nails-two-grim-choices-single-d0aa201f66",
+   "listen": {},
+   "major": false,
+   "msg_id": 285,
+   "release": "Two Grim Choices",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "USA Nails’ latest ‘Routine Flesh’ preview pairs techno-minded noise-rock with a video filmed in Belgium and beneath Waterloo.",
+   "summary_ru": "Лондонская нойз-рок группа USA Nails выпустила трек «Two Grim Choices», вдохновлённый техно и переживанием тревожности. Это превью нового альбома Routine Flesh, видео снято в Бельгии и под Ватерлоо.",
+   "title": "London noise-rock band USA Nails have released ‘Two Grim Choices’, inspired by techno and the experience of anxiety",
+   "ts": 1793794150.2138093,
+   "why": "соседний жанр, нойз-рок с техно-элементами"
   },
   "974f6ed2c236": {
    "also": [],
@@ -4283,6 +4363,26 @@
    "ts": 1792406873.213988,
    "why": "грайм и афробит, не жанры 3L"
   },
+  "b13b29554f8e": {
+   "also": [],
+   "artist": "Shygirl",
+   "fit": 3,
+   "id": "b13b29554f8e",
+   "kind": "single",
+   "link": "https://readdork.com/news/shygirl-eternal-swallow-single-006e4c78f1",
+   "listen": {},
+   "major": false,
+   "msg_id": 283,
+   "release": "Eternal",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Shygirl’s final ‘Swallow!’ single is out now, with the album following on Friday 6th November.",
+   "summary_ru": "Shygirl выпустила финальный сингл «Eternal» перед своим альбомом Swallow!, который выйдет 6 ноября. Сингл уже доступен.",
+   "title": "Shygirl is getting romantic with ‘Eternal’, the final preview of her new album ‘Swallow!’",
+   "ts": 1793794141.9127045,
+   "why": "соседний электронный поп, не любимый артист"
+  },
   "b2627c63c8f9": {
    "also": [
     {
@@ -4977,6 +5077,26 @@
    "title": "Little Grandad Share New Single ‘A Minute On The Lips’",
    "ts": 1793182407.205451,
    "why": "новый сингл инди-группы, жанр близок 3L"
+  },
+  "e15c21d445d1": {
+   "also": [],
+   "artist": "1000 Rabbits",
+   "fit": 3,
+   "id": "e15c21d445d1",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/1000-rabbits-share-rapturous-single-stupid-boy/",
+   "listen": {},
+   "major": false,
+   "msg_id": 282,
+   "release": "Stupid Boy",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Art-pop quintet 1000 Rabbits have shared their new single, ‘Stupid Boy’, out via young. 1000 Rabbits comprises Laura (violin/viola), Liv (synthesiser), Paolo (guitar), River (vocals) and Luke (drums). The London-based band emphatically solidified their off-beat, post-rock potential with six-track EP, ‘Are We Friends Yet?’, memorialising their first two years in… The post 1000 Rabbits Share Rapturous Single ‘Stupid Boy’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Лондонский art-pop квинтет 1000 Rabbits выпустил новый сингл «Stupid Boy» на лейбле young. Ранее группа выпустила шеститрековый EP «Are We Friends Yet?».",
+   "title": "1000 Rabbits Share Rapturous Single ‘Stupid Boy’",
+   "ts": 1793794132.4416616,
+   "why": "соседний art-pop и пост-рок, малоизвестная группа"
   },
   "e1f258b97a61": {
    "also": [],
@@ -5971,6 +6091,7 @@
   "11329e7ea74a": 1793113308.2905715,
   "1136757ed994": 1793278864.0800195,
   "116f5fd6222e": 1792490268.9391212,
+  "117af2c93b87": 1793794133.1187913,
   "118099b3c52c": 1792140419.31879,
   "1190bdca8427": 1792492336.6984515,
   "11a0b466b57a": 1793790743.65232,
@@ -6107,6 +6228,7 @@
   "1f3145e50fac": 1792140449.516549,
   "1f4b8740c5d8": 1793358864.1394947,
   "1f70bf6007bd": 1792140455.9615905,
+  "1f764b8138bf": 1793794159.6331007,
   "1f7aca6c3335": 1792517947.7068393,
   "1f84c8a07ba1": 1793205017.373517,
   "1f85cd65f7cb": 1792682259.115081,
@@ -6383,6 +6505,7 @@
   "3a295d1ab3af": 1792508213.7042525,
   "3a7eac2b6df5": 1792575303.1896214,
   "3a888264a602": 1793641371.7760255,
+  "3a8992f754a7": 1793794153.5111275,
   "3a8f3e1d461c": 1793289557.1890552,
   "3a94b912af68": 1793098762.5491734,
   "3a9d16105d88": 1792411062.3888013,
@@ -6508,6 +6631,7 @@
   "464b7309cbc2": 1792429148.3064673,
   "466de0caf3ca": 1792388341.7862463,
   "46a73b18c68a": 1793744307.6376371,
+  "46c78319e231": 1793794142.46521,
   "46d46fbf3615": 1792582335.9986992,
   "46eaf615b470": 1792140448.224891,
   "4711d5ec7834": 1792768186.9160845,
@@ -6915,6 +7039,7 @@
   "712ca75043ce": 1793327477.5802727,
   "712e7bb84c2a": 1792140455.961588,
   "7148b29e9c52": 1793208287.4753149,
+  "7175ba614ac4": 1793794150.8140943,
   "71b092a01d68": 1792743055.1323977,
   "71bb16cce879": 1793298422.5510082,
   "71ec6f7a58c4": 1792668758.0212698,
@@ -6967,6 +7092,7 @@
   "769ead3218c6": 1792140447.2519543,
   "76b84124645a": 1792607492.4593935,
   "76bae6a209fe": 1793704560.6988103,
+  "76be031fe580": 1793794156.2034988,
   "76e68338c7fe": 1792140419.3187904,
   "76fe1bc4bc3c": 1793194520.233745,
   "7781174bb3ba": 1792140448.2248943,
@@ -7061,6 +7187,7 @@
   "81e3f8417f59": 1792140447.2519567,
   "81f26f9bedb6": 1792140455.9615898,
   "8216fa57e9c3": 1792140419.3187888,
+  "821d561736b6": 1793794144.8856003,
   "8238f50bb5e4": 1793707520.8333242,
   "82460c1eaac5": 1792748023.3798797,
   "8260cc142906": 1793462288.2257895,
@@ -7251,6 +7378,7 @@
   "96868d0f6b35": 1793113276.2951772,
   "96a8a3d3f1d2": 1792499751.6825202,
   "96ab6eac469e": 1792148985.7453387,
+  "9720288f7f59": 1793794147.5562096,
   "972e97802e92": 1792307774.648558,
   "973980c755a9": 1793315581.188678,
   "974f6ed2c236": 1792508245.4609227,
@@ -7503,6 +7631,7 @@
   "b10ef5270b4e": 1792684598.8092985,
   "b120a618060f": 1793116295.9838321,
   "b137c78ba31c": 1792727929.024832,
+  "b13b29554f8e": 1793794139.0718827,
   "b144aaccfa95": 1792748064.5554545,
   "b15d34616c10": 1792140460.9287446,
   "b16258fa1eba": 1792309756.0748625,
@@ -7967,6 +8096,7 @@
   "e1370b5fd45d": 1792580141.6037438,
   "e15899935631": 1793182404.6738286,
   "e158f49ebb3f": 1792940259.3200576,
+  "e15c21d445d1": 1793794130.0868096,
   "e16c4c346902": 1792169690.0172782,
   "e17d154dc10d": 1792140448.2248929,
   "e1801655b363": 1793618800.5677705,
