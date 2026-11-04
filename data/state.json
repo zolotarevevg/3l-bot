@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793809573
+   "ok": 1793813117
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793809602
+   "ok": 1793813145
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793809602
+   "ok": 1793813146
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793809556
+   "ok": 1793813100
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793809558
+   "ok": 1793813105
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793809560
+   "ok": 1793813107
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793809573
+   "err_ts": 1793813118
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793809573
+   "ok": 1793813118
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793809535
+   "ok": 1793813085
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793809539
+   "ok": 1793813088
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793809575
+   "ok": 1793813121
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793809601
+   "ok": 1793813145
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793809601
+   "ok": 1793813145
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793809601
+   "ok": 1793813141
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793809523
+   "ok": 1793813076
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793809559
+   "ok": 1793813107
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793809572
+   "ok": 1793813111
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793813105,
    "ok": 1793809559
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793809578
+   "ok": 1793813124
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793809604
+   "ok": 1793813149
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793809603
+   "ok": 1793813148
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793809605
+   "ok": 1793813150
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793809604
+   "ok": 1793813149
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793809605
+   "ok": 1793813151
   }
  },
  "heartbeat": "2026-11-04",
@@ -153,6 +154,26 @@
    "title": "Big Red have shared new single ‘Man Bites Dog’",
    "ts": 1793194507.1627443,
    "why": "новый сингл и дебютник, инди-рок, не любимый артист"
+  },
+  "00a079eff99a": {
+   "also": [],
+   "artist": "Kiwi Jr.",
+   "fit": 4,
+   "id": "00a079eff99a",
+   "kind": "single",
+   "link": "https://stereogum.com/2516446/kiwi-jr-something-wicked-blowin-up/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 295,
+   "release": "Something Wicked",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Kiwi Jr. – “Something Wicked” appeared first on Stereogum .",
+   "summary_ru": "Kiwi Jr. выпустили новый сингл «Something Wicked». Трек опубликован в рубрике New Music на Stereogum, больше деталей в записи нет.",
+   "title": "Kiwi Jr. – “Something Wicked”",
+   "ts": 1793813081.9539602,
+   "why": "новый сингл инди-рок группы, жанр близок 3L"
   },
   "01eae813ac4a": {
    "also": [],
@@ -527,6 +548,26 @@
    "title": "Giant Rooks have released new album ‘If Heaven Exists, This Might Be It’",
    "ts": 1792411088.6443648,
    "why": "новый инди-рок альбом, явно в жанрах 3L"
+  },
+  "0f1de207c0ee": {
+   "also": [],
+   "artist": "Quivers",
+   "fit": 4,
+   "id": "0f1de207c0ee",
+   "kind": "single",
+   "link": "https://stereogum.com/2516500/quivers-bottle-the-nervous/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 294,
+   "release": "Bottle The Nervous",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Quivers – “Bottle The Nervous” appeared first on Stereogum .",
+   "summary_ru": "Quivers выпустили новый трек «Bottle The Nervous», запись опубликована в рубрике New Music на Stereogum. В источнике больше нет подробностей о релизе.",
+   "title": "Quivers – “Bottle The Nervous”",
+   "ts": 1793813078.7421973,
+   "why": "новый сингл, инди-рок, явно в жанрах 3L"
   },
   "0f230e7ed0a5": {
    "also": [],
@@ -4474,7 +4515,12 @@
    "why": "новый сингл, инди-электроника и дрим-поп, не любимый артист"
   },
   "b497af7e1599": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://wrszw.net/mamalarky-sad-songs-2/",
+     "source": "out out - music done"
+    }
+   ],
    "artist": "Mamalarky",
    "fit": 4,
    "id": "b497af7e1599",
@@ -5022,6 +5068,26 @@
    "title": "Liars – “Beat Creep Some Eyes”",
    "ts": 1793802555.7833667,
    "why": "новый сингл экспериментального пост-панка, соседний жанр"
+  },
+  "d06072968a68": {
+   "also": [],
+   "artist": "Christine And The Queens",
+   "fit": 4,
+   "id": "d06072968a68",
+   "kind": "single",
+   "link": "https://www.nme.com/news/music/christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen-3975012?utm_source=rss&utm_medium=rss&utm_campaign=christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen",
+   "listen": {},
+   "major": false,
+   "msg_id": 296,
+   "release": "Rendez-vous Avec Toi",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Christine And The Queens has returned with a brand-new single – listen to ‘Rendez-vous Avec Toi’ below. The French singer announced the funky track last week, while confirming four special underplay shows in Brussels, London, Amsterdam and Paris for next month. READ MORE: Christine and the Queens – ‘ Paranoïa, Angels, True Love’ review: pop auteur’s operatic gamble “Dear comrades, I’ve missed you,” Chris wrote on social media. “Back on stage for four very special shows. A moment of live music, shared together, before the next journey begins.” His new chapter begins today (Wednesday November 4) with the release of the groovy, disco-tinged banger ‘Rendez-vous Avec Toi’. The tune explores giving in to desire and tenderness, recalling the night lovers find each other again. “I have a rendez-vous with you, tonight. I have obsessed about it since the morning,” Chris explained of the song. “With the devotion of someone who only waits for you, and the meaning you give to life itself by your mere presence.” He went on: “I’ll come starred with music – the new interstellar travelling of Christine And The Queens, I did it for you. In secrecy of frequencies, in genius musicians, in New York Jazz, in Moroder Groove, I kept on obsessing about this celebration, this big night found again, and I leapt into my dream. “Names, boxes, they never defined what we share together. The electricity remains eternally mysterious. We’ll dream together of the blue flower, of this signal that keeps pinging from another planet that we don’t even know of yet; we’ll dream peace, peace with a common story, one way bigger than the one they taught us.” The single arrives in both French (‘Rendez-vous Avec Toi’) and English (‘Rendez-vous In Your Arms’). It is accompanied by a joyous video shot in Paris, co-directed by Christine And The Queens and Raphaël De Albuquerque, with choreography by Alexander Ekman. The latest studio album from Christine And The Queens was 2023’s ‘Paranoïa, Angels, True Love’ . However, the artist did release the record ‘Hopecore’ in 2024 under the moniker Rahim Redcar. Speaking about his forthcoming small gigs in the UK and Europe, which are now sold out, Chris shared: “The shows with my audience are the highlights of my life. My musicians – Vincent Taeger, Vincent Taurelle, Adrian Edeline and Karl Onibuje – and I knew we had to reunite with our audience before anything else, in more intimate venues, for a true moment of music played live, felt and shared. “We will revisit a repertoire that made us grow together, and give a first listen to unreleased songs from the next album. We revisit, we reinterpret, we remember, and we transcend.” Details of Christine And The Queens’ next LP currently remain under wraps. Recently, the singer began hinting at a comeback by wiping his social media channels and posting photos from the recording studio. “Folks, we cooked it enough,” the caption read. “I think it’s time we play you the music. Stay tuned for more, and soon!” In",
+   "summary_ru": "Christine And The Queens выпустила новый сингл «Rendez-vous Avec Toi» в диско-фанковой стилистике, он вышел сегодня, 4 ноября. Трек доступен на французском и английском («Rendez-vous In Your Arms»), к нему снято видео в Париже. Также анонсированы четыре камерных концерта в Брюсселе, Лондоне, Амстердаме и Париже в декабре.",
+   "title": "Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity remains eternally mysterious”",
+   "ts": 1793813086.917184,
+   "why": "новый сингл, электро-диско-поп, близко к инди-электронике"
   },
   "d2141f4e670a": {
    "also": [
@@ -6050,6 +6116,7 @@
   "004314a09ba5": 1793194503.9298596,
   "0075f9885681": 1792524750.0565996,
   "007cc87d798c": 1793469110.1308076,
+  "00a079eff99a": 1793813079.3277173,
   "00cf68ed866d": 1792517972.206484,
   "00e379697616": 1793208317.0454366,
   "00e57e0aa9bb": 1793119475.4246316,
@@ -6210,6 +6277,8 @@
   "0ed6b841b05d": 1792413711.9912553,
   "0edde9d1bc4a": 1792426684.5101395,
   "0f0f3ecf4d8e": 1792679931.109047,
+  "0f1aabd47bd2": 1793813107.7017374,
+  "0f1de207c0ee": 1793813076.0872676,
   "0f230e7ed0a5": 1793602200.8070457,
   "0f2bdfaf2912": 1792745870.570222,
   "0f5e950e746a": 1793718946.686779,
@@ -6459,6 +6528,8 @@
   "26d6589697d9": 1792582357.4732215,
   "27267899dd91": 1792264008.2749743,
   "2738cc8df0ad": 1792140455.9615848,
+  "273e4cdc496a": 1793813138.1665223,
+  "275e19a8a0d1": 1793813124.1844687,
   "277d29602c51": 1793659685.1913996,
   "279cd8a265c5": 1792140455.0717537,
   "27a403c25685": 1793356081.6456275,
@@ -6621,6 +6692,7 @@
   "3718da359ea4": 1793282858.5967617,
   "371ef3094974": 1792582357.4732287,
   "3741b457164c": 1793700928.314428,
+  "374690c1fb70": 1793813100.615016,
   "374936cc2ccf": 1792605163.4222844,
   "3763f0d04960": 1792140419.3187895,
   "37718f033128": 1792162994.498489,
@@ -6629,6 +6701,7 @@
   "37da7882419f": 1793722506.8983448,
   "38083be9f7de": 1792755038.9944246,
   "38196529c3f4": 1792582357.473216,
+  "381a1b7056da": 1793813135.9430244,
   "38234b2b4515": 1793282850.2824082,
   "38366bcff322": 1792582315.999749,
   "3879a5c5ddd3": 1793032290.2356448,
@@ -7229,6 +7302,7 @@
   "7418382b35bb": 1792140447.2519574,
   "7444ec11d643": 1792140449.8447502,
   "744f0d13593d": 1793292830.9186318,
+  "745e0394527e": 1793813114.5956254,
   "74778f5828ac": 1792821141.9760711,
   "747d60507178": 1792664300.312854,
   "74cc71b33f91": 1793074570.840606,
@@ -7253,6 +7327,7 @@
   "7693b82982c0": 1792140455.635875,
   "769ead3218c6": 1792140447.2519543,
   "76b84124645a": 1792607492.4593935,
+  "76ba9db8ea84": 1793813132.9959233,
   "76bae6a209fe": 1793704560.6988103,
   "76be031fe580": 1793794156.2034988,
   "76e68338c7fe": 1792140419.3187904,
@@ -7390,6 +7465,7 @@
   "85e43a6506c9": 1792140446.3270457,
   "85e6e38aad46": 1793214901.1938756,
   "85f20849a7da": 1793656948.9490097,
+  "85f402ab373e": 1793813127.241413,
   "86093838e5d3": 1792140446.180914,
   "86140cd4db56": 1793802608.1055717,
   "8620edb0a287": 1793464628.6603353,
@@ -7419,6 +7495,7 @@
   "88a6a7237438": 1792821144.8240077,
   "88faaa4a6b10": 1793634120.1716795,
   "89009fd01325": 1792140448.2248948,
+  "8912c5f4c1e5": 1793813082.457958,
   "8950a972e297": 1793032312.1334405,
   "89606841db21": 1793644707.996816,
   "897b20d9e3ed": 1793289560.625173,
@@ -8024,6 +8101,7 @@
   "c6724e377520": 1792768171.8850412,
   "c67c09ea980b": 1792140460.0458233,
   "c69ee1d6089b": 1792140455.9615862,
+  "c6a0460c770f": 1793813141.4431665,
   "c6a384e5b608": 1792419549.265609,
   "c6b8168574f6": 1793715772.4407685,
   "c6bc6a1d21be": 1792703182.9157803,
@@ -8114,6 +8192,7 @@
   "cfeda53818a0": 1792152850.358851,
   "cffa59b9f1cb": 1792140455.071754,
   "d02d2ed947ff": 1792487977.3466525,
+  "d06072968a68": 1793813085.2140238,
   "d075a44a3cd5": 1792140419.3187928,
   "d0780d3167cc": 1793057317.4406536,
   "d0cd2c179a34": 1792140460.9287474,
@@ -8322,6 +8401,7 @@
   "e44054a866ff": 1793272553.6737134,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
+  "e463a8f7a326": 1793813130.140182,
   "e46670cb9bd7": 1793726306.1224039,
   "e479980f6cc7": 1793286361.5239165,
   "e49043178e67": 1793230561.3587773,
@@ -8544,6 +8624,7 @@
   "fa4364552533": 1793124958.5317624,
   "faaab1470297": 1792140455.028921,
   "fab4d48cdb25": 1792381262.0103343,
+  "fab6ae53777b": 1793813111.5679295,
   "fac1ce6cb0a5": 1793378081.2773418,
   "fac47a1ef833": 1793119501.7612114,
   "fad22ab91ba4": 1793110247.8105435,
