@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793820635
+   "ok": 1793824142
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793820646
+   "ok": 1793824151
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793820646
+   "ok": 1793824153
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793820630
+   "ok": 1793824135
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793820632
+   "ok": 1793824136
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793820634
+   "ok": 1793824138
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793820636
+   "err_ts": 1793824142
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793820635
+   "ok": 1793824142
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793820624
+   "ok": 1793824124
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793820625
+   "ok": 1793824124
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793820643
+   "ok": 1793824144
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793820646
+   "ok": 1793824151
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793820646
+   "ok": 1793824151
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793820646
+   "ok": 1793824148
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793820621
+   "ok": 1793824120
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793820633
+   "ok": 1793824137
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793820635
+   "ok": 1793824142
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793820632
+   "ok": 1793824136
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793820645
+   "ok": 1793824148
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793820648
+   "ok": 1793824155
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793820647
+   "ok": 1793824154
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793820652
+   "ok": 1793824156
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793820649
+   "ok": 1793824155
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793820652
+   "ok": 1793824156
   }
  },
  "heartbeat": "2026-11-04",
@@ -5617,6 +5617,26 @@
    "ts": 1793130507.3931491,
    "why": "Новый сингл синти-поп группы, близкой к жанрам 3L"
   },
+  "ed97931a2741": {
+   "also": [],
+   "artist": "GIFT",
+   "fit": 3,
+   "id": "ed97931a2741",
+   "kind": "single",
+   "link": "https://stereogum.com/2516370/gift-every-step-frenzy-for-the-thrill-song-video/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 297,
+   "release": "Every Step",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post GIFT – “Every Step” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый трек GIFT «Every Step» в рубрике New Music. Больше деталей в записи нет.",
+   "title": "GIFT – “Every Step”",
+   "ts": 1793824123.5906303,
+   "why": "новый сингл, жанр по записи не ясен"
+  },
   "ee0bd1bc4837": {
    "also": [
     {
@@ -6794,6 +6814,7 @@
   "4152f27e7dc2": 1793318148.828332,
   "41617f57cc94": 1792703210.554678,
   "416fc1bb126c": 1792343400.2228136,
+  "41734ed819ae": 1793824151.7700472,
   "418f3cc4e7d3": 1792249728.8038208,
   "41908efc3ba9": 1792148989.020137,
   "41a67cc81569": 1793375344.2302425,
@@ -7671,6 +7692,7 @@
   "9b3ba352eaea": 1792818688.6308231,
   "9b55de1cab5b": 1792795102.9948096,
   "9b56a0677197": 1793552183.6806996,
+  "9b73f73be05e": 1793824138.2073793,
   "9bb39ebdf404": 1792677636.5749328,
   "9bd8661db7d8": 1792140446.1809137,
   "9bde636af911": 1792151166.0153506,
@@ -8502,6 +8524,7 @@
   "ed2fe6f93d45": 1792580158.3805008,
   "ed3baed6d6aa": 1792140455.0717516,
   "ed7a178d620a": 1793321237.5691967,
+  "ed97931a2741": 1793824120.7491007,
   "edb1719f6081": 1792140446.1809142,
   "edbf257e9d8f": 1792140449.8447516,
   "edd63339ec89": 1793023068.047834,
