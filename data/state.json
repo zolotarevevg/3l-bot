@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793920553
+   "ok": 1793923176
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793920558
+   "ok": 1793923183
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793920559
+   "ok": 1793923184
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793920540
+   "ok": 1793923165
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793920542
+   "ok": 1793923166
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793920543
+   "ok": 1793923167
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793920553
+   "err_ts": 1793923176
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793920553
+   "ok": 1793923176
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793920535
+   "ok": 1793923153
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793920536
+   "ok": 1793923153
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793920555
+   "ok": 1793923178
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793920558
+   "ok": 1793923183
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793920558
+   "ok": 1793923183
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793920558
+   "ok": 1793923183
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793920532
+   "ok": 1793923153
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793920543
+   "ok": 1793923167
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793920553
+   "ok": 1793923176
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793920542,
-   "ok": 1793917440
+   "err": "",
+   "ok": 1793923166
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793920558
+   "ok": 1793923181
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793920561
+   "ok": 1793923185
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793920560
+   "ok": 1793923185
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793920562
+   "ok": 1793923186
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793920561
+   "ok": 1793923186
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793920562
+   "ok": 1793923187
   }
  },
  "heartbeat": "2026-11-05",
@@ -254,6 +253,26 @@
    "title": "Austin post-hardcore band Porcelain have shared politically charged new single ‘DSD’",
    "ts": 1792620915.2180643,
    "why": "пост-хардкор, далеко от жанров 3L"
+  },
+  "029f61dd77d5": {
+   "also": [],
+   "artist": "Toro y Moi",
+   "fit": 5,
+   "id": "029f61dd77d5",
+   "kind": "album",
+   "link": "https://readdork.com/news/toro-y-moi-unusua-motive-8112f6ecea",
+   "listen": {},
+   "major": true,
+   "msg_id": 313,
+   "release": "Unusua",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Chaz Bear’s seven-track ‘Unusua’ arrives on 20th November via Company Studio, led by new track ‘Motive’.",
+   "summary_ru": "Toro y Moi (Chaz Bear) анонсировал семитрековый альбом Unusua, который выйдет 20 ноября на лейбле Company Studio. Вместе с анонсом вышел первый сингл Motive с фортепиано в основе.",
+   "title": "Toro Y Moi has announced new album ‘Unusua’ and shared piano-led single ‘Motive’",
+   "ts": 1793923170.862822,
+   "why": "любимый артист, анонс нового альбома"
   },
   "0393ccd9a306": {
    "also": [],
@@ -6469,6 +6488,7 @@
   "027201d988eb": 1792144554.365646,
   "027e3883aa60": 1792404617.7486067,
   "028d788a680f": 1792796946.6001916,
+  "029f61dd77d5": 1793923169.8183184,
   "02be0efacf15": 1792780264.722466,
   "02fc2c1a5ef0": 1792486032.712581,
   "031160f8560c": 1792422153.9425986,
@@ -7027,6 +7047,7 @@
   "35793f0f0508": 1792140454.9418368,
   "35ac8a3e9935": 1792140462.2817574,
   "35c0430c3880": 1793634083.7846177,
+  "35c36e16f9db": 1793923167.5297937,
   "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
   "363a3157a06f": 1793295887.8693511,
@@ -7625,6 +7646,7 @@
   "6d39a5881c80": 1792339702.5628843,
   "6d5bb765827d": 1793358828.195084,
   "6d8ab11f58b6": 1793700937.365961,
+  "6dbd11d31f06": 1793923172.5536356,
   "6dc649b9004b": 1793704532.5792603,
   "6e1fb6a87de8": 1793035465.2534149,
   "6e2213e499ef": 1792679968.9017446,
@@ -8143,6 +8165,7 @@
   "a0aac525b844": 1792140446.32705,
   "a0e0c122a4d3": 1792140455.635876,
   "a0fb4e852bbc": 1793211259.9000304,
+  "a12157cfd21d": 1793923171.3329072,
   "a12bad004e16": 1793009223.062988,
   "a1356415039f": 1792584712.1633177,
   "a16dfdfa2035": 1793779115.0476215,
