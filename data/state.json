@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793894774
+   "ok": 1793899173
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793894808
+   "ok": 1793899185
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793894808
+   "ok": 1793899185
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793894752
+   "ok": 1793899135
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793894753
+   "ok": 1793899142
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793894755
+   "ok": 1793899154
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793894774
+   "err_ts": 1793899173
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793894774
+   "ok": 1793899173
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793894738
+   "ok": 1793899122
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793894739
+   "ok": 1793899126
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793894776
+   "ok": 1793899175
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793894807
+   "ok": 1793899184
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793894806
+   "ok": 1793899184
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793894797
+   "ok": 1793899181
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793894731
+   "ok": 1793899111
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793894754
+   "ok": 1793899144
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793894774
+   "ok": 1793899164
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793894753
+   "ok": 1793899143
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793894779
+   "ok": 1793899178
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793894815
+   "ok": 1793899187
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793894809
+   "ok": 1793899186
   },
   "Родной звук (TG)": {
-   "count": 11,
+   "count": 8,
    "err": "",
-   "ok": 1793894816
+   "ok": 1793899188
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793894815
+   "ok": 1793899187
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793894816
+   "ok": 1793899192
   }
  },
  "heartbeat": "2026-11-05",
@@ -2813,6 +2813,26 @@
    "ts": 1792757284.464674,
    "why": "хип-хоп, без любимых артистов 3L"
   },
+  "61d0cae1406c": {
+   "also": [],
+   "artist": "Cage The Elephant",
+   "fit": 3,
+   "id": "61d0cae1406c",
+   "kind": "album",
+   "link": "https://www.nme.com/news/music/cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy-3975154?utm_source=rss&utm_medium=rss&utm_campaign=cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy",
+   "listen": {},
+   "major": false,
+   "msg_id": 308,
+   "release": "Dying In Reverse",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Cage The Elephant have announced full details of their new album ‘Dying In Reverse’ and shared its latest taster ‘Make It Easy’ – check it out below. READ MORE: Cage The Elephant’s Matt Shultz: “I was in psychosis for three years – my arrest was a miracle” Their upcoming seventh album is set to be released on February 5, 2027 via Big Loud Rock. You can pre-order it here . The band shared the title track from their record back in September following the single ‘ Beaches In Tennessee ’. Now, they have shared the latest taster from their new album ‘Make It Easy’, check it out below. “This record’s turned out to be such a special one for us. Without doubt, one of the most creatively gratifying experiences we’ve had as a group yet. After all these years already remaining so tightly knit, it really does feel like this album managed to pull us even closer together,” said frontman Matthew Shultz. “In a way, it’s a goodbye to the past, closing the door on an era, with a renewed perspective grounded in the present while also walking towards the future with hope and gratitude. Signifying a rebirth of sorts. It’s got all these interesting little windows into the memories and experiences that have shaped who we are as individuals, as well as ultimately a band. I just love it so much. We can’t wait to share it with the world.” ‘Dying In Reverse’ artwork Last year, the band completed their run as special guests on Oasis’ ‘Live ’25 tour’ and went straight back into the studio to record the album. “The Oasis tour really reignited our fire to dream and continue to dream,” Schultz said. “I think we realised there’s still room to evolve and push ourselves, especially in the live realm. That tour added to our overall passion and desire to see this thing through. When it was over, we decided not to take a break… We pretty much went straight into the studio to start making music.” Shultz had been detained in a hotel in 2023 for carrying firearms which were only licenced in Kentucky and Tennessee. The arrest, a court found , was the result of psychotic delusions which Shultz had been suffering from as a side-effect of medication he’d been prescribed. “The arrest, without a doubt, was a miracle,” he told NME in 2024 . “It saved my life. Following the arrest I was hospitalised for two months. Then I had six months of outpatient therapy afterwards and I feel completely recovered. But obviously, with recovery, it’s a lifelong thing. You don’t experience something like that and not deal with the scars for the rest of your life, I’m sure.” Describing how this new music marks a “new chapter” for Cage The Elephant, the singer recently shared: “Musically, we always want to reinvent Cage The Elephant. We’ve discovered a whole new side to our band, how we look at things, and how we make art. You’re growing constantly as an artist, and I think we’ve tapped into that growth. I do feel like we’re making the best music we’ve ever made. If anything, it’s definitely the most inspired.” ",
+   "summary_ru": "Cage The Elephant анонсировали седьмой альбом «Dying In Reverse», который выйдет 5 февраля 2027 года на лейбле Big Loud Rock, и выпустили сингл «Make It Easy» с гитарным звучанием. Ранее группа показала заглавный трек и сингл «Beaches In Tennessee».",
+   "title": "Cage The Elephant announce new album ‘Dying In Reverse’ with guitar heavy single ‘Make It Easy’",
+   "ts": 1793899125.695791,
+   "why": "Инди-рок нулевых, но более громкий гитарный рок"
+  },
   "6249244c9f2a": {
    "also": [],
    "artist": "Mollie Elizabeth",
@@ -5313,6 +5333,26 @@
    "ts": 1792600461.4035573,
    "why": "новый сингл в жанрах 3L, малоизвестный артист"
   },
+  "d79d598bc03e": {
+   "also": [],
+   "artist": "Metallica",
+   "fit": 2,
+   "id": "d79d598bc03e",
+   "kind": "video",
+   "link": "https://www.nme.com/news/music/watch-pro-shot-footage-of-metallica-performing-battery-live-at-las-vegas-sphere-residency-3975150?utm_source=rss&utm_medium=rss&utm_campaign=watch-pro-shot-footage-of-metallica-performing-battery-live-at-las-vegas-sphere-residency",
+   "listen": {},
+   "major": false,
+   "msg_id": 307,
+   "release": "Battery",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Metallica have shared pro-shot footage of the band performing ‘Master Of Puppets’ classic ‘Battery’ from their huge residency at the Las Vegas Sphere. READ MORE: Metallica live in Amsterdam: still the greatest heavy metal band around The ‘Life Burns Faster’ residency opened on October 1 at the iconic venue with spectacular visual displays on show . On the night they performed ‘…And Justice For All’ for the first time in over 10 years along with other fan favourites. Metallica recently shared pro-shot footage of the former along with its mind bending visuals and 1984 track ‘The Call Of Ktulu’ . Now, they have shared pro-footage of the opening track from their 1986 LP from their performance on October 15, which you can view below. The residency continues tonight (November 5) and Saturday (November 7), as well as January 28 and 30, February 4, 6, 18, 20, 25 and 27 and March 4, 6, 11 and 13 in 2027. Tickets are available here . As well as the Las Vegas shows, the band have also confirmed a 2027 tour with Limp Bizkit , and teased that they have 767 new riffs for their “next album” – suggesting that the project might see them “go back to the ‘90s again”. Elsewhere, Roger Waters recently hit back at frontman James Hetfield following his recent on-stage comments about music and politics , calling the Metallica frontman a “complete prick” who has “an IQ of about three”. The comments relate to Hetfield’s recent remarks while performing as part of Metallica’s residency at the Las Vegas Sphere. On stage on October 10, he thanked the crowd for potentially travelling far and wide to see their show, and reassured them that they were wanting to create a sense of escape from the world’s issues – not lecture them with their own “bullshit” agendas. “Metallica is not here, like some other entertainers, to influence you with their bullshit, OK,” he shared. “No bullshit. We’re here to forget about all the outside shit, OK? Metallica’s agenda is love, energy and heavy music, baby!” Although he didn’t mention any names, some fans have suggested that it could be a nod to Macklemore , who was dropped as a support act for Ed Sheeran’s ‘Loop’ tour after making a speech calling for a “free Palestine”. Others speculated that it could also have been a jab towards Hayley Williams – who has been saying ‘Fuck ICE’ at her recent shows – or even at fellow metal artist Tom Morello , who recently enlisted Jack Black , Foo Fighters , Bruce Springsteen and more for his politically-charged Power To The People festival . Waters shared his thoughts on the comments made by Hetfield. “Can we stop talking about this prick?” he said when making a guest appearance on Katie Halper’s podcast. “I’m so bored with him. He’s just showing that he’s a complete prick. He’s got an IQ of about three, and why we’re talking about him, I honestly don’t know, because he’s a nobody.” Waters has been a longtime supporter of Palestine. In 2024, he urged followers on social media not to vote for Kamala Harris or",
+   "summary_ru": "Metallica выложили профессиональную съёмку исполнения «Battery» с резиденции в Las Vegas Sphere. Резиденция Life Burns Faster продлится до марта 2027 года, а группа анонсировала тур с Limp Bizkit и 767 новых риффов для следующего альбома.",
+   "title": "Watch pro-shot footage of Metallica performing ‘Battery’ live at Las Vegas Sphere residency",
+   "ts": 1793899123.7436442,
+   "why": "хард-метал, не любимый артист; видео старого трека"
+  },
   "d7ce74398c8d": {
    "also": [],
    "artist": "Benny The Butcher",
@@ -5796,6 +5836,26 @@
    "title": "Chvrches – “Overthinker”",
    "ts": 1793130507.3931491,
    "why": "Новый сингл синти-поп группы, близкой к жанрам 3L"
+  },
+  "ed7a94e0cb45": {
+   "also": [],
+   "artist": "Jem Wilde",
+   "fit": 3,
+   "id": "ed7a94e0cb45",
+   "kind": "ep",
+   "link": "http://www.undertheradarmag.com/news/jem_wilde_shares_debut_ep_to_start_all_over",
+   "listen": {},
+   "major": false,
+   "msg_id": 309,
+   "release": "To Start All Over",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Baltimore and New York City-based singer/songwriter Jem Wilde makes music that feels deeply heartfelt and confessional, dancing between tender, soft-edged folk and vibrant bursts of indie rock passion. After releasing a pair of singles earlier this year, “Waterbury Station” and “Kitchen Light,” Wilde has shared his debut EP, To Start All Over, out everywhere now.",
+   "summary_ru": "Сингер-songwriter Джем Уайлд из Балтимора и Нью-Йорка выпустил дебютный EP To Start All Over, ранее вышли синглы «Waterbury Station» и «Kitchen Light». Музыка сочетает мягкий фолк и импульсивный инди-рок.",
+   "title": "Jem Wilde Shares Debut EP ‘To Start All Over’",
+   "ts": 1793899166.2934613,
+   "why": "инди-рок с фолком, малоизвестный артист"
   },
   "ed97931a2741": {
    "also": [],
@@ -6547,6 +6607,7 @@
   "1462713d87da": 1792664273.8909972,
   "14700be3fb24": 1793103436.141869,
   "14715da0d8f5": 1792142306.6505816,
+  "14785825e819": 1793899135.1432488,
   "1498394b19db": 1792142237.7308586,
   "14a621f03bd3": 1793122225.2409828,
   "14ac3666dd7a": 1792140449.8447518,
@@ -6975,6 +7036,7 @@
   "3c0b2965a1e2": 1793197827.8659396,
   "3c0d0d766468": 1793627024.1621835,
   "3c295e6aed26": 1792140446.3270476,
+  "3c32060ecf5f": 1793899166.9352825,
   "3c511f04093b": 1793298425.8088555,
   "3c832da5852a": 1793627012.6914792,
   "3c853b6937e4": 1793615440.539537,
@@ -7241,9 +7303,11 @@
   "5359aa82a7de": 1793333900.9553382,
   "537ada880110": 1793289563.8447607,
   "5388de7d4eca": 1792413723.4630873,
+  "538d2b153b9f": 1793899155.736228,
   "539634138a5d": 1792140449.709729,
   "53a67abff1b4": 1793417320.6801076,
   "53a84735055c": 1792140446.1809156,
+  "53b662d65501": 1793899118.9675899,
   "53deeb975485": 1792140447.2519517,
   "5403f6a3ce6f": 1793205041.1413221,
   "540adfee391a": 1792555752.1734598,
@@ -7294,6 +7358,7 @@
   "585653a4d97d": 1792600449.5720272,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
+  "58c124ee6c27": 1793899160.5921447,
   "58e02520b1d2": 1792750411.038945,
   "58f6cd046f11": 1793098765.5013018,
   "59022366ba53": 1792140446.1809075,
@@ -7380,6 +7445,7 @@
   "61a93cd9c515": 1792230521.538974,
   "61aa34c3f355": 1793878890.6430411,
   "61b3ee7fe73e": 1792140446.1809077,
+  "61d0cae1406c": 1793899124.2974973,
   "61f7810b8d7e": 1792700952.165485,
   "62141bc1e1f4": 1793722513.9482038,
   "62298557e6dd": 1792782952.8928416,
@@ -7785,6 +7851,7 @@
   "8b9537ee25c2": 1792429128.772528,
   "8b9d080ed4b3": 1793119453.344037,
   "8ba92380f569": 1793809590.0018063,
+  "8bafe318701a": 1793899178.095958,
   "8bb3866c80a3": 1792734848.6874855,
   "8be1bd649d4e": 1792668770.4901855,
   "8be41834658d": 1793057314.5611968,
@@ -7918,6 +7985,7 @@
   "99535c47c6bd": 1792140446.1809103,
   "99585ee436d1": 1792140419.4762278,
   "9974ec4b2351": 1792408646.2620907,
+  "997fdc03206e": 1793899144.3254762,
   "99a3f6272085": 1793119491.8475072,
   "99b8b40666b2": 1792580181.8582687,
   "99c9b82bf452": 1792156053.0010424,
@@ -7927,6 +7995,7 @@
   "9a14df025139": 1792140446.1809149,
   "9a37788bdd25": 1793159507.3007069,
   "9a3dab0d30d6": 1792140462.2817557,
+  "9a48aa0a58c1": 1793899188.4128473,
   "9a53dcb4bc6b": 1793175645.8609421,
   "9a68ffcca1ad": 1792296821.406791,
   "9a6d97d59356": 1792140446.1809149,
@@ -8075,6 +8144,7 @@
   "a8b90069f2cd": 1792664263.9461608,
   "a8e8ee2d3a4c": 1793718949.6118972,
   "a93c8c6300a4": 1793611675.1963925,
+  "a945b792bebe": 1793899158.2257473,
   "a9558be2e824": 1792140449.844752,
   "a998fe9a81c6": 1793318171.9653082,
   "a9a1a413c8fc": 1793069900.1496072,
@@ -8175,6 +8245,7 @@
   "b21e264fe5d0": 1792517987.853784,
   "b2244190f1e7": 1793282853.8933306,
   "b23ada202e29": 1792140455.0717514,
+  "b2476f7e8bdf": 1793899150.688447,
   "b2627c63c8f9": 1792494639.6479814,
   "b26830ffea58": 1792553389.4700632,
   "b26a0c305fe1": 1792140448.2248852,
@@ -8259,6 +8330,7 @@
   "bbc510aa1beb": 1793361758.2108498,
   "bc4de10ba01d": 1792140455.028921,
   "bc5043d7542a": 1793726347.0626483,
+  "bc64f1048d00": 1793899111.0336034,
   "bc7ee0b4cd6e": 1793798264.4718783,
   "bc90c98cb385": 1792140455.0289185,
   "bc961d5f3279": 1792140455.0289197,
@@ -8310,6 +8382,7 @@
   "c0e4891717c6": 1792140446.180915,
   "c0f719e57b8c": 1793882652.2407956,
   "c0fb013ef785": 1793298443.7433767,
+  "c11fbf54eed0": 1793899116.4328194,
   "c129fcab4083": 1792671188.9215186,
   "c132c3f57172": 1792404620.620397,
   "c157b1f54fef": 1792140460.928742,
@@ -8474,6 +8547,7 @@
   "cfc310b0879e": 1792659625.000042,
   "cfe7958f5a88": 1792231894.1587906,
   "cfeda53818a0": 1792152850.358851,
+  "cff3a58f6fc9": 1793899154.217275,
   "cffa59b9f1cb": 1792140455.071754,
   "d02d2ed947ff": 1792487977.3466525,
   "d06072968a68": 1793813085.2140238,
@@ -8510,6 +8584,7 @@
   "d3d68cf9b8eb": 1793704528.818512,
   "d3ea5ef60592": 1792674617.6097536,
   "d402a317ab1a": 1793197876.2221751,
+  "d414df7335aa": 1793899137.996963,
   "d4378b4a466e": 1793333906.1423495,
   "d45e2d107714": 1793038131.0954566,
   "d46a114f5b38": 1793890991.9679263,
@@ -8541,6 +8616,7 @@
   "d6eab1e2a6c2": 1792140455.0717514,
   "d6faeacdf4c9": 1793057307.494564,
   "d70caad0d30f": 1793602211.7865937,
+  "d79d598bc03e": 1793899122.367139,
   "d7ce74398c8d": 1793375327.692781,
   "d7e97ba7f860": 1793838942.8631327,
   "d7fa34729006": 1792140460.9287436,
@@ -8794,6 +8870,7 @@
   "ed2fe6f93d45": 1792580158.3805008,
   "ed3baed6d6aa": 1792140455.0717516,
   "ed7a178d620a": 1793321237.5691967,
+  "ed7a94e0cb45": 1793899164.9453537,
   "ed97931a2741": 1793824120.7491007,
   "edb1719f6081": 1792140446.1809142,
   "edbf257e9d8f": 1792140449.8447516,
@@ -8802,6 +8879,7 @@
   "ee4ace608856": 1793766517.629772,
   "ee8de948e7a2": 1793110196.3693993,
   "eec53405f494": 1793101078.6659098,
+  "eeccb46dddd8": 1793899147.6310282,
   "eee13426d8f1": 1793790786.6860542,
   "eee8b8c0b7d3": 1792598292.2264707,
   "eef3628279ba": 1792478065.7128956,
@@ -8812,6 +8890,7 @@
   "ef4ad44e8683": 1792140455.0289283,
   "ef6938d92007": 1792390459.402517,
   "ef75b26814a5": 1793032291.680679,
+  "ef82af1e3662": 1793899170.074031,
   "ef8ac49ef671": 1792140449.8447492,
   "ef90f34a5d54": 1793726309.5789049,
   "efa1ebec11d5": 1793292800.0498178,
@@ -8892,6 +8971,7 @@
   "f7ca69e41d64": 1793190562.9521356,
   "f7cc9b5a10b7": 1792425027.4257884,
   "f7f71bf130cd": 1793110199.5515742,
+  "f800f002c144": 1793899113.776283,
   "f8011c1a0bb3": 1793292807.0370576,
   "f80c23e5c4f2": 1792140446.1809046,
   "f8324baa0ff4": 1792156073.8070056,
@@ -8942,6 +9022,7 @@
   "fbd0a340eb06": 1793230570.954372,
   "fbef5da50834": 1792773242.8482513,
   "fbfbbe61515f": 1792140451.9265761,
+  "fc3faf0b1650": 1793899181.1250062,
   "fc5a521d992c": 1792765242.954879,
   "fc88cbf0bb1b": 1792765252.6941996,
   "fcb7c6b0cfd8": 1792486031.3206658,
