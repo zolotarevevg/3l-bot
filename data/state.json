@@ -2,14 +2,13 @@
  "health": {
   "Aquarium Drunkard": {
    "count": 15,
-   "err": "ConnectTimeout: HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443)",
-   "err_ts": 1793867494,
-   "ok": 1793862785
+   "err": "",
+   "ok": 1793871485
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793867498
+   "ok": 1793871488
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -18,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793867499
+   "ok": 1793871489
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793867459
+   "ok": 1793871480
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793867461
+   "ok": 1793871482
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793867465
+   "ok": 1793871483
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793867494
+   "err_ts": 1793871485
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793867494
+   "ok": 1793871485
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793867453
+   "ok": 1793871463
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793867454
+   "ok": 1793871469
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793867495
+   "ok": 1793871487
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793867498
+   "ok": 1793871488
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793867498
+   "ok": 1793871488
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793867498
+   "ok": 1793871488
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793867453
+   "ok": 1793871463
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793867462
+   "ok": 1793871483
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793867466
+   "ok": 1793871484
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1793871482,
    "ok": 1793867461
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793867498
+   "ok": 1793871488
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793867501
+   "ok": 1793871492
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793867500
+   "ok": 1793871490
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793867502
+   "ok": 1793871497
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793867501
+   "ok": 1793871493
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793867502
+   "ok": 1793871497
   }
  },
  "heartbeat": "2026-11-05",
@@ -2943,6 +2943,26 @@
    "title": "Puma Blue has shared trip-hop-inspired new single ‘Whispering’ ahead of his deluxe album",
    "ts": 1792620911.9913068,
    "why": "новый сингл и анонс делюкс-альбома, инди-электроника"
+  },
+  "688eea1296d4": {
+   "also": [],
+   "artist": "Kings Of Leon",
+   "fit": 2,
+   "id": "688eea1296d4",
+   "kind": "album",
+   "link": "https://www.nme.com/news/music/kings-of-leon-interview-o-my-beloved-vulnerability-country-roots-2027-shows-3975027?utm_source=rss&utm_medium=rss&utm_campaign=kings-of-leon-interview-o-my-beloved-vulnerability-country-roots-2027-shows",
+   "listen": {},
+   "major": false,
+   "msg_id": 300,
+   "release": "O My Beloved",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Kings Of Leon have spoken to NME about their tender new album ‘O My Beloved’, which sees them strip things back, return to their country roots, and be “completely honest” with listeners. READ MORE: Kings Of Leon – ‘Can We Please Have Fun’ review: a return to their rugged roots… sort of The 10th album from the Tennessee rock veterans is distinctly different to its 2024 predecessor ‘ Can We Please Have Fun ’. While that album saw frontman Caleb Followill and co throw caution to the wind and embrace a feel-good sound, this sees them showcase their most vulnerable, stripped-back sound to date. Originally, the record was set to carry the same larger-than-life approach that took Kings Of Leon to headlining arenas and topping festival bills for years now. However, following the band having to scrap their tour earlier this year due to the singer breaking his foot, the band ultimately decided to go back to the drawing board and use the downtime to tackle some heavier subject matter that they previously pushed to one side. “It wasn’t planned,” Caleb explained, sharing how he ended up writing about his childhood and loss of his mother. “We were just doing our thing in the studio, writing and recording some exciting stuff. But when I busted my foot, my frame of mind went somewhere else because I was feeling down on myself. I felt like it was my fault that we had cancelled a tour. So I was sitting at home with a broken foot and I started playing the guitar… the first song that I wrote ended up being ‘My Whole World’.” Kings Of Leon, 2026. CREDIT: Josh Goleman Having the dates cancelled, he added, led to him injecting “a lot of love into” his lyrics, and feeling inspired to move away from the approach he had “grown accustomed to”, where he would simply start “digging in” and focus solely on getting “some fast songs and a ballad”. “This time, it felt like we only needed to follow what was speaking to us, and then everything started to come together,” he continued. “Before we knew it, we had a handful of songs that all felt cohesive, and we had moved away from using the tricks that we’ve learned over years to make a song that would fit on the radio. It became about being honest and writing songs from a good place… then just seeing what happened.” Check out the rest of the interview below, where Caleb and his brother and bassist Jared Followill also opened up about why younger generations are pushing artists to return to their roots, potential plans to celebrate 20 years of ‘Because Of The Times’, and whether they have plans to call it quits having already achieved more than they thought possible. Kings Of Leon ‘O My Beloved’ cover. CREDIT: Press NME : Hi Caleb and Jared. When you spoke to us last, you said that you learned that it “takes time” to heal from difficult periods. Those comments feel more aligned with this album. Are you now embracing things that have laid in waiting for a long time? Caleb: “Yeah, there was a lot that we buried and hadn’t addressed. W",
+   "summary_ru": "Kings Of Leon выпускают 10-й альбом O My Beloved, более камерный и откровенный, с возвращением к кантри-корням. Фронтмен Калеб Фоллилл рассказывает, что в записи появились темы детства и потери матери, которые группа раньше откладывала в сторону.",
+   "title": "Kings Of Leon on their “completely honest” album ‘O My Beloved’: “I finally allowed myself to address things I’d been scared to talk about”",
+   "ts": 1793871465.32338,
+   "why": "стадионный рок, кантри-оттенок, не любимый артист"
   },
   "68f318c94bd1": {
    "also": [],
@@ -6904,6 +6924,7 @@
   "447b89fb1fb7": 1793715786.957675,
   "448b9413020e": 1792486036.1012127,
   "44b2528409f8": 1792419524.7455919,
+  "44da2b1bbb09": 1793871490.6199694,
   "44e32704f7ec": 1792505491.9044785,
   "44f4fab6681b": 1792748039.5188997,
   "451e0f45f3cf": 1792404592.9865537,
@@ -7261,6 +7282,7 @@
   "6834be2b7d46": 1792331407.3571088,
   "685784b10d06": 1792620908.6497743,
   "685f132dce9a": 1793185426.6270351,
+  "688eea1296d4": 1793871463.6507676,
   "68aeb9bb95b0": 1793153895.202855,
   "68f318c94bd1": 1793009220.3081255,
   "68f957627714": 1792684590.2072012,
@@ -7988,6 +8010,7 @@
   "b29bec5ff01f": 1792703200.5835848,
   "b2d9f24e79cb": 1792760017.0096385,
   "b2f13a98ff32": 1793356049.868674,
+  "b3163fa2ffef": 1793871493.356247,
   "b3250169bbcf": 1793637976.721491,
   "b32c57b05f19": 1792167234.8527672,
   "b38ffb8de5a9": 1792480987.138016,
@@ -8623,6 +8646,7 @@
   "f0f750fbac1e": 1792140455.635877,
   "f10b80743638": 1792582310.058419,
   "f10fde1dcbbe": 1793805977.5337214,
+  "f128a1a60eec": 1793871465.8965466,
   "f14929ffeb4c": 1793659682.3339026,
   "f14bcf7a04b2": 1793282856.4317422,
   "f1603aec8733": 1793185449.0724084,
