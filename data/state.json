@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793908459
+   "ok": 1793911583
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793908468
+   "ok": 1793911589
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793908470
+   "ok": 1793911589
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793908451
+   "ok": 1793911579
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793908453
+   "ok": 1793911580
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793908457
+   "ok": 1793911582
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793908459
+   "err_ts": 1793911584
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793908459
+   "ok": 1793911583
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793908441
+   "ok": 1793911567
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793908441
+   "ok": 1793911567
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793908461
+   "ok": 1793911585
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793908468
+   "ok": 1793911589
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793908468
+   "ok": 1793911588
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793908464
+   "ok": 1793911588
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793908432
+   "ok": 1793911563
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793908454
+   "ok": 1793911582
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793908458
+   "ok": 1793911583
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793908453
+   "ok": 1793911581
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793908464
+   "ok": 1793911588
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793908472
+   "ok": 1793911591
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793908471
+   "ok": 1793911590
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793908473
+   "ok": 1793911592
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793908472
+   "ok": 1793911591
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793908473
+   "ok": 1793911592
   }
  },
  "heartbeat": "2026-11-05",
@@ -5753,6 +5753,26 @@
    "ts": 1793201420.15789,
    "why": "анонс нового альбома британской инди-группы"
   },
+  "e9cced07a717": {
+   "also": [],
+   "artist": "Zelooperz",
+   "fit": 2,
+   "id": "e9cced07a717",
+   "kind": "single",
+   "link": "https://stereogum.com/2516633/zelooperz-black-noise-masons-dispatch-pin-breakers/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 311,
+   "release": "Masons Dispatch",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Zelooperz – “Masons Dispatch” appeared first on Stereogum .",
+   "summary_ru": "Zelooperz выпустил трек «Masons Dispatch», он вышел в рубрике New Music у Stereogum. В рубриках также указан лейбл Black Noi$e. Подробностей в записи нет.",
+   "title": "Zelooperz – “Masons Dispatch”",
+   "ts": 1793911566.5316315,
+   "why": "хип-хоп, не в жанрах 3L"
+  },
   "eba415144f44": {
    "also": [],
    "artist": "Alphabet",
@@ -8867,6 +8887,7 @@
   "e996067c43b9": 1793201417.2264032,
   "e9c3a846ce3d": 1792740368.5752733,
   "e9c6c1b2844a": 1792755015.9322479,
+  "e9cced07a717": 1793911563.986295,
   "e9fe32bd4a9b": 1792140462.281756,
   "ea02082fbf95": 1793358844.0052698,
   "ea0d61e7b880": 1793722503.881977,
