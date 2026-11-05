@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793871485
+   "ok": 1793875340
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793871488
+   "ok": 1793875347
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793871489
+   "ok": 1793875347
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793871480
+   "ok": 1793875336
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793871482
+   "ok": 1793875337
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793871483
+   "ok": 1793875339
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793871485
+   "err_ts": 1793875341
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793871485
+   "ok": 1793875341
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793871463
+   "ok": 1793875322
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793871469
+   "ok": 1793875325
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793871487
+   "ok": 1793875343
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793871488
+   "ok": 1793875346
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793871488
+   "ok": 1793875346
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793871488
+   "ok": 1793875346
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793871463
+   "ok": 1793875322
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793871483
+   "ok": 1793875338
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793871484
+   "ok": 1793875340
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1793871482,
-   "ok": 1793867461
+   "err": "",
+   "ok": 1793875338
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793871488
+   "ok": 1793875346
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793871492
+   "ok": 1793875349
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793871490
+   "ok": 1793875348
   },
   "Родной звук (TG)": {
-   "count": 8,
+   "count": 9,
    "err": "",
-   "ok": 1793871497
+   "ok": 1793875351
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793871493
+   "ok": 1793875350
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793871497
+   "ok": 1793875354
   }
  },
  "heartbeat": "2026-11-05",
@@ -7587,6 +7586,7 @@
   "882df22c031f": 1793607401.7977986,
   "8833ea580922": 1793700971.4407775,
   "883979854234": 1792140419.318793,
+  "88485cce70b6": 1793875338.12118,
   "8894dc168e32": 1792140462.2817543,
   "88a6a7237438": 1792821144.8240077,
   "88faaa4a6b10": 1793634120.1716795,
@@ -7626,6 +7626,7 @@
   "8be47807c673": 1793011783.2173972,
   "8bec05ca39c8": 1792140446.1809072,
   "8c01738ecbe5": 1792140448.224891,
+  "8c13776bbd87": 1793875351.061696,
   "8c2e0a67cd2f": 1792762703.870811,
   "8c363754de28": 1792162968.1204598,
   "8c46deea92c1": 1793854504.7643871,
@@ -8169,6 +8170,7 @@
   "c3d1e2b291ad": 1792431174.319097,
   "c3f93109c324": 1793032328.2898088,
   "c3fd80da2d25": 1792502554.7610836,
+  "c40e15463af7": 1793875322.3969045,
   "c413891dd1ad": 1792140455.0289178,
   "c42788c93874": 1793715736.3170404,
   "c4409e4c29f6": 1792140446.1809063,
