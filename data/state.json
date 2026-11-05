@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793836172
+   "ok": 1793838958
   },
   "Bandcamp Daily": {
    "count": 34,
    "err": "",
-   "ok": 1793836179
+   "ok": 1793838963
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793836179
+   "ok": 1793838964
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793836168
+   "ok": 1793838940
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793836169
+   "ok": 1793838941
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793836171
+   "ok": 1793838942
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793836173
+   "err_ts": 1793838958
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793836173
+   "ok": 1793838958
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,85 +54,85 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793836161
+   "ok": 1793838928
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793836161
+   "ok": 1793838928
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793836175
+   "ok": 1793838960
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793836179
+   "ok": 1793838963
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793836179
+   "ok": 1793838963
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793836178
+   "ok": 1793838963
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793836160
+   "ok": 1793838928
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793836170
+   "ok": 1793838942
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793836172
+   "ok": 1793838958
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793836170
+   "ok": 1793838941
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793836178
+   "ok": 1793838962
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793836182
+   "ok": 1793838965
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793836181
+   "ok": 1793838965
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793836183
+   "ok": 1793838966
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793836182
+   "ok": 1793838966
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793836183
+   "ok": 1793838967
   }
  },
- "heartbeat": "2026-11-04",
+ "heartbeat": "2026-11-05",
  "items": {
   "004314a09ba5": {
    "also": [],
@@ -2278,6 +2278,26 @@
    "title": "Various Artists, “A La Altura: Visionary Mexican Music 1977–1999, Volume 1”",
    "ts": 1793634119.7356973,
    "why": "Эмбиент и ню-эйдж, далеко от основных жанров 3L"
+  },
+  "4a144a8f1fb0": {
+   "also": [],
+   "artist": "Royal Blood",
+   "fit": 2,
+   "id": "4a144a8f1fb0",
+   "kind": "single",
+   "link": "https://readdork.com/news/royal-blood-mother-never-told-you-single-6f99fa999f",
+   "listen": {},
+   "major": false,
+   "msg_id": 299,
+   "release": "Mother Never Told You",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Royal Blood’s fourth and final preview of ‘Dead Company’, ‘Mother Never Told You’, is out now ahead of the album’s release on Friday 6th November.",
+   "summary_ru": "Royal Blood выпустили трек «Mother Never Told You», четвёртый и последний сингл перед пятым альбомом Dead Company, который выйдет 6 ноября.",
+   "title": "Royal Blood have released ‘Mother Never Told You’ ahead of their fifth album ‘Dead Company’",
+   "ts": 1793838956.790115,
+   "why": "хард-рок-дуэт, новый сингл, но жанр далёк от 3L"
   },
   "4a24bc02e03d": {
    "also": [
@@ -5173,6 +5193,26 @@
    "ts": 1793375333.828414,
    "why": "хип-хоп, вне жанров 3L"
   },
+  "d7e97ba7f860": {
+   "also": [],
+   "artist": "Everything Everything",
+   "fit": 4,
+   "id": "d7e97ba7f860",
+   "kind": "album",
+   "link": "https://readdork.com/news/everything-everything-poison-pop-album-title-track-3e79acf28c",
+   "listen": {},
+   "major": false,
+   "msg_id": 298,
+   "release": "Poison Pop",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Everything Everything’s eighth album ‘Poison Pop’ is due on 12th March, led by its title track and new video.",
+   "summary_ru": "Восьмой альбом Everything Everything Poison Pop выйдет 12 марта. Его продвигают одноименный трек и новый клип.",
+   "title": "Everything Everything want you to “drink the slop” on their new album ‘Poison Pop’",
+   "ts": 1793838945.4248147,
+   "why": "анонс альбома инди-рок группы, близкой к жанрам 3L"
+  },
   "d8d50d005740": {
    "also": [],
    "artist": "Glasvegas",
@@ -6191,6 +6231,7 @@
   "04829c171fcb": 1792620877.9015398,
   "048b9c3740eb": 1792140455.635878,
   "048ba345cd6f": 1793732722.160138,
+  "048e2e340927": 1793838945.795749,
   "04ab75a54190": 1793806023.7629082,
   "04d14f47fe04": 1793611691.411992,
   "04dd1100da82": 1792580152.6002626,
@@ -6595,6 +6636,7 @@
   "2caf0e6c6233": 1792142237.7308605,
   "2cd10df29ac5": 1793272542.7162652,
   "2cddaf6fece6": 1793798278.3180728,
+  "2cf12f398f75": 1793838947.9560156,
   "2d0d74d93414": 1792140449.844743,
   "2d21ab8402cb": 1793395183.6897173,
   "2d47c01ab3e0": 1793028996.9477026,
@@ -6781,6 +6823,7 @@
   "3cf416b4ddf2": 1792331366.4819434,
   "3d0fa53992bc": 1792140449.5165458,
   "3d6f443e82b6": 1792140455.6358812,
+  "3d7c2343618e": 1793838950.957137,
   "3dcf379d1cc5": 1793615403.1409898,
   "3dd4b916ea74": 1793035463.003358,
   "3e39949eb445": 1792679956.0795794,
@@ -6928,6 +6971,7 @@
   "49ff6130e324": 1792140460.0458262,
   "4a08e5225078": 1792140448.2248921,
   "4a09b25b9b50": 1793356058.1330354,
+  "4a144a8f1fb0": 1793838954.2211626,
   "4a24bc02e03d": 1793711235.7091458,
   "4a4633e09c73": 1792656851.1216588,
   "4a4fee5267a6": 1793802558.8844523,
@@ -8283,6 +8327,7 @@
   "d6faeacdf4c9": 1793057307.494564,
   "d70caad0d30f": 1793602211.7865937,
   "d7ce74398c8d": 1793375327.692781,
+  "d7e97ba7f860": 1793838942.8631327,
   "d7fa34729006": 1792140460.9287436,
   "d8215b5bc862": 1793333919.1494505,
   "d8516f1c7b5e": 1792575309.8005059,
