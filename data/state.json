@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793962118
+   "ok": 1793965214
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793962123
+   "ok": 1793965222
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793962123
+   "ok": 1793965222
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793962088
+   "ok": 1793965189
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793962105
+   "ok": 1793965197
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793962107
+   "ok": 1793965198
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793962118
+   "err_ts": 1793965214
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793962118
+   "ok": 1793965214
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793962071
+   "ok": 1793965178
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793962078
+   "ok": 1793965184
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793962120
+   "ok": 1793965216
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793962123
+   "ok": 1793965219
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793962123
+   "ok": 1793965219
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793962123
+   "ok": 1793965219
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793962071
+   "ok": 1793965178
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793962106
+   "ok": 1793965198
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793962117
+   "ok": 1793965213
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793962105
+   "ok": 1793965197
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793962123
+   "ok": 1793965219
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793962126
+   "ok": 1793965224
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793962125
+   "ok": 1793965223
   },
   "Родной звук (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1793962130
+   "ok": 1793965228
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793962130
+   "ok": 1793965225
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793962134
+   "ok": 1793965229
   }
  },
  "heartbeat": "2026-11-06",
@@ -4967,6 +4967,26 @@
    "ts": 1792595591.5757027,
    "why": "инди-рок нулевых, новый альбом и трек"
   },
+  "bc010f6729fc": {
+   "also": [],
+   "artist": "Ojerime",
+   "fit": 2,
+   "id": "bc010f6729fc",
+   "kind": "ep",
+   "link": "https://www.clashmusic.com/news/ojerime-unveils-new-ep-dont-stare-at-the-flame/",
+   "listen": {},
+   "major": false,
+   "msg_id": 319,
+   "release": "Don't Stare At The Flame",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "UK R&B artist Ojerime today shares her brand new EP, ‘Don’t Stare At The Flame’. Since emerging pre-pandemic, Ojerime has reconfigured classic R&B tropes into a grittier, homegrown brew. The 8-track EP ‘Don’t Stare At The Flame’ – her first project since 2023 project ‘Interludes’ – more faithfully leans into ’90s soul… The post Ojerime Unveils New EP ‘Don’t Stare At The Flame’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Британская R&B-исполнительница Ojerime выпустила новый EP «Don't Stare At The Flame» из восьми треков. Это её первый проект с 2023 года, после альбома «Interludes». Звучание ближе к соулу 90-х.",
+   "title": "Ojerime Unveils New EP ‘Don’t Stare At The Flame’",
+   "ts": 1793965191.792503,
+   "why": "R&B вне жанров 3L, артистка не в любимых"
+  },
   "bc7ee0b4cd6e": {
    "also": [],
    "artist": "Noel Gallagher",
@@ -5471,6 +5491,26 @@
    "title": "Kate Voegele Sings From The Other Side Of A Bad Experience On ‘Bad Taste’",
    "ts": 1793704531.9143157,
    "why": "новый сингл, но поп-рок ближе к мейнстриму"
+  },
+  "d55584412afa": {
+   "also": [],
+   "artist": "Nectar Woode",
+   "fit": 3,
+   "id": "d55584412afa",
+   "kind": "single",
+   "link": "https://readdork.com/news/nectar-woode-only-want-you-single-a4dc1f46b3",
+   "listen": {},
+   "major": false,
+   "msg_id": 320,
+   "release": "Only Want You",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Nectar Woode’s seasonal soul ballad ‘Only Want You’ is out now.",
+   "summary_ru": "Нектар Вуд выпустил новый сингл «Only Want You», праздничную соул-балладу, адресованную тем, кто тоскует по любви. Песня вышла в преддверии праздников.",
+   "title": "Nectar Woode has shared ‘Only Want You’, a festive new single for “the yearners”",
+   "ts": 1793965212.3456104,
+   "why": "Соул-баллада, далеко от жанров 3L"
   },
   "d5e338dcc0c0": {
    "also": [],
@@ -6971,6 +7011,7 @@
   "22cc6a9ac72d": 1793809568.6559868,
   "22e8f40f5de0": 1793908432.1087985,
   "22f05a25215c": 1792508249.788675,
+  "23108e4fff84": 1793965201.2989898,
   "23252622723e": 1792144566.4577415,
   "233013bde44e": 1793103439.8940904,
   "2332685efb39": 1792140449.7097278,
@@ -7932,6 +7973,7 @@
   "7d3b23c6dc92": 1793194541.4904234,
   "7d65c438337f": 1792140455.0289216,
   "7d68e473b6c4": 1793282887.396932,
+  "7d6a9c05020e": 1793965181.7065587,
   "7db93ca61f13": 1792582357.4732285,
   "7df1bf3e67fe": 1792140448.2248952,
   "7e0503716a6a": 1792664300.3128543,
@@ -8148,6 +8190,7 @@
   "911f7f7a2c43": 1793318138.8838887,
   "91422c082c9e": 1792705169.8072422,
   "915f1c436e4b": 1793128075.928829,
+  "91663e0c31df": 1793965204.1124835,
   "9174ede8a45e": 1793130526.6867137,
   "91ae5eb9645b": 1792499765.2437646,
   "91d6ebfd34d5": 1792140455.0289183,
@@ -8257,6 +8300,7 @@
   "9bde636af911": 1792151166.0153506,
   "9be076d0ad74": 1793150717.2270215,
   "9c0f252e847e": 1792666576.8193662,
+  "9c37e8d9837f": 1793965206.8711014,
   "9c3d06bccd88": 1792543834.4118776,
   "9c445981cba7": 1793830685.8904698,
   "9c465fc8509f": 1793110193.959539,
@@ -8582,6 +8626,7 @@
   "bb92164e8cae": 1792140419.4762352,
   "bbb12be67ff0": 1792677609.5075011,
   "bbc510aa1beb": 1793361758.2108498,
+  "bc010f6729fc": 1793965189.220133,
   "bc4de10ba01d": 1792140455.028921,
   "bc5043d7542a": 1793726347.0626483,
   "bc64f1048d00": 1793899111.0336034,
@@ -8727,6 +8772,7 @@
   "c800bd59ce17": 1793028982.9240665,
   "c812b6da4baf": 1793269312.0102952,
   "c83788df11cc": 1792160452.6291058,
+  "c885264f79a6": 1793965178.7841976,
   "c89b7e996f04": 1792140449.516548,
   "c89d98f8b618": 1792140455.071753,
   "c8d92fa62fc6": 1793462285.7174,
@@ -8809,6 +8855,7 @@
   "d06072968a68": 1793813085.2140238,
   "d075a44a3cd5": 1792140419.3187928,
   "d0780d3167cc": 1793057317.4406536,
+  "d0c84ca3933b": 1793965225.2149367,
   "d0cd2c179a34": 1792140460.9287474,
   "d0d78514d87b": 1793318159.6646905,
   "d0ea8c12ae83": 1792140447.2519577,
@@ -8843,6 +8890,7 @@
   "d402a317ab1a": 1793197876.2221751,
   "d414df7335aa": 1793899137.996963,
   "d4378b4a466e": 1793333906.1423495,
+  "d457515319ff": 1793965192.3079834,
   "d45e2d107714": 1793038131.0954566,
   "d46a114f5b38": 1793890991.9679263,
   "d48123d5e148": 1793711208.1286352,
@@ -8854,6 +8902,7 @@
   "d5139dfdf51b": 1792140449.7097282,
   "d5204abcd1f1": 1792237225.8804777,
   "d5499cd310ba": 1792140448.2248938,
+  "d55584412afa": 1793965209.6189678,
   "d559f7c8ab97": 1792492295.6119306,
   "d574441237e3": 1792140455.0717506,
   "d594b303229c": 1792773196.36073,
@@ -9116,6 +9165,7 @@
   "ebc70a434a19": 1792757327.9411554,
   "ebd6159fc2df": 1793618818.237932,
   "ebee8f8db8cd": 1793057325.1923747,
+  "ec09b8a59799": 1793965198.4540958,
   "ec10e97576af": 1793368771.991563,
   "ec2d1dfb7c71": 1793130505.935498,
   "ec872ecdb412": 1793113292.271829,
