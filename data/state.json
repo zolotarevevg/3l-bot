@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793968733
+   "ok": 1793973257
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793968739
+   "ok": 1793973269
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793968739
+   "ok": 1793973269
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793968714
+   "ok": 1793973219
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793968724
+   "ok": 1793973229
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793968728
+   "ok": 1793973236
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793968733
+   "err_ts": 1793973263
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793968733
+   "ok": 1793973263
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793968702
+   "ok": 1793973202
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793968705
+   "ok": 1793973206
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793968735
+   "ok": 1793973265
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793968739
+   "ok": 1793973269
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793968739
+   "ok": 1793973269
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793968739
+   "ok": 1793973268
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793968702
+   "ok": 1793973202
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793968727
+   "ok": 1793973233
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793968732
+   "ok": 1793973252
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793968726
+   "ok": 1793973232
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793968739
+   "ok": 1793973268
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793968745
+   "ok": 1793973275
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793968741
+   "ok": 1793973271
   },
   "Родной звук (TG)": {
-   "count": 11,
+   "count": 6,
    "err": "",
-   "ok": 1793968747
+   "ok": 1793973279
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793968746
+   "ok": 1793973279
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793968750
+   "ok": 1793973286
   }
  },
  "heartbeat": "2026-11-06",
@@ -1757,6 +1757,26 @@
    "title": "Tierra Whack Shares Seven New Songs On Deluxe Whack’s Museum",
    "ts": 1792173605.0382996,
    "why": "хип-хоп/R&B-артистка, не в жанрах 3L"
+  },
+  "34b8d9b1a24e": {
+   "also": [],
+   "artist": "Towa Bird",
+   "fit": 4,
+   "id": "34b8d9b1a24e",
+   "kind": "single",
+   "link": "https://readdork.com/news/towa-bird-deep-blue-video-c296e0606e",
+   "listen": {},
+   "major": false,
+   "msg_id": 323,
+   "release": "Deep Blue",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Towa Bird’s standalone new song ‘Deep Blue’ arrives with a self-directed video starring the singer and her sister, Cat.",
+   "summary_ru": "Towa Bird выпустила отдельный сингл «Deep Blue» с видеоклипом, который она сняла сама, с участием сестры Кэт.",
+   "title": "Towa Bird has released ‘Deep Blue’ alongside a self-directed video starring her sister Cat",
+   "ts": 1793973246.2979443,
+   "why": "новый сингл в инди-поп стилистике, без громкого имени"
   },
   "353cd0da6ccf": {
    "also": [
@@ -4026,6 +4046,26 @@
    "ts": 1793890924.9213278,
    "why": "классический прог-рок вне жанров 3L, переиздание"
   },
+  "94ee1f75dbda": {
+   "also": [],
+   "artist": "Florence + The Machine",
+   "fit": 3,
+   "id": "94ee1f75dbda",
+   "kind": "album",
+   "link": "https://readdork.com/news/florence-the-machine-everybody-scream-tour-live-3f13461749",
+   "listen": {},
+   "major": false,
+   "msg_id": 322,
+   "release": "Everybody Scream Tour Live",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Florence + The Machine’s 22-track live album ‘Everybody Scream Tour Live’ is out now, with a live version of ‘Sympathy Magic’ leading the release.",
+   "summary_ru": "Florence + The Machine выпустили живой альбом Everybody Scream Tour Live из 22 треков, записанный в туре Everybody Scream. Релиз открывает живая версия трека Sympathy Magic.",
+   "title": "Florence + The Machine have shared a new live album capturing their ‘Everybody Scream’ tour",
+   "ts": 1793973243.060012,
+   "why": "соседний жанр, live-альбом без новых студийных треков"
+  },
   "961683979140": {
    "also": [],
    "artist": "Olivia Rodrigo",
@@ -5472,6 +5512,26 @@
    "ts": 1793878919.3240812,
    "why": "новый альбом инди-артистки, жанр близкий к 3L"
   },
+  "d3a24ea7a1ee": {
+   "also": [],
+   "artist": "Scustin",
+   "fit": 4,
+   "id": "d3a24ea7a1ee",
+   "kind": "single",
+   "link": "https://readdork.com/news/scustin-key-fob-single-c5d0ccb4c4",
+   "listen": {},
+   "major": false,
+   "msg_id": 321,
+   "release": "Key Fob",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Irish post-punk four-piece’s latest track examines working life and image culture ahead of December headline shows in London and Dublin.",
+   "summary_ru": "Ирландский пост-панк-квартет Scustin выпустил новый сингл Key Fob, в котором говорится о работе в офисе и культуре образа. Перед этим группа анонсировала концерты в Лондоне и Дублине в декабре.",
+   "title": "Scustin are swapping rock star dreams for office life on new single ‘Key Fob’",
+   "ts": 1793973239.3603446,
+   "why": "Новый сингл пост-панк группы, известной имени в жанре"
+  },
   "d3d68cf9b8eb": {
    "also": [],
    "artist": "Kate Voegele",
@@ -6602,6 +6662,26 @@
    "title": "New York duo Or Best Offer have announced second album ‘It Will Appear’ and shared ‘Fast Strong Horse’",
    "ts": 1793197857.956909,
    "why": "новый альбом и трек, инди-дуэт из Нью-Йорка"
+  },
+  "fffb4ea7c1f0": {
+   "also": [],
+   "artist": "CAN'T STOP TALKING",
+   "fit": 4,
+   "id": "fffb4ea7c1f0",
+   "kind": "single",
+   "link": "https://readdork.com/news/cant-stop-talking-pity-party-single-2b64e9865a",
+   "listen": {},
+   "major": false,
+   "msg_id": 324,
+   "release": "Pity Party",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "East London dance-punk four-piece CAN’T STOP TALKING preview their 2027 debut album ‘TRANSMISSIONS’ with new single ‘Pity Party’.",
+   "summary_ru": "Восточно-лондонская группа CAN'T STOP TALKING выпустила новый сингл «Pity Party» в преддверии дебютного альбома TRANSMISSIONS, который выйдет в 2027 году. Коллектив играет дэнс-панк в формате квартета.",
+   "title": "East London post-punks CAN’T STOP TALKING have released ‘Pity Party’ ahead of their debut album",
+   "ts": 1793973250.772171,
+   "why": "пост-панк, новый сингл и анонс дебютника"
   }
  },
  "playlists": {},
@@ -6678,6 +6758,7 @@
   "04d14f47fe04": 1793611691.411992,
   "04dd1100da82": 1792580152.6002626,
   "050cb54e5240": 1793931454.2692924,
+  "057718f03842": 1793973260.4529047,
   "05794511de04": 1793365158.809702,
   "0598a5437ecb": 1792140455.0717537,
   "059e088393a3": 1792140448.2248957,
@@ -7093,6 +7174,7 @@
   "2a332c92e6fb": 1793194525.313958,
   "2a70ddeb994f": 1793190583.209837,
   "2ab1acf5795f": 1792750413.5905566,
+  "2ac0f48d5a35": 1793973273.7298098,
   "2ac209a231e9": 1793471842.4175918,
   "2ac6cfe269f3": 1792422106.1589015,
   "2adb4af0bc80": 1793278853.139163,
@@ -7138,6 +7220,7 @@
   "2f2ca8ed0dba": 1792765262.7263696,
   "2f38c4fe4173": 1792674656.5846965,
   "2f4081e0ca44": 1793137504.8159766,
+  "2f46d9a63f7f": 1793973202.6022787,
   "2f88a299e6cb": 1792140449.5165534,
   "2fbb999d28db": 1792595636.3501866,
   "2fe6f2b1fb03": 1792140455.0717504,
@@ -7148,6 +7231,7 @@
   "3018ad36e166": 1792140462.281757,
   "301a8606baed": 1793378087.0659142,
   "301dd5e03000": 1792664300.3128512,
+  "30761a27a42c": 1793973246.763897,
   "30c767b31b93": 1792140449.5165484,
   "30ce4d9700fb": 1793182422.5555942,
   "310134f1d2c2": 1793188196.691748,
@@ -7207,6 +7291,7 @@
   "345b1df80d07": 1792668775.198597,
   "347dac9c6a77": 1793700968.703376,
   "349a52a89dda": 1793833607.9828033,
+  "34b8d9b1a24e": 1793973243.533336,
   "34bc062af6d5": 1792140455.0289285,
   "34c3bd7c24b7": 1792732308.3529346,
   "34d77bef4587": 1792165187.4361115,
@@ -7332,6 +7417,7 @@
   "3f44a8b2e63c": 1792146706.4860857,
   "3f46a570f024": 1793197858.3190536,
   "3f71fd089465": 1793211291.7265656,
+  "3f7b43f12f6e": 1793973233.4496853,
   "3f8439c7b1b7": 1792140446.3270478,
   "3f874448b1d3": 1792582319.4214797,
   "3fa3c1911ea1": 1793894803.8866067,
@@ -7461,6 +7547,7 @@
   "4901ea46dd1d": 1793090929.750761,
   "490d1c2ad8bb": 1793634117.4179626,
   "4910a2bbcb17": 1792593127.4770179,
+  "493f48f7edab": 1793973257.1898413,
   "497827820914": 1792140419.6649098,
   "49849074169a": 1792246358.0255156,
   "49b35d20b729": 1793954635.9541776,
@@ -7611,6 +7698,7 @@
   "5666f39ba4d8": 1793700913.050029,
   "56ab0fdc7a16": 1793968724.213465,
   "56caf9fa7619": 1793211253.8323162,
+  "56d6ed80f834": 1793973272.6901817,
   "56f2b400c544": 1792140446.1809154,
   "572945f814ed": 1793615415.451982,
   "57353c4efd59": 1792842649.8388956,
@@ -7716,6 +7804,7 @@
   "60d2386d983a": 1792584727.6713085,
   "60da101d72df": 1793455811.0403957,
   "60eda1a14031": 1792512944.8388238,
+  "610d1286c980": 1793973252.3646731,
   "6164aa6f188e": 1793894797.5621767,
   "616baa1a8dfb": 1792140446.1809132,
   "61a43c3fb708": 1792664295.4694817,
@@ -8229,6 +8318,7 @@
   "94ab1a1d63b0": 1792244944.5369136,
   "94d8e096f1ec": 1793968714.6419163,
   "94dd51b5e994": 1793349421.7051873,
+  "94ee1f75dbda": 1793973240.032158,
   "94f842eff83a": 1793700948.692473,
   "9551669cc07e": 1793103442.8948598,
   "9567a211abc7": 1792677602.5091481,
@@ -8335,6 +8425,7 @@
   "9f206b920ab3": 1792413729.4807835,
   "9f2eaebe95d2": 1793185507.9978104,
   "9f307390a3bd": 1792140449.70973,
+  "9f3da57d7fa4": 1793973275.38495,
   "9f61c4acee28": 1793272546.2184758,
   "9f62f37de7c7": 1792656835.1446323,
   "9f980bd22933": 1793718905.5884287,
@@ -8373,6 +8464,7 @@
   "a236f66efb81": 1792140446.1809092,
   "a2462fcf8128": 1792826395.976348,
   "a255ed262093": 1792140455.6358814,
+  "a2859bd4b8a8": 1793973222.1543844,
   "a2876c40d38a": 1793816451.7464707,
   "a2f1dad3ea5e": 1793390382.4825788,
   "a2fd038b8b14": 1792671194.6615784,
@@ -8417,6 +8509,7 @@
   "a5c4e279778b": 1793560042.1180377,
   "a5f892537dc6": 1792425039.830182,
   "a630f2b7c320": 1792703192.2564087,
+  "a6342171868f": 1793973219.306066,
   "a6727c910eaf": 1793387471.9501176,
   "a681845d9af2": 1793185468.6911283,
   "a698f847d3f5": 1793318184.6763883,
@@ -8630,6 +8723,7 @@
   "bb2d00251754": 1792502550.7149422,
   "bb3963289efd": 1792140446.3270488,
   "bb92164e8cae": 1792140419.4762352,
+  "bbab972f83dd": 1793973254.3630009,
   "bbb12be67ff0": 1792677609.5075011,
   "bbc510aa1beb": 1793361758.2108498,
   "bc010f6729fc": 1793965189.220133,
@@ -8778,6 +8872,7 @@
   "c7bddda2f5f3": 1793240443.721931,
   "c800bd59ce17": 1793028982.9240665,
   "c812b6da4baf": 1793269312.0102952,
+  "c8213d253d1c": 1793973282.712888,
   "c83788df11cc": 1792160452.6291058,
   "c885264f79a6": 1793965178.7841976,
   "c89b7e996f04": 1792140449.516548,
@@ -8891,6 +8986,7 @@
   "d3765b0001fb": 1792140455.0289202,
   "d378fa51dc06": 1793862790.264028,
   "d383ba083cc4": 1792426681.2487686,
+  "d3a24ea7a1ee": 1793973236.8349915,
   "d3ca17f4a685": 1792140446.18091,
   "d3d68cf9b8eb": 1793704528.818512,
   "d3ea5ef60592": 1792674617.6097536,
@@ -8938,6 +9034,7 @@
   "d86fc384d4ba": 1792338128.2548878,
   "d8747e663d6d": 1793159504.2463613,
   "d88293231ba8": 1793023012.8890367,
+  "d886b5df969a": 1793973224.9505253,
   "d889aaf06053": 1792338147.1760545,
   "d89d77a038b4": 1792580177.3079207,
   "d8ad32f5eebe": 1793368768.5605652,
@@ -9015,6 +9112,7 @@
   "dfae1e9146bd": 1792140419.3187928,
   "dfba096075f9": 1793113270.3635263,
   "dfbea92be872": 1793726323.2042913,
+  "dfbf6977f627": 1793973271.148183,
   "dfe8c773d87e": 1792140449.7097282,
   "dff397453995": 1792140449.7097275,
   "e0061ec12746": 1793272578.5970533,
@@ -9058,6 +9156,7 @@
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
   "e2e615d409d3": 1793878904.8275948,
+  "e2f101673252": 1793973279.5149038,
   "e301834b8a4a": 1793098740.7801173,
   "e3031933cc34": 1792689134.400368,
   "e30ad7c0eb5e": 1793029015.049368,
@@ -9124,6 +9223,7 @@
   "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
   "e7921996e27c": 1792750436.4603963,
+  "e7a2db678dc6": 1793973229.3558567,
   "e7a85f2c19b8": 1793185460.7331948,
   "e7c7ad285c7e": 1792140455.6358824,
   "e7e30fd766f3": 1792140449.8447475,
@@ -9384,6 +9484,7 @@
   "ffae539f8a50": 1792140419.6649108,
   "fff38d138391": 1793197854.803869,
   "fff6a1e51ea6": 1793197886.6767826,
+  "fffb4ea7c1f0": 1793973249.5108,
   "fffe77950f93": 1792505498.479631
  },
  "sources_init": [
