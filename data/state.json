@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793973257
+   "ok": 1793976797
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793973269
+   "ok": 1793976809
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793973269
+   "ok": 1793976814
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793973219
+   "ok": 1793976782
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793973229
+   "ok": 1793976789
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793973236
+   "ok": 1793976793
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793973263
+   "err_ts": 1793976798
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793973263
+   "ok": 1793976797
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793973202
+   "ok": 1793976775
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793973206
+   "ok": 1793976776
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793973265
+   "ok": 1793976799
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793973269
+   "ok": 1793976805
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793973269
+   "ok": 1793976805
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793973268
+   "ok": 1793976802
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793973202
+   "ok": 1793976763
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793973233
+   "ok": 1793976791
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793973252
+   "ok": 1793976797
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793973232
+   "ok": 1793976790
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793973268
+   "ok": 1793976802
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793973275
+   "ok": 1793976817
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793973271
+   "ok": 1793976816
   },
   "Родной звук (TG)": {
-   "count": 6,
+   "count": 7,
    "err": "",
-   "ok": 1793973279
+   "ok": 1793976818
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793973279
+   "ok": 1793976818
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793973286
+   "ok": 1793976822
   }
  },
  "heartbeat": "2026-11-06",
@@ -2458,6 +2458,26 @@
    "ts": 1793908440.7032313,
    "why": "новый сингл, жанр по записи не ясен"
   },
+  "4d3026c54c2c": {
+   "also": [],
+   "artist": "Superchunk",
+   "fit": 4,
+   "id": "4d3026c54c2c",
+   "kind": "ep",
+   "link": "https://stereogum.com/2516729/superchunk-cover-wham-the-magnetic-fields-galaxie-500-on-surprise-new-wintry-mix-ep/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 325,
+   "release": "Wintry Mix",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Superchunk Cover Wham!, The Magnetic Fields, & Galaxie 500 On Surprise New <em>Wintry Mix</em> EP appeared first on Stereogum .",
+   "summary_ru": "Superchunk неожиданно выпустили EP Wintry Mix, в котором есть каверы на Wham!, The Magnetic Fields и Galaxie 500.",
+   "title": "Superchunk Cover Wham!, The Magnetic Fields, & Galaxie 500 On Surprise New Wintry Mix EP",
+   "ts": 1793976769.9544115,
+   "why": "новый EP инди-рок группы, кавери на близкие 3L группы"
+  },
   "4d3ee6bdddfa": {
    "also": [],
    "artist": "jo from school",
@@ -2966,6 +2986,26 @@
    "title": "Cage The Elephant announce new album ‘Dying In Reverse’ with guitar heavy single ‘Make It Easy’",
    "ts": 1793899125.695791,
    "why": "Инди-рок нулевых, но более громкий гитарный рок"
+  },
+  "62130b893c76": {
+   "also": [],
+   "artist": "Cam Cole",
+   "fit": 3,
+   "id": "62130b893c76",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/cam-cole-unveils-new-album-lost-in-creation/",
+   "listen": {},
+   "major": false,
+   "msg_id": 327,
+   "release": "Lost In Creation",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Cam Cole has dropped his latest album ‘Lost In Creation,’ released via New Age Records UK. Locked into the creative process, the one-man-band unpacks his journey over ten tracks, surrendering to self-expression and utilising his craft as a means to escapism. The result is a weighty, revelatory body of work… The post Cam Cole Unveils New Album ‘Lost In Creation’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Кэм Коул выпустил альбом Lost In Creation на лейбле New Age Records UK. На десяти треках он, работая в одиночку, рассказывает о своём творческом пути.",
+   "title": "Cam Cole Unveils New Album ‘Lost In Creation’",
+   "ts": 1793976784.877283,
+   "why": "новый альбом малоизвестного артиста, жанр не указан"
   },
   "6249244c9f2a": {
    "also": [],
@@ -4386,6 +4426,26 @@
    "ts": 1793009226.7636938,
    "why": "электроника, жанр в тексте не указан, дебютный альбом"
   },
+  "a164b14e341e": {
+   "also": [],
+   "artist": "Future",
+   "fit": 2,
+   "id": "a164b14e341e",
+   "kind": "single",
+   "link": "https://stereogum.com/2516749/future-ya-hit-feat-drake-travis-scott-loe-shimmy/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 326,
+   "release": "Ya Hit",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Future – “Ya Hit” (Feat. Drake, Travis Scott, & Loe Shimmy) appeared first on Stereogum .",
+   "summary_ru": "Future выпустил новый трек «Ya Hit» с участием Drake, Travis Scott и Loe Shimmy. Рубрика Stereogum New Music, подробностей о релизе в записи нет.",
+   "title": "Future – “Ya Hit” (Feat. Drake, Travis Scott, & Loe Shimmy)",
+   "ts": 1793976775.0895946,
+   "why": "хип-хоп, не любимый артист 3L"
+  },
   "a1c683db1f91": {
    "also": [],
    "artist": "Dazy",
@@ -4981,6 +5041,26 @@
    "title": "Stephen Steinbrink – “I’m A Swimming Pool”",
    "ts": 1793137466.1796596,
    "why": "новый трек малоизвестного артиста, жанр неясен"
+  },
+  "b9f3696f1b42": {
+   "also": [],
+   "artist": "Stevie Wonder",
+   "fit": 2,
+   "id": "b9f3696f1b42",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/live/live-report-stevie-wonder-the-o2-arena-london/",
+   "listen": {},
+   "major": false,
+   "msg_id": 328,
+   "release": "",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "There are concerts that leave you exhilarated, others that leave you emotionally uplifted, and occasionally one comes along that makes you feel as though you’ve been temporarily transported into a rather better version of the world than the crappy one we currently find ourselves mired in. At London’s O2 Arena… The post Live Report: Stevie Wonder – The O2 Arena, London appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Клэш публикует отчёт о концерте Stevie Wonder в лондонской O2 Arena. Автор описывает выступление как эмоционально мощное, почти вызывающее ощущение лучшего мира.",
+   "title": "Live Report: Stevie Wonder – The O2 Arena, London",
+   "ts": 1793976787.168282,
+   "why": "соул-фанк легенда, концерт без нового релиза"
   },
   "bad0c207d598": {
    "also": [
@@ -6930,6 +7010,7 @@
   "13eb4f70de50": 1792422138.3649497,
   "13f8f1f08b86": 1793641359.6159897,
   "1410a3a686bf": 1793150713.7896206,
+  "1412b3c49cb8": 1793976763.2453208,
   "141747fe01eb": 1793009237.575931,
   "1452d7b7b6a0": 1792686908.5958514,
   "14580be89b2d": 1793878881.5390747,
@@ -7595,6 +7676,7 @@
   "4cfcc5c8310f": 1792411100.7336833,
   "4d0bee7526a1": 1792140455.6358764,
   "4d1aeb0ab7fc": 1793318141.8734741,
+  "4d3026c54c2c": 1793976766.842369,
   "4d35609a534f": 1792343402.9478714,
   "4d38e9b02fa6": 1792156079.437658,
   "4d3ee6bdddfa": 1792146709.2625952,
@@ -7813,6 +7895,7 @@
   "61b3ee7fe73e": 1792140446.1809077,
   "61d0cae1406c": 1793899124.2974973,
   "61f7810b8d7e": 1792700952.165485,
+  "62130b893c76": 1793976782.1834059,
   "62141bc1e1f4": 1793722513.9482038,
   "62298557e6dd": 1792782952.8928416,
   "624128b72a00": 1793729328.3799422,
@@ -8031,9 +8114,11 @@
   "7807b3d69ce8": 1792593110.3183172,
   "7824af675775": 1792582357.4732282,
   "78282ff4dcc2": 1792140447.251952,
+  "782c1393659f": 1793976811.740455,
   "786bb28916bd": 1793387442.5436134,
   "78d4a7c771d1": 1792770697.9170432,
   "79306a7a3192": 1792588224.4116888,
+  "7934fdeeaa04": 1793976818.7172265,
   "7960c75d60cb": 1793700962.8642378,
   "797745e6bcf9": 1792582346.9407291,
   "79a087d6c8fb": 1793882670.2149513,
@@ -8140,6 +8225,7 @@
   "8396c64e6662": 1792140455.961587,
   "83b0b37ecbaf": 1793358833.3265486,
   "83e1545a354c": 1792750433.574672,
+  "83fc68da5c7c": 1793976809.113571,
   "840f36fc9aa4": 1792517975.2035751,
   "842bed8c6aea": 1792223386.951102,
   "84410cc5760b": 1793962094.9101906,
@@ -8450,6 +8536,7 @@
   "a12157cfd21d": 1793923171.3329072,
   "a12bad004e16": 1793009223.062988,
   "a1356415039f": 1792584712.1633177,
+  "a164b14e341e": 1793976773.9535894,
   "a16dfdfa2035": 1793779115.0476215,
   "a17704296b0a": 1793188228.1691058,
   "a19293b7b6a4": 1793659667.320959,
@@ -8713,6 +8800,7 @@
   "b9d2eaeff83a": 1792216588.8571377,
   "b9e6ec5954c5": 1792140449.8447447,
   "b9ebd6f801b1": 1792492309.6645746,
+  "b9f3696f1b42": 1793976785.477678,
   "b9f789f124d3": 1793358885.9000351,
   "ba12bebb94cb": 1792165220.2133727,
   "ba932da34c59": 1792577660.6593142,
@@ -8864,6 +8952,7 @@
   "c6c90dbd5f21": 1793029000.0476341,
   "c6e13a2a226b": 1793718922.9717226,
   "c6f8e5032286": 1793802599.464255,
+  "c6fb6b735bba": 1793976793.0675123,
   "c727ff563cb3": 1792684620.1460028,
   "c73988041d57": 1792416645.6077752,
   "c73b97679de6": 1793459985.2694747,
@@ -9380,6 +9469,7 @@
   "f62af5c20189": 1793894782.679882,
   "f6ac5fa4bb9e": 1792580168.0418339,
   "f6b35d0cea11": 1792140448.2248924,
+  "f6c8f5d9858d": 1793976802.7705266,
   "f73ae026400e": 1792167228.6425884,
   "f73bca14aaf1": 1793659653.9304132,
   "f75d23074d1a": 1792327572.7444234,
@@ -9460,6 +9550,7 @@
   "fd7cfee1dcb0": 1793387432.8344715,
   "fd86e4022950": 1793806029.921542,
   "fd947dc02a74": 1793023033.3136957,
+  "fda2a39bf646": 1793976770.8121645,
   "fdebad9b986b": 1793324737.7610576,
   "fdf20b302208": 1793365176.5083,
   "fdfefa2b329d": 1793185489.1394098,
