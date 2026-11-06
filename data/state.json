@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793951399
+   "ok": 1793954642
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793951405
+   "ok": 1793954648
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793951405
+   "ok": 1793954648
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793951392
+   "ok": 1793954631
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793951393
+   "ok": 1793954633
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793951398
+   "ok": 1793954641
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793951400
+   "err_ts": 1793954643
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793951400
+   "ok": 1793954643
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793951380
+   "ok": 1793954619
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793951380
+   "ok": 1793954623
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793951401
+   "ok": 1793954644
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793951405
+   "ok": 1793954647
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793951405
+   "ok": 1793954647
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793951405
+   "ok": 1793954647
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793951380
+   "ok": 1793954619
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793951397
+   "ok": 1793954635
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793951399
+   "ok": 1793954642
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793951393
+   "ok": 1793954633
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793951404
+   "ok": 1793954647
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793951408
+   "ok": 1793954649
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793951407
+   "ok": 1793954649
   },
   "Родной звук (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1793951409
+   "ok": 1793954650
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793951408
+   "ok": 1793954650
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793951410
+   "ok": 1793954651
   }
  },
  "heartbeat": "2026-11-06",
@@ -2178,6 +2178,26 @@
    "title": "Bryan Adams Drops Another Trump Diss Track And This One Mentions The Epstein Files",
    "ts": 1793292813.1170306,
    "why": "мейнстрим-рок, политический трек, не в жанрах 3L"
+  },
+  "475cd089a584": {
+   "also": [],
+   "artist": "Django Django",
+   "fit": 4,
+   "id": "475cd089a584",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
+   "listen": {},
+   "major": false,
+   "msg_id": 314,
+   "release": "Doveland",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "Ditching erratic experimentation for an ambient concept, the indie shapeshifters' sixth album is their most coherent in years The post Django Django – Doveland appeared first on musicOMH .",
+   "summary_ru": "Рецензия на шестой альбом Django Django Doveland, в котором группа отказалась от хаотичных экспериментов ради амбиент-концепции. По оценке издания, это их самая цельная работа за последние годы.",
+   "title": "Django Django – Doveland",
+   "ts": 1793954634.6831956,
+   "why": "инди-группа, новый альбом, рецензия о цельности"
   },
   "47a959a6b4ab": {
    "also": [],
@@ -7240,6 +7260,7 @@
   "451e0f45f3cf": 1792404592.9865537,
   "453ffefdb9af": 1792861111.8819263,
   "455627629f0c": 1793197822.716074,
+  "455ffc9145fe": 1793954619.5653584,
   "4570cda9b24e": 1793356085.8768663,
   "45b44e361885": 1793890984.5677776,
   "45be7ad0e294": 1793549734.8202808,
@@ -7267,6 +7288,7 @@
   "473dcb2bef6c": 1793618812.743552,
   "475045be92c2": 1792140449.5165505,
   "47508a1b5497": 1792752831.1696427,
+  "475cd089a584": 1793954633.5290737,
   "476d2314c4ac": 1792750403.2417152,
   "478169686255": 1792140419.318792,
   "47948fc6a68f": 1792748050.6904366,
@@ -7296,6 +7318,7 @@
   "4910a2bbcb17": 1792593127.4770179,
   "497827820914": 1792140419.6649098,
   "49849074169a": 1792246358.0255156,
+  "49b35d20b729": 1793954635.9541776,
   "49c71930e262": 1793222762.824435,
   "49d34a449b5d": 1792668763.224391,
   "49d41414e0d4": 1793307942.8358788,
@@ -7952,6 +7975,7 @@
   "8a807024f635": 1793096042.3126154,
   "8a8c5e253d03": 1792770675.0797424,
   "8a9981044a1d": 1793205033.8701468,
+  "8b0d74587122": 1793954623.2443874,
   "8b119748af75": 1793228264.3367584,
   "8b11ccb6e91a": 1792341719.9827135,
   "8b143ede4fb2": 1793225502.8453312,
@@ -9139,6 +9163,7 @@
   "fb210ead97bd": 1793315559.2059593,
   "fb5014dccd84": 1792940253.0453465,
   "fb56c47112c2": 1792140455.9615815,
+  "fb5f63c72ae1": 1793954638.7010288,
   "fb715baab7b9": 1792674634.706975,
   "fb9c461c0e21": 1792140449.844751,
   "fbb73e408c35": 1792146698.0368562,
