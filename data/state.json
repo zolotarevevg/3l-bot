@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793954642
+   "ok": 1793958415
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793954648
+   "ok": 1793958420
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793954648
+   "ok": 1793958421
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793954631
+   "ok": 1793958395
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793954633
+   "ok": 1793958406
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793954641
+   "ok": 1793958411
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793954643
+   "err_ts": 1793958416
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793954643
+   "ok": 1793958415
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793954619
+   "ok": 1793958388
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793954623
+   "ok": 1793958389
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793954644
+   "ok": 1793958417
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793954647
+   "ok": 1793958420
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793954647
+   "ok": 1793958420
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793954647
+   "ok": 1793958420
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793954619
+   "ok": 1793958388
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793954635
+   "ok": 1793958407
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793954642
+   "ok": 1793958415
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793954633
+   "ok": 1793958406
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793954647
+   "ok": 1793958420
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793954649
+   "ok": 1793958424
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793954649
+   "ok": 1793958422
   },
   "Родной звук (TG)": {
-   "count": 8,
+   "count": 9,
    "err": "",
-   "ok": 1793954650
+   "ok": 1793958426
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793954650
+   "ok": 1793958425
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793954651
+   "ok": 1793958430
   }
  },
  "heartbeat": "2026-11-06",
@@ -872,6 +872,26 @@
    "title": "NCT DREAM have unveiled ‘The Sun’ ahead of new album ‘DREAM AFTER DREAM’",
    "ts": 1792492327.6936526,
    "why": "K-pop, мейнстрим-поп, не любимый артист"
+  },
+  "187d80c257ff": {
+   "also": [],
+   "artist": "Slayyyter",
+   "fit": 2,
+   "id": "187d80c257ff",
+   "kind": "video",
+   "link": "https://readdork.com/news/slayyyter-hey-boyyy-video-skeleton-date-deeedabfe6",
+   "listen": {},
+   "major": false,
+   "msg_id": 316,
+   "release": "Hey Boyyy",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Slayyyter’s latest ‘Wor$t Man in America’ preview sends romance somewhere stranger, via Hollywood, Paris and a skeleton.",
+   "summary_ru": "Слэййтер выпустила клип на трек «Hey Boyyy», который стал предвестником её нового альбома Wor$t Man in America. Действие происходит в Голливуде и Париже, а роман героини связан со скелетом.",
+   "title": "Slayyyter is dating a skeleton in Paris in her new ‘Hey Boyyy’ video",
+   "ts": 1793958413.617144,
+   "why": "Поп-гиперпоп, мейнстрим вне вкуса 3L"
   },
   "18dfc81c9deb": {
    "also": [],
@@ -2838,6 +2858,26 @@
    "ts": 1793282916.7081385,
    "why": "электроника/техно, вне жанров 3L"
   },
+  "5ae9988e31ec": {
+   "also": [],
+   "artist": "Bryan Adams",
+   "fit": 2,
+   "id": "5ae9988e31ec",
+   "kind": "review",
+   "link": "https://www.clashmusic.com/reviews/bryan-adams-hows-it-goin/",
+   "listen": {},
+   "major": false,
+   "msg_id": 315,
+   "release": "How's It Goin'",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Collecting quite the discography, Bryan Adams releases his 17th studio album, ‘How’s It Goin’’, a set of thirteen tracks all inspired by the country that made him who he is today – Canada. After writing a song for the documentary, Canada’s Wild Eastern Edge, Adams was “inspired to write songs… The post Bryan Adams – How’s It Goin’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Брайан Адамс выпустил 17-й студийный альбом How's It Goin' из тринадцати треков, вдохновлённых Канадой. Работа над альбомом началась после песни для документального фильма Canada's Wild Eastern Edge.",
+   "title": "Bryan Adams – How’s It Goin’",
+   "ts": 1793958398.0295455,
+   "why": "арena-рок, мейнстрим, далеко от инди и синти-попа"
+  },
   "5cb944a9bea1": {
    "also": [],
    "artist": "ENHYPEN",
@@ -3806,6 +3846,31 @@
    "title": "Fenne Lily is finding reasons to be optimistic with new single ‘Stranger Things’",
    "ts": 1792577670.3305762,
    "why": "инди-рок, новый сингл и анонс альбома"
+  },
+  "8a32120db542": {
+   "also": [],
+   "artist": "Лео Канделаки",
+   "fit": 2,
+   "id": "8a32120db542",
+   "kind": "single",
+   "link": "https://t.me/rodzvuk/17589",
+   "listen": {
+    "Spotify": "https://open.spotify.com/track/066Uw4eSmS9LiJGZ1cuHzq",
+    "VK Музыка": "https://vk.ru/audio_",
+    "band.link": "https://band.link/beliyvoron",
+    "Яндекс Музыка": "https://music.yandex.ru/album/44745207"
+   },
+   "major": false,
+   "msg_id": 317,
+   "release": "Белый ворон",
+   "russian": true,
+   "source": "Родной звук (TG)",
+   "status": "new",
+   "summary_en": "Лео Канделаки сделал песню для своего персонажа из «Тайного города» Актер написал рок-композицию для саундтрека мистического сериала «Тайный город». Трек звучит от лица мага Любомира, одного из главных антагонистов проекта, которого сыграл артист. В основе песни лежит история отвергнутого героя, который родился среди бетонных стен, остался чужим для города, но не отказался от своего пути. Ранее Лео уже писал саундтрек к сериалу «Триггер», а теперь добавил в копилку еще один большой проект. Лео Канделаки - Белый ворон Откуда: Москва, Россия Жанр: Rock 💿 Слушать: Яндекс Музыка | Spotify | VK Музыка | Везде",
+   "summary_ru": "Лео Канделаки написал рок-композицию «Белый ворон» для саундтрека сериала «Тайный город», трек звучит от лица мага Любомира, которого актер и сыграл. Ранее он также писал саундтрек к сериалу «Триггер».",
+   "title": "Лео Канделаки сделал песню для своего персонажа из «Тайного города»",
+   "ts": 1793958428.9107795,
+   "why": "рок от актера для сериала, не инди"
   },
   "8b143ede4fb2": {
    "also": [
@@ -6753,6 +6818,7 @@
   "183c6447ba17": 1792140454.9418406,
   "186cfe3c3af3": 1792526797.237889,
   "1870ba42ad82": 1792492326.4260542,
+  "187d80c257ff": 1793958411.064443,
   "18dfc81c9deb": 1793659659.3630285,
   "191541e5195d": 1793330642.1600025,
   "1938e5f6d74d": 1792140460.0458217,
@@ -6826,6 +6892,7 @@
   "1fb2db2e956e": 1793211277.833291,
   "1fb9eddf4389": 1793222767.4972785,
   "1fcb7bc84da8": 1793722473.3229322,
+  "1fce032603e7": 1793958422.6233335,
   "1fcf807a79bb": 1792661865.4209087,
   "2003aa453285": 1793887410.1568794,
   "2008852bbe08": 1792140455.9615865,
@@ -7508,6 +7575,7 @@
   "5a83bcb0474f": 1792510423.952773,
   "5ab852c64312": 1792691481.895657,
   "5aba388e115a": 1792140419.4762347,
+  "5ae9988e31ec": 1793958395.2934377,
   "5b06e1c989d2": 1792210358.1284826,
   "5b0c33d33660": 1792605139.374739,
   "5b0cf0c94a81": 1793205009.976132,
@@ -7969,6 +8037,7 @@
   "8a1541a9d297": 1792422140.4139302,
   "8a1bc9c8c553": 1793809598.788612,
   "8a227d049bed": 1792577667.6337144,
+  "8a32120db542": 1793958426.2404733,
   "8a408e6752f7": 1793119519.6023667,
   "8a5be2ef8191": 1793356069.9559402,
   "8a618176ff38": 1793098756.9630597,
@@ -8494,6 +8563,7 @@
   "bddbd5914a13": 1793153892.1965845,
   "bde722fb1fad": 1792664284.6944864,
   "be06c8e47f91": 1793167999.0376086,
+  "be1bea875810": 1793958398.9091766,
   "be238d5a9a8e": 1792152836.4937682,
   "be34867d852b": 1792582357.4731867,
   "be3ac7c5b64c": 1792140455.635881,
@@ -8914,6 +8984,7 @@
   "e426a88a31b6": 1793009269.4628005,
   "e43c3be89515": 1792677611.2302487,
   "e44054a866ff": 1793272553.6737134,
+  "e4505ae8092d": 1793958407.5094247,
   "e4555c33b8e7": 1792140419.3187923,
   "e458854f0988": 1792140449.844749,
   "e463a8f7a326": 1793813130.140182,
@@ -9194,6 +9265,7 @@
   "fdff7bec1aae": 1793890925.4375467,
   "fe1d3fc30a4f": 1792140448.2248933,
   "fe2cd00e439c": 1792508269.549407,
+  "fe8a237056f6": 1793958401.7109456,
   "fe8dc64e00ed": 1793744304.6797194,
   "feb63a772433": 1792750409.5625513,
   "febd0470b7af": 1792171558.4127772,
