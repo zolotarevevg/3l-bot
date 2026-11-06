@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793986192
+   "ok": 1793989374
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793986201
+   "ok": 1793989386
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,27 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793986203
+   "ok": 1793989386
   },
   "Clash": {
    "count": 10,
-   "err": "HTTPError: 403 Client Error: Forbidden for url: https://www.clashmusic.com/feed/",
-   "err_ts": 1793986183,
-   "ok": 1793982911
+   "err": "",
+   "ok": 1793989364
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793986185
+   "ok": 1793989368
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793986186
+   "ok": 1793989373
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793986194
+   "err_ts": 1793989375
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793986194
+   "ok": 1793989375
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793986183
+   "ok": 1793989358
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793986183
+   "ok": 1793989358
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793986195
+   "ok": 1793989376
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793986200
+   "ok": 1793989386
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793986200
+   "ok": 1793989385
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793986199
+   "ok": 1793989379
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793986176
+   "ok": 1793989353
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793986186
+   "ok": 1793989372
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793986187
+   "ok": 1793989374
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793986185
+   "ok": 1793989369
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793986199
+   "ok": 1793989379
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793986205
+   "ok": 1793989389
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793986205
+   "ok": 1793989388
   },
   "Родной звук (TG)": {
-   "count": 9,
+   "count": 10,
    "err": "",
-   "ok": 1793986206
+   "ok": 1793989390
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793986206
+   "ok": 1793989389
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793986210
+   "ok": 1793989392
   }
  },
  "heartbeat": "2026-11-06",
@@ -2717,6 +2716,26 @@
    "title": "The Healing Power Of Horses Announce New EP 8725: Hear “xstick_xstick”",
    "ts": 1793116279.8883452,
    "why": "малоизвестная группа, жанр по записи неясен"
+  },
+  "53d07fe27533": {
+   "also": [],
+   "artist": "Steven Wilson",
+   "fit": 2,
+   "id": "53d07fe27533",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/steven-wilson-requiem-for-a-village",
+   "listen": {},
+   "major": false,
+   "msg_id": 331,
+   "release": "Requiem For A Village",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "The prog rock torch bearer's vision and virtuosity are brought to bear with folk tales, curious characters and narration from David Tennant The post Steven Wilson – Requiem For A Village appeared first on musicOMH .",
+   "summary_ru": "Рецензия musicOMH на новый альбом Стивена Уилсона «Requiem For A Village». В записи отмечены фольклорные истории, необычные персонажи и закадровое повествование Дэвида Теннанта.",
+   "title": "Steven Wilson – Requiem For A Village",
+   "ts": 1793989371.3970575,
+   "why": "прог-рок вне жанров 3L, артист не в любимых"
   },
   "5481477a3d7e": {
    "also": [
@@ -7002,6 +7021,7 @@
   "0f1aabd47bd2": 1793813107.7017374,
   "0f1de207c0ee": 1793813076.0872676,
   "0f230e7ed0a5": 1793602200.8070457,
+  "0f26ddc5e234": 1793989390.217912,
   "0f2bdfaf2912": 1792745870.570222,
   "0f5e950e746a": 1793718946.686779,
   "0f8184e9ce3a": 1793240446.7156048,
@@ -7229,6 +7249,7 @@
   "22e8f40f5de0": 1793908432.1087985,
   "22f05a25215c": 1792508249.788675,
   "23108e4fff84": 1793965201.2989898,
+  "23202a1ad64e": 1793989353.521468,
   "23252622723e": 1792144566.4577415,
   "233013bde44e": 1793103439.8940904,
   "2332685efb39": 1792140449.7097278,
@@ -7538,6 +7559,7 @@
   "3d7c2343618e": 1793838950.957137,
   "3dcf379d1cc5": 1793615403.1409898,
   "3dd4b916ea74": 1793035463.003358,
+  "3dfa04294057": 1793989382.5617936,
   "3e39949eb445": 1792679956.0795794,
   "3e5d41f753e4": 1792162985.8961833,
   "3e847677fa3d": 1792140446.1809094,
@@ -7809,6 +7831,7 @@
   "53a67abff1b4": 1793417320.6801076,
   "53a84735055c": 1792140446.1809156,
   "53b662d65501": 1793899118.9675899,
+  "53d07fe27533": 1793989369.010441,
   "53deeb975485": 1792140447.2519517,
   "5403f6a3ce6f": 1793205041.1413221,
   "540adfee391a": 1792555752.1734598,
@@ -7895,6 +7918,7 @@
   "5bc06264af51": 1792757299.177742,
   "5bc25d26d660": 1792140460.928744,
   "5bc707844c94": 1792508242.4379385,
+  "5bcc843faabd": 1793989364.012111,
   "5bce1f8a4510": 1792691477.9287124,
   "5bf8eb3ee90a": 1792140447.2519531,
   "5c2e6c3c1367": 1793048264.2444677,
@@ -8103,6 +8127,7 @@
   "7175ba614ac4": 1793794150.8140943,
   "71b092a01d68": 1792743055.1323977,
   "71bb16cce879": 1793298422.5510082,
+  "71bdde2d6a22": 1793989379.8004084,
   "71ec6f7a58c4": 1792668758.0212698,
   "72225bb5f3a0": 1793641368.8612874,
   "722402c1ca0a": 1792580170.7398224,
@@ -9048,6 +9073,7 @@
   "c996c546aeee": 1792156055.8648312,
   "c9a1354ff42d": 1793622404.0577574,
   "c9acaced4ffe": 1793882636.6558118,
+  "c9c14f9febe1": 1793989354.806614,
   "c9d0bd739642": 1793361727.1255088,
   "c9d91dee894f": 1793361742.6089926,
   "c9d9d4ecd707": 1792737326.3939404,
