@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793982922
+   "ok": 1793986192
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793982933
+   "ok": 1793986201
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,27 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793982933
+   "ok": 1793986203
   },
   "Clash": {
    "count": 10,
-   "err": "",
+   "err": "HTTPError: 403 Client Error: Forbidden for url: https://www.clashmusic.com/feed/",
+   "err_ts": 1793986183,
    "ok": 1793982911
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793982916
+   "ok": 1793986185
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793982918
+   "ok": 1793986186
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793982923
+   "err_ts": 1793986194
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793982923
+   "ok": 1793986194
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793982898
+   "ok": 1793986183
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793982903
+   "ok": 1793986183
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793982925
+   "ok": 1793986195
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793982931
+   "ok": 1793986200
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793982931
+   "ok": 1793986200
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793982927
+   "ok": 1793986199
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793982883
+   "ok": 1793986176
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793982917
+   "ok": 1793986186
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793982919
+   "ok": 1793986187
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793982917
+   "ok": 1793986185
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793982927
+   "ok": 1793986199
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793982937
+   "ok": 1793986205
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793982935
+   "ok": 1793986205
   },
   "Родной звук (TG)": {
-   "count": 8,
+   "count": 9,
    "err": "",
-   "ok": 1793982938
+   "ok": 1793986206
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793982937
+   "ok": 1793986206
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793982942
+   "ok": 1793986210
   }
  },
  "heartbeat": "2026-11-06",
@@ -1897,6 +1898,10 @@
     {
      "link": "https://readdork.com/news/olivia-rodrigo-take-me-home-4-christmas-video-6106b8e4a1",
      "source": "Dork"
+    },
+    {
+     "link": "http://www.undertheradarmag.com/news/olivia_rodrigo_shares_video_for_new_holiday_song_take_me_home_4_christmas",
+     "source": "Under the Radar"
     }
    ],
    "artist": "Olivia Rodrigo",
@@ -6598,6 +6603,26 @@
    "ts": 1793358840.830223,
    "why": "metalcore, жанр вне вкуса 3L"
   },
+  "faad80b4a8a2": {
+   "also": [],
+   "artist": "Stove God Cooks",
+   "fit": 2,
+   "id": "faad80b4a8a2",
+   "kind": "single",
+   "link": "https://stereogum.com/2516790/stove-god-cooks-stovies-home-down-down-prod-swizz-beatz/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 330,
+   "release": "Stovie's Home (Down Down)",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Stove God Cooks – “Stovie’s Home (Down Down)” (Prod. Swizz Beatz) appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый сингл Stove God Cooks «Stovie's Home (Down Down)», продюсер - Swizz Beatz.",
+   "title": "Stove God Cooks – “Stovie’s Home (Down Down)” (Prod. Swizz Beatz)",
+   "ts": 1793986182.3088703,
+   "why": "хип-хоп, далеко от жанров 3L"
+  },
   "fac47a1ef833": {
    "also": [],
    "artist": "Rachel Cribby",
@@ -6865,6 +6890,7 @@
   "050cb54e5240": 1793931454.2692924,
   "057718f03842": 1793973260.4529047,
   "05794511de04": 1793365158.809702,
+  "0588da5fe457": 1793986206.797641,
   "0598a5437ecb": 1792140455.0717537,
   "059e088393a3": 1792140448.2248957,
   "05a2df10cba0": 1792727906.6156156,
@@ -7681,6 +7707,7 @@
   "4a7c29da96f4": 1793908437.9867835,
   "4a8f43755962": 1792140454.9418387,
   "4aa044a239d8": 1792140454.9418383,
+  "4aa22465ef3d": 1793986176.914518,
   "4ac7bf418531": 1792593144.5918064,
   "4b496912fc6b": 1793634090.67882,
   "4b6cc1163b65": 1792598301.897439,
@@ -8607,6 +8634,7 @@
   "a3f4ae4cd417": 1792140455.0289216,
   "a40cae09d8a2": 1793381002.0489678,
   "a431ae935142": 1792140449.5165486,
+  "a4566c719250": 1793986201.0528743,
   "a457d8d571fc": 1792752812.6860633,
   "a45e92626498": 1792140455.6358793,
   "a4611497a496": 1793315574.4473255,
@@ -8651,6 +8679,7 @@
   "a7a7fc7ec88a": 1792140455.961586,
   "a7b28dba2f9a": 1793159510.2059329,
   "a7bd3c7c6983": 1793045793.5458443,
+  "a7e20aaf2136": 1793986187.8428068,
   "a7f50a92279c": 1793882633.7462986,
   "a8555c7aefb2": 1792745831.8373098,
   "a87675ed8040": 1793782586.8934708,
@@ -8691,6 +8720,7 @@
   "acab821bcc01": 1793137501.4543345,
   "acabb43d1aa3": 1792140456.384748,
   "acb106477ad4": 1792770669.0576847,
+  "acd498c95550": 1793986190.6083138,
   "aceb38d138bd": 1793330638.8731155,
   "acf72b6c08c6": 1792148969.8518102,
   "ad30869d0f20": 1792416644.3908706,
@@ -9557,6 +9587,7 @@
   "fa1e886c05ea": 1793790795.387607,
   "fa4364552533": 1793124958.5317624,
   "faaab1470297": 1792140455.028921,
+  "faad80b4a8a2": 1793986180.1364217,
   "fab4d48cdb25": 1792381262.0103343,
   "fab6ae53777b": 1793813111.5679295,
   "fac1ce6cb0a5": 1793378081.2773418,
