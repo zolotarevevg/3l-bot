@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793989374
+   "ok": 1793993252
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793989386
+   "ok": 1793993262
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793989386
+   "ok": 1793993264
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793989364
+   "ok": 1793993245
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793989368
+   "ok": 1793993249
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793989373
+   "ok": 1793993251
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793989375
+   "err_ts": 1793993252
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793989375
+   "ok": 1793993252
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793989358
+   "ok": 1793993239
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793989358
+   "ok": 1793993239
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793989376
+   "ok": 1793993254
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793989386
+   "ok": 1793993262
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793989385
+   "ok": 1793993262
   },
   "Pitchfork News": {
-   "count": 30,
+   "count": 29,
    "err": "",
-   "ok": 1793989379
+   "ok": 1793993257
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793989353
+   "ok": 1793993228
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793989372
+   "ok": 1793993250
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793989374
+   "ok": 1793993252
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793989369
+   "ok": 1793993249
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793989379
+   "ok": 1793993257
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793989389
+   "ok": 1793993266
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793989388
+   "ok": 1793993265
   },
   "Родной звук (TG)": {
-   "count": 10,
+   "count": 11,
    "err": "",
-   "ok": 1793989390
+   "ok": 1793993267
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793989389
+   "ok": 1793993267
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793989392
+   "ok": 1793993271
   }
  },
  "heartbeat": "2026-11-06",
@@ -3575,6 +3575,26 @@
    "ts": 1793230560.7891207,
    "why": "Инди-электроника, новый EP, но артист малоизвестен"
   },
+  "77ddecaab54c": {
+   "also": [],
+   "artist": "Bruiser Wolf & Conductor Williams",
+   "fit": 2,
+   "id": "77ddecaab54c",
+   "kind": "album",
+   "link": "https://stereogum.com/2516807/bruiser-wolf-conductor-williams-announce-new-album-the-dealer-wins-hear-the-score-feat-marv-won/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 332,
+   "release": "The Dealer Wins",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Bruiser Wolf & Conductor Williams Announce New Album <em>The Dealer Wins</em>: Hear “The Score” (Feat. Marv Won) appeared first on Stereogum .",
+   "summary_ru": "Bruiser Wolf и Conductor Williams анонсировали совместный альбом The Dealer Wins и выпустили первый сингл The Score с участием Marv Won. Подробностей о дате релиза и лейбле в записи нет.",
+   "title": "Bruiser Wolf & Conductor Williams Announce New Album The Dealer Wins: Hear “The Score” (Feat. Marv Won)",
+   "ts": 1793993230.9967432,
+   "why": "хип-хоп, не в жанрах 3L"
+  },
   "78d4a7c771d1": {
    "also": [],
    "artist": "Niis",
@@ -4294,6 +4314,26 @@
    "title": "Australian producer 1tbsp has announced debut album ‘big soaps’ and shared new single ‘Carottes’",
    "ts": 1793878926.8423824,
    "why": "анонс дебютного альбома, электронная инди-поп сцена"
+  },
+  "9b1266299a8a": {
+   "also": [],
+   "artist": "Becky And The Birds",
+   "fit": 4,
+   "id": "9b1266299a8a",
+   "kind": "single",
+   "link": "https://stereogum.com/2516783/becky-and-the-birds-way-back-to-you/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 333,
+   "release": "Way Back To You",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Becky And The Birds – “Way Back To You” appeared first on Stereogum .",
+   "summary_ru": "Becky And The Birds выпустили новый трек «Way Back To You», о котором рассказал Stereogum в рубрике New Music. Больше подробностей в записи нет.",
+   "title": "Becky And The Birds – “Way Back To You”",
+   "ts": 1793993233.2081854,
+   "why": "Новый сингл инди-исполнителя, жанр близок 3L"
   },
   "9d42010b171c": {
    "also": [],
@@ -7048,6 +7088,7 @@
   "11b222b40788": 1793135262.2629771,
   "11b546453935": 1792140460.045827,
   "11ba36ce2a6d": 1792750421.7597094,
+  "11db90190600": 1793993245.2037876,
   "11e7989afe20": 1793315561.5283103,
   "11f05f534f7a": 1792607484.4272025,
   "11f4402d9b63": 1792620889.8545327,
@@ -8029,6 +8070,7 @@
   "676f9fff4bc7": 1793190599.1693876,
   "677c3d49b84f": 1792595642.7679071,
   "677cb8830c31": 1792588204.3411741,
+  "677ceda97fe3": 1793993262.7591088,
   "6795f66a5596": 1793882645.5370154,
   "67b6b64d2ccc": 1793282906.335799,
   "67ca62b347d8": 1792729997.0659816,
@@ -8196,6 +8238,7 @@
   "7791927696ed": 1793806003.631337,
   "77b380aea942": 1793722497.3134718,
   "77d6a5df08a2": 1793434828.3967104,
+  "77ddecaab54c": 1793993228.679876,
   "77ec5f9bf3e2": 1792140449.5165515,
   "77fbce26568a": 1793333909.2830756,
   "7805bdacd0bf": 1792140446.1809084,
@@ -8521,6 +8564,7 @@
   "974f6ed2c236": 1792508245.4609227,
   "9751f4599cdd": 1793707517.7585506,
   "9758c8699568": 1793197845.1989255,
+  "975f57015f75": 1793993236.643808,
   "97730b87c822": 1792703197.5852556,
   "97d2543aea4d": 1792140455.0717547,
   "97d37c06ded3": 1793295869.8816788,
@@ -8559,6 +8603,7 @@
   "9a72aece7356": 1792510427.3424282,
   "9a9af4345d34": 1793878925.7574508,
   "9ac24c55cc21": 1793214865.2326837,
+  "9b1266299a8a": 1793993231.55349,
   "9b353a14f684": 1793098751.170355,
   "9b3ba352eaea": 1792818688.6308231,
   "9b55de1cab5b": 1792795102.9948096,
@@ -9260,6 +9305,7 @@
   "db796515b10c": 1793715739.6348078,
   "db88545f05b6": 1792661871.0030665,
   "db8e21e50d58": 1793615413.557267,
+  "db95bc6208f2": 1793993267.7900167,
   "dbb785072b5b": 1793321265.3891387,
   "dbcce8a11707": 1793321271.116304,
   "dbd802634c72": 1792140460.045826,
@@ -9534,6 +9580,7 @@
   "f20a34fe89aa": 1793878899.468921,
   "f20cb86303b8": 1792703213.5297656,
   "f226697a8913": 1793718936.4614532,
+  "f236251ae3ea": 1793993233.7208812,
   "f23ed9366163": 1792140455.071755,
   "f260c09421d5": 1792620899.1902475,
   "f26419ddedbd": 1792140449.7097266,
@@ -9548,6 +9595,7 @@
   "f3ad4edbdb2c": 1793790749.5382338,
   "f3be3ec80607": 1793809583.960933,
   "f3ef10a7d848": 1792732321.10925,
+  "f3f8e47666ae": 1793993257.7246647,
   "f42f791bc07b": 1793711242.7056463,
   "f43ae898c8b2": 1793942579.002535,
   "f44a32f70488": 1792140449.844745,
