@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794006857
+   "ok": 1794009308
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794006865
+   "ok": 1794009316
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794006866
+   "ok": 1794009316
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794006852
+   "ok": 1794009301
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794006853
+   "ok": 1794009303
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1794006856
+   "ok": 1794009305
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794006858
+   "err_ts": 1794009308
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794006858
+   "ok": 1794009308
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794006842
+   "ok": 1794009293
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794006843
+   "ok": 1794009293
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794006860
+   "ok": 1794009309
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794006865
+   "ok": 1794009316
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794006865
+   "ok": 1794009316
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794006865
+   "ok": 1794009316
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794006841
+   "ok": 1794009293
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794006855
+   "ok": 1794009304
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794006857
+   "ok": 1794009306
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794006854
+   "ok": 1794009304
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794006862
+   "ok": 1794009312
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794006868
+   "ok": 1794009318
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794006867
+   "ok": 1794009318
   },
   "Родной звук (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794006870
+   "ok": 1794009319
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1794006869
+   "ok": 1794009319
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794006870
+   "ok": 1794009320
   }
  },
  "heartbeat": "2026-11-06",
@@ -878,6 +878,10 @@
     {
      "link": "https://stereogum.com/2516763/slayyyter-hey-boyyy/music/",
      "source": "Stereogum"
+    },
+    {
+     "link": "http://www.undertheradarmag.com/news/slayyyter_shares_video_for_new_song_hey_boyyy",
+     "source": "Under the Radar"
     }
    ],
    "artist": "Slayyyter",
@@ -8088,6 +8092,7 @@
   "65a9244436c9": 1793282880.0402482,
   "65bcf6c4486c": 1792140447.2519526,
   "660162b9fefd": 1792765238.4697502,
+  "660e2485ed66": 1794009312.97027,
   "6628b66f702f": 1792152825.1655142,
   "667bb469c08d": 1793035450.9554324,
   "66c0ac97b729": 1792512935.726863,
@@ -9312,6 +9317,7 @@
   "d9c58edf9bcf": 1793041199.8635693,
   "d9e2fcb3252e": 1792743037.141179,
   "d9f6140001ae": 1792836511.7867217,
+  "da19f8c037ce": 1794009306.2432184,
   "da30dd3538de": 1793119422.2750673,
   "da3d9b722ea3": 1793119480.8823264,
   "da443c66eaa5": 1793358846.9502583,
