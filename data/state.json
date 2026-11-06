@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1793976797
+   "ok": 1793979976
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1793976809
+   "ok": 1793979983
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1793976814
+   "ok": 1793979983
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1793976782
+   "ok": 1793979958
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1793976789
+   "ok": 1793979970
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1793976793
+   "ok": 1793979974
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1793976798
+   "err_ts": 1793979976
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1793976797
+   "ok": 1793979976
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1793976775
+   "ok": 1793979941
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1793976776
+   "ok": 1793979945
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1793976799
+   "ok": 1793979978
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1793976805
+   "ok": 1793979982
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1793976805
+   "ok": 1793979982
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1793976802
+   "ok": 1793979979
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1793976763
+   "ok": 1793979939
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1793976791
+   "ok": 1793979973
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1793976797
+   "ok": 1793979975
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1793976790
+   "ok": 1793979973
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1793976802
+   "ok": 1793979979
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1793976817
+   "ok": 1793979986
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1793976816
+   "ok": 1793979985
   },
   "Родной звук (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1793976818
+   "ok": 1793979987
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1793976818
+   "ok": 1793979986
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1793976822
+   "ok": 1793979988
   }
  },
  "heartbeat": "2026-11-06",
@@ -874,7 +874,12 @@
    "why": "K-pop, мейнстрим-поп, не любимый артист"
   },
   "187d80c257ff": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://stereogum.com/2516763/slayyyter-hey-boyyy/music/",
+     "source": "Stereogum"
+    }
+   ],
    "artist": "Slayyyter",
    "fit": 2,
    "id": "187d80c257ff",
@@ -2162,6 +2167,26 @@
    "title": "lots of hands – “anything for now”",
    "ts": 1793805969.002284,
    "why": "малоизвестный артист, звучание по записи не ясно"
+  },
+  "43f2fbb62897": {
+   "also": [],
+   "artist": "Cristale",
+   "fit": 2,
+   "id": "43f2fbb62897",
+   "kind": "album",
+   "link": "https://www.clashmusic.com/news/cristale-releases-debut-mixtape-clear-intentions/",
+   "listen": {},
+   "major": false,
+   "msg_id": 329,
+   "release": "Clear Intentions",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Brixton-born rapper Cristale takes control of her narrative on her 10-track debut mixtape, out today. MOBO-nominated artist Cristale has marked a major milestone with the release of her debut mixtape, ‘Clear Intentions’. Out today, the South London rapper and actress launches the project following the release of five singles included… The post Cristale Releases Debut Mixtape ‘Clear Intentions’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Британская рэперша Cristale из Брикстона выпустила свой дебютный 10-трековый микстейп «Clear Intentions». В релиз вошли пять синглов, выпущенных ранее.",
+   "title": "Cristale Releases Debut Mixtape ‘Clear Intentions’",
+   "ts": 1793979959.380069,
+   "why": "хип-хоп, не любимый артист"
   },
   "443b3d39bac0": {
    "also": [],
@@ -7550,11 +7575,13 @@
   "4341c65dffd8": 1792169696.0349832,
   "4342357ce348": 1792140455.9615915,
   "4346669f0cc3": 1792575306.3847616,
+  "43616e73fec5": 1793979962.8785608,
   "4379b2795422": 1792140449.5165546,
   "437e9e762bdf": 1792140419.3187883,
   "43cf3d10d560": 1793805966.1933703,
   "43d3de236d1c": 1792140447.2519557,
   "43dac526c293": 1793622372.5294955,
+  "43f2fbb62897": 1793979958.0516305,
   "440e1f504b06": 1793098749.4489121,
   "442f7aab855a": 1793201420.9320297,
   "443b3d39bac0": 1793809523.922733,
@@ -7564,6 +7591,7 @@
   "446fdd174120": 1792140455.0289283,
   "4478b13a8d6a": 1793878878.719345,
   "447b89fb1fb7": 1793715786.957675,
+  "447c10dd7077": 1793979960.2229474,
   "448b9413020e": 1792486036.1012127,
   "44b2528409f8": 1792419524.7455919,
   "44da2b1bbb09": 1793871490.6199694,
@@ -8561,6 +8589,7 @@
   "a381a857edb4": 1793729339.7065272,
   "a386b60e9139": 1793208292.4554064,
   "a38e6bf042bf": 1793185454.9643693,
+  "a3bb7e551e7f": 1793979979.8663733,
   "a3bf28b512a5": 1792595620.8779018,
   "a3d0707ab2cd": 1793607398.4743466,
   "a3d2d3276947": 1792696666.0956395,
@@ -8717,6 +8746,7 @@
   "b18fa19f8b24": 1792169692.9804842,
   "b19823a2c166": 1793275338.7487352,
   "b198aa2b788a": 1793023051.9468699,
+  "b1a7a0fe9a7b": 1793979939.2177982,
   "b1aed9b305dd": 1792140419.6649106,
   "b1c1030d0039": 1792140446.1809149,
   "b1d5cd823f01": 1792582357.4732304,
@@ -8745,6 +8775,7 @@
   "b3c5d895c1a4": 1792745834.7480357,
   "b3f0f0a660b5": 1792768202.030544,
   "b3f940355541": 1792494657.5484557,
+  "b40c01a623a7": 1793979941.717235,
   "b4411c639b4b": 1793802556.1790507,
   "b441e23d2a0d": 1793637954.5149534,
   "b451a09c2638": 1792140446.1809099,
@@ -8993,6 +9024,7 @@
   "cb233ab8f34d": 1792757289.3297522,
   "cb5b794dae71": 1793361713.849827,
   "cb991e68c9e1": 1792140455.0289192,
+  "cbb3e9e615e2": 1793979965.7646556,
   "cbd9807542db": 1793375364.0409236,
   "cbdef70800a7": 1793342959.261145,
   "cbe4da5d4916": 1792140446.1809065,
@@ -9117,6 +9149,7 @@
   "d79d598bc03e": 1793899122.367139,
   "d7ce74398c8d": 1793375327.692781,
   "d7e97ba7f860": 1793838942.8631327,
+  "d7ec5e751030": 1793979970.2346346,
   "d7fa34729006": 1792140460.9287436,
   "d8215b5bc862": 1793333919.1494505,
   "d8516f1c7b5e": 1792575309.8005059,
