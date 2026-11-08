@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794126545
+   "ok": 1794133013
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794126551
+   "ok": 1794133019
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794126551
+   "ok": 1794133019
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794126540
+   "ok": 1794133008
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794126542
+   "ok": 1794133010
   },
   "Dork": {
    "count": 50,
    "err": "",
-   "ok": 1794126544
+   "ok": 1794133011
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794126546
+   "err_ts": 1794133013
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794126545
+   "ok": 1794133013
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794126533
+   "ok": 1794132994
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794126534
+   "ok": 1794133000
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794126547
+   "ok": 1794133015
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794126551
+   "ok": 1794133019
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794126550
+   "ok": 1794133019
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794126550
+   "ok": 1794133018
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794126533
+   "ok": 1794132993
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794126543
+   "ok": 1794133011
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794126545
+   "ok": 1794133012
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1794133010,
    "ok": 1794126543
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794126550
+   "ok": 1794133018
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794126553
+   "ok": 1794133021
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794126553
+   "ok": 1794133020
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1794126554
+   "ok": 1794133022
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1794126554
+   "ok": 1794133022
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794126555
+   "ok": 1794133023
   }
  },
  "heartbeat": "2026-11-08",
@@ -3858,6 +3859,26 @@
    "title": "Fire-Toolz – “Cluster Around My Opening!”",
    "ts": 1793375340.127174,
    "why": "экспериментальный поп, далеко от жанров 3L"
+  },
+  "83a2d88dcc91": {
+   "also": [],
+   "artist": "The Strokes",
+   "fit": 5,
+   "id": "83a2d88dcc91",
+   "kind": "video",
+   "link": "https://www.nme.com/news/music/the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl-3975379?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl",
+   "listen": {},
+   "major": false,
+   "msg_id": 335,
+   "release": "Reality Awaits",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "The Strokes have performed two tracks from their latest album on Saturday Night Live , with Walton Goggins making a surprise appearance – watch footage below. READ MORE: The Strokes live in London: playful proof they’ve still got the goods The New York indie icons appeared on the show yesterday (November 7), with comedian and social media personality Druski hosting the latest episode. They opened with ‘Lonely In The Future’, before returning later in the show to perform ‘Going Shopping’, both taken from their seventh studio album ‘Reality Awaits’ , which arrived in July. For the latter track, the group were joined by Goggins, who played bongos alongside the band, reprising his association with the song after starring in its music video earlier this year . The ‘Going Shopping’ video, directed by Johann Rashid, paid homage to Paul Simon ‘s ‘You Can Call Me Al’, with Goggins taking the role originally played by Chevy Chase in the 1986 clip. Watch both performances here: Speaking about his involvement at the time, the White Lotus actor said it had been an unexpected dream come true. “Never had the audacity to put something like this on my bucket list,” he wrote, adding that ‘Reality Awaits’ was “so gatdamn special”. The latest performances marked The Strokes’ fifth appearance on SNL , following previous visits in 2002, 2006, 2011 and 2020. Their last appearance came on Halloween 2020 , when they played ‘The Adults Are Talking’ and ‘Bad Decisions’ from their sixth album ‘The New Abnormal’ . That episode was hosted by John Mulaney . The band are currently touring in support of ‘Reality Awaits’, their first album in six years, which was recorded in Costa Rica with producer Rick Rubin . NME awarded the record four stars , praising the band’s willingness to experiment and concluding that they sounded “more alive and locked in than they have in years”. The group recently wrapped up their first full UK and Ireland headline tour in more than two decades, including two nights at London’s O2 Arena and shows in Newcastle, Manchester and Dublin. Their London performance received a five-star review from NME , which concluded: “In the 25 years since their first UK show, The Strokes have had their ups and downs, and their moments when it felt like they’d rather be doing anything but playing together. Right now, though, they’re firmly on a high – doing things their way and sounding as vital as they ever have.” Guitarist Nick Valensi has been absent from the tour, having announced a temporary break from the band in May , with Longwave’s Steve Schiltz filling in. Last month, Valensi made a surprise appearance with Duran Duran in Paris , while Casablancas has previously reassured fans that the guitarist will return. Meanwhile, Phoebe Bridgers will be next week’s SNL musical guest, performing on November 14, with John Mulaney hosting. The post Watch The Strokes perform ‘Lonely In The Future’ and ‘Going Shopping’ with Walton Goggins on ‘SNL’ appeared first on NME .",
+   "summary_ru": "The Strokes исполнили «Lonely In The Future» и «Going Shopping» из альбома «Reality Awaits» в шоу Saturday Night Live, где в «Going Shopping» их поддержал Уолтон Гоггинс на бонго. Это пятое выступление группы на SNL, последнее было в 2020 году.",
+   "title": "Watch The Strokes perform ‘Lonely In The Future’ and ‘Going Shopping’ with Walton Goggins on ‘SNL’",
+   "ts": 1794132999.1651053,
+   "why": "любимые артисты, новый альбом, ТВ-выступление"
   },
   "85f20849a7da": {
    "also": [],
@@ -8149,6 +8170,7 @@
   "6b272f4e94b0": 1792610211.0221338,
   "6b360b0bf3ea": 1792140455.6358812,
   "6b613c0d97c2": 1793905180.0981781,
+  "6b68e7bf5285": 1794132994.6460204,
   "6b7aeeb8116d": 1792140419.4762344,
   "6b891583dbe7": 1792671191.7447448,
   "6b8b10122807": 1792580174.278773,
@@ -8397,6 +8419,7 @@
   "836ca427c997": 1792784996.9077108,
   "837460516f04": 1793715775.4721427,
   "8396c64e6662": 1792140455.961587,
+  "83a2d88dcc91": 1794132997.6893094,
   "83b0b37ecbaf": 1793358833.3265486,
   "83e1545a354c": 1792750433.574672,
   "83fc68da5c7c": 1793976809.113571,
