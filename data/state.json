@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794147319
+   "ok": 1794149891
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794147327
+   "ok": 1794149899
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794147328
+   "ok": 1794149900
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794147312
+   "ok": 1794149884
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794147313
+   "ok": 1794149885
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794147315
+   "ok": 1794149887
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794147320
+   "err_ts": 1794149891
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794147320
+   "ok": 1794149891
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794147307
+   "ok": 1794149876
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794147307
+   "ok": 1794149876
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794147321
+   "ok": 1794149893
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794147327
+   "ok": 1794149899
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794147327
+   "ok": 1794149899
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794147327
+   "ok": 1794149896
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794147307
+   "ok": 1794149875
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794147314
+   "ok": 1794149886
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794147316
+   "ok": 1794149888
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1794149886,
    "ok": 1794147314
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794147324
+   "ok": 1794149896
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794147330
+   "ok": 1794149902
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794147329
+   "ok": 1794149901
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1794147331
+   "ok": 1794149903
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1794147330
+   "ok": 1794149902
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794147331
+   "ok": 1794149903
   }
  },
  "heartbeat": "2026-11-08",
@@ -3229,6 +3230,26 @@
    "title": "Everything But The Girl have shared ‘Young and Dumb’ ahead of their new album ‘Blue Reservoir’",
    "ts": 1793190600.641692,
    "why": "новый сингл и анонс альбома известной инди-группы"
+  },
+  "68121eb1f2ac": {
+   "also": [],
+   "artist": "Silver Gore",
+   "fit": 4,
+   "id": "68121eb1f2ac",
+   "kind": "single",
+   "link": "http://www.undertheradarmag.com/news/silver_gore_share_video_for_new_song_just_like_that",
+   "listen": {},
+   "major": false,
+   "msg_id": 337,
+   "release": "Just Like That",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "London-based duo Silver Gore have shared a new song, “Just Like That,” via a music video.",
+   "summary_ru": "Лондонский дуэт Silver Gore выпустил новую песню «Just Like That», к которой вышел музыкальный клип.",
+   "title": "Silver Gore Share Video for New Song “Just Like That”",
+   "ts": 1794149890.5173697,
+   "why": "новый сингл инди-дуэта, жанр близкий к 3L"
   },
   "685784b10d06": {
    "also": [],
@@ -8199,6 +8220,7 @@
   "67b6b64d2ccc": 1793282906.335799,
   "67ca62b347d8": 1792729997.0659816,
   "680dbd1468af": 1793547397.1460586,
+  "68121eb1f2ac": 1794149888.163514,
   "6834be2b7d46": 1792331407.3571088,
   "685784b10d06": 1792620908.6497743,
   "685f132dce9a": 1793185426.6270351,
@@ -8733,6 +8755,7 @@
   "9867f7be3f9f": 1793700938.7556376,
   "986b95625780": 1792593107.5179732,
   "986d9123933f": 1792140455.0289211,
+  "987896557e21": 1794149896.6517904,
   "988bdb6fde80": 1792734854.7743304,
   "9894453d73fc": 1792140419.3187885,
   "9896c0a44801": 1793101086.7717948,
