@@ -2,13 +2,14 @@
  "health": {
   "Aquarium Drunkard": {
    "count": 15,
-   "err": "",
+   "err": "ConnectTimeout: HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443)",
+   "err_ts": 1794172605,
    "ok": 1794169964
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794169969
+   "ok": 1794172611
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +18,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794169970
+   "ok": 1794172611
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794169959
+   "ok": 1794172557
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794169960
+   "ok": 1794172559
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794169962
+   "ok": 1794172560
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794169964
+   "err_ts": 1794172606
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +46,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794169964
+   "ok": 1794172606
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +55,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794169950
+   "ok": 1794172552
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794169951
+   "ok": 1794172553
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794169966
+   "ok": 1794172608
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794169969
+   "ok": 1794172610
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794169969
+   "ok": 1794172610
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794169969
+   "ok": 1794172610
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794169950
+   "ok": 1794172552
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794169962
+   "ok": 1794172560
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794169963
+   "ok": 1794172580
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794169961
+   "ok": 1794172559
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794169969
+   "ok": 1794172610
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794169971
+   "ok": 1794172613
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794169971
+   "ok": 1794172612
   },
   "Родной звук (TG)": {
    "count": 12,
    "err": "",
-   "ok": 1794169972
+   "ok": 1794172614
   },
   "Сломанные пляски (TG)": {
    "count": 6,
    "err": "",
-   "ok": 1794169972
+   "ok": 1794172614
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794169973
+   "ok": 1794172615
   }
  },
  "heartbeat": "2026-11-08",
@@ -983,7 +984,12 @@
    "why": "новый сингл, инди-поп, не любимый артист"
   },
   "19f16132083d": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/guppy-looking-right-at-it-new-track-e78c96f3ba",
+     "source": "Dork"
+    }
+   ],
    "artist": "Guppy",
    "fit": 3,
    "id": "19f16132083d",
@@ -1501,6 +1507,26 @@
    "title": "The Avalanches have released their new album ‘No Bad Memories’",
    "ts": 1792411076.9787843,
    "why": "новый альбом инди-электроники, громкий релиз"
+  },
+  "2920745639ad": {
+   "also": [],
+   "artist": "Ella Mai",
+   "fit": 2,
+   "id": "2920745639ad",
+   "kind": "ep",
+   "link": "https://readdork.com/news/ella-mai-surprise-birthday-ep-3two-1a9d6169ff",
+   "listen": {},
+   "major": false,
+   "msg_id": 339,
+   "release": "3two",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Ella Mai has marked her 32nd birthday with ‘3two’, a three-track EP featuring ‘Favourite T-Shirt’, ‘Over and Over’ and ‘All I Know’.",
+   "summary_ru": "Ella Mai выпустила неожиданный EP «3two» к своему 32-летию. В нём три трека: «Favourite T-Shirt», «Over and Over» и «All I Know».",
+   "title": "Ella Mai has released surprise birthday EP ‘3two’",
+   "ts": 1794172573.2858274,
+   "why": "R&B, мейнстрим, не любимый артист"
   },
   "2ab1acf5795f": {
    "also": [],
@@ -7312,6 +7338,7 @@
   "1a97d4435b83": 1793615434.3846626,
   "1a9ae5a7174e": 1793057304.7373648,
   "1a9ca8a43973": 1792158567.0555933,
+  "1aa875120c8c": 1794172575.227192,
   "1abba4f336d2": 1792582283.2054315,
   "1ac86fefef28": 1792140462.2817588,
   "1ac8ccf2ab26": 1793648318.783992,
@@ -7329,6 +7356,7 @@
   "1bf60d94a5d9": 1792582357.473223,
   "1c1a19341b3a": 1792140448.224896,
   "1c1e362f0531": 1793805989.99508,
+  "1c6752d44e95": 1794172569.3740873,
   "1c85d917aef6": 1792508239.3585792,
   "1c88e7b62572": 1794140742.7496223,
   "1ca80366ece2": 1792401945.6989021,
@@ -7493,6 +7521,7 @@
   "28bd745f6427": 1793878910.1743426,
   "2909b09fa99a": 1794140742.749613,
   "291184d94dd0": 1793455800.9962964,
+  "2920745639ad": 1794172572.2035756,
   "298b2acaa44d": 1793700930.747039,
   "298c02e6dfbc": 1793375385.8990054,
   "29aa4ef1cd6f": 1792140455.9615905,
@@ -7694,6 +7723,7 @@
   "397f14559f68": 1794140708.4810207,
   "398163e28db8": 1793028988.780396,
   "398aeebe61e2": 1792140448.2248924,
+  "399ca1585da0": 1794172560.787067,
   "39a12e1d4171": 1792140460.9287472,
   "39a62d28e245": 1793375380.8293211,
   "39ae1a8f565d": 1793905164.1053884,
@@ -8466,6 +8496,7 @@
   "7c8acf263072": 1793032295.0793715,
   "7c9189c1ff71": 1793119467.5363955,
   "7cbb02306931": 1793549748.68558,
+  "7cd64a970304": 1794172563.237577,
   "7cddf1130190": 1793707530.2915144,
   "7cf23e551034": 1793615422.3645172,
   "7d3b23c6dc92": 1793194541.4904234,
@@ -8568,6 +8599,7 @@
   "8515e2ed05b2": 1792711599.1976664,
   "85676e93cd11": 1793887369.4071689,
   "856f1c1110f6": 1792140419.476228,
+  "859d18ddcb1e": 1794172566.4029949,
   "85bfaf7aecbb": 1793661944.4538116,
   "85cda2b46109": 1792404608.7922325,
   "85df85fbc4ac": 1793715781.524204,
@@ -9136,6 +9168,7 @@
   "b5b16ec68cfd": 1792140455.0289187,
   "b5b8977d438a": 1793330645.3243577,
   "b5bc8c4d9a0e": 1792169705.1837678,
+  "b5ef4944b7a9": 1794172573.9675188,
   "b63ea8516114": 1793901926.1375399,
   "b65ca99fb834": 1793726355.5473154,
   "b66631cc606b": 1793711220.1852348,
@@ -9189,6 +9222,7 @@
   "bbb12be67ff0": 1792677609.5075011,
   "bbc510aa1beb": 1793361758.2108498,
   "bc010f6729fc": 1793965189.220133,
+  "bc0db5e29cb7": 1794172576.291778,
   "bc4de10ba01d": 1792140455.028921,
   "bc5043d7542a": 1793726347.0626483,
   "bc64f1048d00": 1793899111.0336034,
