@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794245887
+   "ok": 1794249061
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794245892
+   "ok": 1794249069
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794245892
+   "ok": 1794249070
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794245869
+   "ok": 1794249039
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794245873
+   "ok": 1794249043
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794245875
+   "ok": 1794249044
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794245887
+   "err_ts": 1794249061
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794245887
+   "ok": 1794249061
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794245862
+   "ok": 1794249027
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794245864
+   "ok": 1794249027
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794245888
+   "ok": 1794249063
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794245891
+   "ok": 1794249069
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794245891
+   "ok": 1794249069
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794245891
+   "ok": 1794249066
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794245849
+   "ok": 1794249019
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794245874
+   "ok": 1794249044
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794245886
+   "ok": 1794249061
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1794249044,
    "ok": 1794245874
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794245891
+   "ok": 1794249066
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794245893
+   "ok": 1794249072
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794245893
+   "ok": 1794249071
   },
   "Родной звук (TG)": {
-   "count": 15,
+   "count": 16,
    "err": "",
-   "ok": 1794245894
+   "ok": 1794249073
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794245894
+   "ok": 1794249073
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794245895
+   "ok": 1794249077
   }
  },
  "heartbeat": "2026-11-09",
@@ -5122,6 +5123,26 @@
    "ts": 1792679974.7818675,
    "why": "возможна экспериментальная электроника, жанр не указан"
   },
+  "af15950968a1": {
+   "also": [],
+   "artist": "Tallia Storm",
+   "fit": 2,
+   "id": "af15950968a1",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/tallia-storm-links-with-jeremih-on-she-decides/",
+   "listen": {},
+   "major": false,
+   "msg_id": 352,
+   "release": "She Decides",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Tallia Storm has linked up with Jeremih for her new single ‘She Decides’. The Camper-produced single opens her independent EP ‘After The Storm’, due in January. Elton John discovered the Scottish singer, songwriter and broadcaster when she was 13, and industry veteran Ron Fair signed her the following year. Now… The post Tallia Storm Links With Jeremih On ‘She Decides’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Талия Шторм выпустила сингл «She Decides» при участии Jeremih, продюсер Camper. Трек открывает её независимый EP «After The Storm», выход которого запланирован на январь.",
+   "title": "Tallia Storm Links With Jeremih On ‘She Decides’",
+   "ts": 1794249041.8015985,
+   "why": "R&B/поп-мейнстрим, далеко от жанров 3L"
+  },
   "af1ff952ae5e": {
    "also": [
     {
@@ -7593,6 +7614,7 @@
   "1a3f99d6c86a": 1793122197.5758924,
   "1a599602974c": 1792664290.2948997,
   "1a5f7878acec": 1794140742.749635,
+  "1a63f6d5b5af": 1794249056.9653082,
   "1a6a011f7b3f": 1793358824.9003499,
   "1a8dd88cb908": 1792517943.933015,
   "1a97d4435b83": 1793615434.3846626,
@@ -7855,6 +7877,7 @@
   "2f46d9a63f7f": 1793973202.6022787,
   "2f88a299e6cb": 1792140449.5165534,
   "2fbb999d28db": 1792595636.3501866,
+  "2fd70e529b93": 1794249066.2629995,
   "2fe6f2b1fb03": 1792140455.0717504,
   "2fe9030313a2": 1792140419.3187876,
   "2fee18337610": 1792140456.384751,
@@ -8190,6 +8213,7 @@
   "47b71a328d55": 1792505474.8297544,
   "47ba9ffaee92": 1792140447.2519526,
   "47c7b7975fa6": 1793524190.0692382,
+  "47c84250775f": 1794249073.7515502,
   "47d8cc881efd": 1792140448.2248948,
   "47f02205182b": 1793065223.3280983,
   "47f3c6e48cfd": 1792140459.2475774,
@@ -8460,6 +8484,7 @@
   "5dfd9b70dcf8": 1792151141.6036267,
   "5e0198bf77a9": 1792582357.4732168,
   "5e3bc3d6bacf": 1792140455.635882,
+  "5e5cc57ae94e": 1794249024.4691374,
   "5e6ba3fd8572": 1793622398.9291627,
   "5e7178d8c1ee": 1792757281.8151665,
   "5e7dc3b29bb9": 1793197839.3056026,
@@ -8476,6 +8501,7 @@
   "5f8252676042": 1792140419.66491,
   "5f9ba7a522e9": 1793240431.7131114,
   "5faea83a099d": 1792140447.2519577,
+  "5fb06e6bebcb": 1794249050.9083958,
   "5fb3d7696c26": 1793009252.023225,
   "5fbf2f967879": 1792582298.2390654,
   "5fcf8809b1a6": 1792679958.3298347,
@@ -8556,6 +8582,7 @@
   "66817e3c7e42": 1794140742.7496328,
   "66c0ac97b729": 1792512935.726863,
   "66f38cdfd40b": 1793032315.2795055,
+  "6755a0e36776": 1794249053.7839334,
   "676f9fff4bc7": 1793190599.1693876,
   "6776c118e7b4": 1794245883.1861372,
   "677c3d49b84f": 1792595642.7679071,
@@ -8725,6 +8752,7 @@
   "761d3814de1e": 1793365173.776618,
   "7620d513c748": 1793101045.5974371,
   "7643e9f1b7ff": 1793882642.4965084,
+  "7659f5556788": 1794249047.8170803,
   "7660751e922e": 1794218241.0041976,
   "767256e28148": 1793289525.7286572,
   "76890fc49f20": 1793101072.7612333,
@@ -9402,6 +9430,7 @@
   "aeed3b7b9600": 1793704535.6795483,
   "af015dfd7089": 1793106894.0218103,
   "af0ff42e5b1c": 1792748070.8450563,
+  "af15950968a1": 1794249039.3269305,
   "af1c183ec866": 1792770708.4556124,
   "af1ff952ae5e": 1793043803.0379887,
   "af38d247ea14": 1792243087.9580936,
@@ -9608,6 +9637,7 @@
   "c063b34b2c1e": 1793722533.151285,
   "c07bdc3d28be": 1793697184.481411,
   "c0884d6be1ad": 1792677654.144983,
+  "c09fcf0ee856": 1794249044.9009044,
   "c0a3497b48c2": 1793282936.4129264,
   "c0b6ea703376": 1793023055.2114992,
   "c0c1e23ac6ac": 1792140447.2519538,
@@ -10100,6 +10130,7 @@
   "e67cb87b7b22": 1793333921.841067,
   "e6defe15d0b1": 1793119495.3758433,
   "e6edcec16fd8": 1792140461.4665887,
+  "e70e80bbfa86": 1794249019.9402122,
   "e74442003b7f": 1793275353.621661,
   "e754eb044256": 1792426654.7134187,
   "e76932875846": 1792140447.251956,
