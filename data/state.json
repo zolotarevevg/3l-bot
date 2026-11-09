@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794242235
+   "ok": 1794245887
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794242242
+   "ok": 1794245892
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794242242
+   "ok": 1794245892
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794242193
+   "ok": 1794245869
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794242203
+   "ok": 1794245873
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794242204
+   "ok": 1794245875
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794242235
+   "err_ts": 1794245887
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794242235
+   "ok": 1794245887
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794242184
+   "ok": 1794245862
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794242185
+   "ok": 1794245864
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794242237
+   "ok": 1794245888
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794242241
+   "ok": 1794245891
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794242241
+   "ok": 1794245891
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794242240
+   "ok": 1794245891
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794242177
+   "ok": 1794245849
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794242204
+   "ok": 1794245874
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794242232
+   "ok": 1794245886
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794242203
+   "ok": 1794245874
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794242239
+   "ok": 1794245891
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794242246
+   "ok": 1794245893
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794242245
+   "ok": 1794245893
   },
   "Родной звук (TG)": {
    "count": 15,
    "err": "",
-   "ok": 1794242247
+   "ok": 1794245894
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794242246
+   "ok": 1794245894
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794242248
+   "ok": 1794245895
   }
  },
  "heartbeat": "2026-11-09",
@@ -3300,6 +3300,26 @@
    "ts": 1793190600.641692,
    "why": "новый сингл и анонс альбома известной инди-группы"
   },
+  "680c2472b65f": {
+   "also": [],
+   "artist": "Credit Electric",
+   "fit": 3,
+   "id": "680c2472b65f",
+   "kind": "single",
+   "link": "https://stereogum.com/2517117/credit-electric-cross/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 350,
+   "release": "Cross",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Credit Electric – “Cross” appeared first on Stereogum .",
+   "summary_ru": "Stereogum опубликовал новый трек «Cross» группы Credit Electric в рубрике New Music. Из записи больше ничего не известно: ни жанр, ни дата, ни лейбл.",
+   "title": "Credit Electric – “Cross”",
+   "ts": 1794245860.5709956,
+   "why": "новый сингл малоизвестной группы, звучание неизвестно"
+  },
   "68121eb1f2ac": {
    "also": [],
    "artist": "Silver Gore",
@@ -3648,6 +3668,26 @@
    "title": "fanclubwallet – “Creep-O”",
    "ts": 1793375337.1612158,
    "why": "новый трек, но жанр и звучание неизвестны из записи"
+  },
+  "769aa93ab437": {
+   "also": [],
+   "artist": "Sister Wives",
+   "fit": 4,
+   "id": "769aa93ab437",
+   "kind": "album",
+   "link": "https://readdork.com/news/sister-wives-second-album-heavy-set",
+   "listen": {},
+   "major": false,
+   "msg_id": 351,
+   "release": "Heavy Set",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Sheffield-based psych-pop quartet's follow-up to Welsh Music Prize-nominated debut 'Y Gawres' arrives on 5th February via Redundant Span Records.",
+   "summary_ru": "Шеффилдский психоп-поп квартет Sister Wives выпускает второй альбом Heavy Set 5 февраля на лейбле Redundant Span Records. Это продолжение дебюта Y Gawres, номинированного на Welsh Music Prize. Группа заметно утяжеляет звук.",
+   "title": "Sheffield psych-pop quartet Sister Wives are getting heavier on their new album ‘Heavy Set’",
+   "ts": 1794245882.773378,
+   "why": "психоп-поп, новый альбом, близко к шугейзу"
   },
   "76be031fe580": {
    "also": [],
@@ -5469,6 +5509,26 @@
    "title": "Marsy have announced their ‘Miss Wave’ EP and shared its title track",
    "ts": 1792664287.0280187,
    "why": "новый EP и анонс, инди-лейбл, близко к жанрам 3L"
+  },
+  "be706a8d3e07": {
+   "also": [],
+   "artist": "Black Belt Eagle Scout",
+   "fit": 4,
+   "id": "be706a8d3e07",
+   "kind": "single",
+   "link": "https://stereogum.com/2517083/black-belt-eagle-scout-fantasy/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 349,
+   "release": "Fantasy",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Black Belt Eagle Scout – “Fantasy” appeared first on Stereogum .",
+   "summary_ru": "Black Belt Eagle Scout выпустили новый трек «Fantasy», о котором написал Stereogum в рубрике New Music. Других подробностей в записи нет.",
+   "title": "Black Belt Eagle Scout – “Fantasy”",
+   "ts": 1794245852.5848138,
+   "why": "новый инди-рок трек, жанр близкий 3L"
   },
   "bf1ca7f7dcc4": {
    "also": [],
@@ -7636,6 +7696,7 @@
   "21f9dac8dfee": 1792580155.3225443,
   "221aa08a47ca": 1792140419.3187878,
   "223ce2176870": 1792515294.4774737,
+  "224787e2a95d": 1794245854.884455,
   "224a04e94bf4": 1793139710.6061816,
   "224c16a35330": 1792580149.6238112,
   "22688153601d": 1794140714.4855623,
@@ -7769,6 +7830,7 @@
   "2d47c01ab3e0": 1793028996.9477026,
   "2d5fe814e4d0": 1792140459.2475772,
   "2d67b560074b": 1793292853.342929,
+  "2d8b162a5aea": 1794245878.3841317,
   "2d97d6d7f7f2": 1793101021.7718077,
   "2da2727eeb07": 1792643560.5292554,
   "2db12c71e7ea": 1792140446.1809146,
@@ -7874,6 +7936,7 @@
   "34e36bd602f9": 1792752836.9385548,
   "34fbfcc062b1": 1792745861.3305953,
   "3505188b3ade": 1792679961.0929444,
+  "352ea431a339": 1794245860.931085,
   "353cd0da6ccf": 1792602849.6578767,
   "35793f0f0508": 1792140454.9418368,
   "357b229cd8ec": 1793946573.9670084,
@@ -7976,6 +8039,7 @@
   "3c9c4022f475": 1792582333.4680588,
   "3cc255ba7d28": 1792140449.5165544,
   "3cc94ec90c23": 1793806000.7647943,
+  "3ccb2ac0f3a0": 1794245875.0947628,
   "3ccd0e9f379f": 1792140449.5165539,
   "3ce373b5ef1d": 1792745864.5436523,
   "3cf416b4ddf2": 1792331366.4819434,
@@ -8439,6 +8503,7 @@
   "61aa34c3f355": 1793878890.6430411,
   "61b3ee7fe73e": 1792140446.1809077,
   "61d0cae1406c": 1793899124.2974973,
+  "61dbff6784d6": 1794245862.3090713,
   "61f7810b8d7e": 1792700952.165485,
   "62130b893c76": 1793976782.1834059,
   "62141bc1e1f4": 1793722513.9482038,
@@ -8492,12 +8557,14 @@
   "66c0ac97b729": 1792512935.726863,
   "66f38cdfd40b": 1793032315.2795055,
   "676f9fff4bc7": 1793190599.1693876,
+  "6776c118e7b4": 1794245883.1861372,
   "677c3d49b84f": 1792595642.7679071,
   "677cb8830c31": 1792588204.3411741,
   "677ceda97fe3": 1793993262.7591088,
   "6795f66a5596": 1793882645.5370154,
   "67b6b64d2ccc": 1793282906.335799,
   "67ca62b347d8": 1792729997.0659816,
+  "680c2472b65f": 1794245857.8658526,
   "680dbd1468af": 1793547397.1460586,
   "68121eb1f2ac": 1794149888.163514,
   "6834be2b7d46": 1792331407.3571088,
@@ -8665,6 +8732,7 @@
   "768ba2b74d45": 1793920546.3887112,
   "7692eae017a0": 1794157081.9085934,
   "7693b82982c0": 1792140455.635875,
+  "769aa93ab437": 1794245881.3293073,
   "769ead3218c6": 1792140447.2519543,
   "76b84124645a": 1792607492.4593935,
   "76ba9db8ea84": 1793813132.9959233,
@@ -8674,6 +8742,7 @@
   "76e68338c7fe": 1792140419.3187904,
   "76fe1bc4bc3c": 1793194520.233745,
   "7749436d47a4": 1793843514.243436,
+  "776598ae9c66": 1794245869.6244633,
   "7781174bb3ba": 1792140448.2248943,
   "77846013ebf5": 1792140446.180914,
   "7786e9a269ba": 1793230559.4785864,
@@ -9515,6 +9584,7 @@
   "be3ac7c5b64c": 1792140455.635881,
   "be4b471fd815": 1792584717.2085958,
   "be64c4cebb51": 1792689127.5544784,
+  "be706a8d3e07": 1794245849.874519,
   "be8ba2df6766": 1794179778.2814853,
   "be8fd4603cef": 1793113304.980571,
   "beac5526cdcc": 1793137466.7868047,
@@ -10079,6 +10149,7 @@
   "eacaa76a9a24": 1792768168.6658034,
   "eadf2bef881f": 1792140455.0289192,
   "eb1534b51323": 1794218179.8244898,
+  "eb284b7422fc": 1794245852.945648,
   "eb4cb297fdd9": 1793352681.0453088,
   "eb66b2b76b89": 1793038157.0688102,
   "eba415144f44": 1792664267.2530026,
