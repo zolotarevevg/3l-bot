@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794268610
+   "ok": 1794272298
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794268621
+   "ok": 1794272304
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794268621
+   "ok": 1794272304
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794268606
+   "ok": 1794272259
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794268607
+   "ok": 1794272260
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794268608
+   "ok": 1794272286
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794268610
+   "err_ts": 1794272298
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794268610
+   "ok": 1794272298
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,85 +54,86 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794268601
+   "ok": 1794272249
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794268601
+   "ok": 1794272253
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794268611
+   "ok": 1794272300
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794268620
+   "ok": 1794272304
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794268620
+   "ok": 1794272304
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794268617
+   "ok": 1794272303
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794268601
+   "ok": 1794272249
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794268608
+   "ok": 1794272286
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794268609
+   "ok": 1794272298
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.musicomh.com', port=443): Read timed out. (read timeout=25)",
+   "err_ts": 1794272285,
    "ok": 1794268607
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794268614
+   "ok": 1794272303
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794268623
+   "ok": 1794272306
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794268622
+   "ok": 1794272306
   },
   "Родной звук (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1794268624
+   "ok": 1794272308
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794268623
+   "ok": 1794272307
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794268624
+   "ok": 1794272308
   }
  },
- "heartbeat": "2026-11-09",
+ "heartbeat": "2026-11-10",
  "items": {
   "004314a09ba5": {
    "also": [],
@@ -4775,7 +4776,12 @@
    "why": "хард-рок, не любимый артист, но новый альбом"
   },
   "a34af43555d5": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://readdork.com/news/opus-kink-have-returned-with-low-roader-their-first-single-since-debut-album-the-sweet-goo",
+     "source": "Dork"
+    }
+   ],
    "artist": "Opus Kink",
    "fit": 3,
    "id": "a34af43555d5",
@@ -7447,6 +7453,7 @@
   "0b2ddd3d26fa": 1793101070.030856,
   "0b615c9208f5": 1794179752.091705,
   "0b9ddcef8299": 1794140742.7496202,
+  "0ba3dd51f708": 1794272286.6383798,
   "0bb6aa8a0871": 1793368788.5242617,
   "0bd1e1d7c73b": 1793894779.9073741,
   "0bf3ddcdf4ae": 1792140455.6358778,
@@ -7934,6 +7941,7 @@
   "31a7393a5421": 1792512972.4273078,
   "31b61af21bcb": 1793262579.43894,
   "31bc81fe6593": 1793887323.1219733,
+  "31c0067e9032": 1794272294.3118815,
   "31c1fca6ea2a": 1793444682.1377873,
   "31cb3ce91273": 1792140449.709728,
   "31d0efb8e267": 1792588207.8323843,
@@ -10142,6 +10150,7 @@
   "e49043178e67": 1793230561.3587773,
   "e49098d74058": 1793358876.2056308,
   "e4aad33a03a1": 1792782942.2134178,
+  "e4ac5ecfded0": 1794272289.3875487,
   "e4c3cf67daf2": 1793630670.6857228,
   "e4c8176b9eb6": 1792334830.8639565,
   "e4cde00cb514": 1792140419.6649094,
@@ -10228,6 +10237,7 @@
   "eb284b7422fc": 1794245852.945648,
   "eb4cb297fdd9": 1793352681.0453088,
   "eb66b2b76b89": 1793038157.0688102,
+  "eb80f99b251d": 1794272249.9443865,
   "eba415144f44": 1792664267.2530026,
   "eba784da422c": 1792140446.1809137,
   "ebb475562801": 1792487980.9764705,
@@ -10343,6 +10353,7 @@
   "f3f8e47666ae": 1793993257.7246647,
   "f41570e62486": 1794140742.74961,
   "f42f791bc07b": 1793711242.7056463,
+  "f43828e7ad3e": 1794272292.3834455,
   "f43ae898c8b2": 1793942579.002535,
   "f44a32f70488": 1792140449.844745,
   "f456a3944b59": 1792582350.1808214,
