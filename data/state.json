@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794318942
+   "ok": 1794322449
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794318952
+   "ok": 1794322458
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794318952
+   "ok": 1794322458
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794318931
+   "ok": 1794322428
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794318939
+   "ok": 1794322430
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794318941
+   "ok": 1794322432
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794318946
+   "err_ts": 1794322453
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794318946
+   "ok": 1794322453
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794318915
+   "ok": 1794322422
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794318919
+   "ok": 1794322423
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794318947
+   "ok": 1794322455
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794318952
+   "ok": 1794322457
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794318952
+   "ok": 1794322457
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794318951
+   "ok": 1794322457
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794318915
+   "ok": 1794322417
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794318940
+   "ok": 1794322431
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794318942
+   "ok": 1794322449
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794318940
+   "ok": 1794322431
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794318951
+   "ok": 1794322457
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794318954
+   "ok": 1794322460
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794318953
+   "ok": 1794322459
   },
   "Родной звук (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1794318955
+   "ok": 1794322461
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794318955
+   "ok": 1794322461
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794318956
+   "ok": 1794322462
   }
  },
  "heartbeat": "2026-11-10",
@@ -5335,6 +5335,26 @@
    "ts": 1793794141.9127045,
    "why": "соседний электронный поп, не любимый артист"
   },
+  "b1b057458440": {
+   "also": [],
+   "artist": "Ice Nine Kills",
+   "fit": 2,
+   "id": "b1b057458440",
+   "kind": "ep",
+   "link": "https://readdork.com/news/ice-nine-kills-unleashed-festive-bloodbath-ep",
+   "listen": {},
+   "major": false,
+   "msg_id": 358,
+   "release": "A Very Vicious Christmas",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The horror-metal crew's eight-track Christmas massacre, created for Universal's Halloween Horror Nights, arrives ahead of their biggest ever UK headline show at London's O2 Arena next March.",
+   "summary_ru": "Хоррор-метал группа Ice Nine Kills выпустила рождественский EP из восьми треков A Very Vicious Christmas, созданный для Halloween Horror Nights от Universal. Релиз выходит перед их крупнейшим британским сольным концертом в лондонской O2 Arena в марте.",
+   "title": "Ice Nine Kills have unleashed festive bloodbath EP 'A Very Vicious Christmas'",
+   "ts": 1794322442.4710312,
+   "why": "хард-рок/метал, не любимый артист"
+  },
   "b2627c63c8f9": {
    "also": [
     {
@@ -6545,6 +6565,26 @@
    "ts": 1793272555.4517834,
    "why": "хард-метал, не в жанрах 3L"
   },
+  "e4a80c859106": {
+   "also": [],
+   "artist": "Beach Bunny",
+   "fit": 4,
+   "id": "e4a80c859106",
+   "kind": "single",
+   "link": "https://stereogum.com/2517219/beach-bunny-sign-to-atlantic-share-new-single-vinegar/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 357,
+   "release": "Vinegar",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Beach Bunny Sign To Atlantic, Share New Single “Vinegar” appeared first on Stereogum .",
+   "summary_ru": "Группа Beach Bunny подписала контракт с лейблом Atlantic и выпустила новый сингл «Vinegar». Подробности о дате выхода полного альбома в записи не указаны.",
+   "title": "Beach Bunny Sign To Atlantic, Share New Single “Vinegar”",
+   "ts": 1794322418.5616074,
+   "why": "инди-рок новинка, близкий к дрим-попу звук"
+  },
   "e522bf3e1268": {
    "also": [],
    "artist": "Ruby Gill",
@@ -7365,6 +7405,7 @@
   "001f1eede82e": 1792707199.000006,
   "00245cd66a80": 1793009217.8110826,
   "004314a09ba5": 1793194503.9298596,
+  "004d1f8ad167": 1794322443.0523627,
   "0075f9885681": 1792524750.0565996,
   "007cc87d798c": 1793469110.1308076,
   "00803b5bf319": 1794292543.0867436,
@@ -7379,6 +7420,7 @@
   "011e32149a2d": 1792598304.9127445,
   "0138438ada6b": 1793190587.7472665,
   "01420872ec7b": 1793315571.4234567,
+  "0150c2f3a8d5": 1794322419.4425302,
   "0155b9297de0": 1793637930.7540796,
   "015e5f7450cc": 1792745838.2540324,
   "016fe9944ba0": 1793722500.6488144,
@@ -7850,6 +7892,7 @@
   "23f4c5f747ef": 1793069897.2291517,
   "23f981b3faf4": 1793330635.8492846,
   "241748841404": 1792140455.0717545,
+  "2422a1726348": 1794322445.394344,
   "24441bd5f79e": 1792140455.6358824,
   "24598e6f0c06": 1792142237.7308564,
   "245c69f06d91": 1793375370.3731778,
@@ -7859,6 +7902,7 @@
   "24b361939a3a": 1793190592.6304018,
   "24bfaed9bf5b": 1793230580.630854,
   "24c027f6363f": 1792497218.886947,
+  "24c28c3bef65": 1794322432.00832,
   "24e200d74441": 1793700965.927974,
   "251ad838cad3": 1793894794.5474207,
   "253191cd6e9f": 1793718951.9401636,
@@ -8380,6 +8424,7 @@
   "4c0d756a398a": 1792140419.3187897,
   "4c213bbd29b9": 1792502539.441338,
   "4c37a4315462": 1792684611.387654,
+  "4c409598966c": 1794322449.819769,
   "4c61dca91c6b": 1793358864.1394958,
   "4c671b4757f4": 1792237202.7927878,
   "4c6f8f834940": 1794063029.4465127,
@@ -8586,6 +8631,7 @@
   "5cceba3c9e71": 1792140459.2475762,
   "5ce01f088d80": 1793630687.1074462,
   "5cf5d063b973": 1793402201.8432815,
+  "5d371196bdcb": 1794322434.9271955,
   "5d3ea1095a40": 1793101033.4338644,
   "5d4d4a13e2d3": 1793390408.1214185,
   "5d676a8bd493": 1793240434.9559362,
@@ -8798,6 +8844,7 @@
   "6f6213a531a1": 1793032303.5120356,
   "6f6d28bcd809": 1792600453.3686483,
   "6fcb48a98fd4": 1793230550.2745626,
+  "6fe2077bc120": 1794322437.772967,
   "6fe276ca97a7": 1792165188.7052171,
   "6ffaeb2538df": 1792262237.9721475,
   "700481a47acb": 1793878913.132703,
@@ -9610,6 +9657,7 @@
   "b198aa2b788a": 1793023051.9468699,
   "b1a7a0fe9a7b": 1793979939.2177982,
   "b1aed9b305dd": 1792140419.6649106,
+  "b1b057458440": 1794322441.0948691,
   "b1c1030d0039": 1792140446.1809149,
   "b1d5cd823f01": 1792582357.4732304,
   "b1e8b156271f": 1792140455.028929,
@@ -10249,6 +10297,7 @@
   "e479980f6cc7": 1793286361.5239165,
   "e49043178e67": 1793230561.3587773,
   "e49098d74058": 1793358876.2056308,
+  "e4a80c859106": 1794322417.181831,
   "e4aad33a03a1": 1792782942.2134178,
   "e4ac5ecfded0": 1794272289.3875487,
   "e4c3cf67daf2": 1793630670.6857228,
