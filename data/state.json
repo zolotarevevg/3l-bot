@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794350317
+   "ok": 1794352672
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794350322
+   "ok": 1794352680
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794350322
+   "ok": 1794352680
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794350311
+   "ok": 1794352647
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794350312
+   "ok": 1794352649
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794350316
+   "ok": 1794352650
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794350317
+   "err_ts": 1794352672
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794350317
+   "ok": 1794352672
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794350306
+   "ok": 1794352642
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794350306
+   "ok": 1794352642
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794350319
+   "ok": 1794352673
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794350322
+   "ok": 1794352680
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794350322
+   "ok": 1794352680
   },
   "Pitchfork News": {
    "count": 27,
    "err": "",
-   "ok": 1794350322
+   "ok": 1794352677
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794350300
+   "ok": 1794352642
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794350313
+   "ok": 1794352649
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794350317
+   "ok": 1794352671
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794350312
+   "ok": 1794352649
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794350322
+   "ok": 1794352676
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794350324
+   "ok": 1794352682
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794350323
+   "ok": 1794352681
   },
   "Родной звук (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794350325
+   "ok": 1794352683
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794350325
+   "ok": 1794352682
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794350326
+   "ok": 1794352683
   }
  },
  "heartbeat": "2026-11-10",
@@ -3129,6 +3129,26 @@
    "title": "Boys Noize has teamed up with Brutalismus 3000 for new single ‘Nächstenliebe’",
    "ts": 1793282916.7081385,
    "why": "электроника/техно, вне жанров 3L"
+  },
+  "5a60a53b8ea4": {
+   "also": [],
+   "artist": "King Gizzard & the Lizard Wizard",
+   "fit": 3,
+   "id": "5a60a53b8ea4",
+   "kind": "album",
+   "link": "https://pitchfork.com/story/king-gizzard-and-the-lizard-wizard-announce-new-album-entropy-two-north-american-tours/",
+   "listen": {},
+   "major": false,
+   "msg_id": 372,
+   "release": "Entropy",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "It’s a companion LP to their last album, Alien Metal",
+   "summary_ru": "King Gizzard & the Lizard Wizard анонсировали новый альбом Entropy, парную пластинку к Alien Metal. Также объявлены два североамериканских тура.",
+   "title": "King Gizzard & the Lizard Wizard Announce New Album Entropy, Two North American Tours",
+   "ts": 1794352679.5954726,
+   "why": "соседний психоделический рок, анонс альбома, но не поп"
   },
   "5ae9988e31ec": {
    "also": [],
@@ -8064,6 +8084,7 @@
   "1bf60d94a5d9": 1792582357.473223,
   "1c1a19341b3a": 1792140448.224896,
   "1c1e362f0531": 1793805989.99508,
+  "1c32a969627c": 1794352665.062086,
   "1c640d86fe99": 1794325491.5338504,
   "1c6752d44e95": 1794172569.3740873,
   "1c85d917aef6": 1792508239.3585792,
@@ -8250,6 +8271,7 @@
   "2920745639ad": 1794172572.2035756,
   "298b2acaa44d": 1793700930.747039,
   "298c02e6dfbc": 1793375385.8990054,
+  "29a6ab4adca6": 1794352668.1832123,
   "29aa4ef1cd6f": 1792140455.9615905,
   "29c57e2759e7": 1794338614.463012,
   "29d0149fdff3": 1793809566.0977097,
@@ -8285,6 +8307,7 @@
   "2cd10df29ac5": 1793272542.7162652,
   "2cddaf6fece6": 1793798278.3180728,
   "2cdf049a536c": 1794234272.0598102,
+  "2ce1040cd013": 1794352653.122022,
   "2ce27b9b2682": 1794234283.1732094,
   "2cf12f398f75": 1793838947.9560156,
   "2d0d74d93414": 1792140449.844743,
@@ -8397,6 +8420,7 @@
   "342e26bdcdf3": 1794338605.3217163,
   "34369501961e": 1792140446.1809082,
   "345b1df80d07": 1792668775.198597,
+  "347c477aeeb5": 1794352658.8634157,
   "347dac9c6a77": 1793700968.703376,
   "349a52a89dda": 1793833607.9828033,
   "34b8d9b1a24e": 1793973243.533336,
@@ -8916,6 +8940,7 @@
   "5a0d77396342": 1792707208.1451068,
   "5a2859a86f21": 1793352696.8284037,
   "5a4654d06832": 1793194533.7751865,
+  "5a60a53b8ea4": 1794352677.0778909,
   "5a831b60164a": 1793298458.7108665,
   "5a83bcb0474f": 1792510423.952773,
   "5ab852c64312": 1792691481.895657,
@@ -9024,6 +9049,7 @@
   "6330521441a2": 1793867466.2469075,
   "6333527152f9": 1792620880.984596,
   "633c8a8374fe": 1792413720.500745,
+  "63430a788ef4": 1794352662.2480752,
   "6348c41debf3": 1792659635.2520547,
   "636f788ecffb": 1792202413.4859474,
   "63749dc8dd87": 1792140446.1809075,
@@ -9499,6 +9525,7 @@
   "89b522e809fd": 1792140419.3187902,
   "89d5a0e9c628": 1793878930.303471,
   "89e5ec85b9e7": 1793232721.6769266,
+  "89f0b10f8029": 1794352650.0725064,
   "89f40bc53adc": 1792140456.384752,
   "8a1541a9d297": 1792422140.4139302,
   "8a1bc9c8c553": 1793809598.788612,
@@ -9638,6 +9665,7 @@
   "94dd51b5e994": 1793349421.7051873,
   "94ee1f75dbda": 1793973240.032158,
   "94f842eff83a": 1793700948.692473,
+  "950f4ebeb41a": 1794352656.1326177,
   "9551669cc07e": 1793103442.8948598,
   "9567a211abc7": 1792677602.5091481,
   "95a25e775aa1": 1793182419.62457,
