@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794325506
+   "ok": 1794328480
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794325542
+   "ok": 1794328511
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794325549
+   "ok": 1794328511
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794325474
+   "ok": 1794328467
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794325481
+   "ok": 1794328474
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794325482
+   "ok": 1794328478
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794325506
+   "err_ts": 1794328480
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794325506
+   "ok": 1794328480
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794325461
+   "ok": 1794328451
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794325468
+   "ok": 1794328456
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794325508
+   "ok": 1794328482
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794325542
+   "ok": 1794328511
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794325542
+   "ok": 1794328511
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794325535
+   "ok": 1794328508
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794325456
+   "ok": 1794328439
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794325482
+   "ok": 1794328475
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794325505
+   "ok": 1794328480
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794325481
+   "ok": 1794328475
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794325511
+   "ok": 1794328485
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794325551
+   "ok": 1794328513
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794325550
+   "ok": 1794328512
   },
   "Родной звук (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1794325553
+   "ok": 1794328514
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794325552
+   "ok": 1794328514
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794325553
+   "ok": 1794328515
   }
  },
  "heartbeat": "2026-11-10",
@@ -3549,6 +3549,26 @@
    "ts": 1793704535.1081467,
    "why": "пост-панк и шугейз, новый сингл, неизвестная группа"
   },
+  "6df014914f57": {
+   "also": [],
+   "artist": "Tove Lo",
+   "fit": 3,
+   "id": "6df014914f57",
+   "kind": "single",
+   "link": "https://www.nme.com/news/music/tove-lo-drops-new-single-from-gta-6-soundtrack-blood-in-your-eyes-3975584",
+   "listen": {},
+   "major": false,
+   "msg_id": 361,
+   "release": "Blood In Your Eyes",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "Another new single has been released from the upcoming Grand Theft Auto VI soundtrack – Tove Lo ’s lively track ‘Blood In Your Eyes’. READ MORE: Every song confirmed for the ‘Grand Theft Auto 6’ soundtrack so far The massively anticipated game is set to drop on November 19 – a long 13 years after its predecessor. An accompanying album featuring brand new tracks from some of the biggest artists in the world will launch the following day. Already, eight songs from the album have been officially released, including the Morgan Wallen track ‘Last Thing You Need’, which debuted on the Top 10 on the Billboard Hot 100, Other songs have included Cardi B ’s ‘Don’t Chart’, Fuerza Regida’s ‘Suzuki’, Rauw Alejandro ’s ‘Macacoa 2000’, Keith Richards ’ ‘Bright Lights, Big City’, Travis Scott ’s ‘RHYNO’, Yung Lean ‘That’s It (feat. Future & Metro Boomin )’, and ‘Flower In A Hurricane’ by Justice and featuring Tame Impala , SZA , King Gizzard & The Lizard Wizard . Now, the latest song to be released is a new, feel-good single from Tove Lo. The track captures the same upbeat, playful sound that first put the Swedish singer on the map, and also features on a new GTA 6 video announcing that pre-loads are now live. Check it out below along with the full song. ‘Grand Theft Auto VI: The Album’ is set to feature 34 original tracks that capture the same energy of Vice City. The album will also feature ‘Sexy Magic’, the song released by CA7RIEL & Paco Amoroso , featuring PinkPantheress , Fred again.. , & Étienne de Crécy. Check out all of the confirmed songs for the game here , and the full GTA 6 Launch Gallery here . As well as the album, Rockstar have also promised “the biggest and widest-ranging” selection of music through Grand Theft Auto 6’s in-game radio stations . So far, six radio stations have been announced for the game, including ‘Cocoteo FM’, hosted by Bad Bunny , and ‘The Chamber 106.6’, hosted by Slayer ‘s King Kerry and Tom Araya, and ‘Back Country Radio’ presented by Lana Del Rey and her husband Jeremy Dufrene. Other stations include ‘AfroBank FM’ which is run by Burna Boy , and pop station ‘Flash FM’ hosted by Robyn . Yesterday (Monday November 10) Rockstar Games announced details of Grand Theft Auto 6: The Festival , which will celebrate the release of the game and host performances from Travis Scott, Cardi B and more at a one-day event in Miami. View this post on Instagram Grand Theft Auto 6 is available to pre-load now , ahead of its release on November 19. In the past couple of weeks, Rockstar have revealed that the GTA 6 map is twice as big as the previous game, and that their next game won’t take eight years to develop due to the foundations laid already. The game is predicted to be the most expensive video game ever made and, according to International Business Times, 1.5million people will skip work on release day to play it . In the UK alone, there are at least 83,000 people who have booked time off work for it. The post Tove Lo drops new single ",
+   "summary_ru": "Tove Lo выпустила новый сингл «Blood In Your Eyes» из саундтрека к GTA 6, который выйдет вместе с игрой 19 ноября. Трек звучит в видео о предзаказах; альбом саундтрека содержит 34 оригинальных трека, среди исполнителей Morgan Wallen, Cardi B, Travis Scott, Justice с Tame Impala и SZA.",
+   "title": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’",
+   "ts": 1794328452.38338,
+   "why": "Поп-сингл из саундтрека к игре, жанр вне 3L"
+  },
   "6f18c78a0e75": {
    "also": [],
    "artist": "The Heavy North",
@@ -4329,6 +4349,26 @@
    "ts": 1793032289.6044917,
    "why": "хардкор-панк, концертный обзор без нового релиза"
   },
+  "918b6dbc95c7": {
+   "also": [],
+   "artist": "Sorry",
+   "fit": 5,
+   "id": "918b6dbc95c7",
+   "kind": "single",
+   "link": "https://wrszw.net/sorry-winner/",
+   "listen": {},
+   "major": false,
+   "msg_id": 363,
+   "release": "Winner",
+   "russian": false,
+   "source": "out out - music done",
+   "status": "new",
+   "summary_en": "ノース・ロンドン出身、Asha LorenzとLouis O’Bryenを中心にしたバンド、Sorry。2025年のアルバム『COSPLAY』で、キャラクターを前面に押し出したソングライティングに踏み込んだ彼らが、2月の「Billy Elliot / Alone In Cologne」に続いて、Domino Recording Co.から新曲「Winner」を届けてくれました。 タイトルは「勝者」。ひねくれたユーモアと、どこか醒めた視線で人間を描いてきた彼らのことだから、ただの勝ち誇った歌で終わるはずもありません。グランジにポストパンク、ポストロックまでを気ままに行き来しながら、ひとクセもふたクセもある物語を鳴らしてきたSorry。Ashaの気だるくも甘い歌声が、また新しいキャラクターを連れてきてくれそうです。",
+   "summary_ru": "North London-группа Sorry, которую составляют Asha Lorenz и Louis O'Bryen, выпустила новый сингл «Winner» на Domino Recording Co. Это продолжение после «Billy Elliot / Alone In Cologne» (февраль) и альбома COSPLAY (2025).",
+   "title": "Sorry – “Winner”",
+   "ts": 1794328501.1699033,
+   "why": "любимые соседи по звучанию, новый сингл, артист в жанрах 3L"
+  },
   "926e91f55c9c": {
    "also": [],
    "artist": "Fontaines D.C.",
@@ -4368,6 +4408,26 @@
    "title": "The Offspring have covered The Vandals' 'Oi To The World!' for a punk-rock Christmas",
    "ts": 1794242216.0504882,
    "why": "панк-рок, далеко от жанров 3L"
+  },
+  "93f73c30a6c4": {
+   "also": [],
+   "artist": "Disgrace",
+   "fit": 4,
+   "id": "93f73c30a6c4",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/disgrace-share-subtle-new-single-eyeballs/",
+   "listen": {},
+   "major": false,
+   "msg_id": 362,
+   "release": "Eyeballs",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Disgrace have shared their new single ‘Eyeballs’. Out now, it’s a bold move from the Manchester folk-rock quartet, and it comes ahead of their incoming EP. Disgrace work from their untreated Manchester practice room, with the four-piece utilising borrowed microphones to capture something raw and intimate. The songwriting contains folk… The post Disgrace Share Subtle New Single ‘Eyeballs’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Манчестерский фолк-рок квартет Disgrace выпустил новый сингл «Eyeballs». Трек записан в необработанной репетиционной комнате с одолженными микрофонами и вышел перед готовящимся EP группы.",
+   "title": "Disgrace Share Subtle New Single ‘Eyeballs’",
+   "ts": 1794328472.6738675,
+   "why": "новый сингл и анонс EP, инди-звучание, но фолк-рок"
   },
   "94996dbeff58": {
    "also": [],
@@ -4813,6 +4873,26 @@
    "title": "Queens Of The Stone Age – Perfecth",
    "ts": 1793179199.312461,
    "why": "хард-рок, не любимый артист, но новый альбом"
+  },
+  "a24c6cc67314": {
+   "also": [],
+   "artist": "Palehound",
+   "fit": 4,
+   "id": "a24c6cc67314",
+   "kind": "album",
+   "link": "https://stereogum.com/2517136/palehound-announces-new-album-you-sing-like-youre-joking-hear-natural-disasters/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 359,
+   "release": "You Sing Like You're Joking",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Palehound Announces New Album <em>You Sing Like You’re Joking</em>: Hear “Natural Disasters” appeared first on Stereogum .",
+   "summary_ru": "Palehound анонсировали новый альбом You Sing Like You're Joking и выпустили трек «Natural Disasters». Подробностей о дате выхода и лейбле в записи нет.",
+   "title": "Palehound Announces New Album You Sing Like You’re Joking: Hear “Natural Disasters”",
+   "ts": 1794328444.166553,
+   "why": "инди-рок, новый альбом с синглом, не крупное событие"
   },
   "a34af43555d5": {
    "also": [
@@ -6665,6 +6745,26 @@
    "ts": 1793911566.5316315,
    "why": "хип-хоп, не в жанрах 3L"
   },
+  "eaaed8e10896": {
+   "also": [],
+   "artist": "Sex Week",
+   "fit": 3,
+   "id": "eaaed8e10896",
+   "kind": "album",
+   "link": "https://stereogum.com/2517241/sex-week-announce-debut-album-ears-as-an-organ-of-touch-hear-the-title-track/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 360,
+   "release": "Ears As An Organ Of Touch",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Sex Week Announce Debut Album <em>Ears As An Organ Of Touch</em>: Hear The Title Track appeared first on Stereogum .",
+   "summary_ru": "Sex Week анонсировали дебютный альбом Ears As An Organ Of Touch и выпустили его заглавный трек. Больше подробностей в записи нет.",
+   "title": "Sex Week Announce Debut Album Ears As An Organ Of Touch: Hear The Title Track",
+   "ts": 1794328447.3750846,
+   "why": "анонс дебютника, жанр по записи неясен"
+  },
   "eba415144f44": {
    "also": [],
    "artist": "Alphabet",
@@ -7651,6 +7751,7 @@
   "123227c0a4fa": 1792679935.867533,
   "125f2066c506": 1794252815.3606555,
   "126a0a5d79e3": 1792140460.0458257,
+  "1273f18ea95b": 1794328467.511291,
   "127c5593c948": 1792140447.2519565,
   "1280f0dc02a1": 1794218203.2048829,
   "12927fbd15d3": 1793324734.763236,
@@ -8098,6 +8199,7 @@
   "33e83047c902": 1792773226.291024,
   "33f3fbe0e4de": 1793378070.2234724,
   "33f491d0db11": 1793637973.6914425,
+  "33f76c2a5b22": 1794328447.8270729,
   "340518293301": 1792173603.7228317,
   "341df12a5566": 1792140455.9615912,
   "341f8d9ee9f8": 1793908454.5712588,
@@ -8197,6 +8299,7 @@
   "3adae3a8ebc4": 1793637927.1502182,
   "3adc98305f2d": 1793648310.4500463,
   "3ae8ad07de9b": 1793820621.2053344,
+  "3aecb95cd120": 1794328453.0727353,
   "3aef7ea69b1a": 1793035446.0073454,
   "3b26fc1c0f43": 1792156082.832758,
   "3b2977aa17f7": 1792570312.485603,
@@ -8398,6 +8501,7 @@
   "4901ea46dd1d": 1793090929.750761,
   "490d1c2ad8bb": 1793634117.4179626,
   "4910a2bbcb17": 1792593127.4770179,
+  "491447c3b35c": 1794328485.0128615,
   "493f48f7edab": 1793973257.1898413,
   "497827820914": 1792140419.6649098,
   "49849074169a": 1792246358.0255156,
@@ -8501,6 +8605,7 @@
   "508edc71da07": 1792140462.2817566,
   "50a7382f3e4a": 1793905161.3760633,
   "50d26b78ca51": 1792953660.202691,
+  "5101f87411df": 1794328490.7488873,
   "513a03f7e609": 1794140722.9638526,
   "5161be51ff84": 1793029003.2483103,
   "519458db5521": 1792684584.9816127,
@@ -8831,6 +8936,7 @@
   "6d8ab11f58b6": 1793700937.365961,
   "6dbd11d31f06": 1793923172.5536356,
   "6dc649b9004b": 1793704532.5792603,
+  "6df014914f57": 1794328451.0758095,
   "6e1fb6a87de8": 1793035465.2534149,
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
@@ -8843,6 +8949,7 @@
   "6ebe9547123b": 1792397233.7440054,
   "6eccfd961eb8": 1792533238.24276,
   "6ed0c04e42af": 1793106918.8917892,
+  "6ed9ce83775f": 1794328501.7576466,
   "6eee94deb890": 1792416648.2779644,
   "6ef206eb780e": 1793286345.1918888,
   "6f0dbb3d3a8b": 1792140446.1809132,
@@ -8928,6 +9035,7 @@
   "759679035db5": 1792177974.4335725,
   "759d71760200": 1792580146.8202639,
   "75e263cff6cd": 1792140456.3847508,
+  "760eb5a01b3c": 1794328508.2506502,
   "7614eeaa2e56": 1793137470.1674488,
   "761513d062d8": 1792140455.9615877,
   "7616e2b960c9": 1792160449.239621,
@@ -9267,6 +9375,7 @@
   "915f1c436e4b": 1793128075.928829,
   "91663e0c31df": 1793965204.1124835,
   "9174ede8a45e": 1793130526.6867137,
+  "918b6dbc95c7": 1794328499.7791958,
   "91ae5eb9645b": 1792499765.2437646,
   "91c48ff81934": 1794262902.2188005,
   "91d6ebfd34d5": 1792140455.0289183,
@@ -9296,6 +9405,7 @@
   "93d92df0ce81": 1792404614.7149212,
   "93e5021ebc25": 1793744316.765145,
   "93f17a5dfdaf": 1793894813.259518,
+  "93f73c30a6c4": 1794328470.230484,
   "94262108160d": 1794140742.749631,
   "942a6eb0d8f6": 1792494643.066955,
   "94321d2f2f49": 1793194483.8096924,
@@ -9473,6 +9583,7 @@
   "a2250ca0ad50": 1792140446.180915,
   "a236f66efb81": 1792140446.1809092,
   "a2462fcf8128": 1792826395.976348,
+  "a24c6cc67314": 1794328442.0408077,
   "a255ed262093": 1792140455.6358814,
   "a2859bd4b8a8": 1793973222.1543844,
   "a2876c40d38a": 1793816451.7464707,
@@ -9674,6 +9785,7 @@
   "b18fa19f8b24": 1792169692.9804842,
   "b19823a2c166": 1793275338.7487352,
   "b198aa2b788a": 1793023051.9468699,
+  "b19a0e10d27e": 1794328487.9891553,
   "b1a7a0fe9a7b": 1793979939.2177982,
   "b1aed9b305dd": 1792140419.6649106,
   "b1b057458440": 1794322441.0948691,
@@ -10039,6 +10151,8 @@
   "cf06a4a9b303": 1792580190.0545037,
   "cf2a5bed4b4e": 1793802552.8636565,
   "cf4dc640805c": 1792686893.9321146,
+  "cf5325d8deba": 1794328439.173164,
+  "cf5eae71acd2": 1794328493.8963675,
   "cf7194a03215": 1792796950.410091,
   "cf8a59f7943e": 1792492323.2851028,
   "cf8fc31eaa39": 1792416602.0501945,
@@ -10052,6 +10166,7 @@
   "cffa59b9f1cb": 1792140455.071754,
   "d02d2ed947ff": 1792487977.3466525,
   "d050f509126c": 1794238015.7054255,
+  "d05e90194c82": 1794328504.8983526,
   "d06072968a68": 1793813085.2140238,
   "d075a44a3cd5": 1792140419.3187928,
   "d0780d3167cc": 1793057317.4406536,
@@ -10235,6 +10350,7 @@
   "df50b0fd8673": 1792413736.5080862,
   "df61e59d99af": 1793197892.2779577,
   "dfae1e9146bd": 1792140419.3187928,
+  "dfb0f9fc85bd": 1794328475.7397656,
   "dfba096075f9": 1793113270.3635263,
   "dfbea92be872": 1793726323.2042913,
   "dfbf6977f627": 1793973271.148183,
@@ -10405,6 +10521,7 @@
   "ea93bbaa3497": 1793067461.7998238,
   "ea9ac771498a": 1793197889.045014,
   "eaa4bbe63f26": 1792750452.5662713,
+  "eaaed8e10896": 1794328444.7129142,
   "eab25677f1f1": 1794238035.6300015,
   "eab83437a92c": 1792156046.6465232,
   "eacaa76a9a24": 1792768168.6658034,
@@ -10625,6 +10742,7 @@
   "fb5f63c72ae1": 1793954638.7010288,
   "fb715baab7b9": 1792674634.706975,
   "fb7d9bf433d5": 1793996328.4553187,
+  "fb90f6ff5650": 1794328496.8386788,
   "fb9c461c0e21": 1792140449.844751,
   "fbb73e408c35": 1792146698.0368562,
   "fbbead91c539": 1794179764.8301136,
