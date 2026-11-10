@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794292535
+   "ok": 1794297180
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794292546
+   "ok": 1794297186
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794292546
+   "ok": 1794297186
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794292530
+   "ok": 1794297175
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794292532
+   "ok": 1794297176
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794292533
+   "ok": 1794297177
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794292535
+   "err_ts": 1794297181
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794292535
+   "ok": 1794297181
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794292522
+   "ok": 1794297166
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794292522
+   "ok": 1794297166
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794292536
+   "ok": 1794297182
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794292546
+   "ok": 1794297185
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794292546
+   "ok": 1794297185
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794292546
+   "ok": 1794297185
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794292522
+   "ok": 1794297166
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794292533
+   "ok": 1794297176
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794292534
+   "ok": 1794297177
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794292532
+   "ok": 1794297176
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794292539
+   "ok": 1794297185
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794292548
+   "ok": 1794297187
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794292548
+   "ok": 1794297187
   },
   "Родной звук (TG)": {
    "count": 17,
    "err": "",
-   "ok": 1794292549
+   "ok": 1794297188
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794292549
+   "ok": 1794297188
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794292550
+   "ok": 1794297189
   }
  },
  "heartbeat": "2026-11-10",
@@ -9961,6 +9961,7 @@
   "d65b1b027c24": 1793798281.2256777,
   "d65f1da04baf": 1793208299.0134735,
   "d6826247bbc4": 1792140419.3187897,
+  "d687d1b44d4a": 1794297177.9724257,
   "d68ad288bdc5": 1792202416.5043957,
   "d69518b64a09": 1794234290.5130289,
   "d699e149fdb7": 1792140455.0717523,
