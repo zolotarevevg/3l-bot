@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794402411
+   "ok": 1794407095
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794402420
+   "ok": 1794407130
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794402420
+   "ok": 1794407130
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794402406
+   "ok": 1794407075
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794402408
+   "ok": 1794407089
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794402409
+   "ok": 1794407094
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794402414
+   "err_ts": 1794407096
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794402414
+   "ok": 1794407096
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,84 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794402394
+   "ok": 1794407066
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794402394
+   "ok": 1794407069
   },
   "Nbhap": {
    "count": 8,
-   "err": "",
+   "err": "ReadTimeout: HTTPSConnectionPool(host='www.nbhap.com', port=443): Read timed out. (read timeout=25)",
+   "err_ts": 1794407121,
    "ok": 1794402416
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794402420
+   "ok": 1794407130
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794402419
+   "ok": 1794407129
   },
   "Pitchfork News": {
    "count": 27,
    "err": "",
-   "ok": 1794402419
+   "ok": 1794407124
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794402394
+   "ok": 1794407062
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794402409
+   "ok": 1794407093
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794402411
+   "ok": 1794407095
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1794407093,
    "ok": 1794402408
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794402419
+   "ok": 1794407124
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794402423
+   "ok": 1794407133
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794402422
+   "ok": 1794407131
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794402427
+   "ok": 1794407134
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794402423
+   "ok": 1794407134
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794402428
+   "ok": 1794407138
   }
  },
  "heartbeat": "2026-11-11",
@@ -1326,6 +1328,26 @@
    "title": "Ibex Clone Announce New Album Gravity: Hear The Title Track",
    "ts": 1792530979.2876894,
    "why": "новый альбом и трек, жанр точно не известен"
+  },
+  "20e99168e2e0": {
+   "also": [],
+   "artist": "Armand Hammer",
+   "fit": 2,
+   "id": "20e99168e2e0",
+   "kind": "album",
+   "link": "https://pitchfork.com/story/armand-hammer-surprise-release-new-album-snakes-and-ladders/",
+   "listen": {},
+   "major": false,
+   "msg_id": 375,
+   "release": "Snakes & Ladders",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "Elucid and billy woods’ new project features $ilkmoney, Kenny Segal, and Clipping.",
+   "summary_ru": "Armand Hammer (Elucid и billy woods) неожиданно выпустили новый альбом Snakes & Ladders. В записи участвуют $ilkmoney, Kenny Segal и Clipping.",
+   "title": "Armand Hammer Surprise-Release New Album, Snakes & Ladders",
+   "ts": 1794407126.0048103,
+   "why": "хип-хоп, не в жанрах 3L"
   },
   "211040608ba5": {
    "also": [],
@@ -2766,6 +2788,10 @@
     {
      "link": "https://readdork.com/news/do-nothing-friend-world-album-release-2da7b6c930",
      "source": "Dork"
+    },
+    {
+     "link": "https://diymag.com/review/album/do-nothing-friend-world",
+     "source": "DIY"
     }
    ],
    "artist": "Do Nothing",
@@ -4253,6 +4279,26 @@
    "title": "Chastity Belt – “Friends For This”",
    "ts": 1793656951.3705666,
    "why": "новый трек инди-рок группы, жанр подходит"
+  },
+  "87a1efb397a5": {
+   "also": [],
+   "artist": "Tinashe",
+   "fit": 2,
+   "id": "87a1efb397a5",
+   "kind": "video",
+   "link": "https://pitchfork.com/story/watch-tinashe-bring-popstar-to-the-tonight-show/",
+   "listen": {},
+   "major": false,
+   "msg_id": 376,
+   "release": "Popstar",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "She performed the title track and “Melatonin,” and paid brief homage to Janet Jackson",
+   "summary_ru": "Тинаши выступила в шоу The Tonight Show с титульным треком «Popstar» и песней «Melatonin», а также отдала дань уважения Джанет Джексон. Новость о телевыступлении, а не о новом релизе.",
+   "title": "Watch Tinashe Bring Popstar to The Tonight Show",
+   "ts": 1794407129.024476,
+   "why": "Мейнстрим R&B-поп, ТВ-выступление без нового релиза"
   },
   "87ab40cb988d": {
    "also": [
@@ -8192,6 +8238,7 @@
   "20d4993dff05": 1793529432.0202456,
   "20e054443966": 1793858222.5436695,
   "20e15adbcf6c": 1792625109.7727883,
+  "20e99168e2e0": 1794407124.9690628,
   "20fe7f379da6": 1793269294.0205712,
   "210b173d90d8": 1793552174.673262,
   "211040608ba5": 1794350313.148899,
@@ -8239,6 +8286,7 @@
   "233013bde44e": 1793103439.8940904,
   "2332685efb39": 1792140449.7097278,
   "23385055fc0f": 1793278835.9471056,
+  "233f9e3a8deb": 1794407062.7494545,
   "2340eeb27cb5": 1793651269.2976496,
   "23465ea903f7": 1793894762.8645775,
   "23617083d539": 1792411083.2442558,
@@ -8368,6 +8416,7 @@
   "2d47c01ab3e0": 1793028996.9477026,
   "2d5fe814e4d0": 1792140459.2475772,
   "2d67b560074b": 1793292853.342929,
+  "2d87ecaa2cbb": 1794407066.2844665,
   "2d8b162a5aea": 1794245878.3841317,
   "2d97d6d7f7f2": 1793101021.7718077,
   "2da2727eeb07": 1792643560.5292554,
@@ -8850,6 +8899,7 @@
   "4ddc7c7d921a": 1792140449.8447464,
   "4de7c372af4f": 1793282892.8865678,
   "4ded1df51121": 1793779121.5038774,
+  "4defbee0b71d": 1794407089.6660326,
   "4df40d52e0aa": 1793602196.8082285,
   "4e3783dd43da": 1793798290.3635502,
   "4e3bd443ca29": 1792419545.0536368,
@@ -8957,6 +9007,7 @@
   "55da789a2292": 1792602864.0676343,
   "55f2b6c35e12": 1793032332.8383532,
   "55fb93099503": 1792140447.251956,
+  "5602a825a601": 1794407131.899801,
   "5613f3624de1": 1793802612.5307271,
   "5666f39ba4d8": 1793700913.050029,
   "56ab0fdc7a16": 1793968724.213465,
@@ -9337,6 +9388,7 @@
   "7582fdb18f63": 1794256220.0970376,
   "75862f90e68b": 1794347529.0172057,
   "759679035db5": 1792177974.4335725,
+  "759c5c58ad79": 1794407081.5899444,
   "759d71760200": 1792580146.8202639,
   "75e263cff6cd": 1792140456.3847508,
   "75f50041575e": 1794341864.6491199,
@@ -9545,6 +9597,7 @@
   "85df85fbc4ac": 1793715781.524204,
   "85e43a6506c9": 1792140446.3270457,
   "85e6e38aad46": 1793214901.1938756,
+  "85ecff2fba21": 1794407134.9819477,
   "85f20849a7da": 1793656948.9490097,
   "85f402ab373e": 1793813127.241413,
   "86093838e5d3": 1792140446.180914,
@@ -9569,6 +9622,7 @@
   "87799f4a4aff": 1794179746.6340888,
   "8787bc08a862": 1793707515.1192255,
   "879e59b58f97": 1793704549.5309834,
+  "87a1efb397a5": 1794407126.50956,
   "87ab40cb988d": 1792703186.23031,
   "87c76a10135d": 1793644719.7754688,
   "87e91b7b92ec": 1792140455.028919,
@@ -9681,6 +9735,7 @@
   "90622a89f112": 1792140455.0717528,
   "90852db80b8b": 1792350461.9935637,
   "909466d7101c": 1793809532.7771842,
+  "90a78accbc63": 1794407084.81734,
   "90dd647b017e": 1792770671.9388318,
   "90e8a8d9b496": 1794334672.0265403,
   "90eb4560dda2": 1794314492.2158592,
@@ -9756,6 +9811,7 @@
   "96330c08539f": 1792517964.4208171,
   "963efebf986d": 1792620921.5496438,
   "964179683894": 1793113282.3147047,
+  "965b8f2fff90": 1794407078.631011,
   "966857239bab": 1793659688.0613532,
   "9669c791e71f": 1793611670.7491696,
   "966c6a6d1d24": 1793999215.5256443,
@@ -10700,6 +10756,7 @@
   "deb1f30892e6": 1792140419.4762268,
   "dee89ea944ca": 1793272564.3602817,
   "def44c8d338d": 1793375381.9813018,
+  "defdd1803ad7": 1794407075.8576255,
   "deff74112748": 1793201433.3546443,
   "df15e9d91b60": 1794398401.3704655,
   "df2d09676e35": 1792582326.9854937,
