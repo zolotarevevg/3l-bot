@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794417885
+   "ok": 1794421249
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794417904
+   "ok": 1794421260
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794417905
+   "ok": 1794421260
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794417833
+   "ok": 1794421242
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794417839
+   "ok": 1794421244
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794417841
+   "ok": 1794421245
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794417885
+   "err_ts": 1794421250
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794417885
+   "ok": 1794421249
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794417827
+   "ok": 1794421237
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794417828
+   "ok": 1794421237
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794417887
+   "ok": 1794421251
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794417904
+   "ok": 1794421260
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794417904
+   "ok": 1794421260
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794417898
+   "ok": 1794421257
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794417819
+   "ok": 1794421229
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794417840
+   "ok": 1794421245
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794417881
+   "ok": 1794421246
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794417839
+   "ok": 1794421244
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794417890
+   "ok": 1794421254
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794417908
+   "ok": 1794421263
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794417906
+   "ok": 1794421262
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794417909
+   "ok": 1794421264
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794417908
+   "ok": 1794421264
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794417909
+   "ok": 1794421265
   }
  },
  "heartbeat": "2026-11-11",
@@ -1772,6 +1772,26 @@
    "ts": 1793272545.5456192,
    "why": "Сольный сонграйтер, жанр не ясен из текста"
   },
+  "2e9fdaf2e9e2": {
+   "also": [],
+   "artist": "Racing Mount Pleasant",
+   "fit": 3,
+   "id": "2e9fdaf2e9e2",
+   "kind": "single",
+   "link": "https://stereogum.com/2517628/racing-mount-pleasant-great-destroyer/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 391,
+   "release": "Great Destroyer",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Racing Mount Pleasant – “Great Destroyer” appeared first on Stereogum .",
+   "summary_ru": "Racing Mount Pleasant выпустили новый трек «Great Destroyer», о котором написал Stereogum в рубрике New Music. В записи нет других подробностей о релизе.",
+   "title": "Racing Mount Pleasant – “Great Destroyer”",
+   "ts": 1794421233.9724226,
+   "why": "новый трек, жанр не ясен из записи"
+  },
   "2f4081e0ca44": {
    "also": [],
    "artist": "keshi",
@@ -2939,6 +2959,26 @@
    "title": "Throwing Muses Reissue Self-Titled Debut Album for 40th Anniversary",
    "ts": 1793029007.3560336,
    "why": "переиздание 80-х инди-группы с 4AD, не новая музыка"
+  },
+  "51642060cd6e": {
+   "also": [],
+   "artist": "Runnner",
+   "fit": 4,
+   "id": "51642060cd6e",
+   "kind": "single",
+   "link": "https://stereogum.com/2517624/runnner-announces-new-album-love-songs-from-the-hottest-summer-on-record-hear-want-to-want-to/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 390,
+   "release": "Want To Want To",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Runnner Announces New Album <em>Love Songs From The Hottest Summer On Record</em>: Hear “Want To Want To” appeared first on Stereogum .",
+   "summary_ru": "Runnner анонсировал новый альбом Love Songs From The Hottest Summer On Record и выпустил трек «Want To Want To». Подробностей о лейбле и дате релиза в записи нет.",
+   "title": "Runnner Announces New Album Love Songs From The Hottest Summer On Record: Hear “Want To Want To”",
+   "ts": 1794421231.0779827,
+   "why": "Новый сингл и анонс альбома, инди-звучание"
   },
   "51bfdc5750ad": {
    "also": [],
@@ -8726,6 +8766,7 @@
   "2e924bc6803a": 1793269299.6413019,
   "2e926201cf3c": 1793358864.1394954,
   "2e9fca60ba56": 1793700941.6312706,
+  "2e9fdaf2e9e2": 1794421231.5094976,
   "2ea2fa478c3b": 1794140742.7496288,
   "2eac6fc0f112": 1792140456.3847518,
   "2eba3b0759dc": 1792677664.7420664,
@@ -9223,6 +9264,7 @@
   "4eea7e3c1525": 1792140455.0717552,
   "4ef79dbd819d": 1792659616.0317702,
   "4f26e8f61eec": 1792140449.5165443,
+  "4f331804e1e1": 1794421234.428548,
   "4f37948bc29a": 1793715769.4312506,
   "4f3956b946c6": 1792659612.7369926,
   "4f5c07183d59": 1792748042.3901868,
@@ -9253,6 +9295,7 @@
   "511c6a0bfbb5": 1794331731.7386181,
   "513a03f7e609": 1794140722.9638526,
   "5161be51ff84": 1793029003.2483103,
+  "51642060cd6e": 1794421229.85696,
   "519458db5521": 1792684584.9816127,
   "51a1f9e98d74": 1793894785.691526,
   "51a272434fbf": 1793153898.133303,
@@ -10092,6 +10135,7 @@
   "924580c3d529": 1793358810.9343977,
   "926e91f55c9c": 1792169713.1484814,
   "927a5a1bbc55": 1793197865.841436,
+  "928cc3008422": 1794421257.6816072,
   "929b08848d21": 1792140460.0458226,
   "92a0f5a7afd7": 1792343422.496177,
   "92ada383a213": 1794242213.5910518,
@@ -10153,6 +10197,7 @@
   "96868d0f6b35": 1793113276.2951772,
   "96a8a3d3f1d2": 1792499751.6825202,
   "96ab6eac469e": 1792148985.7453387,
+  "96ea4884c907": 1794421246.4615135,
   "97021c47d5a9": 1793894791.568257,
   "9720288f7f59": 1793794147.5562096,
   "9727773ad86a": 1794179778.2814896,
@@ -11150,6 +11195,7 @@
   "e1928e55e12b": 1792140460.045822,
   "e1aa318b45e7": 1792745855.4120698,
   "e1ac13e90c84": 1793383849.6532578,
+  "e1b019a59ad7": 1794421254.6916382,
   "e1bc8736def5": 1793128072.0765312,
   "e1e2f7678e64": 1794334650.4077702,
   "e1f073460c82": 1793113295.9097314,
