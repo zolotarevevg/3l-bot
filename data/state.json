@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794410384
+   "ok": 1794413920
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794410406
+   "ok": 1794413958
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794410407
+   "ok": 1794413964
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794410356
+   "ok": 1794413903
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794410358
+   "ok": 1794413914
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794410362
+   "ok": 1794413916
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794410384
+   "err_ts": 1794413923
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794410384
+   "ok": 1794413923
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794410340
+   "ok": 1794413883
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794410340
+   "ok": 1794413889
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794410386
+   "ok": 1794413925
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794410406
+   "ok": 1794413957
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794410406
+   "ok": 1794413957
   },
   "Pitchfork News": {
    "count": 27,
    "err": "",
-   "ok": 1794410401
+   "ok": 1794413954
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794410322
+   "ok": 1794413883
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794410359
+   "ok": 1794413915
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794410384
+   "ok": 1794413917
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794410358
+   "ok": 1794413914
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794410389
+   "ok": 1794413928
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794410409
+   "ok": 1794413966
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794410408
+   "ok": 1794413966
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794410410
+   "ok": 1794413968
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794410410
+   "ok": 1794413967
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794410413
+   "ok": 1794413969
   }
  },
  "heartbeat": "2026-11-11",
@@ -981,6 +981,26 @@
    "title": "Jack Harlow is revisiting his ‘Sweet Action’ days with a sequel EP arriving this week",
    "ts": 1793659660.7356331,
    "why": "хип-хоп, мейнстрим, не в жанрах 3L"
+  },
+  "1970b46fe097": {
+   "also": [],
+   "artist": "Oklou",
+   "fit": 4,
+   "id": "1970b46fe097",
+   "kind": "single",
+   "link": "https://pitchfork.com/story/oklou-scored-a-new-animated-film/",
+   "listen": {},
+   "major": false,
+   "msg_id": 382,
+   "release": "The Swirl Ahead",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "The first song off the In Waves soundtrack, “The Swirl Ahead,\" is out now",
+   "summary_ru": "Оклу выпустила первый трек \"The Swirl Ahead\" из саундтрека к анимационному фильму In Waves. Сам саундтрек еще не вышел целиком.",
+   "title": "Oklou Scored a New Animated Film",
+   "ts": 1794413956.885392,
+   "why": "новый трек, электронный поп в духе 3L"
   },
   "19b0cb46dc18": {
    "also": [],
@@ -2617,7 +2637,12 @@
    "why": "Эмбиент и ню-эйдж, далеко от основных жанров 3L"
   },
   "4971171f9791": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://www.clashmusic.com/news/feet-announce-new-album-gung-ho/",
+     "source": "Clash"
+    }
+   ],
    "artist": "FEET",
    "fit": 4,
    "id": "4971171f9791",
@@ -6429,6 +6454,26 @@
    "ts": 1794234261.106238,
    "why": "K-pop, мейнстрим-поп, далеко от жанров 3L"
   },
+  "ce89bc38aa5a": {
+   "also": [],
+   "artist": "Chastity Belt",
+   "fit": 4,
+   "id": "ce89bc38aa5a",
+   "kind": "review",
+   "link": "https://daily.bandcamp.com/album-of-the-day/chastity-belt-all-my-friends-review",
+   "listen": {},
+   "major": false,
+   "msg_id": 383,
+   "release": "All My Friends",
+   "russian": false,
+   "source": "Bandcamp Daily",
+   "status": "new",
+   "summary_en": "The drawn out dreaminess of the band's sixth album creates an insular and occasionally conversational world. Read full story on the Bandcamp Daily .",
+   "summary_ru": "Bandcamp Daily выбрал альбом «All My Friends» от Chastity Belt альбомом дня. Это шестой студийный альбом группы, в котором, по описанию издания, растянутая мечтательность создаёт замкнутый и местами разговорный мир.",
+   "title": "Chastity Belt, “All My Friends”",
+   "ts": 1794413963.652319,
+   "why": "новый инди-альбом, близкий к дрим-попу и инди-року"
+  },
   "cec3f49dd3c3": {
    "also": [],
    "artist": "Amira Elfeky",
@@ -7760,6 +7805,26 @@
    "ts": 1793790743.180382,
    "why": "клаб-поп, соседний жанр, малоизвестный дуэт"
   },
+  "fd931caf6d55": {
+   "also": [],
+   "artist": "U2",
+   "fit": 3,
+   "id": "fd931caf6d55",
+   "kind": "interview",
+   "link": "https://www.nme.com/news/music/u2-interview-carnaval-de-luz-bono-the-edge-new-music-tour-3975696",
+   "listen": {},
+   "major": true,
+   "msg_id": 381,
+   "release": "Carnaval de Luz",
+   "russian": false,
+   "source": "NME",
+   "status": "new",
+   "summary_en": "U2 have spoken to NME about the “defiant joy” of their new album ‘Carnaval de Luz’, the secrets of sticking together after 50 years, “failing the mainstream”, and how their love of Fontaines D.C. , Rosalía and Lambrini Girls keeps them in the game. NME met Bono and The Edge in their London hotel on the afternoon of Guy Fawkes Night, just a couple of days after their intimate album launch show for the BBC at The Tate Modern . While in a similar celebratory spirit to recent homecoming gigs in Dublin marking the band’s 50th anniversary , this career-spanning set in the South Tank was filmed against a 360 degree backdrop of the artwork ‘77 Million Paintings’ by Brian Eno , as the Irish stadium giants paid tribute to their longstanding collaborative relationship with the musician and producer. “He encouraged us to deconstruct our band and our arrangements,” The Edge told NME about what first brought U2 into Eno’s universe, remembering how he encouraged them to relax and “build something from nothing” with early demos for their classic 1984 album, ‘The Unforgettable Fire’. “That was the first exploration and celebration of our limitations, and seeing them not as impediments but things to be explored in a positive way.” U2 with Brian Eno live at The Tate Modern for the BBC. Credit: Rich Fury It’s a spirit that remains with U2 today, with Eno still having a hand in their Jacknife Lee-produced 16th album ‘Carnaval de Luz’. After ordering “a nip” of whiskey for the three of us (Bushmills Black Bush, the Protestant tipple of his late Irish Catholic father) Bono pulled out his phone to play ‘The Slave’ by Trinidadian calypso legend Mighty Sparrow, a recent discovery under recommendation of bassist Adam Clayton. The frontman and guitarist then recalled their memories of hedonistic trips to carnivals in Nice, Gran Canaria and Santa Cruz. “We had Quincy Jones take us to carnival like he was taking us to rob a bank,” remembered Bono of a trip where they got roped into a jam session with a passing float. “He said, ‘I’ll take you to the source of carnival in Bahia’. We thought, ‘This is a real adventure’.” The Edge – who wanted had the ideal for 1991’s seminal ‘Achtung Baby’ to be called ‘Carnalville’ – explained how they’ve always been “very conscious of the fact that we were fucking cheated out of carnival by the Catholic Church in Ireland”. “We got fucking pancakes instead,” he laughed, but the marriage of escapism, partying and politics has always been at the heart of U2. “A lot of carnival was taking the piss out of the landed gentry and the royals. They would mock their costumes and their dancing,” added Bono, pointing to times in history when the celebrations were banned in certain Catholic countries. “Isn’t that amazing? That these big autocrats are frightened of carnival, of freedom? That’s fascism really.” That larger than life spirit and need for “defiant joy” is what drives the band’s effervescent new album ‘Carnaval de Luz’, fittingly launched with th",
+   "summary_ru": "U2 дали интервью NME о своем 16-м альбоме «Carnaval de Luz», спродюсированном Джеком Найфом при участии Брайана Ино. Группа также рассказала о любви к Fontaines D.C., Rosalía и Lambrini Girls и о празднованиях 50-летия коллектива.",
+   "title": "U2: “You have to up your game when people step into the room like Fontaines D.C.”",
+   "ts": 1794413888.415368,
+   "why": "Громкий альбом известной группы, но стадионный рок, не 3L"
+  },
   "fdf20b302208": {
    "also": [],
    "artist": "Maple's Pet Dinosaur",
@@ -8222,6 +8287,7 @@
   "191de94c9b9e": 1794140742.749634,
   "1938e5f6d74d": 1792140460.0458217,
   "1963d9f0d76b": 1793627009.4267206,
+  "1970b46fe097": 1794413954.0049815,
   "1985595087f1": 1793729310.747979,
   "199cf08d08b7": 1792140446.1809065,
   "199e9f740def": 1793278866.9139147,
@@ -8320,6 +8386,7 @@
   "2043ca86c43d": 1792530976.3543844,
   "2048aad6c27f": 1793816476.2430515,
   "204f128ed171": 1792140448.2248952,
+  "205c7df23edb": 1794413931.4832704,
   "20a0c96bf407": 1794234255.8704588,
   "20aa36625201": 1794331791.3064198,
   "20c70e0d35d0": 1793715778.6373062,
@@ -8365,6 +8432,7 @@
   "22a8bc957e78": 1794314466.0676157,
   "22b798924489": 1792140454.9418402,
   "22c644ef636b": 1793417326.1809874,
+  "22cc3e02298b": 1794413942.2975645,
   "22cc6a9ac72d": 1793809568.6559868,
   "22e8f40f5de0": 1793908432.1087985,
   "22f05a25215c": 1792508249.788675,
@@ -8388,6 +8456,7 @@
   "23c74fd7516f": 1793124962.1644003,
   "23f4c5f747ef": 1793069897.2291517,
   "23f981b3faf4": 1793330635.8492846,
+  "241405c8dd07": 1794413948.1882143,
   "241748841404": 1792140455.0717545,
   "2422a1726348": 1794322445.394344,
   "24441bd5f79e": 1792140455.6358824,
@@ -8631,6 +8700,7 @@
   "35ac8a3e9935": 1792140462.2817574,
   "35c0430c3880": 1793634083.7846177,
   "35c36e16f9db": 1793923167.5297937,
+  "35e001573a10": 1794413958.302693,
   "35e6dba1a06a": 1794372155.1668792,
   "35fb4cdbddc8": 1792429169.4514542,
   "360164955324": 1792140455.9615898,
@@ -8961,6 +9031,7 @@
   "4c213bbd29b9": 1792502539.441338,
   "4c37a4315462": 1792684611.387654,
   "4c409598966c": 1794322449.819769,
+  "4c41d904aa98": 1794413951.1165876,
   "4c61dca91c6b": 1793358864.1394958,
   "4c671b4757f4": 1792237202.7927878,
   "4c6f8f834940": 1794063029.4465127,
@@ -9001,6 +9072,7 @@
   "4e3bd443ca29": 1792419545.0536368,
   "4e5592d669c1": 1793427939.9848967,
   "4e6b645be47f": 1792140448.2248857,
+  "4e862cd84886": 1794413945.5602984,
   "4e87e3a224b9": 1794140742.7496033,
   "4e9001ad083f": 1793894755.4309099,
   "4eb9f6f64de6": 1792140449.8447444,
@@ -9090,6 +9162,7 @@
   "54f33345c231": 1792497236.6745937,
   "54fa53c3d795": 1793641356.4566832,
   "5508a72ffbed": 1792505477.734797,
+  "550bd2bf0ca8": 1794413936.8477762,
   "5513d3e4b246": 1792422151.1009116,
   "55252b204d3c": 1793032327.034652,
   "55320a35f189": 1794179778.2814765,
@@ -9126,6 +9199,7 @@
   "57fc3445bdd8": 1792228457.4859502,
   "582655e58227": 1792173600.5714204,
   "582c6c0a1d72": 1793411582.4345202,
+  "583c4d4dea1a": 1794413906.620883,
   "583ec426e020": 1792752822.6748762,
   "58426c4fccca": 1793358854.921807,
   "584dc50d1747": 1793211263.669217,
@@ -9318,6 +9392,7 @@
   "6795f66a5596": 1793882645.5370154,
   "67b6b64d2ccc": 1793282906.335799,
   "67ca62b347d8": 1792729997.0659816,
+  "67ec784efd13": 1794413920.3405845,
   "680c2472b65f": 1794245857.8658526,
   "680dbd1468af": 1793547397.1460586,
   "68121eb1f2ac": 1794149888.163514,
@@ -9335,6 +9410,7 @@
   "693056b7f5c2": 1792158569.604045,
   "696a961ff5be": 1792140449.8447514,
   "69702c21bc0a": 1792140455.0289288,
+  "69708e309ca0": 1794413934.0395586,
   "699481c3b580": 1792668746.6511729,
   "69a48811974b": 1792757273.048859,
   "69ad3b403a40": 1794218238.00885,
@@ -9442,6 +9518,7 @@
   "72225bb5f3a0": 1793641368.8612874,
   "722402c1ca0a": 1792580170.7398224,
   "723aa4a02dfa": 1793627027.3801365,
+  "7249860a909d": 1794413883.43453,
   "725f1b9c2b1a": 1792140448.2248943,
   "72a7bb3a2ba5": 1792140446.1809094,
   "72a988c80797": 1793982935.19607,
@@ -9831,6 +9908,7 @@
   "9003583d56b4": 1792140460.9287455,
   "903eb1c0b466": 1793534007.1569095,
   "904824962b13": 1794140742.749629,
+  "905099ad6329": 1794413939.4839408,
   "9055e0943588": 1792140449.516548,
   "90622a89f112": 1792140455.0717528,
   "90852db80b8b": 1792350461.9935637,
@@ -10391,6 +10469,7 @@
   "b9f789f124d3": 1793358885.9000351,
   "ba12bebb94cb": 1792165220.2133727,
   "ba932da34c59": 1792577660.6593142,
+  "bab2ff7e63e6": 1794413909.8414824,
   "babac65f9ee5": 1792336195.3161216,
   "bad0c207d598": 1792595587.8660197,
   "bae45cc0439f": 1794325544.9476657,
@@ -10655,6 +10734,7 @@
   "ce5a4bbc1bf4": 1793101036.5033722,
   "ce5f32f78e45": 1793208302.4919991,
   "ce654c3bacdf": 1792620897.8801079,
+  "ce89bc38aa5a": 1794413961.1940413,
   "ceaf5fd4dacc": 1794350300.3681998,
   "cec3f49dd3c3": 1793185470.405385,
   "cee53ff01fed": 1793035440.5043952,
@@ -10919,6 +10999,7 @@
   "e28c1b62372d": 1792497224.4252322,
   "e28fe4b5844b": 1793214898.0899599,
   "e2983d269904": 1794140742.7496126,
+  "e2ad8983e8c2": 1794413917.3830853,
   "e2b59ecdba01": 1793194492.4625518,
   "e2bcfdb5990b": 1792140419.3187933,
   "e2bd62a086a9": 1792230524.6862788,
@@ -11179,11 +11260,13 @@
   "f4225ef5bcd0": 1794314505.6952949,
   "f42f791bc07b": 1793711242.7056463,
   "f43828e7ad3e": 1794272292.3834455,
+  "f43934ffe039": 1794413903.367712,
   "f43ae898c8b2": 1793942579.002535,
   "f44a32f70488": 1792140449.844745,
   "f456a3944b59": 1792582350.1808214,
   "f46aa2f3db6e": 1792140449.8447466,
   "f4a96dbc82aa": 1792512948.2513473,
+  "f4ae45cb6905": 1794413928.4420898,
   "f4da41fe8b18": 1792573125.7987974,
   "f4eb30c326f2": 1793324728.6371388,
   "f4f194684c69": 1794314518.3540494,
@@ -11302,6 +11385,7 @@
   "fd76788bec20": 1792664300.3128524,
   "fd7cfee1dcb0": 1793387432.8344715,
   "fd86e4022950": 1793806029.921542,
+  "fd931caf6d55": 1794413886.8693762,
   "fd947dc02a74": 1793023033.3136957,
   "fda2a39bf646": 1793976770.8121645,
   "fdebad9b986b": 1793324737.7610576,
