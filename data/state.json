@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794387632
+   "ok": 1794391489
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794387639
+   "ok": 1794391495
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794387640
+   "ok": 1794391495
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794387625
+   "ok": 1794391461
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794387626
+   "ok": 1794391474
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794387630
+   "ok": 1794391484
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794387635
+   "err_ts": 1794391489
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794387635
+   "ok": 1794391489
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794387620
+   "ok": 1794391433
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794387620
+   "ok": 1794391436
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794387636
+   "ok": 1794391491
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794387639
+   "ok": 1794391494
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794387639
+   "ok": 1794391494
   },
   "Pitchfork News": {
    "count": 27,
    "err": "",
-   "ok": 1794387639
+   "ok": 1794391494
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794387620
+   "ok": 1794391433
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794387627
+   "ok": 1794391477
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794387631
+   "ok": 1794391485
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1794387626,
-   "ok": 1794379640
+   "err": "",
+   "ok": 1794391475
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794387639
+   "ok": 1794391494
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794387643
+   "ok": 1794391500
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794387641
+   "ok": 1794391496
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794387644
+   "ok": 1794391501
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794387643
+   "ok": 1794391501
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794387644
+   "ok": 1794391505
   }
  },
  "heartbeat": "2026-11-11",
@@ -3210,6 +3209,26 @@
    "title": "ENHYPEN are heading into an alternate universe with new single ‘THE SIN : PARALLEL WORLD’",
    "ts": 1793057324.7553291,
    "why": "K-pop, мейнстрим-поп, вне жанров 3L"
+  },
+  "5d249739af36": {
+   "also": [],
+   "artist": "Skepta",
+   "fit": 2,
+   "id": "5d249739af36",
+   "kind": "review",
+   "link": "https://www.nme.com/reviews/album/skepta-the-fork-and-knife-review-3975634",
+   "listen": {},
+   "major": false,
+   "msg_id": 374,
+   "release": "The Fork And Knife",
+   "russian": false,
+   "source": "NME Reviews",
+   "status": "new",
+   "summary_en": "The UK’s social climate has changed a lot since Skepta ‘s last album, 2019’s ‘Ignorance Is Bliss’ . Even in the 33 months since the titan of British rap music first teased ‘The Fork And Knife’ with the single ‘Gas Me Up’ in January 2024, hostility towards immigrants and minorities has surged from fringe to mainstream, reflected by the success of right-wing electoral forces like Reform UK. Skepta’s decision to tackle this landscape head-on in his new LP reflects his confidence and authority at the genre’s summit. READ MORE: Sarah Julia: the folk sister duo finding magic and possibility in change ‘The Fork And Knife’ is full of compelling storytelling about this political picture, modern multiculturalism and the British-Nigerian experience. Ever self-reflective, he digs into childhood confrontations ( “Adenuga, what kind of name is that?” pipes a skit on ‘Secrets Of Patriarchy’), charts seismic social change (“It was ‘no blacks, no dogs, no Irish’ / Now it’s ‘Excuse me, can I help you sir?'” he raps on ‘Currency’) and enlists two-tone pioneer Suggs for ‘Innocent Smile’, an urgent, punk-ish breakbeat rhythm where he vents: “The way that we’re living is wild / Ain’t no love for an immigrant child… MPs lie, they treat us like idiots / How you turn around and blame it on immigrants?” These moments show that Skepta understands his responsibility as an elder of British rap. Still, the tighter, more cohesive structure that underpinned the brilliance of his Mercury Prize-winning mainstream breakthrough ‘Konnichiwa’ is missing. Tracks like ‘Melody’ and ‘Gas Me Up’ lazily squeeze uninsightful bars into ill-fitting rhythmic structures ( “And we just went triple platinum, check the digits / Most of these brothers is tired and washed up bro but they won’t admit it” ), offering a stark warning of how this record could’ve sounded if released at the height of Adenuga’s recent dalliances with bland, Auto-Tuned rap. Thankfully, by biding his time, he’s allowed for enhanced social commentary and the inclusion of some extremely talented emerging rappers, most notably MCs like Kibo and Kruz Leone, who both feature on eight-minute all-star grime rampage ‘Belly’ – a real highlight. Elsewhere, smooth Afrobeat collabs with artists like Asake and French vocalist Aya Nakamura feel natural for a global-facing artist whose relentless overseas hustling was integral to UK rap generating the wide renown it currently enjoys. By closing with dancefloor-crushing Fred Again.. link-up ‘Victory Lap’, Skepta rounds off a globe-conquering portion of his glittering career in music and fashion; nevertheless, ‘The Fork And Knife’ feels more like a raucous live encore than a considered attempt to culminate a cohesive sonic journey. Across the project, examples of impactful storytelling abound – not least the eye-opening dissection of his late-2000s career missteps, identity crisis and subsequent mastery of the grime renaissance in ‘Revenge’ – but you’d hope that such an influential figure wi",
+   "summary_ru": "Рецензия NME на новый альбом Скепты The Fork And Knife, его первый LP после Ignorance Is Bliss (2019). В записи на альбоме Suggs из Madness в треке Innocent Smile, в текстах затронуты политика, иммиграция и британско-нигерийский опыт. Рецензент отмечает сильные социальные темы, но критикует менее цельную структуру по сравнению с Konnichiwa.",
+   "title": "Skepta – ‘The Fork And Knife’ review: timely social commentary amid a hazy narrative structure",
+   "ts": 1794391442.7842553,
+   "why": "британский хип-хоп, не любимый артист"
   },
   "5e7178d8c1ee": {
    "also": [],
@@ -7920,6 +7939,7 @@
   "0ea0b338ed9e": 1792140455.9615836,
   "0ea5610d1c38": 1792406855.018402,
   "0eb1acfb6be5": 1793661947.643429,
+  "0eba28662957": 1794391496.9530838,
   "0ed6b841b05d": 1792413711.9912553,
   "0edde9d1bc4a": 1792426684.5101395,
   "0f0f3ecf4d8e": 1792679931.109047,
@@ -8033,10 +8053,12 @@
   "15d0e00b582b": 1793878941.2578294,
   "15dc730ffb58": 1792316950.3860185,
   "1610f345c454": 1793882624.738032,
+  "161ad013992f": 1794391501.9831693,
   "161c713a50d7": 1794152196.043492,
   "163a217f12d1": 1793805992.682159,
   "1683641ab9fb": 1793878942.3152492,
   "168763a582b0": 1792422143.4614165,
+  "168f3aa21533": 1794391480.7421868,
   "169c87879ee4": 1792140446.1809082,
   "16add8f5729d": 1794234285.6163402,
   "16b7d0a8425a": 1793272572.0160525,
@@ -8255,6 +8277,7 @@
   "25a2712696f3": 1793368790.1483824,
   "25c3aea292a7": 1794154585.2804585,
   "25d8b9314b78": 1793968702.6251938,
+  "2601ef6dfba1": 1794391461.293337,
   "26024080e4af": 1792140455.961591,
   "261e22613c97": 1793194500.7389238,
   "262a03135c9f": 1792140448.2248929,
@@ -8315,6 +8338,7 @@
   "2adb4af0bc80": 1793278853.139163,
   "2afa8e117716": 1792140448.224893,
   "2b07f7d520ac": 1792757295.9080157,
+  "2b55ec2b830d": 1794391475.4559534,
   "2b71e0d94c1e": 1793920532.9334602,
   "2b7cee4a8c7c": 1793962126.0995257,
   "2bc125031393": 1792140455.0717525,
@@ -8769,6 +8793,7 @@
   "4a4633e09c73": 1792656851.1216588,
   "4a4fee5267a6": 1793802558.8844523,
   "4a709f62b2a0": 1792140456.38475,
+  "4a757807251a": 1794391436.437725,
   "4a7c29da96f4": 1793908437.9867835,
   "4a8f43755962": 1792140454.9418387,
   "4aa044a239d8": 1792140454.9418383,
@@ -8870,6 +8895,7 @@
   "51bfdc5750ad": 1793622394.2737758,
   "51dc8bb82b52": 1794262925.082435,
   "51f27dae3254": 1792770689.1093802,
+  "51f475dfb1bf": 1794391467.29475,
   "521cb72facdc": 1792416647.0615003,
   "52290769abf6": 1793128030.078992,
   "522d43695e20": 1793023036.4736774,
@@ -8944,6 +8970,7 @@
   "5765ecf08426": 1792582357.4732194,
   "57710a490b3f": 1792748080.2968533,
   "579d6616ea5d": 1792140446.3270504,
+  "57ac7e5a4efb": 1794391470.1269543,
   "57c535ee4fc1": 1793790768.2923963,
   "57cc8e36ae8a": 1794311256.939928,
   "57fc3445bdd8": 1792228457.4859502,
@@ -9008,6 +9035,7 @@
   "5cceba3c9e71": 1792140459.2475762,
   "5ce01f088d80": 1793630687.1074462,
   "5cf5d063b973": 1793402201.8432815,
+  "5d249739af36": 1794391439.8811612,
   "5d371196bdcb": 1794322434.9271955,
   "5d3ea1095a40": 1793101033.4338644,
   "5d4d4a13e2d3": 1793390408.1214185,
@@ -9529,6 +9557,7 @@
   "86fb27fc97d5": 1792156059.021979,
   "8709c58ae66f": 1792567575.7955592,
   "871478767671": 1792251654.5845404,
+  "872a22acfa41": 1794391477.6765664,
   "87322b1f8cc9": 1792140460.9287438,
   "8743074710e2": 1794225194.5991957,
   "87799f4a4aff": 1794179746.6340888,
@@ -9989,6 +10018,7 @@
   "ab3aa00856ee": 1793057320.3077612,
   "ab4602ddb947": 1793014172.1343734,
   "ab4fdf424071": 1792768214.861843,
+  "ab67f1192278": 1794391464.502084,
   "ab841d122845": 1794140742.7496145,
   "ab91f7941d8e": 1793659661.3286912,
   "ab9246c92211": 1793318187.9887598,
@@ -10153,6 +10183,7 @@
   "b700c3e442f7": 1794338663.2989206,
   "b701cd8d36f3": 1793137463.6668653,
   "b713f6813109": 1794242198.7683523,
+  "b7181cbd4f8b": 1794391433.9649558,
   "b729f7a91a76": 1792737333.4062328,
   "b73ae73dcc84": 1794387641.0801458,
   "b74758bdad7b": 1792492313.3335397,
@@ -10536,6 +10567,7 @@
   "d4f288b8f911": 1793790789.6093304,
   "d5139dfdf51b": 1792140449.7097282,
   "d5204abcd1f1": 1792237225.8804777,
+  "d544d868ef3a": 1794391485.8099518,
   "d5499cd310ba": 1792140448.2248938,
   "d55584412afa": 1793965209.6189678,
   "d559f7c8ab97": 1792492295.6119306,
