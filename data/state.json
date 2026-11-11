@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794365425
+   "ok": 1794368525
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794365437
+   "ok": 1794368537
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794365437
+   "ok": 1794368537
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794365421
+   "ok": 1794368517
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794365422
+   "ok": 1794368518
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794365423
+   "ok": 1794368520
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794365426
+   "err_ts": 1794368525
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794365425
+   "ok": 1794368525
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794365409
+   "ok": 1794368503
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794365410
+   "ok": 1794368504
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794365427
+   "ok": 1794368527
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794365436
+   "ok": 1794368536
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794365436
+   "ok": 1794368536
   },
   "Pitchfork News": {
    "count": 27,
    "err": "",
-   "ok": 1794365436
+   "ok": 1794368536
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794365409
+   "ok": 1794368503
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794365423
+   "ok": 1794368519
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794365424
+   "ok": 1794368521
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794365423
+   "ok": 1794368519
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794365430
+   "ok": 1794368530
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794365439
+   "ok": 1794368539
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794365438
+   "ok": 1794368538
   },
   "Родной звук (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794365440
+   "ok": 1794368541
   },
   "Сломанные пляски (TG)": {
    "count": 7,
    "err": "",
-   "ok": 1794365439
+   "ok": 1794368540
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794365440
+   "ok": 1794368542
   }
  },
  "heartbeat": "2026-11-11",
@@ -787,6 +787,26 @@
    "title": "Miles Davis: Europe ‘71",
    "ts": 1793627035.639267,
    "why": "джаз, вне жанров 3L, архивный релиз"
+  },
+  "1316ec3b7f34": {
+   "also": [],
+   "artist": "",
+   "fit": 2,
+   "id": "1316ec3b7f34",
+   "kind": "review",
+   "link": "http://www.undertheradarmag.com/reviews/a_simple_man_boney_james",
+   "listen": {},
+   "major": false,
+   "msg_id": 373,
+   "release": "A Simple Man",
+   "russian": false,
+   "source": "Under the Radar",
+   "status": "new",
+   "summary_en": "Do you need some sumptuous saxophone in your life? You know you do, and if you do, then you’ve come to the right review.",
+   "summary_ru": "Рецензия Under the Radar на релиз «A Simple Man» с упором на саксофон. Из текста в записи не видно, кто исполнитель и о каком формате идёт речь.",
+   "title": "A Simple Man",
+   "ts": 1794368524.7242148,
+   "why": "вероятно джаз или саксофонный проект, далеко от жанров 3L"
   },
   "138479fbcfdb": {
    "also": [],
@@ -7966,6 +7986,7 @@
   "12f750156afe": 1794262915.7818375,
   "13056f0e215b": 1793038127.7790627,
   "130e7f9f0ab5": 1794140742.749628,
+  "1316ec3b7f34": 1794368521.9157262,
   "13193689fa95": 1792785000.062956,
   "131bb46d494e": 1792600461.7821186,
   "13266ac2cec9": 1793402198.819526,
@@ -9176,6 +9197,7 @@
   "6e1fb6a87de8": 1793035465.2534149,
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
+  "6e5298d7126d": 1794368530.6290138,
   "6e6dbb97461c": 1792140456.3847506,
   "6e80ca584d4e": 1793002851.4980717,
   "6e8393b460ec": 1794234296.382877,
@@ -10938,6 +10960,7 @@
   "f509cb65b9bc": 1793128038.045481,
   "f511b3756eb5": 1793661916.2651613,
   "f513d9fe4edc": 1792140449.516547,
+  "f51edff1b04a": 1794368533.3543549,
   "f5281cb9489e": 1793240423.419321,
   "f5acba843efb": 1793711232.8443146,
   "f5b0dff55287": 1793272568.0709612,
