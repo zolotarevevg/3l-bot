@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794421249
+   "ok": 1794425561
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794421260
+   "ok": 1794425569
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794421260
+   "ok": 1794425570
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794421242
+   "ok": 1794425545
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794421244
+   "ok": 1794425546
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794421245
+   "ok": 1794425554
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794421250
+   "err_ts": 1794425561
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794421249
+   "ok": 1794425561
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794421237
+   "ok": 1794425540
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794421237
+   "ok": 1794425541
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794421251
+   "ok": 1794425563
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794421260
+   "ok": 1794425569
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794421260
+   "ok": 1794425569
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794421257
+   "ok": 1794425569
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794421229
+   "ok": 1794425528
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794421245
+   "ok": 1794425547
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794421246
+   "ok": 1794425560
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794421244
+   "ok": 1794425547
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794421254
+   "ok": 1794425566
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794421263
+   "ok": 1794425572
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794421262
+   "ok": 1794425571
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794421264
+   "ok": 1794425573
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794421264
+   "ok": 1794425572
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794421265
+   "ok": 1794425573
   }
  },
  "heartbeat": "2026-11-11",
@@ -2345,6 +2345,26 @@
    "title": "FaltyDL is exploring life, death and fatherhood on his new album ‘VEGA’",
    "ts": 1792679935.3686829,
    "why": "электроника, новый альбом с анонсом, но не любимый артист"
+  },
+  "42d282504231": {
+   "also": [],
+   "artist": "Gang of Youths",
+   "fit": 4,
+   "id": "42d282504231",
+   "kind": "single",
+   "link": "https://readdork.com/news/gang-youths-bennys-video-dated-album-companero",
+   "listen": {},
+   "major": true,
+   "msg_id": 392,
+   "release": "Benny's Video",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "'Benny's Video' takes its name from a 1992 Michael Haneke film. It's the second single from 'Compañero', due 12th March, and the band have a North American tour lined up for the spring.",
+   "summary_ru": "Gang of Youths выпустили сингл «Benny's Video» и назвали дату нового альбома «Compañero» - 12 марта. Это второй сингл с пластинки; у группы также запланирован североамериканский тур весной.",
+   "title": "Gang of Youths have shared 'Benny's Video' and dated new album 'Compañero' for March",
+   "ts": 1794425555.5911696,
+   "why": "новый сингл и анонс альбома, инди-рок"
   },
   "431acc795054": {
    "also": [],
@@ -8191,6 +8211,7 @@
   "05c8479948da": 1793901929.2696393,
   "05c95c60b65f": 1793124971.6988037,
   "05ecdda2dedc": 1792173631.7756095,
+  "06097450414d": 1794425550.960374,
   "061c85d1505f": 1793790795.3876066,
   "0628059873da": 1793809535.83958,
   "062db0339eb9": 1792768193.2685616,
@@ -8585,6 +8606,7 @@
   "21d009cdd02b": 1793361745.5872495,
   "21d435bacee5": 1792614459.3579214,
   "21da64c06093": 1794152185.6934824,
+  "21e34c574497": 1794425547.9497836,
   "21f3b2cd1c8a": 1792440683.8495347,
   "21f9dac8dfee": 1792580155.3225443,
   "221232e7d1df": 1794304365.4146724,
@@ -9053,6 +9075,7 @@
   "41f7a5cb3a9f": 1792745841.5240855,
   "420cd0380016": 1792505471.2903924,
   "42143c76789b": 1792224778.2659497,
+  "421648e15b84": 1794425531.5223856,
   "4229112470c9": 1792140454.9418397,
   "423500edd833": 1793404515.992173,
   "42370004efab": 1792679934.083065,
@@ -9066,6 +9089,7 @@
   "42b19b2c4292": 1792394162.9122472,
   "42b37d202a4f": 1793211256.8127153,
   "42c032521cc6": 1794365433.767853,
+  "42d282504231": 1794425554.3115482,
   "42db33201c97": 1792419522.009265,
   "42e296c212a7": 1792677632.7247596,
   "430584c02f7f": 1793237045.4729252,
@@ -9668,6 +9692,7 @@
   "6ebe9547123b": 1792397233.7440054,
   "6eccfd961eb8": 1792533238.24276,
   "6ed0c04e42af": 1793106918.8917892,
+  "6ed1d771491d": 1794425528.1982281,
   "6ed9ce83775f": 1794328501.7576466,
   "6eee94deb890": 1792416648.2779644,
   "6ef206eb780e": 1793286345.1918888,
@@ -9993,6 +10018,7 @@
   "872a22acfa41": 1794391477.6765664,
   "87322b1f8cc9": 1792140460.9287438,
   "8743074710e2": 1794225194.5991957,
+  "874f7117faf4": 1794425556.1272223,
   "87799f4a4aff": 1794179746.6340888,
   "878500815187": 1794417881.0017934,
   "8787bc08a862": 1793707515.1192255,
@@ -11034,6 +11060,7 @@
   "d5499cd310ba": 1792140448.2248938,
   "d55584412afa": 1793965209.6189678,
   "d559f7c8ab97": 1792492295.6119306,
+  "d567de99570a": 1794425534.681136,
   "d574441237e3": 1792140455.0717506,
   "d594b303229c": 1792773196.36073,
   "d5df95d8ce11": 1793113258.7860916,
@@ -11171,6 +11198,7 @@
   "e0061ec12746": 1793272578.5970533,
   "e00b2da31894": 1792383609.199037,
   "e01ae27d0d2b": 1793607377.3847947,
+  "e025aff8ede3": 1794425537.3834095,
   "e02dc6e2a336": 1792140446.1809142,
   "e03f37534103": 1792595623.5849202,
   "e047ad45c343": 1793101074.6910698,
