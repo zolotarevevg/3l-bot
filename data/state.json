@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794425561
+   "ok": 1794431182
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794425569
+   "ok": 1794431192
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794425570
+   "ok": 1794431194
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794425545
+   "ok": 1794431177
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794425546
+   "ok": 1794431178
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794425554
+   "ok": 1794431180
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794425561
+   "err_ts": 1794431182
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794425561
+   "ok": 1794431182
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794425540
+   "ok": 1794431165
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794425541
+   "ok": 1794431165
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794425563
+   "ok": 1794431184
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794425569
+   "ok": 1794431192
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794425569
+   "ok": 1794431192
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794425569
+   "ok": 1794431187
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794425528
+   "ok": 1794431151
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794425547
+   "ok": 1794431180
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794425560
+   "ok": 1794431181
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794425547
+   "ok": 1794431179
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794425566
+   "ok": 1794431187
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794425572
+   "ok": 1794431196
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794425571
+   "ok": 1794431195
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794425573
+   "ok": 1794431198
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794425572
+   "ok": 1794431197
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794425573
+   "ok": 1794431198
   }
  },
  "heartbeat": "2026-11-11",
@@ -3364,6 +3364,26 @@
    "ts": 1793958398.0295455,
    "why": "арena-рок, мейнстрим, далеко от инди и синти-попа"
   },
+  "5b2f072be0b5": {
+   "also": [],
+   "artist": "Parent Teacher",
+   "fit": 4,
+   "id": "5b2f072be0b5",
+   "kind": "ep",
+   "link": "https://stereogum.com/2517665/parent-teacher-announces-new-ep-celestial-mom-hear-eight-cents/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 394,
+   "release": "Celestial Mom",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Parent Teacher Announces New EP <em>Celestial Mom</em>: Hear “Eight Cents” appeared first on Stereogum .",
+   "summary_ru": "Parent Teacher анонсировали новый EP Celestial Mom и выпустили трек «Eight Cents». Больше деталей в записи нет.",
+   "title": "Parent Teacher Announces New EP Celestial Mom: Hear “Eight Cents”",
+   "ts": 1794431161.5434525,
+   "why": "Новый EP инди-группы, жанр близкий к 3L"
+  },
   "5cb944a9bea1": {
    "also": [],
    "artist": "ENHYPEN",
@@ -5074,7 +5094,12 @@
    "why": "Новый сингл инди-исполнителя, жанр близок 3L"
   },
   "9b6754e39318": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://stereogum.com/2517666/middle-kids-big-freak/music/",
+     "source": "Stereogum"
+    }
+   ],
    "artist": "Middle Kids",
    "fit": 4,
    "id": "9b6754e39318",
@@ -8069,6 +8094,26 @@
    "ts": 1792698933.6096907,
    "why": "соседний инди-фолк звук, новый EP, неизвестный 3L"
   },
+  "ff1c057e5923": {
+   "also": [],
+   "artist": "Jeanne River",
+   "fit": 4,
+   "id": "ff1c057e5923",
+   "kind": "single",
+   "link": "https://stereogum.com/2517663/jeanne-river-pp2-feat-cameron-winter/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 393,
+   "release": "PP2",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Jeanne River – “PP2” (Feat. Cameron Winter) appeared first on Stereogum .",
+   "summary_ru": "Джин Ривер выпустила сингл «PP2» с участием Кэмерона Винтера. Запись опубликована в рубрике New Music Stereogum.",
+   "title": "Jeanne River – “PP2” (Feat. Cameron Winter)",
+   "ts": 1794431156.741544,
+   "why": "Новый сингл инди-артистки, но вне любимых жанров"
+  },
   "fff38d138391": {
    "also": [
     {
@@ -8182,6 +8227,7 @@
   "03eba9fb9021": 1792750426.4952137,
   "0420311594fd": 1793744319.6105757,
   "04259c4730f9": 1793700950.0935943,
+  "042ea0175621": 1794431151.3495007,
   "04420f0110cc": 1792140447.251953,
   "0449f6e5fa68": 1792674632.2852583,
   "044cf2069006": 1793101083.3982935,
@@ -8518,6 +8564,7 @@
   "1b8ebd38393f": 1792401953.9222965,
   "1b94ea5c5784": 1793726325.0688245,
   "1bc3ceec0e73": 1792580160.6029775,
+  "1bd23575508d": 1794431192.8734553,
   "1bf60d94a5d9": 1792582357.473223,
   "1c1a19341b3a": 1792140448.224896,
   "1c1e362f0531": 1793805989.99508,
@@ -8611,6 +8658,7 @@
   "21f9dac8dfee": 1792580155.3225443,
   "221232e7d1df": 1794304365.4146724,
   "221aa08a47ca": 1792140419.3187878,
+  "2229c5366ec4": 1794431187.3772085,
   "223ce2176870": 1792515294.4774737,
   "224787e2a95d": 1794245854.884455,
   "224a04e94bf4": 1793139710.6061816,
@@ -8749,6 +8797,7 @@
   "2bc4f7801f6e": 1793464625.8378015,
   "2bce5a147f7d": 1793230574.7150214,
   "2bd8983123f9": 1792510453.881489,
+  "2bdea0b579de": 1794431162.1606143,
   "2bee61ec1394": 1794144387.8196473,
   "2c58da35dc33": 1793809563.407328,
   "2c721adf56ae": 1793103428.6831038,
@@ -9450,6 +9499,7 @@
   "5b0c33d33660": 1792605139.374739,
   "5b0cf0c94a81": 1793205009.976132,
   "5b15cad29d11": 1792483699.979192,
+  "5b2f072be0b5": 1794431159.1577787,
   "5b5051f52065": 1794140742.7496362,
   "5b8783d98819": 1792140455.028918,
   "5b9a05231268": 1793011780.3123038,
@@ -9733,6 +9783,7 @@
   "71bdde2d6a22": 1793989379.8004084,
   "71ec6f7a58c4": 1792668758.0212698,
   "72225bb5f3a0": 1793641368.8612874,
+  "7222a35ee8f6": 1794431157.5217342,
   "722402c1ca0a": 1792580170.7398224,
   "723aa4a02dfa": 1793627027.3801365,
   "7249860a909d": 1794413883.43453,
@@ -11645,6 +11696,7 @@
   "ff0c4bcfe1a0": 1794338633.1283355,
   "ff10ed1bd843": 1793190601.2115898,
   "ff11d835db68": 1793790779.9473712,
+  "ff1c057e5923": 1794431154.3871129,
   "ff2bf818309b": 1792140455.961585,
   "ff2f71dfc187": 1793101086.771793,
   "ff3aeda4cd3a": 1793802620.508894,
