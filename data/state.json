@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794524794
+   "ok": 1794527495
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794524802
+   "ok": 1794527515
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794524802
+   "ok": 1794527515
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794524781
+   "ok": 1794527490
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794524783
+   "ok": 1794527492
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794524784
+   "ok": 1794527493
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794524795
+   "err_ts": 1794527499
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794524794
+   "ok": 1794527495
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794524776
+   "ok": 1794527482
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794524776
+   "ok": 1794527482
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794524796
+   "ok": 1794527510
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794524802
+   "ok": 1794527515
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794524802
+   "ok": 1794527515
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794524799
+   "ok": 1794527513
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794524775
+   "ok": 1794527481
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794524783
+   "ok": 1794527493
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794524794
+   "ok": 1794527495
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794524783
+   "ok": 1794527493
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794524799
+   "ok": 1794527512
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794524805
+   "ok": 1794527518
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794524804
+   "ok": 1794527517
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794524806
+   "ok": 1794527520
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794524805
+   "ok": 1794527519
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794524806
+   "ok": 1794527521
   }
  },
  "heartbeat": "2026-11-12",
@@ -6020,6 +6020,26 @@
    "ts": 1792679974.7818675,
    "why": "возможна экспериментальная электроника, жанр не указан"
   },
+  "aed4a5ef244d": {
+   "also": [],
+   "artist": "Warpstr",
+   "fit": 3,
+   "id": "aed4a5ef244d",
+   "kind": "video",
+   "link": "https://www.gorillavsbear.net/video-warpstr-girl/",
+   "listen": {},
+   "major": false,
+   "msg_id": 409,
+   "release": "Girl",
+   "russian": false,
+   "source": "Gorilla vs. Bear",
+   "status": "new",
+   "summary_en": "Video directed by Warpstr ... Continue reading…",
+   "summary_ru": "Вышло видео на трек «Girl» исполнителя Warpstr, режиссёр клипа - сам Warpstr. Остальные подробности в записи не указаны.",
+   "title": "video: Warpstr – Girl",
+   "ts": 1794527498.2264202,
+   "why": "малоизвестный артист, звучание по записи не ясно"
+  },
   "af15950968a1": {
    "also": [],
    "artist": "Tallia Storm",
@@ -8755,6 +8775,7 @@
   "13266ac2cec9": 1793402198.819526,
   "133463cb72a7": 1793726303.1214821,
   "1340a8d5dee4": 1793368779.5781057,
+  "13588c6d5470": 1794527513.0664744,
   "136ed145349f": 1793962074.795887,
   "13803bb369e8": 1792140448.2248926,
   "138479fbcfdb": 1792175857.1966312,
@@ -10986,6 +11007,7 @@
   "aec24799a02f": 1793615459.0465333,
   "aed1f7e35d27": 1793790795.3876035,
   "aed2f45d8830": 1793452998.8810651,
+  "aed4a5ef244d": 1794527495.7240906,
   "aeed3b7b9600": 1793704535.6795483,
   "af015dfd7089": 1793106894.0218103,
   "af0ff42e5b1c": 1792748070.8450563,
