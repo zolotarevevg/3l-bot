@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794478265
+   "ok": 1794482555
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794478274
+   "ok": 1794482562
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794478274
+   "ok": 1794482562
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794478251
+   "ok": 1794482506
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794478259
+   "ok": 1794482519
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794478263
+   "ok": 1794482528
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794478266
+   "err_ts": 1794482556
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794478265
+   "ok": 1794482556
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,83 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794478239
+   "ok": 1794482489
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794478239
+   "ok": 1794482495
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794478267
+   "ok": 1794482557
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794478273
+   "ok": 1794482562
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794478273
+   "ok": 1794482561
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794478273
+   "ok": 1794482561
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794478239
+   "ok": 1794482489
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794478260
+   "ok": 1794482527
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794478264
+   "ok": 1794482555
   },
   "musicOMH": {
    "count": 20,
-   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
-   "err_ts": 1794478259,
-   "ok": 1794474390
+   "err": "",
+   "ok": 1794482523
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794478270
+   "ok": 1794482561
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794478276
+   "ok": 1794482565
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794478275
+   "ok": 1794482564
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794478278
+   "ok": 1794482566
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794478277
+   "ok": 1794482565
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794478279
+   "ok": 1794482567
   }
  },
  "heartbeat": "2026-11-12",
@@ -2517,6 +2516,26 @@
    "ts": 1792419527.5654926,
    "why": "мейнстрим-поп, концертный обзор без нового релиза"
   },
+  "45239175a53b": {
+   "also": [],
+   "artist": "Cliffords",
+   "fit": 4,
+   "id": "45239175a53b",
+   "kind": "single",
+   "link": "https://readdork.com/news/cliffords-rod-my-back-first-single-year",
+   "listen": {},
+   "major": false,
+   "msg_id": 397,
+   "release": "Rod For My Back",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Cork band recorded the song in London with producer Kev Jones, and it deals with being put in a cultural box they never felt part of.",
+   "summary_ru": "Группа Cliffords из Корка выпустила сингл «Rod For My Back», свой первый за год. Песню записали в Лондоне с продюсером Кевом Джонсом, она рассказывает о попытках поместить группу в культурную рамку, к которой они никогда не чувствовали себя причастными.",
+   "title": "Cliffords have shared 'Rod For My Back', their first single in a year",
+   "ts": 1794482542.5429041,
+   "why": "новый инди-рок сингл, близкий жанр, но не любимый артист"
+  },
   "45c44995916e": {
    "also": [],
    "artist": "Bryan Adams",
@@ -3474,6 +3493,26 @@
    "title": "Vayda Links With Niontay On ‘Haunting You’",
    "ts": 1792757284.464674,
    "why": "хип-хоп, без любимых артистов 3L"
+  },
+  "613f1b4c0bcf": {
+   "also": [],
+   "artist": "Teenage Fanclub",
+   "fit": 4,
+   "id": "613f1b4c0bcf",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/live/teenage-fanclub-hackney-church-london-review-musical-craftsmen-refining-their-art-with-love-and-attention",
+   "listen": {},
+   "major": false,
+   "msg_id": 396,
+   "release": "Do Not Dare To Dream",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "Longstanding Scottish five piece showcase new album Do Not Dare To Dream, offering a sense of reassurance and manifestation of constancy in an ever changing world The post Teenage Fanclub @ Hackney Church, London review – “musical craftsmen, refining their art with love and attention” appeared first on musicOMH .",
+   "summary_ru": "Рецензия на концерт Teenage Fanclub в лондонской Hackney Church. Шотландский квинтет показал материал нового альбома Do Not Dare To Dream. Издание отмечает, что группа оттачивает свое искусство с любовью и вниманием.",
+   "title": "Teenage Fanclub @ Hackney Church, London review – “musical craftsmen, refining their art with love and attention”",
+   "ts": 1794482526.483715,
+   "why": "новый альбом инди-группы, жанр близок 3L"
   },
   "61d0cae1406c": {
    "also": [],
@@ -7860,6 +7899,26 @@
    "ts": 1793315579.8289597,
    "why": "K-pop, мейнстрим-поп, не в жанрах 3L"
   },
+  "f8d6416116ec": {
+   "also": [],
+   "artist": "Make Them Suffer",
+   "fit": 2,
+   "id": "f8d6416116ec",
+   "kind": "single",
+   "link": "https://readdork.com/news/make-them-suffer-black-sheep-song-loneliness",
+   "listen": {},
+   "major": false,
+   "msg_id": 398,
+   "release": "Black Sheep",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Perth band's new single, produced and mixed by Dan Braunstein, is out now via SharpTone Records with a video.",
+   "summary_ru": "Группа Make Them Suffer из Перта выпустила сингл «Black Sheep» о одиночестве гастрольной жизни. Трек продюсировал и свёл Дэн Браунштейн, релиз вышел на SharpTone Records, есть видео.",
+   "title": "Make Them Suffer have shared 'Black Sheep', a song about the loneliness of life on tour",
+   "ts": 1794482551.0580883,
+   "why": "метalcore, далеко от жанров 3L"
+  },
   "f9d890b2fcb3": {
    "also": [],
    "artist": "Warpaint",
@@ -8344,6 +8403,7 @@
   "09e91e17bdb5": 1792142237.7308555,
   "09f7e0f2ce01": 1793790777.1263592,
   "09f92cce8cb9": 1794331793.5645814,
+  "0a0bef443510": 1794482531.222866,
   "0a175cea454a": 1792447350.552838,
   "0a23054c8cc0": 1792140419.3187902,
   "0a26b4b389e4": 1793637948.2482097,
@@ -8399,9 +8459,11 @@
   "0e24bf5a5820": 1792140449.8447468,
   "0e2a66bdea98": 1793333915.7655356,
   "0e47828ccca1": 1792940229.1130912,
+  "0e67ac66c755": 1794482551.6292877,
   "0e9d8b9759cb": 1793802570.5728545,
   "0ea0b338ed9e": 1792140455.9615836,
   "0ea5610d1c38": 1792406855.018402,
+  "0eb0da90b920": 1794482519.806969,
   "0eb1acfb6be5": 1793661947.643429,
   "0eba28662957": 1794391496.9530838,
   "0ed6b841b05d": 1792413711.9912553,
@@ -8463,6 +8525,7 @@
   "127e062ed250": 1794450213.3019223,
   "1280f0dc02a1": 1794218203.2048829,
   "12927fbd15d3": 1793324734.763236,
+  "129f601f67c7": 1794482537.2527885,
   "12a321506ac0": 1793641346.6282923,
   "12a43a124eb2": 1793622390.1495998,
   "12b3ba08a6f9": 1792140455.028919,
@@ -8525,6 +8588,7 @@
   "161ad013992f": 1794391501.9831693,
   "161c713a50d7": 1794152196.043492,
   "163a217f12d1": 1793805992.682159,
+  "1652f7fd4f4a": 1794482515.5620298,
   "1683641ab9fb": 1793878942.3152492,
   "168763a582b0": 1792422143.4614165,
   "168f3aa21533": 1794391480.7421868,
@@ -9214,9 +9278,11 @@
   "44e32704f7ec": 1792505491.9044785,
   "44f4fab6681b": 1792748039.5188997,
   "451e0f45f3cf": 1792404592.9865537,
+  "45239175a53b": 1794482539.9982092,
   "453ffefdb9af": 1792861111.8819263,
   "455627629f0c": 1793197822.716074,
   "455ffc9145fe": 1793954619.5653584,
+  "45653780e5bc": 1794482512.628866,
   "4570cda9b24e": 1793356085.8768663,
   "45977fe06408": 1793996351.9485767,
   "45a552b9cf8a": 1794238006.8724713,
@@ -9619,6 +9685,7 @@
   "60eda1a14031": 1792512944.8388238,
   "610d1286c980": 1793973252.3646731,
   "6127921ec5a7": 1794234299.2359736,
+  "613f1b4c0bcf": 1794482523.2856386,
   "615d22f1eb81": 1794234225.81162,
   "6164aa6f188e": 1793894797.5621767,
   "616baa1a8dfb": 1792140446.1809132,
@@ -9676,6 +9743,7 @@
   "65a1d64ec464": 1792602853.0653977,
   "65a9244436c9": 1793282880.0402482,
   "65bcf6c4486c": 1792140447.2519526,
+  "65f6ff783308": 1794482506.6825976,
   "660162b9fefd": 1792765238.4697502,
   "660e2485ed66": 1794009312.97027,
   "6628b66f702f": 1792152825.1655142,
@@ -9713,6 +9781,7 @@
   "69708e309ca0": 1794413934.0395586,
   "699481c3b580": 1792668746.6511729,
   "69a48811974b": 1792757273.048859,
+  "69a4fce74955": 1794482528.1945367,
   "69ad3b403a40": 1794218238.00885,
   "69b37652e73d": 1793715741.0382397,
   "69b9f521aa2d": 1792140454.9418392,
@@ -9722,6 +9791,7 @@
   "6a05f40fc534": 1793185481.556153,
   "6a52ef99fd0e": 1793729354.6238272,
   "6a53158cc1cb": 1792768225.1907177,
+  "6a542d6f8480": 1794482545.7396913,
   "6a548b98ecab": 1792913158.808052,
   "6a62e9a663d5": 1792790871.0148082,
   "6a752bb3a4cc": 1794331759.046965,
@@ -9986,6 +10056,7 @@
   "7e3f05c1470b": 1794417881.0017984,
   "7e47c6d3b62f": 1793890989.3905797,
   "7e4f0620f35e": 1793951393.797792,
+  "7e524d60d782": 1794482534.3116355,
   "7e9332137f0d": 1792401948.768458,
   "7e96c7fc5eed": 1792140448.2248921,
   "7e9f5e0d6aa9": 1792988507.0195827,
@@ -10008,6 +10079,7 @@
   "7f866a3ccbce": 1792620918.3364587,
   "7f8a2e0494a0": 1792600440.5094643,
   "7fab7887a817": 1792664300.312849,
+  "7fae4c553050": 1794482489.299799,
   "7fb0dce05c36": 1793634087.8356254,
   "7fde0bc85218": 1792140460.0458272,
   "7fe99601ab13": 1792140419.6649106,
@@ -10488,6 +10560,7 @@
   "a3b87d50c20c": 1794410371.477122,
   "a3bb7e551e7f": 1793979979.8663733,
   "a3bf28b512a5": 1792595620.8779018,
+  "a3cc036cceb4": 1794482509.508053,
   "a3d0707ab2cd": 1793607398.4743466,
   "a3d2d3276947": 1792696666.0956395,
   "a3d4fb841682": 1792167214.670259,
@@ -11191,6 +11264,7 @@
   "d83be6755b6e": 1794338660.540595,
   "d8516f1c7b5e": 1792575309.8005059,
   "d85f5ba8d965": 1794338611.5184824,
+  "d86d70a2c4e3": 1794482543.0064745,
   "d86fc384d4ba": 1792338128.2548878,
   "d8747e663d6d": 1793159504.2463613,
   "d88293231ba8": 1793023012.8890367,
@@ -11444,6 +11518,7 @@
   "e849cf7e3746": 1792765260.110397,
   "e858c521a861": 1793615400.1529434,
   "e869013804e8": 1793850702.9983287,
+  "e8709bbd5a9f": 1794482492.2284536,
   "e89ab1c5dd31": 1792140455.0289218,
   "e8aceefa0563": 1794135855.025828,
   "e8e92125c7bd": 1794140742.7496207,
@@ -11663,6 +11738,7 @@
   "f8c447c867ae": 1793272555.9764917,
   "f8caa2cfa6c7": 1792458443.8479784,
   "f8cde2013bbe": 1794410404.2430718,
+  "f8d6416116ec": 1794482548.7804627,
   "f8f22d32b496": 1792422147.1035094,
   "f8f3dca1ddb3": 1792140449.5165517,
   "f8fa769ac659": 1792140448.224884,
