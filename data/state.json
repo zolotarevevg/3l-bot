@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794474392
+   "ok": 1794478265
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794474400
+   "ok": 1794478274
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794474401
+   "ok": 1794478274
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794474388
+   "ok": 1794478251
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794474390
+   "ok": 1794478259
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794474391
+   "ok": 1794478263
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794474393
+   "err_ts": 1794478266
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794474393
+   "ok": 1794478265
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794474380
+   "ok": 1794478239
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794474380
+   "ok": 1794478239
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794474394
+   "ok": 1794478267
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794474400
+   "ok": 1794478273
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794474399
+   "ok": 1794478273
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794474399
+   "ok": 1794478273
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794474378
+   "ok": 1794478239
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794474391
+   "ok": 1794478260
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794474392
+   "ok": 1794478264
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1794478259,
    "ok": 1794474390
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794474399
+   "ok": 1794478270
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794474403
+   "ok": 1794478276
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794474402
+   "ok": 1794478275
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794474404
+   "ok": 1794478278
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794474403
+   "ok": 1794478277
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794474405
+   "ok": 1794478279
   }
  },
  "heartbeat": "2026-11-12",
@@ -2372,7 +2373,12 @@
    "why": "новый сингл и анонс альбома, инди-рок"
   },
   "431acc795054": {
-   "also": [],
+   "also": [
+    {
+     "link": "https://www.clashmusic.com/news/gang-of-youths-announce-new-album-companero/",
+     "source": "Clash"
+    }
+   ],
    "artist": "Gang Of Youths",
    "fit": 4,
    "id": "431acc795054",
@@ -8827,6 +8833,7 @@
   "2bd8983123f9": 1792510453.881489,
   "2bdea0b579de": 1794431162.1606143,
   "2bee61ec1394": 1794144387.8196473,
+  "2c0b3511fe8e": 1794478254.7705235,
   "2c58da35dc33": 1793809563.407328,
   "2c721adf56ae": 1793103428.6831038,
   "2c7c9985e497": 1793103425.4808462,
@@ -10307,6 +10314,7 @@
   "96a8a3d3f1d2": 1792499751.6825202,
   "96ab6eac469e": 1792148985.7453387,
   "96c36212c911": 1794435122.639887,
+  "96c74dd9ce6a": 1794478251.5518556,
   "96ea4884c907": 1794421246.4615135,
   "97021c47d5a9": 1793894791.568257,
   "9720288f7f59": 1793794147.5562096,
@@ -11190,6 +11198,7 @@
   "d889aaf06053": 1792338147.1760545,
   "d89d77a038b4": 1792580177.3079207,
   "d8ad32f5eebe": 1793368768.5605652,
+  "d8aea41c14cd": 1794478270.5594342,
   "d8bec5a2af9b": 1794395057.0142438,
   "d8ccfca4c4e6": 1792679977.704332,
   "d8d50d005740": 1793096023.1451097,
@@ -11555,6 +11564,7 @@
   "f0f750fbac1e": 1792140455.635877,
   "f10b80743638": 1792582310.058419,
   "f10fde1dcbbe": 1793805977.5337214,
+  "f123c26bd00c": 1794478260.1691954,
   "f128a1a60eec": 1793871465.8965466,
   "f14929ffeb4c": 1793659682.3339026,
   "f14bcf7a04b2": 1793282856.4317422,
