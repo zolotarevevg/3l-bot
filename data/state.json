@@ -2,14 +2,13 @@
  "health": {
   "Aquarium Drunkard": {
    "count": 15,
-   "err": "ConnectTimeout: HTTPSConnectionPool(host='aquariumdrunkard.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='aquariumdrunkard.com', port=443)",
-   "err_ts": 1794515418,
-   "ok": 1794508410
+   "err": "",
+   "ok": 1794518760
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794515423
+   "ok": 1794518775
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -18,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794515426
+   "ok": 1794518776
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794515388
+   "ok": 1794518704
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794515390
+   "ok": 1794518706
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794515392
+   "ok": 1794518720
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794515419
+   "err_ts": 1794518760
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -46,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794515418
+   "ok": 1794518760
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -55,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794515382
+   "ok": 1794518694
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794515382
+   "ok": 1794518695
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794515420
+   "ok": 1794518772
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794515423
+   "ok": 1794518775
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794515423
+   "ok": 1794518775
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794515423
+   "ok": 1794518775
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794515378
+   "ok": 1794518694
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794515391
+   "ok": 1794518719
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794515393
+   "ok": 1794518759
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794515391
+   "ok": 1794518707
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794515423
+   "ok": 1794518775
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794515429
+   "ok": 1794518778
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794515428
+   "ok": 1794518777
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794515430
+   "ok": 1794518780
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794515429
+   "ok": 1794518779
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794515431
+   "ok": 1794518780
   }
  },
  "heartbeat": "2026-11-12",
@@ -3770,6 +3769,26 @@
    "ts": 1792505491.3051677,
    "why": "панк, далёкий от жанров 3L"
   },
+  "66efbd120283": {
+   "also": [],
+   "artist": "Amma",
+   "fit": 4,
+   "id": "66efbd120283",
+   "kind": "single",
+   "link": "https://readdork.com/news/amma-baby-blues-song-admitting-youre-not",
+   "listen": {},
+   "major": false,
+   "msg_id": 408,
+   "release": "Baby Blues",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The single and video land on the day Amma starts five London nights supporting Skye Newman, and she has been named one of Amazon Music's first Breakthrough Songwriters.",
+   "summary_ru": "Amma выпустила сингл «Baby Blues» с клипом, в день начала пяти лондонских концертов в качестве разогрева Skye Newman. Она также вошла в число первых Breakthrough Songwriters по версии Amazon Music.",
+   "title": "Amma has shared 'Baby Blues', a song about admitting you're not fine",
+   "ts": 1794518748.9940913,
+   "why": "новый сингл с клипом, инди-поп, но не из любимых"
+  },
   "676f9fff4bc7": {
    "also": [],
    "artist": "Everything But The Girl",
@@ -4343,6 +4362,26 @@
    "title": "LA punks Niis have released new EP ‘Play Niis’ alongside a ‘Bad Aim’ video",
    "ts": 1792770700.8810985,
    "why": "панк, далёкий от жанров 3L, без громкого статуса"
+  },
+  "793541dafd86": {
+   "also": [],
+   "artist": "Friendly Fires",
+   "fit": 4,
+   "id": "793541dafd86",
+   "kind": "single",
+   "link": "https://readdork.com/news/friendly-fires-gold-dust-song-waiting-love",
+   "listen": {},
+   "major": false,
+   "msg_id": 407,
+   "release": "Gold Dust",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "'Gold Dust' is the third single from 'Dig Deeper', Friendly Fires' fourth album, which is out on 15th January 2027 via LAB Records.",
+   "summary_ru": "Friendly Fires выпустили сингл Gold Dust, третий трек с четвертого альбома Dig Deeper. Альбом выйдет 15 января 2027 года на лейбле LAB Records.",
+   "title": "Friendly Fires have shared 'Gold Dust', a song about waiting for a love you haven't met yet",
+   "ts": 1794518731.0146253,
+   "why": "новый сингл и анонс альбома, инди-электроника"
   },
   "7960c75d60cb": {
    "also": [],
@@ -8782,6 +8821,7 @@
   "17e9fe3eb45a": 1792773192.5090897,
   "180557fd06c8": 1793146361.0068502,
   "182b5c560892": 1793101057.2333622,
+  "183b95bd24e7": 1794518749.663553,
   "183c6447ba17": 1792140454.9418406,
   "184ec4087207": 1793999218.528337,
   "186cfe3c3af3": 1792526797.237889,
@@ -9117,6 +9157,7 @@
   "2e7d2d2bb842": 1793262582.4886398,
   "2e924bc6803a": 1793269299.6413019,
   "2e926201cf3c": 1793358864.1394954,
+  "2e9e8d9cb438": 1794518737.6075318,
   "2e9fca60ba56": 1793700941.6312706,
   "2e9fdaf2e9e2": 1794421231.5094976,
   "2ea2fa478c3b": 1794140742.7496288,
@@ -9683,6 +9724,7 @@
   "527b96a18b0e": 1793718920.2299967,
   "52b12e62549e": 1792160481.6299381,
   "52c2c4a5f816": 1793116277.0244648,
+  "52c8edc12785": 1794518755.6762853,
   "52cb6833aac8": 1794338678.992639,
   "52d2c2a41b32": 1793032281.7155175,
   "52e3a1911bd1": 1793361753.3255076,
@@ -9830,6 +9872,7 @@
   "5d4d4a13e2d3": 1793390408.1214185,
   "5d676a8bd493": 1793240434.9559362,
   "5d6ff2a12e69": 1793920543.7399182,
+  "5d96ccf42a83": 1794518731.9176779,
   "5d99dec7968f": 1792760006.2763612,
   "5da65cb8cd5a": 1793378065.702359,
   "5dc27bf1ca21": 1792140448.224894,
@@ -9882,6 +9925,7 @@
   "60d2386d983a": 1792584727.6713085,
   "60da101d72df": 1793455811.0403957,
   "60eda1a14031": 1792512944.8388238,
+  "60fad6979f10": 1794518752.9224057,
   "610d1286c980": 1793973252.3646731,
   "6127921ec5a7": 1794234299.2359736,
   "613f1b4c0bcf": 1794482523.2856386,
@@ -9950,6 +9994,7 @@
   "667bb469c08d": 1793035450.9554324,
   "66817e3c7e42": 1794140742.7496328,
   "66c0ac97b729": 1792512935.726863,
+  "66efbd120283": 1794518746.340947,
   "66f38cdfd40b": 1793032315.2795055,
   "66f80b53532f": 1794505218.655499,
   "6755a0e36776": 1794249053.7839334,
@@ -10210,6 +10255,7 @@
   "78eb96971dd3": 1794238012.7210116,
   "79306a7a3192": 1792588224.4116888,
   "7934fdeeaa04": 1793976818.7172265,
+  "793541dafd86": 1794518728.5925667,
   "7960c75d60cb": 1793700962.8642378,
   "797745e6bcf9": 1792582346.9407291,
   "797cafbba08b": 1794218196.0229053,
@@ -10221,6 +10267,7 @@
   "79f5da8809a3": 1794325477.3262558,
   "79fc4dbd9c98": 1794347526.006774,
   "7a2be8bde3d0": 1794331751.624018,
+  "7a3d300f669b": 1794518734.7834039,
   "7a77af3e4fc0": 1792438318.93171,
   "7a7952b4ca9c": 1792140419.664911,
   "7a7e9f4f1a19": 1793707499.9452577,
@@ -10491,6 +10538,7 @@
   "8db94539c8de": 1793032288.1692657,
   "8dd5f7df3006": 1794395068.3373132,
   "8dea6598f1e5": 1794140742.7496305,
+  "8e13c8ad718e": 1794518740.647965,
   "8e2dd385c6ac": 1794318935.4804225,
   "8e319fd2a31d": 1794372158.0890472,
   "8e67d038b1f5": 1793289533.5683293,
@@ -11577,6 +11625,7 @@
   "dcbbe118675a": 1792623148.5752814,
   "dce98e7031cf": 1792140448.2248862,
   "dcf2607e5586": 1793790758.2468898,
+  "dd1b2fe3db4d": 1794518743.385553,
   "dd3c1457f82a": 1792595594.9873903,
   "dd3f21753fb0": 1792510420.1930728,
   "dd98a967c274": 1794314495.3041968,
@@ -11798,6 +11847,7 @@
   "eacaa76a9a24": 1792768168.6658034,
   "eadf2bef881f": 1792140455.0289192,
   "eb1534b51323": 1794218179.8244898,
+  "eb227be849f0": 1794518725.8009887,
   "eb284b7422fc": 1794245852.945648,
   "eb4cb297fdd9": 1793352681.0453088,
   "eb66b2b76b89": 1793038157.0688102,
@@ -11921,9 +11971,11 @@
   "f2f4233b86bf": 1794505232.7091568,
   "f3063d957435": 1794144379.1696732,
   "f308beee5bd2": 1793630678.827549,
+  "f30e189e52fc": 1794518720.1026878,
   "f3179277f3fb": 1794152206.5866587,
   "f32df657b4ba": 1792140419.3187914,
   "f3458a4d00b6": 1792140460.9287457,
+  "f39530423c03": 1794518723.0270438,
   "f3ad4edbdb2c": 1793790749.5382338,
   "f3b147663139": 1794140742.749617,
   "f3be3ec80607": 1793809583.960933,
