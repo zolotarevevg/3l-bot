@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794482555
+   "ok": 1794486436
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794482562
+   "ok": 1794486442
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794482562
+   "ok": 1794486442
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794482506
+   "ok": 1794486403
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794482519
+   "ok": 1794486411
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794482528
+   "ok": 1794486416
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794482556
+   "err_ts": 1794486436
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794482556
+   "ok": 1794486436
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794482489
+   "ok": 1794486386
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794482495
+   "ok": 1794486390
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794482557
+   "ok": 1794486438
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794482562
+   "ok": 1794486442
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794482561
+   "ok": 1794486442
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794482561
+   "ok": 1794486441
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794482489
+   "ok": 1794486386
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794482527
+   "ok": 1794486415
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794482555
+   "ok": 1794486433
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794482523
+   "ok": 1794486414
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794482561
+   "ok": 1794486441
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794482565
+   "ok": 1794486445
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794482564
+   "ok": 1794486444
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794482566
+   "ok": 1794486446
   },
   "Сломанные пляски (TG)": {
    "count": 8,
    "err": "",
-   "ok": 1794482565
+   "ok": 1794486445
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794482567
+   "ok": 1794486446
   }
  },
  "heartbeat": "2026-11-12",
@@ -1756,6 +1756,26 @@
    "title": "Skepta Shares ‘Pandora’s Box’, Confirms The Cause Takeover",
    "ts": 1792768191.012963,
    "why": "грайм/рэп, мимо вкуса 3L"
+  },
+  "2cbe1c84db30": {
+   "also": [],
+   "artist": "Kojaque",
+   "fit": 2,
+   "id": "2cbe1c84db30",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/kojaque-hits-hard-on-new-single-thats-gonna-be-me/",
+   "listen": {},
+   "major": false,
+   "msg_id": 399,
+   "release": "That's Gonna Be Me",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "Irish rapper Kojaque has shared his new single ‘That’s Gonna Be Me’. Out now, the single follows recent one-off release ‘antihistamine’, and it allows Kojaque to build on the impact of his celebrated album ‘PHANTOM OF THE AFTERS’. Pushing back against political darkness, ‘That’s Gonna Be Me’ is a hard-hitting… The post Kojaque Hits Hard On New Single ‘That’s Gonna Be Me’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "Ирландский рэпер Коджак выпустил новый сингл «That's Gonna Be Me», который продолжает одиночный релиз «antihistamine» и развивает успех альбома PHANTOM OF THE AFTERS. Трек посвящён борьбе с политической мрачностью.",
+   "title": "Kojaque Hits Hard On New Single ‘That’s Gonna Be Me’",
+   "ts": 1794486408.8835258,
+   "why": "хип-хоп, вне жанров 3L"
   },
   "2cd10df29ac5": {
    "also": [],
@@ -5102,6 +5122,26 @@
    "title": "Good Health Good Wealth have released debut album ‘The Disco Never Ends’",
    "ts": 1792156055.4170372,
    "why": "новый дебютный альбом инди-группы, жанр близок 3L"
+  },
+  "9a6137bfa52b": {
+   "also": [],
+   "artist": "Part-Time Model",
+   "fit": 4,
+   "id": "9a6137bfa52b",
+   "kind": "ep",
+   "link": "https://readdork.com/news/part-time-model-ep-seen-not-seen",
+   "listen": {},
+   "major": false,
+   "msg_id": 400,
+   "release": "Seen Not Seen",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The Leeds four-piece's EP is out on 9th April via LAB Records, and second single 'Big Fish' arrives today with a video.",
+   "summary_ru": "Лидсовский квартет Part-Time Model анонсировал дебютный EP Seen Not Seen, который выйдет 9 апреля на LAB Records. Вместе с анонсом вышел второй сингл Big Fish о побеге от рутины с девяти до пяти, на него снято видео.",
+   "title": "Part-Time Model have announced debut EP 'Seen Not Seen' and shared 'Big Fish', a song about escaping the 9-5",
+   "ts": 1794486422.0543897,
+   "why": "пост-панк, новый EP и сингл с видео"
   },
   "9a72aece7356": {
    "also": [],
@@ -8753,6 +8793,7 @@
   "21da64c06093": 1794152185.6934824,
   "21e34c574497": 1794425547.9497836,
   "21f3b2cd1c8a": 1792440683.8495347,
+  "21f42141f50b": 1794486422.6419291,
   "21f9dac8dfee": 1792580155.3225443,
   "221232e7d1df": 1794304365.4146724,
   "221aa08a47ca": 1792140419.3187878,
@@ -8903,6 +8944,7 @@
   "2c7c9985e497": 1793103425.4808462,
   "2c7f393eb9c1": 1792768189.779041,
   "2caf0e6c6233": 1792142237.7308605,
+  "2cbe1c84db30": 1794486406.3162467,
   "2cd10df29ac5": 1793272542.7162652,
   "2cddaf6fece6": 1793798278.3180728,
   "2cdf049a536c": 1794234272.0598102,
@@ -9341,6 +9383,7 @@
   "48764be2d5a4": 1792140455.9615915,
   "488fbcadb1ce": 1792140448.2248912,
   "489f190e9670": 1793378073.8805833,
+  "48abf7d0b047": 1794486428.9701872,
   "48ba04323394": 1792492319.6077063,
   "48cf32bce9d7": 1792584706.3512123,
   "48d51bf033b0": 1794387627.7563865,
@@ -9649,6 +9692,7 @@
   "5eac0c6d611e": 1792515323.031293,
   "5eb477ea38b7": 1793188233.2213266,
   "5ee1156c660c": 1792600422.2257273,
+  "5eeee0741e4d": 1794486403.5572484,
   "5eef515940a3": 1793905181.246935,
   "5ef267b1861b": 1794242204.6327286,
   "5f2fc36bc987": 1793282881.0159469,
@@ -9821,6 +9865,7 @@
   "6bea6a140366": 1793278831.3879406,
   "6c02cdbec83d": 1792487962.0225365,
   "6c11f5279eef": 1794304368.5835745,
+  "6c63cd34684b": 1794486433.1524024,
   "6c6dcbff4612": 1794417858.7374957,
   "6c81c4a1faf0": 1793361723.3581347,
   "6c93b0e065ac": 1792620915.8321068,
@@ -9840,6 +9885,7 @@
   "6e2213e499ef": 1792679968.9017446,
   "6e36b732c08f": 1792584700.7732987,
   "6e5298d7126d": 1794368530.6290138,
+  "6e636b2a2e93": 1794486416.0016856,
   "6e6dbb97461c": 1792140456.3847506,
   "6e80ca584d4e": 1793002851.4980717,
   "6e8393b460ec": 1794234296.382877,
@@ -9872,6 +9918,7 @@
   "6fe276ca97a7": 1792165188.7052171,
   "6ffaeb2538df": 1792262237.9721475,
   "700481a47acb": 1793878913.132703,
+  "70148afee245": 1794486386.432763,
   "7016723a5dea": 1792522280.288218,
   "7048051c6fff": 1792408662.4360516,
   "705c430911b8": 1793704544.7071853,
@@ -10415,6 +10462,7 @@
   "9896c0a44801": 1793101086.7717948,
   "98cb9fa4a788": 1793905158.421022,
   "98de91cd3564": 1794438682.7623456,
+  "98ee12c214e7": 1794486411.1745365,
   "99148439c3eb": 1794179778.2814775,
   "991df6bff6ca": 1792431216.5739083,
   "992e14a2e487": 1794417878.4044702,
@@ -10435,6 +10483,7 @@
   "9a3dab0d30d6": 1792140462.2817557,
   "9a48aa0a58c1": 1793899188.4128473,
   "9a53dcb4bc6b": 1793175645.8609421,
+  "9a6137bfa52b": 1794486419.0440743,
   "9a68ffcca1ad": 1792296821.406791,
   "9a6d97d59356": 1792140446.1809149,
   "9a72aece7356": 1792510427.3424282,
@@ -11219,6 +11268,7 @@
   "d48123d5e148": 1793711208.1286352,
   "d491512e60f4": 1792140419.3187916,
   "d496557cefb4": 1793023074.7147512,
+  "d4a01fbe919a": 1794486425.876108,
   "d4aa8895cdc6": 1793770234.9795058,
   "d4c1897f435e": 1793372271.2744906,
   "d4c36486831b": 1794325532.7255754,
