@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794565968
+   "ok": 1794569672
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794565974
+   "ok": 1794569679
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794565974
+   "ok": 1794569680
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794565950
+   "ok": 1794569654
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794565965
+   "ok": 1794569662
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794565967
+   "ok": 1794569671
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794565969
+   "err_ts": 1794569672
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794565969
+   "ok": 1794569672
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794565931
+   "ok": 1794569645
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794565937
+   "ok": 1794569645
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794565971
+   "ok": 1794569674
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794565973
+   "ok": 1794569679
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794565973
+   "ok": 1794569679
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794565973
+   "ok": 1794569677
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794565930
+   "ok": 1794569644
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794565966
+   "ok": 1794569669
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794565968
+   "ok": 1794569672
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794565966
+   "ok": 1794569668
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794565973
+   "ok": 1794569677
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794565976
+   "ok": 1794569681
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794565975
+   "ok": 1794569681
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794565981
+   "ok": 1794569686
   },
   "Сломанные пляски (TG)": {
-   "count": 9,
+   "count": 10,
    "err": "",
-   "ok": 1794565980
+   "ok": 1794569682
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794565982
+   "ok": 1794569686
   }
  },
  "heartbeat": "2026-11-13",
@@ -9991,6 +9991,7 @@
   "584dc50d1747": 1793211263.669217,
   "5854f584cfbf": 1793729319.8238297,
   "585653a4d97d": 1792600449.5720272,
+  "585c8bee3a75": 1794569654.4814346,
   "588bbc82e4ec": 1792140447.2519581,
   "58977be833e1": 1792158578.8012426,
   "58c124ee6c27": 1793899160.5921447,
@@ -11000,6 +11001,7 @@
   "a1b9ce14ff30": 1792146692.554182,
   "a1c683db1f91": 1792429132.0168471,
   "a1d2fd463890": 1793179196.9444022,
+  "a1d5bc19728a": 1794569665.4427164,
   "a1f2945c0e0b": 1793711225.7914326,
   "a21305e9132c": 1792140455.0717502,
   "a2250ca0ad50": 1792140446.180915,
@@ -11411,6 +11413,7 @@
   "be8fd4603cef": 1793113304.980571,
   "beac5526cdcc": 1793137466.7868047,
   "beb97b2e39bc": 1793194485.5399728,
+  "bf0309238d08": 1794569662.4812598,
   "bf133f3761d8": 1792490269.8426087,
   "bf1ca7f7dcc4": 1792750429.0619411,
   "bf30fa1b007c": 1793282897.7507873,
@@ -11988,6 +11991,7 @@
   "e54b3e91aaed": 1792823440.86855,
   "e558e5b16d16": 1794140742.749621,
   "e55f9a2f3563": 1793722536.3772423,
+  "e568af6f2528": 1794569657.761368,
   "e57eb5a4b28b": 1792425024.900194,
   "e57f6bc0247d": 1793711222.8657625,
   "e5971488affe": 1792543837.1574347,
@@ -12116,6 +12120,7 @@
   "ee9536b106df": 1793968747.1457276,
   "eec53405f494": 1793101078.6659098,
   "eeccb46dddd8": 1793899147.6310282,
+  "eecfff749f34": 1794569682.40618,
   "eed796ee0822": 1794331762.7018223,
   "eee13426d8f1": 1793790786.6860542,
   "eee8b8c0b7d3": 1792598292.2264707,
