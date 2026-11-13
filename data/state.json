@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794605062
+   "ok": 1794608208
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794605067
+   "ok": 1794608213
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794605068
+   "ok": 1794608214
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794605055
+   "ok": 1794608200
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794605056
+   "ok": 1794608201
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794605058
+   "ok": 1794608203
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794605062
+   "err_ts": 1794608208
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794605062
+   "ok": 1794608208
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794605043
+   "ok": 1794608192
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794605043
+   "ok": 1794608193
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794605064
+   "ok": 1794608210
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794605067
+   "ok": 1794608213
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794605067
+   "ok": 1794608213
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1794605067
+   "ok": 1794608213
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794605043
+   "ok": 1794608192
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794605057
+   "ok": 1794608203
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794605059
+   "ok": 1794608208
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794605057
+   "ok": 1794608202
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794605067
+   "ok": 1794608213
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794605069
+   "ok": 1794608216
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794605069
+   "ok": 1794608215
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1794605070
+   "ok": 1794608218
   },
   "Сломанные пляски (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1794605070
+   "ok": 1794608217
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794605071
+   "ok": 1794608219
   }
  },
  "heartbeat": "2026-11-13",
@@ -7714,6 +7714,26 @@
    "ts": 1793375333.828414,
    "why": "хип-хоп, вне жанров 3L"
   },
+  "d7e540d0916c": {
+   "also": [],
+   "artist": "Devon Again",
+   "fit": 2,
+   "id": "d7e540d0916c",
+   "kind": "single",
+   "link": "https://readdork.com/news/devon-again-broken-ballpoint-pen-single-slug",
+   "listen": {},
+   "major": false,
+   "msg_id": 438,
+   "release": "slug",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The track is out now via Amusement / Interscope, as she opens for Olivia Rodrigo on the Unraveled Tour.",
+   "summary_ru": "Девон Эгейн выпустила новый сингл «slug» на лейбле Amusement / Interscope. Артистка выступит на разогреве у Olivia Rodrigo в рамках арена-тура Unraveled.",
+   "title": "Devon Again has shared new single ‘slug’ ahead of her arena tour with Olivia Rodrigo",
+   "ts": 1794608206.2798862,
+   "why": "мейнстрим-поп, новый сингл, не любимый артист"
+  },
   "d7e97ba7f860": {
    "also": [],
    "artist": "Everything Everything",
@@ -12319,6 +12339,7 @@
   "d7a044b2c9e3": 1794553735.6588066,
   "d7abbfc50680": 1794417881.001793,
   "d7ce74398c8d": 1793375327.692781,
+  "d7e540d0916c": 1794608203.734137,
   "d7e97ba7f860": 1793838942.8631327,
   "d7ec5e751030": 1793979970.2346346,
   "d7fa34729006": 1792140460.9287436,
