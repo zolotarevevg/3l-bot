@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794594521
+   "ok": 1794598255
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794594536
+   "ok": 1794598261
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794594537
+   "ok": 1794598261
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794594512
+   "ok": 1794598244
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794594514
+   "ok": 1794598245
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794594516
+   "ok": 1794598247
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794594521
+   "err_ts": 1794598256
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794594521
+   "ok": 1794598255
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794594492
+   "ok": 1794598229
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794594496
+   "ok": 1794598229
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794594525
+   "ok": 1794598257
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794594536
+   "ok": 1794598261
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794594536
+   "ok": 1794598261
   },
   "Pitchfork News": {
    "count": 29,
    "err": "",
-   "ok": 1794594528
+   "ok": 1794598260
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794594480
+   "ok": 1794598212
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794594516
+   "ok": 1794598247
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794594517
+   "ok": 1794598252
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794594515
+   "ok": 1794598246
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794594528
+   "ok": 1794598260
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794594541
+   "ok": 1794598263
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794594540
+   "ok": 1794598262
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1794594542
+   "ok": 1794598263
   },
   "Сломанные пляски (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1794594542
+   "ok": 1794598263
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794594543
+   "ok": 1794598264
   }
  },
  "heartbeat": "2026-11-13",
@@ -433,6 +433,26 @@
    "title": "Album Of The Week: Willi Carlisle The Universal Bubba",
    "ts": 1793729319.2367365,
    "why": "кантри-рок и фолк, вне жанров 3L"
+  },
+  "07ba765d42e4": {
+   "also": [],
+   "artist": "54 Ultra",
+   "fit": 4,
+   "id": "07ba765d42e4",
+   "kind": "single",
+   "link": "https://stereogum.com/2517941/54-ultra-clairo-collab-honeymoon/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 434,
+   "release": "Honeymoon",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post 54 Ultra Shares Clairo Collab “Honeymoon” appeared first on Stereogum .",
+   "summary_ru": "54 Ultra выпустили совместный трек «Honeymoon» с Clairo. Новость опубликована в рубрике New Music у Stereogum.",
+   "title": "54 Ultra Shares Clairo Collab “Honeymoon”",
+   "ts": 1794598215.3640125,
+   "why": "Новый совместный сингл с Clairo, близко к бедрум-попу"
   },
   "08d50fc0497a": {
    "also": [],
@@ -2758,6 +2778,26 @@
    "title": "Tyla Brings Neon Spectacle And Popiano Sounds To London’s O2 Academy Brixton",
    "ts": 1792419527.5654926,
    "why": "мейнстрим-поп, концертный обзор без нового релиза"
+  },
+  "44e2a029b2c2": {
+   "also": [],
+   "artist": "Veeze",
+   "fit": 2,
+   "id": "44e2a029b2c2",
+   "kind": "single",
+   "link": "https://stereogum.com/2517955/veeze-guillermoandrade/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 436,
+   "release": "guillermoandrade",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Veeze – “guillermoandrade” appeared first on Stereogum .",
+   "summary_ru": "Veeze выпустил новый трек «guillermoandrade». В тегах записи также указан Babyface Ray, возможно, он участвует в треке. Подробностей в тексте записи нет.",
+   "title": "Veeze – “guillermoandrade”",
+   "ts": 1794598224.422472,
+   "why": "хип-хоп, не любимый артист 3L"
   },
   "45239175a53b": {
    "also": [
@@ -5180,6 +5220,26 @@
    "title": "Лео Канделаки сделал песню для своего персонажа из «Тайного города»",
    "ts": 1793958428.9107795,
    "why": "рок от актера для сериала, не инди"
+  },
+  "8a4bc392df27": {
+   "also": [],
+   "artist": "Brògeal",
+   "fit": 3,
+   "id": "8a4bc392df27",
+   "kind": "single",
+   "link": "https://stereogum.com/2517892/brogeal-the-last-noel-feat-rianne-downey/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 435,
+   "release": "The Last Noel",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Brògeal – “The Last Noel” (Feat. Rianne Downey) appeared first on Stereogum .",
+   "summary_ru": "Новый сингл Brògeal «The Last Noel» с участием Rianne Downey. Запись опубликована в рубрике New Music у Stereogum, других деталей в тексте нет.",
+   "title": "Brògeal – “The Last Noel” (Feat. Rianne Downey)",
+   "ts": 1794598221.2739813,
+   "why": "новый сингл малоизвестного артиста, звучание не ясно"
   },
   "8b143ede4fb2": {
    "also": [
@@ -9090,6 +9150,7 @@
   "0782e8e0aa73": 1792750455.4308333,
   "079eecda863f": 1793029017.7369356,
   "07b9aee1929a": 1794501915.2792811,
+  "07ba765d42e4": 1794598212.8211052,
   "07c1af3f3f04": 1793644758.7305386,
   "07c24704ffee": 1792140448.2248955,
   "07cb58b1c7cd": 1792659598.5140214,
@@ -9278,6 +9339,7 @@
   "133463cb72a7": 1793726303.1214821,
   "1340a8d5dee4": 1793368779.5781057,
   "13588c6d5470": 1794527513.0664744,
+  "13687795cbd5": 1794598247.5234306,
   "136ed145349f": 1793962074.795887,
   "13803bb369e8": 1792140448.2248926,
   "138479fbcfdb": 1792175857.1966312,
@@ -10069,6 +10131,7 @@
   "44b2528409f8": 1792419524.7455919,
   "44d1e1cfe2e8": 1794152198.4660196,
   "44da2b1bbb09": 1793871490.6199694,
+  "44e2a029b2c2": 1794598221.8847163,
   "44e32704f7ec": 1792505491.9044785,
   "44f4fab6681b": 1792748039.5188997,
   "451e0f45f3cf": 1792404592.9865537,
@@ -10218,6 +10281,7 @@
   "4d35609a534f": 1792343402.9478714,
   "4d38e9b02fa6": 1792156079.437658,
   "4d3ee6bdddfa": 1792146709.2625952,
+  "4d3f0d5247ae": 1794598215.8510883,
   "4d547a95b4af": 1794238026.7452931,
   "4d5b57173fb5": 1794508420.4949532,
   "4d5b73501f6c": 1794387632.1476653,
@@ -11095,6 +11159,7 @@
   "8a227d049bed": 1792577667.6337144,
   "8a32120db542": 1793958426.2404733,
   "8a408e6752f7": 1793119519.6023667,
+  "8a4bc392df27": 1794598218.5425127,
   "8a5bd8b4f880": 1794565976.958034,
   "8a5be2ef8191": 1793356069.9559402,
   "8a618176ff38": 1793098756.9630597,
@@ -11590,6 +11655,7 @@
   "acabb43d1aa3": 1792140456.384748,
   "acb106477ad4": 1792770669.0576847,
   "acd498c95550": 1793986190.6083138,
+  "ace7f3ad8a8d": 1794598224.7761707,
   "aceb38d138bd": 1793330638.8731155,
   "acf72b6c08c6": 1792148969.8518102,
   "ad1cee64aa5e": 1794238004.045734,
@@ -11731,6 +11797,7 @@
   "b4beca744b9a": 1794140742.7496367,
   "b4d51795ee97": 1793286329.2510705,
   "b50932936454": 1793101049.5799546,
+  "b52cfbf3792b": 1794598252.8888667,
   "b53d438228d6": 1793282917.2944787,
   "b54dc7cce185": 1792408639.112622,
   "b5556f67efe4": 1793137513.843012,
