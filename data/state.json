@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794558314
+   "ok": 1794562184
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794558319
+   "ok": 1794562189
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794558320
+   "ok": 1794562189
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794558302
+   "ok": 1794562152
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794558304
+   "ok": 1794562159
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794558312
+   "ok": 1794562164
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794558314
+   "err_ts": 1794562184
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794558314
+   "ok": 1794562184
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794558291
+   "ok": 1794562145
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794558291
+   "ok": 1794562145
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794558316
+   "ok": 1794562186
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794558319
+   "ok": 1794562189
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794558319
+   "ok": 1794562189
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794558319
+   "ok": 1794562189
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794558290
+   "ok": 1794562144
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794558312
+   "ok": 1794562161
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794558314
+   "ok": 1794562183
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794558305
+   "ok": 1794562160
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794558319
+   "ok": 1794562189
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794558325
+   "ok": 1794562192
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794558321
+   "ok": 1794562191
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794558327
+   "ok": 1794562193
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794558326
+   "ok": 1794562193
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794558328
+   "ok": 1794562197
   }
  },
  "heartbeat": "2026-11-13",
@@ -3989,6 +3989,26 @@
    "ts": 1793295854.3570235,
    "why": "анонс дебюта участника дрим-попа, близкого Beach House"
   },
+  "6b81c2072bd7": {
+   "also": [],
+   "artist": "Say Now",
+   "fit": 2,
+   "id": "6b81c2072bd7",
+   "kind": "ep",
+   "link": "https://www.nme.com/reviews/album/say-now-say-what-you-see-ep-review-3975820",
+   "listen": {},
+   "major": false,
+   "msg_id": 415,
+   "release": "Say What You See",
+   "russian": false,
+   "source": "NME Reviews",
+   "status": "new",
+   "summary_en": "Say Now ‘s debut EP arrives four years after they launched as Needanamebro, a gimmicky moniker they swapped out around 12 months later. On the one hand, ‘Say What You See’ does feel a bit tardy – or at least a long time coming. But on the other, Say Now’s steady build since 2022 – support slots with Kylie Minogue and JADE , followed by festival sets this summer – reflects the patience it now takes to break a new British girl group. When Say Now appeared on NME ’s The Cover just over a year ago, band member Amelia Onuorah noted wryly: “If we were industry plants, we’d have a Number One single by now.” READ MORE: On The Cover: Say Now are bringing back the chaotic energy of iconic UK girl groups At the time, Say Now were promoting ‘Supermarket’, a glossy single clearly indebted to skittering, Y2K-era R&B . The influence of Destiny’s Child also loomed large on ‘Brick By Brick’, another 2025 single that helped to expand their fanbase. But since then, this sparky and likeable trio – Onuorah, Ysabelle Angeli and Maddie Haynes – have retooled their sound. Executive produced by British pop alchemist PinkPantheress , ‘Say What You See’ is a more vivid and musically varied affair that often draws from the UK girl group gene pool. PinkPantheress’s nimble fingerprints are definitely felt on ‘Pillow’, a liquid UK garage update, and ‘No Pyjamas’, a slinky mix of hyperpop vocals and Y2K-era beats. ‘Money Man’, which sounds a little like Pussycat Dolls grinding next to ‘Circus’-era Britney Spears , also finds an infectious sonic blend. Say Now have said they channelled Girls Aloud on recent single ‘Hot & Talking’, an electropop stomper that doesn’t really sound like the Anglo-Irish girlband, but does pile on the hooks in a very Girls Aloud way. The trio wear their influences most proudly on ‘Girl Of The Moment’, a dreamy ballad that recalls William Orbit ’s era-defining work with All Saints . The spoken word part – “I know it’s greedy, but why can’t I have it all?” – has a welcome hint of Kate Moss energy . Actually, this EP has its share of sharp, quotable lyrics. “Always had a taste for a plate of drama” , Onuorah sings on the off-kilter bop ‘Met My Match’. “I can ruin your life, just for starters.” To continue the song’s food metaphor, with this couplet, Say Now really ate. At this stage, are Say Now the finished article? Probably not. In a recent interview , they said they’ve been “trying to bring back Cath Kidston”, a British home furnishings brand whose chintzy aesthetic (see the video for ‘Met My Match’) doesn’t fully match their cooler, less whimsical music. But this supremely entertaining EP does a great job of showcasing their growing musical range and go-getting personalities. Perhaps most importantly, it makes you very excited for Say Now’s debut album, whenever that may come. Details Record label: Atlantic Records Release date: November 13, 2026 The post Say Now – ‘Say What You See’ EP review: another step closer to becoming girls of the moment appe",
+   "summary_ru": "Британское girl-группа Say Now выпустила дебютный EP «Say What You See», спродюсированный PinkPantheress. В записи упоминаются треки «Pillow», «No Pyjamas» и «Money Man», а также недавний сингл «Hot & Talking».",
+   "title": "Say Now – ‘Say What You See’ EP review: another step closer to becoming girls of the moment",
+   "ts": 1794562146.814751,
+   "why": "поп-группа, Y2K R&B и UK garage вне жанров 3L"
+  },
   "6b8b10122807": {
    "also": [],
    "artist": "Big Softy",
@@ -6187,6 +6207,10 @@
     {
      "link": "https://pitchfork.com/story/westside-gunn-announces-new-album-heelmatic/",
      "source": "Pitchfork News"
+    },
+    {
+     "link": "https://www.clashmusic.com/news/westside-gunn-unleashes-new-album-heelmatic/",
+     "source": "Clash"
     }
    ],
    "artist": "Westside Gunn",
@@ -7386,6 +7410,26 @@
    "title": "Disfear – “Shackled To Our Vice”",
    "ts": 1792510423.1326835,
    "why": "хардкор-панк, далёкий от жанров 3L"
+  },
+  "dea25637eb02": {
+   "also": [],
+   "artist": "FLO",
+   "fit": 2,
+   "id": "dea25637eb02",
+   "kind": "single",
+   "link": "https://www.clashmusic.com/news/flo-drop-fan-favourite-leave-you-never/",
+   "listen": {},
+   "major": false,
+   "msg_id": 416,
+   "release": "Leave You (Never)",
+   "russian": false,
+   "source": "Clash",
+   "status": "new",
+   "summary_en": "FLO have shared radiant new single ‘Leave You (Never)’. The record-busting girl group have had a thrilling 2026, chalking up a number of career highs. Second album ‘Therapy At The Club’ won rave reviews, but the creativity hasn’t stopped there. Dropped in to their live sets, new single ‘Leave You… The post FLO Drop Fan Favourite ‘Leave You (Never)’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+   "summary_ru": "FLO выпустили новый сингл «Leave You (Never)». Группа в 2026 году получила несколько карьерных достижений, а их второй альбом «Therapy At The Club» получил восторженные отзывы.",
+   "title": "FLO Drop Fan Favourite ‘Leave You (Never)’",
+   "ts": 1794562154.7927988,
+   "why": "мейнстрим-поп-группа, не в жанрах 3L"
   },
   "e1370b5fd45d": {
    "also": [],
@@ -9190,6 +9234,7 @@
   "27267899dd91": 1792264008.2749743,
   "2738cc8df0ad": 1792140455.9615848,
   "273e4cdc496a": 1793813138.1665223,
+  "2753d4bdd2ce": 1794562179.6337845,
   "275e19a8a0d1": 1793813124.1844687,
   "277d29602c51": 1793659685.1913996,
   "2794eb4af7b8": 1794410377.3028445,
@@ -9734,6 +9779,7 @@
   "4a4633e09c73": 1792656851.1216588,
   "4a4fee5267a6": 1793802558.8844523,
   "4a709f62b2a0": 1792140456.38475,
+  "4a70de37e178": 1794562155.4723535,
   "4a757807251a": 1794391436.437725,
   "4a7c29da96f4": 1793908437.9867835,
   "4a8f43755962": 1792140454.9418387,
@@ -10201,6 +10247,7 @@
   "6b622f098295": 1794140742.7496183,
   "6b68e7bf5285": 1794132994.6460204,
   "6b7aeeb8116d": 1792140419.4762344,
+  "6b81c2072bd7": 1794562145.3060682,
   "6b891583dbe7": 1792671191.7447448,
   "6b8b10122807": 1792580174.278773,
   "6bc22bb6b657": 1792682255.320585,
@@ -10408,6 +10455,7 @@
   "79fc4dbd9c98": 1794347526.006774,
   "7a2be8bde3d0": 1794331751.624018,
   "7a3d300f669b": 1794518734.7834039,
+  "7a3f485f5314": 1794562164.7088432,
   "7a77af3e4fc0": 1792438318.93171,
   "7a7952b4ca9c": 1792140419.664911,
   "7a7e9f4f1a19": 1793707499.9452577,
@@ -10460,6 +10508,7 @@
   "7e96c7fc5eed": 1792140448.2248921,
   "7e9f5e0d6aa9": 1792988507.0195827,
   "7e9faa5885fd": 1792664278.5046082,
+  "7ea1869e9f4e": 1794562173.739789,
   "7ec129db1bde": 1794314475.8631518,
   "7edc811b75cb": 1793802586.2730508,
   "7eea023c73b7": 1792397222.6336875,
@@ -10488,6 +10537,7 @@
   "802bc137bdf0": 1794325456.1868865,
   "8067e1d3064f": 1792426680.3227131,
   "8071ac3745f6": 1794152210.7339227,
+  "808143ce3567": 1794562170.687875,
   "80863d5c34ee": 1793372266.6059086,
   "8087fac13e8e": 1792593113.2693908,
   "809571dd721e": 1792140449.8447495,
@@ -11138,6 +11188,7 @@
   "af38d247ea14": 1792243087.9580936,
   "af405ab31f3c": 1793139713.7843678,
   "af4545423c02": 1794140742.7496214,
+  "af5197dc146f": 1794562161.452768,
   "af903e199fd3": 1793150707.5868697,
   "af90aa895766": 1794140742.749632,
   "af9e1adfc03b": 1792773222.5983038,
@@ -11181,6 +11232,7 @@
   "b1b057458440": 1794322441.0948691,
   "b1bd7dff6d65": 1794331753.3967483,
   "b1c1030d0039": 1792140446.1809149,
+  "b1c925060f98": 1794562193.825008,
   "b1d5cd823f01": 1792582357.4732304,
   "b1e8b156271f": 1792140455.028929,
   "b20415692253": 1792152846.5121946,
@@ -11796,6 +11848,7 @@
   "de51f2c31de5": 1794494451.1642425,
   "de6914895c6d": 1792140460.0458202,
   "de7fe97380c2": 1792582357.4732182,
+  "dea25637eb02": 1794562152.0886781,
   "dea5dd2af40b": 1792422159.7898874,
   "deb1f30892e6": 1792140419.4762268,
   "dee89ea944ca": 1793272564.3602817,
@@ -12167,6 +12220,7 @@
   "f5f31ee24982": 1792167243.2886531,
   "f610a1b7aa80": 1793315555.602799,
   "f62af5c20189": 1793894782.679882,
+  "f62b4a70f956": 1794562176.8813584,
   "f6736f3834cc": 1794512227.7467797,
   "f67b7adfa239": 1794334653.5329068,
   "f6ac5fa4bb9e": 1792580168.0418339,
@@ -12257,6 +12311,7 @@
   "fbef5da50834": 1792773242.8482513,
   "fbfbbe61515f": 1792140451.9265761,
   "fc3faf0b1650": 1793899181.1250062,
+  "fc4de2a3a40c": 1794562167.7007706,
   "fc5a521d992c": 1792765242.954879,
   "fc88cbf0bb1b": 1792765252.6941996,
   "fc9fbb4f2506": 1794338644.2676895,
