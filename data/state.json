@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794527495
+   "ok": 1794531581
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794527515
+   "ok": 1794531587
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794527515
+   "ok": 1794531587
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794527490
+   "ok": 1794531534
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794527492
+   "ok": 1794531535
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794527493
+   "ok": 1794531537
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794527499
+   "err_ts": 1794531582
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794527495
+   "ok": 1794531582
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,85 +54,85 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794527482
+   "ok": 1794531526
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794527482
+   "ok": 1794531526
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794527510
+   "ok": 1794531583
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794527515
+   "ok": 1794531587
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794527515
+   "ok": 1794531586
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794527513
+   "ok": 1794531586
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794527481
+   "ok": 1794531526
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794527493
+   "ok": 1794531536
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794527495
+   "ok": 1794531581
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794527493
+   "ok": 1794531536
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794527512
+   "ok": 1794531586
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794527518
+   "ok": 1794531589
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794527517
+   "ok": 1794531588
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794527520
+   "ok": 1794531590
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794527519
+   "ok": 1794531589
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794527521
+   "ok": 1794531590
   }
  },
- "heartbeat": "2026-11-12",
+ "heartbeat": "2026-11-13",
  "items": {
   "004314a09ba5": {
    "also": [],
@@ -433,6 +433,26 @@
    "title": "Album Of The Week: Willi Carlisle The Universal Bubba",
    "ts": 1793729319.2367365,
    "why": "кантри-рок и фолк, вне жанров 3L"
+  },
+  "08d50fc0497a": {
+   "also": [],
+   "artist": "Font",
+   "fit": 4,
+   "id": "08d50fc0497a",
+   "kind": "album",
+   "link": "https://readdork.com/news/font-have-dropped-their-new-album-american-bully-xl",
+   "listen": {},
+   "major": false,
+   "msg_id": 410,
+   "release": "American Bully XL",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Made in Dutch Interior's Long Beach studio with one drummer fewer, the follow-up to 'Strange Burden' is out now on Acrophase.",
+   "summary_ru": "Группа Font из Остина выпустила альбом American Bully XL, первый в составе из четырёх человек. Записан в студии Dutch Interior в Лонг-Бич, стал продолжением альбома Strange Burden и вышел на лейбле Acrophase.",
+   "title": "Font have released 'American Bully XL', the Austin band's first album as a quartet",
+   "ts": 1794531551.6966412,
+   "why": "Новый альбом постпанк-группы, жанр близок к 3L"
   },
   "09883f80b47f": {
    "also": [],
@@ -4048,6 +4068,26 @@
    "title": "Bess Atwell has shared ‘Glass’, the emotional centre of her forthcoming album ‘Cut A Figure’",
    "ts": 1793358829.6375763,
    "why": "малоизвестный фолк-поп, соседний жанр; есть анонс альбома"
+  },
+  "6dbf9f4e31ee": {
+   "also": [],
+   "artist": "Jake Bugg",
+   "fit": 4,
+   "id": "6dbf9f4e31ee",
+   "kind": "album",
+   "link": "https://readdork.com/news/jake-bugg-has-dropped-his-new-album-alamo",
+   "listen": {},
+   "major": false,
+   "msg_id": 412,
+   "release": "Alamo",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "The seventh album is out now, with record-store shows through to 22nd November and a solo UK and Ireland tour in February.",
+   "summary_ru": "Джейк Багг выпустил седьмой альбом Alamo, свой первый релиз как независимый артист. Также объявлены концерты в магазинах звукозаписи до 22 ноября и сольный тур по Великобритании и Ирландии в феврале.",
+   "title": "Jake Bugg has released 'Alamo', his first album as an independent artist",
+   "ts": 1794531580.3719096,
+   "why": "новый альбом британского инди-рока, близко к Arctic Monkeys"
   },
   "6dc649b9004b": {
    "also": [
@@ -8369,6 +8409,26 @@
    "ts": 1793365179.1108825,
    "why": "Новый дебютный EP, потенциально инди-поп, жанр уточнить"
   },
+  "febada084d7d": {
+   "also": [],
+   "artist": "Land of Talk",
+   "fit": 4,
+   "id": "febada084d7d",
+   "kind": "album",
+   "link": "https://readdork.com/news/land-of-talk-have-dropped-their-new-album-lasts",
+   "listen": {},
+   "major": false,
+   "msg_id": 411,
+   "release": "Lasts",
+   "russian": false,
+   "source": "Dork",
+   "status": "new",
+   "summary_en": "Elizabeth Powell's follow-up to 2023's 'Performances' is out via Saddle Creek, and takes in climate collapse, ageing parents and the music industry.",
+   "summary_ru": "Land of Talk выпустили шестой альбом Lasts, записанный в домике в сельской местности Квебека. Это продолжение Performances (2023), релиз вышел на лейбле Saddle Creek. В песнях Элизабет Пауэлл затрагиваются климатический коллапс, стареющие родители и музыкальная индустрия.",
+   "title": "Land of Talk have released 'Lasts', their sixth album, recorded in a cabin in rural Quebec",
+   "ts": 1794531574.5516124,
+   "why": "новый альбом инди-рок группы в жанрах 3L"
+  },
   "febd0470b7af": {
    "also": [],
    "artist": "SOB x RBE",
@@ -8576,6 +8636,7 @@
   "05ecdda2dedc": 1792173631.7756095,
   "06097450414d": 1794425550.960374,
   "061c85d1505f": 1793790795.3876066,
+  "06218c5db67b": 1794531566.3983364,
   "0628059873da": 1793809535.83958,
   "062db0339eb9": 1792768193.2685616,
   "0631a73a3f8c": 1792580181.858272,
@@ -8612,6 +8673,7 @@
   "08af66144c93": 1793615456.1646073,
   "08b3304ac866": 1793982889.7386613,
   "08ce609db570": 1794238021.7244923,
+  "08d50fc0497a": 1794531549.3526146,
   "08db8630dd3d": 1793644689.8303754,
   "08e3f3ad9d1c": 1793894758.695584,
   "08ea48ff2374": 1794325511.8207397,
@@ -9079,6 +9141,7 @@
   "26bb5793e0ee": 1794072941.596028,
   "26d6589697d9": 1792582357.4732215,
   "26de4ccc19d6": 1794505185.213518,
+  "26ff44175105": 1794531543.1159878,
   "27267899dd91": 1792264008.2749743,
   "2738cc8df0ad": 1792140455.9615848,
   "273e4cdc496a": 1793813138.1665223,
@@ -9348,6 +9411,7 @@
   "38cedecc5d65": 1793116316.4177752,
   "38ddaa8a1dca": 1793545153.7733746,
   "38deae3138df": 1793185473.3658438,
+  "38f6facec194": 1794531537.1440306,
   "3902b3dee541": 1794498141.1780195,
   "391033ca252c": 1794325461.72288,
   "3939bc4fcc0c": 1793894759.9928896,
@@ -9804,6 +9868,7 @@
   "5613f3624de1": 1793802612.5307271,
   "5666f39ba4d8": 1793700913.050029,
   "56ab0fdc7a16": 1793968724.213465,
+  "56b11a240067": 1794531557.67906,
   "56b71cb00e57": 1793982898.6352391,
   "56caf9fa7619": 1793211253.8323162,
   "56d6ed80f834": 1793973272.6901817,
@@ -9854,6 +9919,7 @@
   "5a4654d06832": 1793194533.7751865,
   "5a5121316066": 1794410398.497347,
   "5a60a53b8ea4": 1794352677.0778909,
+  "5a704ccbddbb": 1794531555.1500895,
   "5a831b60164a": 1793298458.7108665,
   "5a83bcb0474f": 1792510423.952773,
   "5ab852c64312": 1792691481.895657,
@@ -10109,6 +10175,7 @@
   "6d5bb765827d": 1793358828.195084,
   "6d8ab11f58b6": 1793700937.365961,
   "6dbd11d31f06": 1793923172.5536356,
+  "6dbf9f4e31ee": 1794531577.8855705,
   "6dc649b9004b": 1793704532.5792603,
   "6df014914f57": 1794328451.0758095,
   "6e1fb6a87de8": 1793035465.2534149,
@@ -10310,6 +10377,7 @@
   "7b5664318218": 1794140737.0620828,
   "7b61157cccc1": 1794344900.7726257,
   "7b6158eecd27": 1793243782.7489743,
+  "7b982059a6bb": 1794531560.6137323,
   "7bcad2975cdd": 1793806017.1296604,
   "7befe6652e6f": 1794179778.2814844,
   "7c006d277346": 1792140455.6358821,
@@ -10645,6 +10713,7 @@
   "9498add16dcb": 1792140449.844742,
   "94996dbeff58": 1793890922.4733913,
   "94ab1a1d63b0": 1792244944.5369136,
+  "94ccbaa4fc97": 1794531575.159486,
   "94d8e096f1ec": 1793968714.6419163,
   "94dd51b5e994": 1793349421.7051873,
   "94ee1f75dbda": 1793973240.032158,
@@ -10893,6 +10962,7 @@
   "a5c4e279778b": 1793560042.1180377,
   "a5f1f36f1740": 1794179778.2814834,
   "a5f892537dc6": 1792425039.830182,
+  "a6040aa05fc4": 1794531540.1397612,
   "a630f2b7c320": 1792703192.2564087,
   "a6342171868f": 1793973219.306066,
   "a6727c910eaf": 1793387471.9501176,
@@ -11077,6 +11147,7 @@
   "b28a0aa9bbb5": 1794262907.6437552,
   "b2912b8ccea4": 1792148941.4395857,
   "b29bec5ff01f": 1792703200.5835848,
+  "b2be38c4baf8": 1794531580.7277887,
   "b2c047598ecc": 1793931476.404509,
   "b2d9f24e79cb": 1792760017.0096385,
   "b2f13a98ff32": 1793356049.868674,
@@ -11177,6 +11248,7 @@
   "ba9e341f8881": 1794524799.7234957,
   "bab2ff7e63e6": 1794413909.8414824,
   "babac65f9ee5": 1792336195.3161216,
+  "bacf184f6f38": 1794531546.5827594,
   "bad0c207d598": 1792595587.8660197,
   "bae45cc0439f": 1794325544.9476657,
   "bae648b61b5d": 1794398383.953995,
@@ -11214,6 +11286,7 @@
   "bde722fb1fad": 1792664284.6944864,
   "bdec7ccf0a51": 1794140742.7496095,
   "bded05b7dd1c": 1794242179.1676157,
+  "be01f4d45db5": 1794531552.2789629,
   "be06c8e47f91": 1793167999.0376086,
   "be1bea875810": 1793958398.9091766,
   "be238d5a9a8e": 1792152836.4937682,
@@ -11515,6 +11588,7 @@
   "d3550c30bad7": 1793962071.140785,
   "d35b5c26bb63": 1794221735.9074593,
   "d369901737b8": 1793402204.7715118,
+  "d3699188ccc5": 1794531563.5462828,
   "d3765b0001fb": 1792140455.0289202,
   "d378fa51dc06": 1793862790.264028,
   "d383ba083cc4": 1792426681.2487686,
@@ -11830,6 +11904,7 @@
   "e7a2db678dc6": 1793973229.3558567,
   "e7a85f2c19b8": 1793185460.7331948,
   "e7c7ad285c7e": 1792140455.6358824,
+  "e7d13cfba7b0": 1794531569.263719,
   "e7e30fd766f3": 1792140449.8447475,
   "e7e51417fd39": 1792748076.795763,
   "e7fe5b02cd36": 1793968741.0219982,
@@ -12156,6 +12231,7 @@
   "fe8dc64e00ed": 1793744304.6797194,
   "fe9d6cc7db0a": 1794331725.640239,
   "feb63a772433": 1792750409.5625513,
+  "febada084d7d": 1794531572.0687602,
   "febd0470b7af": 1792171558.4127772,
   "fed639fdf76e": 1794179778.2814891,
   "fedccc365d94": 1793630689.8967168,
