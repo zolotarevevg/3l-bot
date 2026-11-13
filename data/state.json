@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794549375
+   "ok": 1794553744
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794549386
+   "ok": 1794553750
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794549387
+   "ok": 1794553751
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794549370
+   "ok": 1794553733
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794549372
+   "ok": 1794553734
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794549373
+   "ok": 1794553743
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794549375
+   "err_ts": 1794553744
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794549375
+   "ok": 1794553744
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794549360
+   "ok": 1794553728
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794549360
+   "ok": 1794553728
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794549377
+   "ok": 1794553746
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794549383
+   "ok": 1794553750
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794549383
+   "ok": 1794553750
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794549380
+   "ok": 1794553749
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794549359
+   "ok": 1794553728
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794549373
+   "ok": 1794553739
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794549375
+   "ok": 1794553744
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794549373
+   "ok": 1794553735
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794549380
+   "ok": 1794553749
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794549389
+   "ok": 1794553753
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794549388
+   "ok": 1794553752
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794549390
+   "ok": 1794553754
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794549390
+   "ok": 1794553753
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794549391
+   "ok": 1794553755
   }
  },
  "heartbeat": "2026-11-13",
@@ -7227,6 +7227,26 @@
    "ts": 1793899123.7436442,
    "why": "хард-метал, не любимый артист; видео старого трека"
   },
+  "d7a044b2c9e3": {
+   "also": [],
+   "artist": "Radie Peat",
+   "fit": 2,
+   "id": "d7a044b2c9e3",
+   "kind": "review",
+   "link": "https://www.musicomh.com/reviews/albums/radie-peat-no-human-tongue-can-tell",
+   "listen": {},
+   "major": false,
+   "msg_id": 414,
+   "release": "No Human Tongue Can Tell",
+   "russian": false,
+   "source": "musicOMH",
+   "status": "new",
+   "summary_en": "The Lankum and ØXN star's debut solo album of trad folk and murder ballads showcases songs that emphasise struggle, pain and, most importantly, strength The post Radie Peat – No Human Tongue Can Tell appeared first on musicOMH .",
+   "summary_ru": "Рецензия musicOMH на дебютный сольный альбом Рэди Пит, участницы Lankum и ØXN. Пластинка сочетает традиционный фолк и баллады об убийствах, а песни посвящены борьбе, боли и прежде всего силе.",
+   "title": "Radie Peat – No Human Tongue Can Tell",
+   "ts": 1794553738.031774,
+   "why": "фолк вне жанров 3L, но новый альбом"
+  },
   "d7ce74398c8d": {
    "also": [],
    "artist": "Benny The Butcher",
@@ -11221,6 +11241,7 @@
   "b5bc8c4d9a0e": 1792169705.1837678,
   "b5d32e2e0f69": 1794362265.3155751,
   "b5ef4944b7a9": 1794172573.9675188,
+  "b637a7d99878": 1794553739.925129,
   "b63ea8516114": 1793901926.1375399,
   "b65ca99fb834": 1793726355.5473154,
   "b66631cc606b": 1793711220.1852348,
@@ -11674,6 +11695,7 @@
   "d76cc76f6ca4": 1794140742.7496371,
   "d76fb6de0d69": 1794494465.294854,
   "d79d598bc03e": 1793899122.367139,
+  "d7a044b2c9e3": 1794553735.6588066,
   "d7abbfc50680": 1794417881.001793,
   "d7ce74398c8d": 1793375327.692781,
   "d7e97ba7f860": 1793838942.8631327,
