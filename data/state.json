@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794591100
+   "ok": 1794594521
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794591115
+   "ok": 1794594536
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794591115
+   "ok": 1794594537
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794591083
+   "ok": 1794594512
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794591092
+   "ok": 1794594514
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794591096
+   "ok": 1794594516
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794591101
+   "err_ts": 1794594521
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794591100
+   "ok": 1794594521
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794591062
+   "ok": 1794594492
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794591066
+   "ok": 1794594496
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794591102
+   "ok": 1794594525
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794591114
+   "ok": 1794594536
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794591114
+   "ok": 1794594536
   },
   "Pitchfork News": {
-   "count": 28,
+   "count": 29,
    "err": "",
-   "ok": 1794591111
+   "ok": 1794594528
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794591050
+   "ok": 1794594480
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794591096
+   "ok": 1794594516
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794591097
+   "ok": 1794594517
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794591095
+   "ok": 1794594515
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794591105
+   "ok": 1794594528
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794591117
+   "ok": 1794594541
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794591117
+   "ok": 1794594540
   },
   "Родной звук (TG)": {
    "count": 14,
    "err": "",
-   "ok": 1794591119
+   "ok": 1794594542
   },
   "Сломанные пляски (TG)": {
    "count": 10,
    "err": "",
-   "ok": 1794591118
+   "ok": 1794594542
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794591120
+   "ok": 1794594543
   }
  },
  "heartbeat": "2026-11-13",
@@ -912,6 +912,26 @@
    "title": "Isak Danielson has announced new album ‘Love, Isak’",
    "ts": 1792664276.2702515,
    "why": "анонс нового альбома инди-поп исполнителя"
+  },
+  "14d45d5738d9": {
+   "also": [],
+   "artist": "Crate",
+   "fit": 3,
+   "id": "14d45d5738d9",
+   "kind": "album",
+   "link": "https://stereogum.com/2517873/crate-release-debut-album-stereogum-presents-release-show-in-brooklyn-next-month/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 433,
+   "release": "",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Crate Release Debut Album, Stereogum Presents Release Show In Brooklyn Next Month appeared first on Stereogum .",
+   "summary_ru": "Группа Crate выпустила дебютный альбом. Stereogum на следующий месяц организует презентационный концерт релиза в Бруклине. Название альбома и жанр в записи не указаны.",
+   "title": "Crate Release Debut Album, Stereogum Presents Release Show In Brooklyn Next Month",
+   "ts": 1794594492.2329688,
+   "why": "новый дебют неизвестного жанра, звучание не видно"
   },
   "17a1d23913a9": {
    "also": [],
@@ -1919,6 +1939,26 @@
    "title": "Big Red – Big Sur",
    "ts": 1793278855.5121937,
    "why": "рок-звучание, соседний жанр, малоизвестная группа"
+  },
+  "2c50c75ef9cf": {
+   "also": [],
+   "artist": "Austra",
+   "fit": 4,
+   "id": "2c50c75ef9cf",
+   "kind": "single",
+   "link": "https://stereogum.com/2517771/austra-bittersweet-chains-and-anchors/music/",
+   "listen": {},
+   "major": false,
+   "msg_id": 432,
+   "release": "Bittersweet / Chains And Anchors",
+   "russian": false,
+   "source": "Stereogum",
+   "status": "new",
+   "summary_en": "The post Austra – “Bittersweet” & “Chains And Anchors” appeared first on Stereogum .",
+   "summary_ru": "Austra выпустили два новых трека: «Bittersweet» и «Chains And Anchors». Stereogum опубликовал их в рубрике New Music.",
+   "title": "Austra – “Bittersweet” & “Chains And Anchors”",
+   "ts": 1794594482.974115,
+   "why": "новые синти-поп треки, жанр 3L, но не любимый артист"
   },
   "2c7f393eb9c1": {
    "also": [],
@@ -9265,6 +9305,7 @@
   "14b97d7f753f": 1794140742.7496276,
   "14bba48a6fd9": 1794318931.1579773,
   "14c35494759f": 1792582357.4732249,
+  "14d45d5738d9": 1794594489.4050574,
   "152ef073d3f2": 1793356090.4437087,
   "153d03c0e349": 1792752825.437119,
   "1576247e3436": 1793583128.6400387,
@@ -9288,6 +9329,7 @@
   "1683641ab9fb": 1793878942.3152492,
   "168763a582b0": 1792422143.4614165,
   "168f3aa21533": 1794391480.7421868,
+  "169bd6283dfc": 1794594492.9709952,
   "169c87879ee4": 1792140446.1809082,
   "16add8f5729d": 1794234285.6163402,
   "16b7d0a8425a": 1793272572.0160525,
@@ -9448,6 +9490,7 @@
   "21522cf27788": 1793358879.1067502,
   "2165c301daa4": 1794140742.7496116,
   "216e8859b167": 1792494654.2874107,
+  "218763c4c751": 1794594486.5875971,
   "2193169657c9": 1792140446.1809134,
   "21a0b590bc4f": 1793711210.533972,
   "21a3d1242edf": 1793664321.633602,
@@ -9620,6 +9663,7 @@
   "2bdea0b579de": 1794431162.1606143,
   "2bee61ec1394": 1794144387.8196473,
   "2c0b3511fe8e": 1794478254.7705235,
+  "2c50c75ef9cf": 1794594480.1721752,
   "2c58da35dc33": 1793809563.407328,
   "2c721adf56ae": 1793103428.6831038,
   "2c7c9985e497": 1793103425.4808462,
@@ -10144,6 +10188,7 @@
   "4bca4aad85e8": 1793272575.1500897,
   "4bddafaf6ece": 1793165159.0068724,
   "4be0a6ba5462": 1792492292.2950537,
+  "4beda67f885b": 1794594483.5816243,
   "4c0d756a398a": 1792140419.3187897,
   "4c213bbd29b9": 1792502539.441338,
   "4c37a4315462": 1792684611.387654,
@@ -11387,6 +11432,7 @@
   "a21305e9132c": 1792140455.0717502,
   "a2250ca0ad50": 1792140446.180915,
   "a236f66efb81": 1792140446.1809092,
+  "a237940fe616": 1794594517.904149,
   "a2462fcf8128": 1792826395.976348,
   "a24c6cc67314": 1794328442.0408077,
   "a255ed262093": 1792140455.6358814,
@@ -12268,6 +12314,7 @@
   "dda8ed756403": 1793726332.3263476,
   "ddc0afc72080": 1792541005.8304975,
   "ddc929d6b8c2": 1792519742.135303,
+  "ddfb9b21cfb1": 1794594515.3835542,
   "de0a3a1dbf2a": 1793188206.503894,
   "de237302cf25": 1794225209.1996927,
   "de36877aa974": 1792140419.3187916,
@@ -12776,6 +12823,7 @@
   "fdfefa2b329d": 1793185489.1394098,
   "fdff7bec1aae": 1793890925.4375467,
   "fe1d3fc30a4f": 1792140448.2248933,
+  "fe2050843064": 1794594528.3499193,
   "fe2cd00e439c": 1792508269.549407,
   "fe8a237056f6": 1793958401.7109456,
   "fe8dc64e00ed": 1793744304.6797194,
