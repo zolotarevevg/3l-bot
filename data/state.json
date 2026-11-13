@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794541829
+   "ok": 1794545719
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794541845
+   "ok": 1794545725
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794541845
+   "ok": 1794545726
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794541826
+   "ok": 1794545713
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794541827
+   "ok": 1794545714
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794541828
+   "ok": 1794545716
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794541830
+   "err_ts": 1794545720
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794541830
+   "ok": 1794545720
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794541815
+   "ok": 1794545701
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794541816
+   "ok": 1794545701
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794541840
+   "ok": 1794545721
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794541845
+   "ok": 1794545725
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794541845
+   "ok": 1794545725
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794541844
+   "ok": 1794545725
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794541815
+   "ok": 1794545701
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794541828
+   "ok": 1794545715
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794541829
+   "ok": 1794545717
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794541827
+   "ok": 1794545715
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794541844
+   "ok": 1794545725
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794541848
+   "ok": 1794545728
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794541847
+   "ok": 1794545727
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794541849
+   "ok": 1794545729
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794541848
+   "ok": 1794545728
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794541849
+   "ok": 1794545730
   }
  },
  "heartbeat": "2026-11-13",
@@ -5692,6 +5692,10 @@
     {
      "link": "https://readdork.com/news/opus-kink-have-returned-with-low-roader-their-first-single-since-debut-album-the-sweet-goo",
      "source": "Dork"
+    },
+    {
+     "link": "http://www.undertheradarmag.com/news/opus_kink_share_video_new_song_low_roader",
+     "source": "Under the Radar"
     }
    ],
    "artist": "Opus Kink",
@@ -10725,6 +10729,7 @@
   "94262108160d": 1794140742.749631,
   "942a6eb0d8f6": 1792494643.066955,
   "94321d2f2f49": 1793194483.8096924,
+  "94488065d631": 1794545717.575152,
   "94498dcd72d4": 1794060466.6342297,
   "944e8a227014": 1794004019.5132494,
   "9458bfc30cc6": 1793726335.7582057,
