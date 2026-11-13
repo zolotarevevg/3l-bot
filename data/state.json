@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794535569
+   "ok": 1794538505
   },
   "Bandcamp Daily": {
    "count": 35,
    "err": "",
-   "ok": 1794535578
+   "ok": 1794538522
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794535579
+   "ok": 1794538522
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794535566
+   "ok": 1794538500
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794535567
+   "ok": 1794538502
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794535568
+   "ok": 1794538503
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794535570
+   "err_ts": 1794538505
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794535570
+   "ok": 1794538505
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,82 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794535553
+   "ok": 1794538489
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794535553
+   "ok": 1794538489
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794535571
+   "ok": 1794538511
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794535578
+   "ok": 1794538521
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794535578
+   "ok": 1794538521
   },
   "Pitchfork News": {
    "count": 28,
    "err": "",
-   "ok": 1794535574
+   "ok": 1794538518
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794535552
+   "ok": 1794538489
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794535568
+   "ok": 1794538503
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794535569
+   "ok": 1794538504
   },
   "musicOMH": {
    "count": 20,
    "err": "",
-   "ok": 1794535567
+   "ok": 1794538502
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794535574
+   "ok": 1794538515
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794535580
+   "ok": 1794538524
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794535579
+   "ok": 1794538523
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794535581
+   "ok": 1794538525
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794535580
+   "ok": 1794538524
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794535581
+   "ok": 1794538525
   }
  },
  "heartbeat": "2026-11-13",
@@ -4702,6 +4702,26 @@
    "title": "Watch The Strokes perform ‘Lonely In The Future’ and ‘Going Shopping’ with Walton Goggins on ‘SNL’",
    "ts": 1794132999.1651053,
    "why": "любимые артисты, новый альбом, ТВ-выступление"
+  },
+  "8559e9084395": {
+   "also": [],
+   "artist": "Росалия",
+   "fit": 2,
+   "id": "8559e9084395",
+   "kind": "video",
+   "link": "https://pitchfork.com/story/watch-rosalia-perform-a-lux-medley-at-the-2026-latin-grammys/",
+   "listen": {},
+   "major": false,
+   "msg_id": 413,
+   "release": "Lux",
+   "russian": false,
+   "source": "Pitchfork News",
+   "status": "new",
+   "summary_en": "Her 2025 album is up for seven statuettes tonight",
+   "summary_ru": "Росалия выступила с медли из песен альбома Lux на церемонии Latin Grammys 2026. Альбом номинирован сегодня сразу на семь статуэток.",
+   "title": "Watch Rosalía Perform a Lux Medley at the 2026 Latin Grammys",
+   "ts": 1794538521.119239,
+   "why": "мейнстрим-поп, далеко от жанров 3L"
   },
   "85f20849a7da": {
    "also": [],
@@ -9774,6 +9794,7 @@
   "4fc96a763b32": 1792752848.976044,
   "4fd7768f4c70": 1792780260.0034132,
   "4fdb7591c6cc": 1792413693.1458669,
+  "4fec17ae18cd": 1794538515.5115023,
   "4feecafc9f78": 1793802581.2412894,
   "4fffd15ae631": 1794154597.341734,
   "500aba462cf2": 1794140742.7496114,
@@ -10505,6 +10526,7 @@
   "84fe036a2bd2": 1792429145.3496408,
   "8503f52cc3ea": 1792677649.2726662,
   "8515e2ed05b2": 1792711599.1976664,
+  "8559e9084395": 1794538518.705143,
   "85676e93cd11": 1793887369.4071689,
   "856f1c1110f6": 1792140419.476228,
   "859d18ddcb1e": 1794172566.4029949,
