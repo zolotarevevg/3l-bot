@@ -3,12 +3,12 @@
   "Aquarium Drunkard": {
    "count": 15,
    "err": "",
-   "ok": 1794764504
+   "ok": 1794780470
   },
   "Bandcamp Daily": {
    "count": 36,
    "err": "",
-   "ok": 1794764510
+   "ok": 1794780475
   },
   "Beats Per Minute": {
    "err": "ConnectionError: HTTPSConnectionPool(host='www.beatsperminute.com', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.beatsperminute.com', port",
@@ -17,26 +17,26 @@
   "BrooklynVegan": {
    "count": 15,
    "err": "",
-   "ok": 1794764510
+   "ok": 1794780475
   },
   "Clash": {
    "count": 10,
    "err": "",
-   "ok": 1794764501
+   "ok": 1794780467
   },
   "DIY": {
    "count": 50,
    "err": "",
-   "ok": 1794764502
+   "ok": 1794780468
   },
   "Dork": {
    "count": 200,
    "err": "",
-   "ok": 1794764503
+   "ok": 1794780469
   },
   "EARMILK": {
    "err": "HTTPError: 403 Client Error: Forbidden for url: https://earmilk.com/feed/",
-   "err_ts": 1794764504
+   "err_ts": 1794780470
   },
   "Fashionably Early": {
    "err": "ValueError: не разобрать ленту: <unknown>:12:65: not well-formed (invalid token)",
@@ -45,7 +45,7 @@
   "Gorilla vs. Bear": {
    "count": 35,
    "err": "",
-   "ok": 1794764504
+   "ok": 1794780470
   },
   "LeMellotron": {
    "err": "HTTPError: 404 Client Error: Not Found for url: https://www.lemellotron.com/feed",
@@ -54,82 +54,83 @@
   "NME": {
    "count": 10,
    "err": "",
-   "ok": 1794764489
+   "ok": 1794780455
   },
   "NME Reviews": {
    "count": 10,
    "err": "",
-   "ok": 1794764490
+   "ok": 1794780455
   },
   "Nbhap": {
    "count": 8,
    "err": "",
-   "ok": 1794764506
+   "ok": 1794780472
   },
   "Pitchfork Best Albums": {
    "count": 30,
    "err": "",
-   "ok": 1794764510
+   "ok": 1794780475
   },
   "Pitchfork Best Tracks": {
    "count": 30,
    "err": "",
-   "ok": 1794764510
+   "ok": 1794780475
   },
   "Pitchfork News": {
    "count": 30,
    "err": "",
-   "ok": 1794764509
+   "ok": 1794780475
   },
   "Stereogum": {
    "count": 40,
    "err": "",
-   "ok": 1794764488
+   "ok": 1794780455
   },
   "The Quietus": {
    "count": 32,
    "err": "",
-   "ok": 1794764503
+   "ok": 1794780468
   },
   "Under the Radar": {
    "count": 40,
    "err": "",
-   "ok": 1794764504
+   "ok": 1794780470
   },
   "musicOMH": {
    "count": 20,
-   "err": "",
+   "err": "ValueError: не разобрать ленту: <unknown>:2:116: not well-formed (invalid token)",
+   "err_ts": 1794780468,
    "ok": 1794764502
   },
   "out out - music done": {
    "count": 10,
    "err": "",
-   "ok": 1794764509
+   "ok": 1794780475
   },
   "Альбомы по пятницам (TG)": {
    "count": 20,
    "err": "",
-   "ok": 1794764512
+   "ok": 1794780477
   },
   "Афиша Daily": {
    "count": 5,
    "err": "",
-   "ok": 1794764511
+   "ok": 1794780476
   },
   "Родной звук (TG)": {
    "count": 16,
    "err": "",
-   "ok": 1794764513
+   "ok": 1794780478
   },
   "Сломанные пляски (TG)": {
    "count": 9,
    "err": "",
-   "ok": 1794764513
+   "ok": 1794780478
   },
   "см. слушал (TG)": {
    "count": 11,
    "err": "",
-   "ok": 1794764514
+   "ok": 1794780479
   }
  },
  "heartbeat": "2026-11-15",
@@ -9512,6 +9513,7 @@
   "15cc0573e6e6": 1792140419.6649103,
   "15cf9e5a1624": 1792584697.9699051,
   "15d0e00b582b": 1793878941.2578294,
+  "15d3b6b76fb8": 1794780469.2068024,
   "15dc730ffb58": 1792316950.3860185,
   "15fb50cd6f47": 1794417881.0017893,
   "1600c6c2de77": 1794398389.715795,
@@ -10818,6 +10820,7 @@
   "653a9e1a49bd": 1792847540.559947,
   "654a1817bd26": 1792921610.8709176,
   "65572caad467": 1792668754.9836287,
+  "656cf92e0e44": 1794780476.891501,
   "6585110e2f74": 1792821138.70668,
   "658bcd47c3f0": 1792664262.0418727,
   "659a24ab17a9": 1792505488.5260932,
@@ -11244,6 +11247,7 @@
   "81f26f9bedb6": 1792140455.9615898,
   "8216fa57e9c3": 1792140419.3187888,
   "821d561736b6": 1793794144.8856003,
+  "82307797187a": 1794780475.128225,
   "8238f50bb5e4": 1793707520.8333242,
   "82460c1eaac5": 1792748023.3798797,
   "8260cc142906": 1793462288.2257895,
@@ -12806,6 +12810,7 @@
   "e79525cdb3e8": 1794140742.7496045,
   "e7a2db678dc6": 1793973229.3558567,
   "e7a85f2c19b8": 1793185460.7331948,
+  "e7b18bd14001": 1794780475.215581,
   "e7c7ad285c7e": 1792140455.6358824,
   "e7d13cfba7b0": 1794531569.263719,
   "e7d263a550d8": 1794601752.7410383,
